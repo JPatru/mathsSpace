@@ -1,0 +1,423 @@
+[
+  {
+    "id": 5201601,
+    "classe": "5e",
+    "chapitres": ["nombres"],
+    "question": "\\(5 \\times 9\\)",
+    "bonne_reponse": "\\(45\\)"
+  },
+  {
+    "id": 5201602,
+    "classe": "5e",
+    "chapitres": ["nombres"],
+    "question": "\\(27 - 8\\)",
+    "bonne_reponse": "\\(19\\)"
+  },
+  {
+    "id": 5201603,
+    "classe": "5e",
+    "chapitres": ["nombres"],
+    "question": "Le triple de \\(8\\)",
+    "bonne_reponse": "\\(24\\)"
+  },
+  {
+    "id": 5201604,
+    "classe": "5e",
+    "chapitres": ["nombres"],
+    "question": "Le chiffre des dixièmes de \\(157,32\\)",
+    "bonne_reponse": "\\(3\\)"
+  },
+  {
+    "id": 5201605,
+    "classe": "5e",
+    "chapitres": ["nombres"],
+    "question": "\\((7 \\times 1000)+(8 \\times 10)\\)\\(+(9 \\times 1)\\)",
+    "bonne_reponse": "\\(7 089\\)"
+  },
+  {
+    "id": 5201606,
+    "classe": "5e",
+    "chapitres": ["nombres"],
+    "question": "La moitié de \\(126\\)",
+    "bonne_reponse": "\\(63\\)"
+  },
+  {
+    "id": 5201607,
+    "classe": "5e",
+    "chapitres": ["nombres"],
+    "question": "\\(0,12+0,5\\)",
+    "bonne_reponse": "\\(0,62\\)"
+  },
+  {
+    "id": 5201608,
+    "classe": "5e",
+    "chapitres": ["nombres"],
+    "question": "Compléter : \\(100 - \\ldots  =87\\)",
+    "bonne_reponse": "\\(13\\)"
+  },
+  {
+    "id": 5201609,
+    "classe": "5e",
+    "chapitres": ["proportionnalité"],
+    "question": "\\(2\\) kg de pommes coûtent \\(5\\) €. Quel est le prix de \\(6\\) kg ?",
+    "bonne_reponse": "\\(15\\) €"
+  },
+  {
+    "id": 5201610,
+    "classe": "5e",
+    "chapitres": ["heures"],
+    "question": "\\(1\\) h \\(20\\) min - \\(40\\) min",
+    "bonne_reponse": "\\(40\\) min"
+  },
+  {
+    "id": 5201611,
+    "classe": "5e",
+    "chapitres": ["nombres"],
+    "question": "\\(12 \\times 101\\)",
+    "bonne_reponse": "\\(1212\\)"
+  },
+  {
+    "id": 5201612,
+    "classe": "5e",
+    "chapitres": ["nombres"],
+    "question": "Ecriture décimale de \\(\\dfrac{15}{2}\\)",
+    "bonne_reponse": "\\(7,5\\)"
+  },
+  {
+    "id": 5201613,
+    "classe": "5e",
+    "chapitres": ["triangles"],
+    "question": "<img src='figures/5_2016_01.png' style='transform: scale(0.7); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(?=81°\\)"
+  },
+  {
+    "id": 5201614,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(13-3 \\times 4\\)",
+    "bonne_reponse": "\\(1\\)"
+  },
+  {
+    "id": 5201615,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(4 \\times 1,7 \\times 25\\)",
+    "bonne_reponse": "\\(170\\)"
+  },
+  {
+    "id": 5201616,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "Le produit de \\(1000\\) par \\(0,001\\)",
+    "bonne_reponse": "\\(1\\)"
+  },
+  {
+    "id": 5201617,
+    "classe": "5e",
+    "chapitres": ["proportionnalité", "opérations"],
+    "question": "<img src='figures/5_2016_02.png' style='transform: scale(0.8); transform-origin: auto;' width='220' /><br><br>\\(AB=\\ldots\\ldots\\)",
+    "bonne_reponse": "\\(18\\) mm"
+  },
+  {
+    "id": 5201618,
+    "classe": "5e",
+    "chapitres": ["proportionnalité", "pourcentages"],
+    "question": "\\(25 \\%\\) de \\(28\\)",
+    "bonne_reponse": "\\(7\\)"
+  },
+  {
+    "id": 5201619,
+    "classe": "5e",
+    "chapitres": ["proportionnalité", "opérations"],
+    "question": "\\(10\\) brioches coûtent \\(13\\) €. Combien coûtent \\(15\\) brioches ?",
+    "bonne_reponse": "\\(19,5\\) €"
+  },
+  {
+    "id": 5201620,
+    "classe": "5e",
+    "chapitres": ["fractions"],
+    "question": "\\(3 \\times \\ldots \\ldots = 7\\)",
+    "bonne_reponse": "\\(\\dfrac{7}{3}\\)"
+  },
+  {
+    "id": 5201621,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(16 \\times 7,1 + 16 \\times 2,9\\)",
+    "bonne_reponse": "\\(160\\)"
+  },
+  {
+    "id": 5201622,
+    "classe": "5e",
+    "chapitres": ["nombres"],
+    "question": "Quelle est l’abscisse du point A ?<br><img src='figures/5_2016_03.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(2,04\\)"
+  },
+  {
+    "id": 5201623,
+    "classe": "5e",
+    "chapitres": ["proportionnalité"],
+    "question": "La figure 2 est un agrandis-<br>sement de la figure 1 :<br><br><img src='figures/5_2016_04.png' style='transform: scale(0.8); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(6\\) cm"
+  },
+  {
+    "id": 5201624,
+    "classe": "5e",
+    "chapitres": ["heures"],
+    "question": "Un train part à \\(6\\)h\\(30\\) et arrive à \\(8\\)h\\(20\\). Quelle est la durée du trajet ?<br><br>\\(\\ldots\\) h \\(\\ldots\\) min",
+    "bonne_reponse": "\\(1\\) h \\(50\\) min"
+  },
+  {
+    "id": 5201625,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(0,5 \\times 6,2\\)",
+    "bonne_reponse": "\\(3,1\\)"
+  },
+  {
+    "id": 5201626,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(1,7 + 12,51 + 8,3\\)",
+    "bonne_reponse": "\\(22,51\\)"
+  },
+  {
+    "id": 5201627,
+    "classe": "5e",
+    "chapitres": ["proportionnalité", "pourcentages"],
+    "question": "Dans une classe de \\(25\\) élèves, il y a \\(10\\) garçons. Quel est le pourcentage de garçons ?",
+    "bonne_reponse": "\\(40 \\%\\)"
+  },
+  {
+    "id": 5201628,
+    "classe": "5e",
+    "chapitres": ["aire", "périmètre"],
+    "question": "L'aire d'un carré est égale à \\(64\\) cm\\(^2\\). Quel est son périmètre ?",
+    "bonne_reponse": "\\(32\\) cm"
+  },
+  {
+    "id": 5201629,
+    "classe": "5e",
+    "chapitres": ["unités", "volumes"],
+    "question": "Volume en litres de ce pavé droit<br><br><img src='figures/5_2016_05.png' style='transform: scale(0.8); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(21 000\\) L"
+  },
+  {
+    "id": 5201630,
+    "classe": "5e",
+    "chapitres": ["opérations", "symétrie"],
+    "question": "Quelle est la somme de \\(215\\) de son symétrique et par rapport à \\((d)\\) ?<br><br><img src='figures/5_2016_06.png' style='transform: scale(0.8); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(727\\)"
+  },
+  {
+    "id": 3201601,
+    "classe": "3e",
+    "chapitres": ["nombres"],
+    "question": "\\(5 \\times 9\\)",
+    "bonne_reponse": "\\(45\\)"
+  },
+  {
+    "id": 3201602,
+    "classe": "3e",
+    "chapitres": ["nombres"],
+    "question": "\\(27 - 8\\)",
+    "bonne_reponse": "\\(19\\)"
+  },
+  {
+    "id": 3201603,
+    "classe": "3e",
+    "chapitres": ["nombres"],
+    "question": "Le triple de \\(8\\)",
+    "bonne_reponse": "\\(24\\)"
+  },
+  {
+    "id": 3201604,
+    "classe": "3e",
+    "chapitres": ["nombres"],
+    "question": "Le chiffre des dixièmes de \\(157,32\\)",
+    "bonne_reponse": "\\(3\\)"
+  },
+  {
+    "id": 3201605,
+    "classe": "3e",
+    "chapitres": ["nombres"],
+    "question": "\\((7 \\times 1000)+(8 \\times 10)\\)\\(+(9 \\times 1)\\)",
+    "bonne_reponse": "\\(7 089\\)"
+  },
+  {
+    "id": 3201606,
+    "classe": "3e",
+    "chapitres": ["nombres"],
+    "question": "La moitié de \\(126\\)",
+    "bonne_reponse": "\\(63\\)"
+  },
+  {
+    "id": 3201607,
+    "classe": "3e",
+    "chapitres": ["nombres"],
+    "question": "\\(0,12+0,5\\)",
+    "bonne_reponse": "\\(0,62\\)"
+  },
+  {
+    "id": 3201608,
+    "classe": "3e",
+    "chapitres": ["nombres"],
+    "question": "Compléter : \\(100 - \\ldots  =87\\)",
+    "bonne_reponse": "\\(13\\)"
+  },
+  {
+    "id": 3201609,
+    "classe": "3e",
+    "chapitres": ["proportionnalité"],
+    "question": "\\(2\\) kg de pommes coûtent \\(5\\) €. Quel est le prix de \\(6\\) kg ?",
+    "bonne_reponse": "\\(15\\) €"
+  },
+  {
+    "id": 3201610,
+    "classe": "3e",
+    "chapitres": ["heures"],
+    "question": "\\(1\\) h \\(20\\) min - \\(40\\) min",
+    "bonne_reponse": "\\(40\\) min"
+  },
+  {
+    "id": 3201611,
+    "classe": "3e",
+    "chapitres": ["statistiques"],
+    "question": "Quelle est la moyenne des températures ?<br>\\(~~12\\) °C\\(\\quad5\\) °C\\(\\quad-2\\) °C",
+    "bonne_reponse": "\\(5\\) °C"
+  },
+  {
+    "id": 3201612,
+    "classe": "3e",
+    "chapitres": ["opérations"],
+    "question": "\\(4 \\times 17,1 \\times 25\\)",
+    "bonne_reponse": "\\(1710\\)"
+  },
+  {
+    "id": 3201613,
+    "classe": "3e",
+    "chapitres": ["Thalès"],
+    "question": "<img src='figures/3_2016_01.png' style='transform: scale(0.8); transform-origin: auto;' width='220' /><br><br>\\(BC=\\ldots\\ldots\\ldots\\)",
+    "bonne_reponse": "\\(9\\)"
+  },
+  {
+    "id": 3201614,
+    "classe": "3e",
+    "chapitres": ["calcul littéral"],
+    "question": "Pour \\(x = 3\\), calculer \\(5x^2\\)",
+    "bonne_reponse": "\\(45\\)"
+  },
+  {
+    "id": 3201615,
+    "classe": "3e",
+    "chapitres": ["puissances"],
+    "question": "Écriture décimale de \\(3,45 \\times 10^4\\)",
+    "bonne_reponse": "\\(34~500\\)"
+  },
+  {
+    "id": 3201616,
+    "classe": "3e",
+    "chapitres": ["fractions"],
+    "question": "Écrire l'entier égal à<br>\\(\\dfrac{16}{43} \\times \\dfrac{43}{4}\\)",
+    "bonne_reponse": "\\(4\\)"
+  },
+  {
+    "id": 3201617,
+    "classe": "3e",
+    "chapitres": ["Pythagore"],
+    "question": "<img src='figures/3_2016_02.png' style='transform: scale(0.6); transform-origin: auto;' width='220' /><br><br>\\(FG=\\ldots\\ldots\\ldots\\)",
+    "bonne_reponse": "\\(\\sqrt{5}\\)"
+  },
+  {
+    "id": 3201618,
+    "classe": "3e",
+    "chapitres": ["calcul littéral"],
+    "question": "Développer et réduire \\((x+5)(x+3)\\)",
+    "bonne_reponse": "\\(x^2+8x+15\\)"
+  },
+  {
+    "id": 3201619,
+    "classe": "3e",
+    "chapitres": ["calcul littéral"],
+    "question": "8 brioches coûtent 10 €, combien coûtent 12 brioches ?",
+    "bonne_reponse": "\\(15\\) €"
+  },
+  {
+    "id": 3201620,
+    "classe": "3e",
+    "chapitres": ["calcul littéral","équations"],
+    "question": "Solution de l’équation<br>\\(7x=5x+20\\)",
+    "bonne_reponse": "\\(x=10\\)"
+  },
+  {
+    "id": 3201621,
+    "classe": "3e",
+    "chapitres": ["opérations","puissances"],
+    "question": "\\((4+5)^2\\)",
+    "bonne_reponse": "\\(81\\)"
+  },
+  {
+    "id": 3201622,
+    "classe": "3e",
+    "chapitres": ["opérations"],
+    "question": "\\(72 \\div 6\\)",
+    "bonne_reponse": "\\(12\\)"
+  },
+  {
+    "id": 3201623,
+    "classe": "3e",
+    "chapitres": ["équations","calcul littéral"],
+    "question": "Le produit de \\(13\\) par \\(x\\) est nul<br>\\(x=\\ldots\\)",
+    "bonne_reponse": "\\(0\\)"
+  },
+  {
+    "id": 3201624,
+    "classe": "3e",
+    "chapitres": ["pourcentages"],
+    "question": "Un smartphone coûte \\(120\\) €. Son prix baisse de \\(10\\%\\). Quel est son nouveau prix ?",
+    "bonne_reponse": "\\(108\\) €"
+  },
+  {
+    "id": 3201625,
+    "classe": "3e",
+    "chapitres": ["opérations"],
+    "question": "Ecrire sous la forme d'un entier : \\(\\sqrt{16+9}\\)",
+    "bonne_reponse": "\\(5\\)"
+  },
+  {
+    "id": 3201626,
+    "classe": "3e",
+    "chapitres": ["opérations","fractions"],
+    "question": "Le quart du tiers de la moitié de \\(18\\) est égal à",
+    "bonne_reponse": "\\(\\dfrac{3}{4}\\)"
+  },
+  {
+    "id": 3201627,
+    "classe": "3e",
+    "chapitres": ["puissances"],
+    "question": "Le double de \\(2^5\\) est égal à \\(2^{\\ldots}\\)",
+    "bonne_reponse": "\\(2^6\\)"
+  },
+  {
+    "id": 3201628,
+    "classe": "3e",
+    "chapitres": ["puissances"],
+    "question": "Un carré a pour aire \\(10\\) cm\\(^2\\). Quelle est la longueur de son côté ?",
+    "bonne_reponse": "\\(\\sqrt{10}\\) cm"
+  },
+  {
+    "id": 3201629,
+    "classe": "3e",
+    "chapitres": ["opérations"],
+    "question": "\\(496,7 \\times 19,8 = \\ldots\\)",
+    "reponses": ["\\(9~702,34\\)", "\\(9~834,66\\)", "\\(10~001,51\\)", "\\(1~001,56\\)"],
+    "bonne_reponse": "\\(9~834,66\\)"
+  },
+  {
+    "id": 3201630,
+    "classe": "3e",
+    "chapitres": ["proportionnalité"],
+    "question": "Un bateau représenté à l'échelle \\(\\dfrac{1}{200}\\) a pour longueur \\(34\\) cm. Quelle est sa longueur réelle en mètres ?",
+    "bonne_reponse": "\\(68\\) m"
+  }
+]

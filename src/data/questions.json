@@ -1,0 +1,162 @@
+[
+    {
+      "id": 1,
+      "classe": "6e",
+      "chapitres": ["nombres entiers", "ordre"],
+      "question": "Quel est le plus grand nombre entre \\(37\\), \\(73\\) et \\(27\\) ?",
+      "reponses": ["27", "37", "73", "Impossible à dire"],
+      "bonne_reponse": "73"
+    },
+    {
+      "id": 2,
+      "classe": "6e",
+      "chapitres": ["géométrie", "triangles"],
+      "question": "Combien de côtés a un triangle ?",
+      "reponses": ["2", "3", "4", "5"],
+      "bonne_reponse": "3"
+    },
+    {
+      "id": 3,
+      "classe": "5e",
+      "chapitres": ["fractions", "additions"],
+      "question": "Calcule : \\(\\dfrac{1}{2} + \\dfrac{1}{3}\\)",
+      "reponses": ["\\(\\dfrac{2}{5}\\)", "\\(\\dfrac{5}{6}\\)", "\\(\\dfrac{4}{5}\\)", "\\(\\dfrac{3}{6}\\)"],
+      "bonne_reponse": "\\(\\dfrac{5}{6}\\)"
+    },
+    {
+      "id": 4,
+      "classe": "5e",
+      "chapitres": ["nombres décimaux"],
+      "question": "Quelle est la valeur de \\(0,1 + 0,2\\) ?",
+      "reponses": ["0,12", "0,3", "0,21", "0,4"],
+      "bonne_reponse": "0,3"
+    },
+    {
+      "id": 5,
+      "classe": "5e",
+      "chapitres": ["proportionnalité", "pourcentages"],
+      "question": "Quel est 25% de 80 ?",
+      "reponses": ["15", "20", "25", "30"],
+      "bonne_reponse": "20"
+    },
+    {
+      "id": 6,
+      "classe": "4e",
+      "chapitres": ["calcul littéral"],
+      "question": "Développe : \\(3(x + 2)\\)",
+      "reponses": ["3x + 2", "3x + 6", "x + 6", "6x + 2"],
+      "bonne_reponse": "3x + 6"
+    },
+    {
+      "id": 7,
+      "classe": "4e",
+      "chapitres": ["fractions", "simplification"],
+      "question": "Simplifie \\(\\dfrac{12}{18}\\)",
+      "reponses": ["\\(\\dfrac{2}{3}\\)", "\\(\\dfrac{4}{6}\\)", "\\(\\dfrac{6}{9}\\)", "\\(\\dfrac{3}{4}\\)"],
+      "bonne_reponse": "\\(\\dfrac{2}{3}\\)"
+    },
+    {
+      "id": 8,
+      "classe": "4e",
+      "chapitres": ["nombres relatifs"],
+      "question": "Calcule : \\(-4 + 7\\)",
+      "reponses": ["3", "-3", "-11", "11"],
+      "bonne_reponse": "3"
+    },
+    {
+      "id": 9,
+      "classe": "3e",
+      "chapitres": ["thales", "géométrie"],
+      "question": "Quand DE ∥ BC dans le triangle ABC, quelle propriété peut-on appliquer ?",
+      "reponses": ["Thalès", "Pythagore", "Trigonométrie", "Aucune"],
+      "bonne_reponse": "Thalès"
+    },
+    {
+      "id": 10,
+      "classe": "3e",
+      "chapitres": ["pythagore", "géométrie"],
+      "question": "Dans un triangle rectangle de côtés \\(3\\), \\(4\\), \\(5\\), quel est l'hypoténuse ?",
+      "reponses": ["3", "4", "5", "12"],
+      "bonne_reponse": "5"
+    },
+    {
+      "id": 11,
+      "classe": "3e",
+      "chapitres": ["statistiques"],
+      "question": "Quelle est la médiane de : 2 ; 4 ; 5 ; 7 ; 9 ?",
+      "reponses": ["4", "5", "6", "7"],
+      "bonne_reponse": "5"
+    },
+    {
+      "id": 12,
+      "classe": "4e",
+      "chapitres": ["distributivité", "calcul littéral"],
+      "question": "Factorise : \\(4x + 8\\)",
+      "reponses": ["4(x + 2)", "2(x + 4)", "x(4 + 8)", "4x(1 + 2)"],
+      "bonne_reponse": "4(x + 2)"
+    },
+    {
+      "id": 13,
+      "classe": "5e",
+      "chapitres": ["symétrie", "géométrie"],
+      "question": "Quel instrument permet de tracer une symétrie axiale ?",
+      "reponses": ["Compas", "Rapporteur", "Équerre", "Règle"],
+      "bonne_reponse": "Équerre"
+    },
+    {
+      "id": 14,
+      "classe": "6e",
+      "chapitres": ["mesures", "longueurs"],
+      "question": "Combien de centimètres y a-t-il dans un mètre ?",
+      "reponses": ["10", "100", "1000", "10000"],
+      "bonne_reponse": "100"
+    },
+    {
+      "id": 15,
+      "classe": "6e",
+      "chapitres": ["multiplications"],
+      "question": "Combien vaut \\(7 \\times 8\\) ?",
+      "reponses": ["48", "54", "56", "64"],
+      "bonne_reponse": "56"
+    },
+    {
+      "id": 16,
+      "classe": "3e",
+      "chapitres": ["équations", "algèbre"],
+      "question": "Résous \\(2x - 4 = 10\\)",
+      "reponses": ["x = 7", "x = 6", "x = 8", "x = 5"],
+      "bonne_reponse": "x = 7"
+    },
+    {
+      "id": 17,
+      "classe": "3e",
+      "chapitres": ["probabilités"],
+      "question": "On lance un dé équilibré. Quelle est la probabilité d’obtenir un 3 ?",
+      "reponses": ["\\(\\dfrac{1}{3}\\)", "\\(\\dfrac{1}{2}\\)", "\\(\\dfrac{1}{6}\\)", "\\(\\dfrac{1}{5}\\)"],
+      "bonne_reponse": "\\(\\dfrac{1}{6}\\)"
+    },
+    {
+      "id": 18,
+      "classe": "4e",
+      "chapitres": ["puissances"],
+      "question": "Écris \\(10^3\\) sous forme décimale.",
+      "reponses": ["100", "1000", "10", "10000"],
+      "bonne_reponse": "1000"
+    },
+    {
+      "id": 19,
+      "classe": "5e",
+      "chapitres": ["divisibilité"],
+      "question": "Le nombre 48 est divisible par :",
+      "reponses": ["2", "3", "4", "Tous"],
+      "bonne_reponse": "Tous"
+    },
+    {
+      "id": 20,
+      "classe": "6e",
+      "chapitres": ["ordre", "comparaisons"],
+      "question": "Quel est le plus petit nombre ?",
+      "reponses": ["0,12", "1,2", "0,021", "0,2"],
+      "bonne_reponse": "0,021"
+    }
+  ]
