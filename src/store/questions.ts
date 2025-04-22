@@ -3,7 +3,7 @@ import questionsData from '../data/questions.json'
 
 export interface Question {
   question: string;
-  reponses: string[];
+  reponses?: string[];
   bonne_reponse: string;
   classe: string;
   chapitres: string[];

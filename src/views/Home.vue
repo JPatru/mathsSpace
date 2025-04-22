@@ -16,11 +16,10 @@
       <label>Nombre de questions :
         <input type="number" v-model.number="questionCount" min="1" max="4" />
       </label>
-  
-      <label>
-        Générer :
-        <button @click="loadRandom">Générer</button>
-      </label>
+      
+      <button @click="loadRandom" class="btn-generer">Générer</button>
+      <button @click="showChapitres = true" class="btn-chapitres">Chapitres</button>
+        
   
       <router-link to="/ajouter" class="button-link">
         <span class="icon">＋</span> Ajouter une question
@@ -41,15 +40,21 @@
   
     
     <div class="app">
-  
-    <div class="main-zone">
-      <div v-if="selectedClasse && availableChapitres.length" class="chapitres-vertical">
-        <label v-for="ch in availableChapitres" :key="ch" class="chapitre-item">
-          <input type="checkbox" :value="ch" v-model="selectedChapitres" />
-          <span>{{ ch }}</span>
-        </label>
 
+    <div class="main-zone">
+      <div v-if="selectedClasse && availableChapitres.length && showChapitres" class="chapitres-overlay">
+        <div class="chapitres-vertical">
+          <label
+            v-for="ch in availableChapitres"
+            :key="ch"
+            class="chapitre-item"
+          >
+            <input type="checkbox" :value="ch" v-model="selectedChapitres" />
+            <span>{{ ch }}</span>
+          </label>
+        </div>
       </div>
+
     
       <div class="questions-grid">
         <QuestionCard
@@ -64,6 +69,7 @@
   </template>
   
   <script setup lang="ts">
+  import type { Question } from '../store/questions'
   import base from '../data/questions.json'
   import eleves from '../data/eleves.json'
   import course from '../data/courseNombres.json'
@@ -77,6 +83,7 @@
   import { useQuestionStore } from '../store/questions'
   import { storeToRefs } from 'pinia'
   
+  const showChapitres = ref(true)
   const store = useQuestionStore()
   const selectedSet = ref('base')
   const { currentQuestions: questions } = storeToRefs(store)
@@ -90,16 +97,29 @@
   function loadRandom() {
     const chapitres = selectedChapitres.value
     store.loadRandomQuestions(questionCount.value, selectedClasse.value || null, chapitres)
-    revealed.value = {}
+    showChapitres.value = false
   }
+
   
   function switchSet() {
-    let data = base
+    let data: Question[] = base
     if (selectedSet.value === 'eleves') data = eleves
     else if (selectedSet.value === 'course') data = course
+
     store.questions = data
     loadRandom()
+
+    if (selectedClasse.value) {
+      const all = store.questions
+        .filter(q => q.classe === selectedClasse.value)
+        .flatMap(q => q.chapitres)
+      availableChapitres.value = [...new Set(all)]
+    } else {
+      availableChapitres.value = []
+    }
   }
+
+
   
   watch(selectedClasse, (newClasse) => {
     if (!newClasse) {
@@ -133,10 +153,21 @@
   
   <style scoped>
   
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+  }
+
+  html, body {
+    overflow-x: hidden;
+  }
+  
   body {
     background-color: #f5f7fa;
     color: #333;
     font-family: 'Inter', sans-serif;
+    overflow-x: hidden;
   }
   
   h1 {
@@ -163,6 +194,8 @@
   
   .app {
     width: 100%;
+    max-width: 100vw;
+    overflow-x: hidden;
     margin: 0 auto;
     padding: 2rem;
     background: white;
@@ -214,7 +247,8 @@
   }
   
   button {
-    align-self: start;
+    align-self: flex-end;
+    margin-bottom: 2px;
     padding: 0.5rem 1rem;
     background-color: #007bff;
     color: white;
@@ -252,22 +286,36 @@
     font-size: 1.2rem;
     color: #007bff;
   }
-  
-  .questions-grid {
-    display: flex;
-    flex-wrap: nowrap;
-    gap: 1.5rem;
-    overflow-x: auto;
-    padding-bottom: 1rem;
-    width: 100%;
-    box-sizing: border-box;
-    justify-content: center; /* ✅ centrer les cartes */
+
+  .btn-chapitres {
+    background-color: #f3d250;
+    color: #333;
+    border: none;
+    cursor: pointer;
+    font-weight: 500;
+    transition: background-color 0.2s ease-in-out;
+  }
+
+  .btn-chapitres:hover {
+    background-color: #e2be36;
   }
   
+  .questions-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, max-content));
+    gap: 1.5rem;
+    width: 100%;
+    margin-top: 0.5rem;
+    justify-content: center;
+  }
+
+  
   .questions-grid > * {
-    flex: 0 0 15%;
-    min-width: 220px;
-    max-width: 15%;
+    width: 280px;
+  }
+  
+  .questions-grid:empty {
+    display: none;
   }
 
   .nav-link {
@@ -282,16 +330,16 @@
   }
 
   .header-bar {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  flex-wrap: wrap;
-  gap: 1rem;
-  padding: 1rem 2rem;
-  background-color: #ffffff;
-  border-bottom: 1px solid #ddd;
-  border-radius: 12px 12px 0 0;
-}
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 1rem;
+    padding: 1rem 2rem;
+    background-color: #ffffff;
+    border-bottom: 1px solid #ddd;
+    border-radius: 12px 12px 0 0;
+  }
   
   .header-bar h1 {
     margin: 0;
@@ -319,9 +367,21 @@
   }
 
   .main-zone {
-    display: flex;
-    gap: 2rem;
-    align-items: flex-start;
+    max-width: 100%;
+    overflow-x: auto;
+    box-sizing: border-box;
+  }
+
+  .chapitres-overlay {
+    position: absolute;
+    top: 120px; /* ajuste selon ton header */
+    left: 0;
+    right: 0;
+    z-index: 100;
+    padding: 1.5rem 2rem;
+    background-color: #fffbe6;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
   }
   
   .chapitres-vertical {

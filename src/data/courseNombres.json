@@ -346,7 +346,7 @@
     "id": 3201620,
     "classe": "3e",
     "chapitres": ["calcul littéral","équations"],
-    "question": "Solution de l’équation<br>\\(7x=5x+20\\)",
+    "question": "Solution de l'équation<br>\\(7x=5x+20\\)",
     "bonne_reponse": "\\(x=10\\)"
   },
   {
@@ -419,5 +419,215 @@
     "chapitres": ["proportionnalité"],
     "question": "Un bateau représenté à l'échelle \\(\\dfrac{1}{200}\\) a pour longueur \\(34\\) cm. Quelle est sa longueur réelle en mètres ?",
     "bonne_reponse": "\\(68\\) m"
+  },
+  {
+    "id": 3201701,
+    "classe": "3e",
+    "chapitres": ["opérations"],
+    "question": "\\(7 \\times 5\\)",
+    "bonne_reponse": "\\(35\\)"
+  },
+  {
+    "id": 3201702,
+    "classe": "3e",
+    "chapitres": ["opérations"],
+    "question": "\\(45+27\\)",
+    "bonne_reponse": "\\(72\\)"
+  },
+  {
+    "id": 3201703,
+    "classe": "3e",
+    "chapitres": ["opérations"],
+    "question": "\\(3,7+ \\ldots = 8\\)",
+    "bonne_reponse": "\\(4,3\\)"
+  },
+  {
+    "id": 3201704,
+    "classe": "3e",
+    "chapitres": ["conversions"],
+    "question": "\\(1,2\\) kg \\(=\\ldots\\) g",
+    "bonne_reponse": "\\(1~200\\) g"
+  },
+  {
+    "id": 3201705,
+    "classe": "3e",
+    "chapitres": ["heures"],
+    "question": "\\(2\\) h \\(51\\) min \\(+ 3\\) h \\(20\\) min<br>= \\(\\ldots\\) h \\(\\ldots\\) min",
+    "bonne_reponse": "\\(6\\) h \\(11\\) min"
+  },
+  {
+    "id": 3201706,
+    "classe": "3e",
+    "chapitres": ["pourcentages"],
+    "question": "\\(50\\%\\) de \\(128\\)",
+    "bonne_reponse": "\\(64\\)"
+  },
+  {
+    "id": 3201707,
+    "classe": "3e",
+    "chapitres": ["opérations"],
+    "question": "Le produit de \\(5\\) par \\(12\\)",
+    "bonne_reponse": "\\(60\\)"
+  },
+  {
+    "id": 3201708,
+    "classe": "3e",
+    "chapitres": ["nombres"],
+    "question": "Ecriture décimale de \\(\\dfrac{5}{10~000}\\)",
+    "bonne_reponse": "\\(0,0005\\)"
+  },
+  {
+    "id": 3201709,
+    "classe": "3e",
+    "chapitres": ["périmètre"],
+    "question": "Le périmètre d'un carré mesure \\(48\\) cm. Quelle est la longueur de con coté ?",
+    "bonne_reponse": "\\(12\\) cm"
+  },
+  {
+    "id": 3201710,
+    "classe": "3e",
+    "chapitres": ["opérations","puissances"],
+    "question": "Le triple de \\(27\\)",
+    "bonne_reponse": "\\(81\\)"
+  },
+  {
+    "id": 3201711,
+    "classe": "3e",
+    "chapitres": ["puissances"],
+    "question": "\\(3^4\\)",
+    "bonne_reponse": "\\(81\\)"
+  },
+  {
+    "id": 3201712,
+    "classe": "3e",
+    "chapitres": ["fractions"],
+    "question": "Dans \\(\\dfrac{4}{3}\\) combien de fois \\(\\dfrac{1}{6}\\) ?",
+    "bonne_reponse": "\\(8\\)"
+  },
+  {
+    "id": 3201713,
+    "classe": "3e",
+    "chapitres": ["pourcentages"],
+    "question": "\\(5\\%\\) de \\(120\\)",
+    "bonne_reponse": "\\(6\\)"
+  },
+  {
+    "id": 3201714,
+    "classe": "3e",
+    "chapitres": ["statistiques"],
+    "question": "Moyenne des nombres<br>\\(~~12,2 \\quad -1 \\quad 6,8\\)",
+    "bonne_reponse": "\\(3\\)"
+  },
+  {
+    "id": 3201715,
+    "classe": "3e",
+    "chapitres": ["Thalès"],
+    "question": "<img src='figures/3_2017_01.png' style='transform: scale(0.8); transform-origin: auto;' width='220' /><br>MN\\(=\\ldots\\) cm",
+    "bonne_reponse": "\\(2\\) cm"
+  },
+  {
+    "id": 3201716,
+    "classe": "3e",
+    "chapitres": ["fractions"],
+    "question": "\\(1+\\dfrac{5}{7}\\)",
+    "bonne_reponse": "\\(\\dfrac{12}{7}\\)"
+  },
+  {
+    "id": 3201717,
+    "classe": "3e",
+    "chapitres": ["fonctions"],
+    "question": "\\(f(x) = -2x+27\\)<br>Quelle est l'image de \\(-2,5\\) par \\(f\\) ?",
+    "bonne_reponse": "\\(32\\)"
+  },
+  {
+    "id": 3201718,
+    "classe": "3e",
+    "chapitres": ["opérations"],
+    "question": "\\(2,2-1,02\\)",
+    "bonne_reponse": "\\(1,18\\)"
+  },
+  {
+    "id": 3201719,
+    "classe": "3e",
+    "chapitres": ["pourcentages"],
+    "question": "Un T-shirt à \\(20\\) € est soldé à \\(15\\) €.<br>Quel est le pourcentage de réduction ?",
+    "bonne_reponse": "\\(25\\%\\)"
+  },
+  {
+    "id": 3201720,
+    "classe": "3e",
+    "chapitres": ["équations"],
+    "question": "Solution de \\(2x-3 = 0\\)",
+    "bonne_reponse": "\\(\\dfrac{3}{2}\\)"
+  },
+  {
+    "id": 3201721,
+    "classe": "3e",
+    "chapitres": ["calcul littéral"],
+    "question": "\\(6x^2=2x \\times \\ldots\\)",
+    "bonne_reponse": "\\(3x\\)"
+  },
+  {
+    "id": 3201722,
+    "classe": "3e",
+    "chapitres": ["Pythagore"],
+    "question": "<img src='figures/3_2017_02.png' style='transform: scale(0.8); transform-origin: auto;' width='220' /><br>\\(BC=\\ldots\\) cm",
+    "bonne_reponse": "\\(\\sqrt{13}\\) cm"
+  },
+  {
+    "id": 3201723,
+    "classe": "3e",
+    "chapitres": ["aire"],
+    "question": "Ce rectangle a un périmètre égal à \\(14\\) cm. Trouver son aire.<img src='figures/3_2017_03.png' style='transform: scale(0.4); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(12\\) cm\\(^2\\)"
+  },
+  {
+    "id": 3201724,
+    "classe": "3e",
+    "chapitres": ["fractions","nombres"],
+    "question": "Placer le point A d'abscisse \\(\\dfrac{17}{3}\\)<br><img src='figures/3_2017_04.png' style='transform: scale(0.6); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "<img src='figures/3_2017_05.png' style='transform: scale(0.6); transform-origin: auto;' width='220' />"
+  },
+  {
+    "id": 3201725,
+    "classe": "3e",
+    "chapitres": ["nombres"],
+    "question": "La somme de tous les diviseurs de \\(21\\)",
+    "bonne_reponse": "\\(32\\)"
+  },
+  {
+    "id": 3201726,
+    "classe": "3e",
+    "chapitres": ["calcul littéral"],
+    "question": "Calculer \\(3x^2\\) pour \\(x=10\\)",
+    "bonne_reponse": "\\(300\\)"
+  },
+  {
+    "id": 3201727,
+    "classe": "3e",
+    "chapitres": ["puissances"],
+    "question": "\\(10^2-10^{-2}\\)",
+    "bonne_reponse": "\\(99,98\\)"
+  },
+  {
+    "id": 3201728,
+    "classe": "3e",
+    "chapitres": ["calcul littéral"],
+    "question": "\\(x\\) cm \\(\\times x\\) cm \\(=3\\) cm\\(^2\\)<br><br>\\(x=\\ldots\\) cm",
+    "bonne_reponse": "\\(\\sqrt{3}\\) cm"
+  },
+  {
+    "id": 3201729,
+    "classe": "3e",
+    "chapitres": ["conversions"],
+    "question": "Convertir \\(10\\) m/s en km/h.",
+    "bonne_reponse": "\\(36\\) km/h"
+  },
+  {
+    "id": 3201730,
+    "classe": "3e",
+    "chapitres": ["nombres"],
+    "question": "Combien de tours fait la grande roue lorsque la petite fait 4 tours ?<br><br><img src='figures/3_2017_06.png' style='transform: scale(0.8); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(3\\) tours"
   }
 ]
