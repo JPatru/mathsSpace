@@ -1,162 +1,202 @@
 [
     {
       "id": 1,
-      "classe": "6e",
-      "chapitres": ["nombres entiers", "ordre"],
-      "question": "Quel est le plus grand nombre entre \\(37\\), \\(73\\) et \\(27\\) ?",
-      "reponses": ["27", "37", "73", "Impossible à dire"],
-      "bonne_reponse": "73"
+      "classe": "4e",
+      "chapitres": ["fractions"],
+      "question": "\\(\\dfrac{11}{6} + \\dfrac{5}{21} = \\dfrac{77}{?} +  \\dfrac{10}{?} =  \\dfrac{87}{?}\\)<br><br>Quel est le dénominateur commun ?",
+      "reponses": ["\\(24\\)", "\\(42\\)", "\\(14\\)", "\\(50\\)"],
+      "bonne_reponse": "\\(42\\)"
     },
     {
       "id": 2,
-      "classe": "6e",
-      "chapitres": ["géométrie", "triangles"],
-      "question": "Combien de côtés a un triangle ?",
-      "reponses": ["2", "3", "4", "5"],
-      "bonne_reponse": "3"
+      "classe": "4e",
+      "chapitres": ["fractions"],
+      "question": "Simplifier la fraction \\(\\dfrac{40}{100}\\)",
+      "reponses": ["\\(\\dfrac{30}{10}\\)", "\\(\\dfrac{2}{5}\\)", "\\(\\dfrac{26}{30}\\)", "\\(\\dfrac{14}{25}\\)"],
+      "bonne_reponse": "\\(\\dfrac{2}{5}\\)"
     },
     {
       "id": 3,
-      "classe": "5e",
-      "chapitres": ["fractions", "additions"],
-      "question": "Calcule : \\(\\dfrac{1}{2} + \\dfrac{1}{3}\\)",
-      "reponses": ["\\(\\dfrac{2}{5}\\)", "\\(\\dfrac{5}{6}\\)", "\\(\\dfrac{4}{5}\\)", "\\(\\dfrac{3}{6}\\)"],
-      "bonne_reponse": "\\(\\dfrac{5}{6}\\)"
+      "classe": "4e",
+      "chapitres": ["nombres"],
+      "question": "Quel est le nombre égal à \\(\\dfrac{-1}{2}\\)",
+      "reponses": ["\\(\\dfrac{1}{-2}\\)", "\\(\\dfrac{-1}{-2}\\)", "\\(+\\dfrac{1}{2}\\)", "\\(\\dfrac{1}{2}\\)"],
+      "bonne_reponse": "\\(\\dfrac{1}{-2}\\)"
     },
     {
       "id": 4,
-      "classe": "5e",
-      "chapitres": ["nombres décimaux"],
-      "question": "Quelle est la valeur de \\(0,1 + 0,2\\) ?",
-      "reponses": ["0,12", "0,3", "0,21", "0,4"],
-      "bonne_reponse": "0,3"
+      "classe": "4e",
+      "chapitres": ["nombres"],
+      "question": "\\(3^2=\\ldots\\)",
+      "reponses": ["\\(3\\)", "\\(6\\)", "\\(9\\)", "\\(12\\)"],
+      "bonne_reponse": "\\(9\\)"
     },
     {
       "id": 5,
-      "classe": "5e",
-      "chapitres": ["proportionnalité", "pourcentages"],
-      "question": "Quel est 25% de 80 ?",
-      "reponses": ["15", "20", "25", "30"],
-      "bonne_reponse": "20"
+      "classe": "4e",
+      "chapitres": ["nombres"],
+      "question": "\\(-25 \\times 8 \\times (-2) = \\ldots\\)",
+      "reponses": ["\\(-400\\)", "\\(+400\\)", "\\(+200\\)", "\\(-200\\)"],
+      "bonne_reponse": "\\(+400\\)"
     },
     {
       "id": 6,
       "classe": "4e",
-      "chapitres": ["calcul littéral"],
-      "question": "Développe : \\(3(x + 2)\\)",
-      "reponses": ["3x + 2", "3x + 6", "x + 6", "6x + 2"],
-      "bonne_reponse": "3x + 6"
+      "chapitres": ["racines"],
+      "question": "La racine carrée de \\(123\\) est comprise entre quels nombres ?",
+      "reponses": ["\\(10\\) et \\(11\\)", "\\(10\\) et \\(122\\)", "\\(3\\) et \\(5\\)", "\\(11\\) et \\(12\\)"],
+      "bonne_reponse": "\\(11\\) et \\(12\\)"
     },
     {
       "id": 7,
       "classe": "4e",
-      "chapitres": ["fractions", "simplification"],
-      "question": "Simplifie \\(\\dfrac{12}{18}\\)",
-      "reponses": ["\\(\\dfrac{2}{3}\\)", "\\(\\dfrac{4}{6}\\)", "\\(\\dfrac{6}{9}\\)", "\\(\\dfrac{3}{4}\\)"],
-      "bonne_reponse": "\\(\\dfrac{2}{3}\\)"
+      "chapitres": ["fractions"],
+      "question": "\\(\\dfrac{10}{3}+\\dfrac{5}{9}=\\ldots\\)",
+      "reponses": ["\\(\\dfrac{35}{3}\\)", "\\(\\dfrac{35}{9}\\)", "\\(\\dfrac{15}{12}\\)", "\\(\\dfrac{15}{9}\\)"],
+      "bonne_reponse": "\\(\\dfrac{35}{9}\\)"
     },
     {
       "id": 8,
       "classe": "4e",
-      "chapitres": ["nombres relatifs"],
-      "question": "Calcule : \\(-4 + 7\\)",
-      "reponses": ["3", "-3", "-11", "11"],
-      "bonne_reponse": "3"
+      "chapitres": ["statistiques"],
+      "question": "Trouver la médiane de la série :<br>\\(21 ; 12 ; 40 ; 8 ; 11\\)",
+      "reponses": ["\\(40\\)", "\\(12\\)", "\\(21\\)", "\\(11\\)"],
+      "bonne_reponse": "\\(12\\)"
     },
     {
       "id": 9,
-      "classe": "3e",
-      "chapitres": ["thales", "géométrie"],
-      "question": "Quand DE ∥ BC dans le triangle ABC, quelle propriété peut-on appliquer ?",
-      "reponses": ["Thalès", "Pythagore", "Trigonométrie", "Aucune"],
-      "bonne_reponse": "Thalès"
+      "classe": "4e",
+      "chapitres": ["statistiques"],
+      "question": "Trouver la moyenne de la série :<br>\\(2 ; 10 ; 40 ; 4 ; 24 ; 100\\)",
+      "reponses": ["\\(30\\)", "\\(39\\)", "\\(36\\)", "\\(63\\)"],
+      "bonne_reponse": "\\(30\\)"
     },
     {
       "id": 10,
-      "classe": "3e",
-      "chapitres": ["pythagore", "géométrie"],
-      "question": "Dans un triangle rectangle de côtés \\(3\\), \\(4\\), \\(5\\), quel est l'hypoténuse ?",
-      "reponses": ["3", "4", "5", "12"],
-      "bonne_reponse": "5"
+      "classe": "4e",
+      "chapitres": ["fractions"],
+      "question": "Trouver la fraction égale à \\(\\dfrac{2}{12}\\)",
+      "reponses": ["\\(\\dfrac{8}{36}\\)", "\\(\\dfrac{18}{48}\\)", "\\(\\dfrac{12}{72}\\)", "\\(\\dfrac{12}{36}\\)"],
+      "bonne_reponse": "\\(\\dfrac{12}{72}\\)"
     },
     {
       "id": 11,
-      "classe": "3e",
-      "chapitres": ["statistiques"],
-      "question": "Quelle est la médiane de : 2 ; 4 ; 5 ; 7 ; 9 ?",
-      "reponses": ["4", "5", "6", "7"],
-      "bonne_reponse": "5"
+      "classe": "4e",
+      "chapitres": ["puissances"],
+      "question": "Quelle est l'écriture scientifique de<br>\\(10~000~000\\) ?",
+      "reponses": ["\\(1 \\cdot 10^6\\)", "\\(1 \\cdot 10^7\\)", "\\(1 \\cdot 10^8\\)", "\\(1 \\cdot 10^9\\)"],
+      "bonne_reponse": "\\(1 \\cdot 10^7\\)"
     },
     {
       "id": 12,
       "classe": "4e",
-      "chapitres": ["distributivité", "calcul littéral"],
-      "question": "Factorise : \\(4x + 8\\)",
-      "reponses": ["4(x + 2)", "2(x + 4)", "x(4 + 8)", "4x(1 + 2)"],
-      "bonne_reponse": "4(x + 2)"
+      "chapitres": ["statistiques"],
+      "question": "Trouve une série de trois valeurs dont la moyenne est \\(40\\) et la médiane est \\(50\\)",
+      "reponses": ["\\(23~;~50~;~49\\)", "\\(20~;~50~;~50\\)", "\\(40~;~50~;~60\\)", "\\(20~;~50~;~70\\)"],
+      "bonne_reponse": "\\(20~;~50~;~50\\)"
     },
     {
       "id": 13,
-      "classe": "5e",
-      "chapitres": ["symétrie", "géométrie"],
-      "question": "Quel instrument permet de tracer une symétrie axiale ?",
-      "reponses": ["Compas", "Rapporteur", "Équerre", "Règle"],
-      "bonne_reponse": "Équerre"
+      "classe": "4e",
+      "chapitres": ["statistiques"],
+      "question": "Quelle est la médiane de la série <br>\\(3~;~10~;~2~;~47~;~11\\) ?",
+      "reponses": ["\\(11\\)", "\\(10\\)", "\\(2\\)", "\\(47\\)"],
+      "bonne_reponse": "\\(10\\)"
     },
     {
       "id": 14,
-      "classe": "6e",
-      "chapitres": ["mesures", "longueurs"],
-      "question": "Combien de centimètres y a-t-il dans un mètre ?",
-      "reponses": ["10", "100", "1000", "10000"],
-      "bonne_reponse": "100"
+      "classe": "4e",
+      "chapitres": ["fractions"],
+      "question": "On souhaite additionner les fration \\(\\dfrac{7}{6}\\) et \\(\\dfrac{4}{5}\\)<br>Quel dénominateur doit-ont choisir ?",
+      "reponses": ["\\(6\\)", "\\(18\\)", "\\(15\\)", "\\(30\\)"],
+      "bonne_reponse": "\\(30\\)"
     },
     {
       "id": 15,
-      "classe": "6e",
-      "chapitres": ["multiplications"],
-      "question": "Combien vaut \\(7 \\times 8\\) ?",
-      "reponses": ["48", "54", "56", "64"],
-      "bonne_reponse": "56"
+      "classe": "4e",
+      "chapitres": ["fractions"],
+      "question": "Trouver l'égalité vraie :",
+      "reponses": ["\\(\\dfrac{6}{4}=\\dfrac{4}{6}\\)", "\\(\\dfrac{8}{24}=\\dfrac{74}{7}\\)", "\\(\\dfrac{3}{4}=\\dfrac{6}{10}\\)", "\\(\\dfrac{12}{24}=\\dfrac{6}{12}\\)"],
+      "bonne_reponse": "\\(\\dfrac{12}{24}=\\dfrac{6}{12}\\)"
     },
     {
       "id": 16,
-      "classe": "3e",
-      "chapitres": ["équations", "algèbre"],
-      "question": "Résous \\(2x - 4 = 10\\)",
-      "reponses": ["x = 7", "x = 6", "x = 8", "x = 5"],
-      "bonne_reponse": "x = 7"
+      "classe": "4e",
+      "chapitres": ["opérations"],
+      "question": "Quel est le résultat de \\(8+3 \\times 4 + 12\\)",
+      "reponses": ["\\(32\\)", "\\(56\\)", "\\(48\\)", "\\(176\\)"],
+      "bonne_reponse": "\\(32\\)"
+    },
+    {
+      "id": 16,
+      "classe": "4e",
+      "chapitres": ["puissances"],
+      "question": "Trouve la notation scientifique de \\(0,000923\\)",
+      "reponses": ["\\(9,23 \\times 10^{-4}\\)", "\\(9,23 \\times 10^{4}\\)", "\\(0,923 \\times 10^{-3}\\)", "\\(923 \\times 10^{-6}\\)"],
+      "bonne_reponse": "\\(9,23 \\times 10^{-4}\\)"
     },
     {
       "id": 17,
-      "classe": "3e",
-      "chapitres": ["probabilités"],
-      "question": "On lance un dé équilibré. Quelle est la probabilité d’obtenir un 3 ?",
-      "reponses": ["\\(\\dfrac{1}{3}\\)", "\\(\\dfrac{1}{2}\\)", "\\(\\dfrac{1}{6}\\)", "\\(\\dfrac{1}{5}\\)"],
-      "bonne_reponse": "\\(\\dfrac{1}{6}\\)"
+      "classe": "4e",
+      "chapitres": ["racines"],
+      "question": "Quelle est la racine carrée de \\(16\\)",
+      "reponses": ["\\(8\\)", "\\(2\\)", "\\(32\\)", "\\(4\\)"],
+      "bonne_reponse": "\\(4\\)"
     },
     {
       "id": 18,
       "classe": "4e",
-      "chapitres": ["puissances"],
-      "question": "Écris \\(10^3\\) sous forme décimale.",
-      "reponses": ["100", "1000", "10", "10000"],
-      "bonne_reponse": "1000"
+      "chapitres": ["statistiques"],
+      "question": "Quelle est l'étendue de la série <br>\\(82~;~22~;~6~;~102~;~101~;~8\\) ?",
+      "reponses": ["\\(52\\)", "\\(6\\)", "\\(96\\)", "\\(102\\)"],
+      "bonne_reponse": "\\(96\\)"
     },
     {
       "id": 19,
-      "classe": "5e",
-      "chapitres": ["divisibilité"],
-      "question": "Le nombre 48 est divisible par :",
-      "reponses": ["2", "3", "4", "Tous"],
-      "bonne_reponse": "Tous"
+      "classe": "4e",
+      "chapitres": ["nombres"],
+      "question": "Ecriture de \\(10^4\\) sous forme décimale ?",
+      "reponses": ["\\(1,0000\\)", "\\(10~000\\)", "\\(0,0001\\)", "\\(10,000\\)"],
+      "bonne_reponse": "\\(10~000\\)"
     },
     {
       "id": 20,
-      "classe": "6e",
-      "chapitres": ["ordre", "comparaisons"],
-      "question": "Quel est le plus petit nombre ?",
-      "reponses": ["0,12", "1,2", "0,021", "0,2"],
-      "bonne_reponse": "0,021"
+      "classe": "4e",
+      "chapitres": ["nombres"],
+      "question": "Trouver la médiane de la série :<br>\\(14~;~2~;~8~;~11~;~24~;~59~;~3\\)",
+      "reponses": ["\\(24\\)", "\\(14\\)", "\\(11\\)", "\\(8\\)"],
+      "bonne_reponse": "\\(11\\)"
+    },
+    {
+      "id": 21,
+      "classe": "4e",
+      "chapitres": ["fractions"],
+      "question": "\\(\\dfrac{12}{7}+\\dfrac{11}{7}=\\ldots\\)",
+      "reponses": ["\\(\\dfrac{3}{7}\\)", "\\(\\dfrac{23}{14}\\)", "\\(\\dfrac{23}{7}\\)", "\\(\\dfrac{13}{14}\\)"],
+      "bonne_reponse": "\\(\\dfrac{23}{7}\\)"
+    },
+    {
+      "id": 22,
+      "classe": "4e",
+      "chapitres": ["puissances"],
+      "question": "Quel nombre est égal à 5 millions ?",
+      "reponses": ["\\(5^6\\)", "\\(5 \\times 10^6\\)", "\\(0,5 \\times 10^8\\)", "\\(500 \\times 10^5\\)"],
+      "bonne_reponse": "\\(5 \\times 10^6\\)"
+    },
+    {
+      "id": 23,
+      "classe": "4e",
+      "chapitres": ["angles"],
+      "question": "Si deux droites parallèles forment avec une sécante un angle de \\(75°\\), que vaut son angle alterne-interne ? ",
+      "reponses": ["\\(75°\\)", "\\(100°\\)", "\\(105°\\)", "\\(85°\\)"],
+      "bonne_reponse": "\\(75°\\)"
+    },
+    {
+      "id": 24,
+      "classe": "4e",
+      "chapitres": ["fractions"],
+      "question": "\\(-\\dfrac{7}{9}-\\dfrac{11}{9}=\\ldots\\)",
+      "reponses": ["\\(\\dfrac{2}{9}\\)", "\\(2\\)", "\\(-\\dfrac{2}{9}\\)", "\\(-2\\)"],
+      "bonne_reponse": "\\(-2\\)"
     }
   ]
