@@ -420,6 +420,216 @@
     "bonne_reponse": "\\(1,8\\) cm"
   },
   {
+    "id": 5201801,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(9 \\times 5\\)",
+    "bonne_reponse": "\\(45\\)"
+  },
+  {
+    "id": 5201802,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(100-27\\)",
+    "bonne_reponse": "\\(73\\)"
+  },
+  {
+    "id": 5201803,
+    "classe": "5e",
+    "chapitres": ["heures"],
+    "question": "Départ : \\(13\\) h \\(40\\)<br>Arrivée : \\(15\\) h \\(17\\)<br>Quelle est la durée du trajet ?",
+    "bonne_reponse": "\\(1\\) h \\(37\\) min"
+  },
+  {
+    "id": 5201804,
+    "classe": "5e",
+    "chapitres": ["conversions"],
+    "question": "\\(0,4\\) km",
+    "bonne_reponse": "\\(0,4\\) km = \\(400\\) m"
+  },
+  {
+    "id": 5201805,
+    "classe": "5e",
+    "chapitres": ["fractions"],
+    "question": "\\(\\dfrac{3}{4}\\) de \\(20\\)",
+    "bonne_reponse": "\\(15\\)"
+  },
+  {
+    "id": 5201806,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(0,12+0,3\\)",
+    "bonne_reponse": "\\(0,42\\)"
+  },
+  {
+    "id": 5201807,
+    "classe": "5e",
+    "chapitres": ["aire"],
+    "question": "<img src='figures/5_2018_01.png' style='transform: scale(1); transform-origin: auto;' width='220' /><br><br>Aire de la figure \\(1\\)<br>\\(= \\ldots\\ldots\\) unités d'aire",
+    "bonne_reponse": "\\(31\\)"
+  },
+  {
+    "id": 5201808,
+    "classe": "5e",
+    "chapitres": ["proportionnalité"],
+    "question": "\\(6\\) brioches coûtent 15 €. Combien coûtent \\(9\\) brioches ?",
+    "bonne_reponse": "\\(22,5\\) €"
+  },
+  {
+    "id": 5201809,
+    "classe": "5e",
+    "chapitres": ["nombres"],
+    "question": "Ecriture décimale de \\(\\dfrac{15}{10~000}\\)",
+    "bonne_reponse": "\\(0,0015\\)"
+  },
+  {
+    "id": 5201810,
+    "classe": "5e",
+    "chapitres": ["pourcentages"],
+    "question": "\\(25 \\%\\) de \\(16\\)",
+    "bonne_reponse": "\\(4\\)"
+  },
+  {
+    "id": 5201811,
+    "classe": "5e",
+    "chapitres": ["nombres"],
+    "question": "<img src='figures/5_2018_02.png' style='transform: scale(1); transform-origin: auto;' width='220' /><br><br>Complète avec une écriture décimale.",
+    "bonne_reponse": "\\(1,25\\)"
+  },
+  {
+    "id": 5201812,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(29-9 \\times 2\\)",
+    "bonne_reponse": "\\(11\\)"
+  },
+  {
+    "id": 5201813,
+    "classe": "5e",
+    "chapitres": ["volumes"],
+    "question": "Quel est le volume, en litre, de ce pavé droit ?<img src='figures/5_2018_03.png' style='transform: scale(0.8); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(24~000\\) L"
+  },
+  {
+    "id": 5201814,
+    "classe": "5e",
+    "chapitres": ["heures"],
+    "question": "\\(2,5\\) h \\(= \\ldots\\) h \\(\\ldots\\) min",
+    "bonne_reponse": "\\(2\\) h \\(30\\) min"
+  },
+  {
+    "id": 5201815,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(12 \\times 99 + 12\\)",
+    "bonne_reponse": "\\(1~200\\)"
+  },
+  {
+    "id": 5201816,
+    "classe": "5e",
+    "chapitres": ["proportionnalité"],
+    "question": "Le triangle 2 est un agrandissement du triangle 1<br><img src='figures/5_2018_04.png' style='transform: scale(0.8); transform-origin: auto;' width='220' /><br>\\(? = \\ldots\\) cm",
+    "bonne_reponse": "\\(7,5\\) cm"
+  },
+  {
+    "id": 5201817,
+    "classe": "5e",
+    "chapitres": ["nombres"],
+    "question": "Ecriture décimale de \\(\\dfrac{15}{2}\\)",
+    "bonne_reponse": "\\(7,5\\)"
+  },
+  {
+    "id": 5201818,
+    "classe": "5e",
+    "chapitres": ["cercle"],
+    "question": "Quel est l'arrondi, au dixième, du périmètre de ce cercle ?<br><br><img src='figures/5_2018_05.png' style='transform: scale(1); transform-origin: auto;' width='120' />",
+    "bonne_reponse": "\\(31\\) cm"
+  },
+  {
+    "id": 5201819,
+    "classe": "5e",
+    "chapitres": ["pourcentages"],
+    "question": "Dans un bouquet de 50 fleurs, il y a 12 roses. Quel est le pourcentage de roses ?",
+    "bonne_reponse": "\\(24 \\%\\)"
+  },
+  {
+    "id": 5201820,
+    "classe": "5e",
+    "chapitres": ["fractions"],
+    "question": "Dans \\(\\dfrac{1}{3}\\) combien de fois \\(\\dfrac{1}{6}\\) ?",
+    "bonne_reponse": "\\(2\\)"
+  },
+  {
+    "id": 5201821,
+    "classe": "5e",
+    "chapitres": ["nombres"],
+    "question": "<img src='figures/5_2018_06.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(3,08\\)"
+  },
+  {
+    "id": 5201822,
+    "classe": "5e",
+    "chapitres": ["pourcentages"],
+    "question": "\\(10\\%\\) de \\(75\\)",
+    "bonne_reponse": "\\(7,5\\)"
+  },
+  {
+    "id": 5201823,
+    "classe": "5e",
+    "chapitres": ["périmètre"],
+    "question": "Quel est le périmètre de ce rectangle ?<br> <img src='figures/5_2018_07.png' style='transform: scale(0.5); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(14\\) cm"
+  },
+  {
+    "id": 5201824,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(12 \\times 2,5\\)",
+    "bonne_reponse": "\\(30\\)"
+  },
+  {
+    "id": 5201825,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "Ecriture décimale de \\(3,8+\\dfrac{2}{100}\\)",
+    "bonne_reponse": "\\(3,82\\)"
+  },
+  {
+    "id": 5201826,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(\\dfrac{1}{2} + \\ldots = 0,62\\)",
+    "bonne_reponse": "\\(\\dfrac{1}{2} + 0,12 = 0,62\\)"
+  },
+  {
+    "id": 5201827,
+    "classe": "5e",
+    "chapitres": ["proportionnalité"],
+    "question": "\\(1\\) kg de pommes coûte \\(2,50\\) €. Quel est le prix de \\(200\\) g de pommes ?",
+    "bonne_reponse": "\\(0,50\\) €"
+  },
+  {
+    "id": 5201828,
+    "classe": "5e",
+    "chapitres": ["fractions"],
+    "question": "Quel est le plus grand nombre ?<br><br>\\(\\qquad \\dfrac{7}{3}\\qquad \\dfrac{9}{4}\\qquad \\dfrac{11}{13}\\)",
+    "bonne_reponse": "\\(\\dfrac{7}{3}\\)"
+  },
+  {
+    "id": 5201829,
+    "classe": "5e",
+    "chapitres": ["vitesse"],
+    "question": "Un véhicule se déplace à<br>\\(80\\) km/h. Quelle distance parcourt-il en \\(1\\) h \\(15\\) min ?",
+    "bonne_reponse": "\\(100\\) km"
+  },
+  {
+    "id": 5201830,
+    "classe": "5e",
+    "chapitres": ["aire"],
+    "question": "Quelle est l'aire en cm\\(^2\\) de la figure représentée sur papier millimétré ?<img src='figures/5_2018_08.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(3,16\\) cm\\(^2\\)"
+  },
+  {
     "id": 3201601,
     "classe": "3e",
     "chapitres": ["nombres"],
@@ -906,7 +1116,7 @@
   {
     "id": 3201810,
     "classe": "3e",
-    "chapitres": ["fraction"],
+    "chapitres": ["fractions"],
     "question": "\\(25\\%\\) de \\(16\\)",
     "bonne_reponse": "\\(4\\)"
   },
@@ -934,7 +1144,7 @@
   {
     "id": 3201814,
     "classe": "3e",
-    "chapitres": ["fraction"],
+    "chapitres": ["fractions"],
     "question": "Le double de \\(\\dfrac{3}{7}\\)",
     "bonne_reponse": "\\(\\dfrac{6}{7}\\)"
   },
@@ -990,7 +1200,7 @@
   {
     "id": 3201822,
     "classe": "3e",
-    "chapitres": ["fraction"],
+    "chapitres": ["fractions"],
     "question": "\\(3+\\dfrac{2}{3}\\)",
     "bonne_reponse": "\\(\\dfrac{11}{3}\\)"
   },
@@ -1004,49 +1214,49 @@
   {
     "id": 3201824,
     "classe": "3e",
-    "chapitres": ["nombres","test"],
+    "chapitres": ["nombres"],
     "question": "Ordonnée de \\(A\\)<br><img src='figures/3_2018_04.png' style='transform: scale(0.8); transform-origin: auto;' width='220' />",
     "bonne_reponse": "\\(1,6\\)"
   },
   {
     "id": 3201825,
     "classe": "3e",
-    "chapitres": ["statistiques","test"],
-    "question": "Moyenne de<br>\\(~~-4 \\quad 7 \\quad 9\\)",
+    "chapitres": ["statistiques"],
+    "question": "Moyenne de \\(~~-4 \\quad 7 \\quad 9\\)",
     "bonne_reponse": "\\(4\\)"
   },
   {
     "id": 3201826,
     "classe": "3e",
-    "chapitres": ["conversions","test"],
+    "chapitres": ["conversions"],
     "question": "\\(2,3\\) m\\(^3=\\ldots\\) L",
     "bonne_reponse": "\\(2~300\\) L"
   },
   {
     "id": 3201827,
     "classe": "3e",
-    "chapitres": ["opérations","test"],
+    "chapitres": ["opérations"],
     "question": "\\(12 \\times 1,25\\)",
     "bonne_reponse": "\\(15\\)"
   },
   {
     "id": 3201828,
     "classe": "3e",
-    "chapitres": ["nombres","test"],
+    "chapitres": ["nombres"],
     "question": "Compléter par deux entiers consécutifs. \\(\\ldots \\lt \\sqrt{31} \\lt \\ldots\\)",
     "bonne_reponse": "\\(5 \\lt \\sqrt{31} \\lt 6\\)"
   },
   {
     "id": 3201829,
     "classe": "3e",
-    "chapitres": ["conversions","test"],
+    "chapitres": ["vitesse"],
     "question": "Un véhicule parcourt \\(60\\) km en \\(40\\) min. Quelle est sa vitesse moyenne ?",
     "bonne_reponse": "\\(90\\) km/h"
   },
   {
     "id": 3201830,
     "classe": "3e",
-    "chapitres": ["opérations","test"],
+    "chapitres": ["opérations"],
     "question": "\\(12 \\times 1,25\\)",
     "bonne_reponse": "\\(15\\)"
   }
