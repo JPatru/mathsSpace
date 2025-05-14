@@ -198,5 +198,53 @@
       "question": "\\(-\\dfrac{7}{9}-\\dfrac{11}{9}=\\ldots\\)",
       "reponses": ["\\(\\dfrac{2}{9}\\)", "\\(2\\)", "\\(-\\dfrac{2}{9}\\)", "\\(-2\\)"],
       "bonne_reponse": "\\(-2\\)"
+    },
+    {
+      "id": 25,
+      "classe": "4e",
+      "chapitres": ["fractions"],
+      "question": "Combien font \\(2+\\dfrac{1}{4}\\)",
+      "reponses": ["\\(\\dfrac{3}{4}\\)", "\\(\\dfrac{1}{6}\\)", "\\(\\dfrac{9}{4}\\)", "\\(\\dfrac{1}{2}\\)"],
+      "bonne_reponse": "\\(\\dfrac{9}{4}\\)"
+    },
+    {
+      "id": 26,
+      "classe": "4e",
+      "chapitres": ["calcul littéral"],
+      "question": "Que vaut l'expression \\(x^2 \\div 3\\) pour \\(x=6\\)",
+      "reponses": ["\\(24\\)", "\\(12\\)", "\\(20\\)", "\\(36\\)"],
+      "bonne_reponse": "\\(12\\)"
+    },
+    {
+      "id": 27,
+      "classe": "4e",
+      "chapitres": ["fractions"],
+      "question": "Quelle est la fraction égale à \\(\\dfrac{6}{8}\\)",
+      "reponses": ["\\(\\dfrac{48}{64}\\)", "\\(\\dfrac{2}{6}\\)", "\\(\\dfrac{13}{16}\\)", "\\(\\dfrac{1}{2}\\)"],
+      "bonne_reponse": "\\(\\dfrac{48}{64}\\)"
+    },
+    {
+      "id": 28,
+      "classe": "4e",
+      "chapitres": ["racines"],
+      "question": "Quelle est la racine impossible ?",
+      "reponses": ["\\(\\sqrt{\\dfrac{-28}{-3}}\\)", "\\(\\sqrt{-(-3)}\\)", "\\(\\sqrt{-2 \\times -6}\\)", "\\(\\sqrt{-280}\\)"],
+      "bonne_reponse": "\\(\\sqrt{-280}\\)"
+    },
+    {
+      "id": 29,
+      "classe": "4e",
+      "chapitres": ["puissances","test"],
+      "question": "Quelle est la fraction égale à \\(10^{-7}\\) ?",
+      "reponses": ["\\(\\dfrac{100}{10^{-7}}\\)", "\\(\\dfrac{1^{-6}}{10}\\)", "\\(\\dfrac{1}{10^7}\\)", "\\(\\dfrac{0,1}{10^{-7}}\\)"],
+      "bonne_reponse": "\\(\\dfrac{1}{10^7}\\)"
+    },
+    {
+      "id": 30,
+      "classe": "4e",
+      "chapitres": ["puissances","test"],
+      "question": "Quelle est la fraction égale à \\(10^{-7}\\) ?",
+      "reponses": ["\\(\\dfrac{100}{10^{-7}}\\)", "\\(\\dfrac{1^{-6}}{10}\\)", "\\(\\dfrac{1}{10^7}\\)", "\\(\\dfrac{0,1}{10^{-7}}\\)"],
+      "bonne_reponse": "\\(\\dfrac{1}{10^7}\\)"
     }
   ]
