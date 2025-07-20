@@ -1,41 +1,44 @@
 <template>
-  <div class="header-bar">
-    <h1>Maths Space</h1>
-  
-    <div class="controls-top-row">
-      <label>Classe :
-        <select v-model="selectedClasse">
-          <option value="">Toutes</option>
-          <option value="6e">6e</option>
-          <option value="5e">5e</option>
-          <option value="4e">4e</option>
-          <option value="3e">3e</option>
-        </select>
-      </label>
-  
-      <label>Nombre de questions :
-        <input type="number" v-model.number="questionCount" min="1" max="4" />
-      </label>
-      
-      <button @click="loadRandom" class="btn-generer">Générer</button>
-      <button @click="showChapitres = true" class="btn-chapitres">Chapitres</button>
+
+  <div class="home-header-row">
+
+    <div class="app-header-wrapper">
+      <AppHeader />
+    </div>
+
+    <div class="header-bar">
+    
+      <div class="controls-top-row">
+        <label>Classe :
+          <select v-model="selectedClasse">
+            <option value="">Toutes</option>
+            <option value="6e">6e</option>
+            <option value="5e">5e</option>
+            <option value="4e">4e</option>
+            <option value="3e">3e</option>
+          </select>
+        </label>
+    
+        <label>Nombre de questions :
+          <input type="number" v-model.number="questionCount" min="1" max="4" />
+        </label>
         
-  
-      <router-link to="/ajouter" class="button-link">
-        <span class="icon">＋</span> Ajouter une question
-      </router-link>
-      
+        <button @click="loadRandom" class="btn-generer">Générer</button>
+        <button @click="showChapitres = true" class="btn-chapitres">Chapitres</button>
+        
+      </div>
+    
+      <div class="quiz-selector">
+        <label>Choisir un quiz :  
+          <select v-model="selectedSet" @change="switchSet">
+            <option value="base">Général</option>
+            <option value="eleves">Par les élèves</option>
+            <option value="course">Course aux nombres</option>
+          </select>
+        </label>
+      </div>
     </div>
-  
-    <div class="quiz-selector">
-      <label>Choisir un quiz :  
-        <select v-model="selectedSet" @change="switchSet">
-          <option value="base">Général</option>
-          <option value="eleves">Par les élèves</option>
-          <option value="course">Course aux nombres</option>
-        </select>
-      </label>
-    </div>
+
   </div>
   
     
@@ -59,8 +62,9 @@
       <div class="questions-grid">
         <QuestionCard
           v-for="(q, idx) in questions"
-          :key="idx"
+          :key="q.id"
           :question="q"
+          @replace="replaceQuestion(idx)"
         />
       </div>
     </div>
@@ -74,6 +78,7 @@
   import eleves from '../data/eleves.json'
   import course from '../data/courseNombres.json'
   import QuestionCard from '../components/QuestionCard.vue'
+  import AppHeader from '../components/AppHeader.vue'
   declare global {
     interface Window {
       MathJax: any;
@@ -99,6 +104,27 @@
     store.loadRandomQuestions(questionCount.value, selectedClasse.value || null, chapitres)
     showChapitres.value = false
   }
+
+  function replaceQuestion(index: number) {
+  const chapitres = selectedChapitres.value
+  const filtered = store.questions.filter(q =>
+    (!selectedClasse.value || q.classe === selectedClasse.value) &&
+    (chapitres.length === 0 || chapitres.some(ch => q.chapitres.includes(ch))) &&
+    !questions.value.includes(q) // éviter les doublons visibles
+  )
+
+    if (filtered.length === 0) return
+
+    const newQuestion = filtered[Math.floor(Math.random() * filtered.length)]
+    questions.value.splice(index, 1, newQuestion)
+
+    setTimeout(() => {
+      if (window.MathJax?.typesetPromise) {
+        window.MathJax.typesetPromise()
+      }
+    }, 0)
+  }
+
 
   
   function switchSet() {
@@ -168,6 +194,23 @@
     color: #333;
     font-family: 'Inter', sans-serif;
     overflow-x: hidden;
+  }
+
+  .home-header-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+
+  .app-header-wrapper {
+    flex-shrink: 0;
+    max-width: 400px; /* ✅ limite la largeur */
+  }
+
+  .home-header-row .header-bar {
+    margin: 0;
   }
   
   h1 {

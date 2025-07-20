@@ -2,6 +2,7 @@ import { defineStore } from 'pinia'
 import questionsData from '../data/questions.json'
 
 export interface Question {
+  id: number;
   question: string;
   reponses?: string[];
   bonne_reponse: string;

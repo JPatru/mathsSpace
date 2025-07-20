@@ -1,5 +1,6 @@
 <template>
   <div class="question-card" @click="revealAnswer">
+    <button class="replace-btn" @click.stop="replace">↻</button>    
     <p v-html="question.question" class="question-text"></p>
 
     <ul v-if="question.reponses">
@@ -33,6 +34,14 @@ const props = defineProps<{
   }
 }>()
 
+const emit = defineEmits<{
+  (e: 'replace'): void
+}>()
+
+function replace() {
+  emit('replace')
+}
+
 const showAnswer = ref(false)
 function revealAnswer() {
   showAnswer.value = true
@@ -62,6 +71,8 @@ watch(() => props.question, () => {
   gap: 1rem;
   transition: box-shadow 0.2s ease-in-out;
   cursor: pointer;
+  position: relative;
+  overflow: visible;
 }
 
 .question-card:hover {
@@ -84,6 +95,22 @@ watch(() => props.question, () => {
   border: 1px solid #ccc;
   margin: 0.25rem 0;
   transition: background-color 0.2s ease-in-out;
+}
+
+.replace-btn {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  background: none;
+  border: none;
+  font-size: 1.2rem;
+  color: #999;
+  cursor: pointer;
+  transition: color 0.2s;
+}
+
+.replace-btn:hover {
+  color: #d33;
 }
 
 .correct {

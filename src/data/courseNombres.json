@@ -206,7 +206,7 @@
     "id": 5201630,
     "classe": "5e",
     "chapitres": ["opérations", "symétrie"],
-    "question": "Quelle est la somme de \\(215\\) de son symétrique et par rapport à \\((d)\\) ?<br><br><img src='figures/5_2016_06.png' style='transform: scale(0.8); transform-origin: auto;' width='220' />",
+    "question": "Quelle est la somme de \\(215\\) et de son symétrique et par rapport à \\((d)\\) ?<br><br><img src='figures/5_2016_06.png' style='transform: scale(0.8); transform-origin: auto;' width='220' />",
     "bonne_reponse": "\\(727\\)"
   },
   {
@@ -269,7 +269,7 @@
     "id": 5201709,
     "classe": "5e",
     "chapitres": ["périmètre"],
-    "question": "Le périmètre d'un carré mesure \\(48\\) cm. Quelle est la longueur de con coté ?",
+    "question": "Le périmètre d'un carré mesure \\(48\\) cm. Quelle est la longueur de son coté ?",
     "bonne_reponse": "\\(12\\) cm"
   },
   {
@@ -389,7 +389,7 @@
     "classe": "5e",
     "chapitres": ["opérations"],
     "question": "Yacine possède \\(30\\) €. Il donne les \\(\\dfrac{4}{5}\\) de cet argent à son frère. Combien lui reste-t-il ?",
-    "bonne_reponse": "\\(24\\) €"
+    "bonne_reponse": "\\(6\\) €"
   },
   {
     "id": 5201727,
@@ -628,6 +628,216 @@
     "chapitres": ["aire"],
     "question": "Quelle est l'aire en cm\\(^2\\) de la figure représentée sur papier millimétré ?<img src='figures/5_2018_08.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
     "bonne_reponse": "\\(3,16\\) cm\\(^2\\)"
+  },
+  {
+    "id": 5201901,
+    "classe": "5e",
+    "chapitres": ["tables"],
+    "question": "\\(9 \\times 7\\)",
+    "bonne_reponse": "\\(63\\)"
+  },
+  {
+    "id": 5201902,
+    "classe": "5e",
+    "chapitres": ["fractions"],
+    "question": "Le tiers de \\(12\\)",
+    "bonne_reponse": "\\(4\\)"
+  },
+  {
+    "id": 5201903,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(7 \\times 10~000 + 5 \\times 100\\)",
+    "bonne_reponse": "\\(70~500\\)"
+  },
+  {
+    "id": 5201904,
+    "classe": "5e",
+    "chapitres": ["pourcentages"],
+    "question": "\\(10 \\%\\) de \\(72\\)",
+    "bonne_reponse": "\\(7,2\\)"
+  },
+  {
+    "id": 5201905,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(5 \\times \\ldots = 60\\)",
+    "bonne_reponse": "\\(5 \\times 12 = 60\\)"
+  },
+  {
+    "id": 5201906,
+    "classe": "5e",
+    "chapitres": ["nombres","fractions"],
+    "question": "Ecriture décimale de \\(\\dfrac{145}{100}\\)",
+    "bonne_reponse": "\\(1,45\\)"
+  },
+  {
+    "id": 5201907,
+    "classe": "5e",
+    "chapitres": ["proportionnalité"],
+    "question": "\\(10\\) bonbons identiques coûtent \\(3\\) €. Combien coûtent \\(15\\) bonbons ?",
+    "bonne_reponse": "\\(4,5\\) €"
+  },
+  {
+    "id": 5201908,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "Quel est le reste de la division de \\(28\\) par \\(3\\)",
+    "bonne_reponse": "\\(28 = 9 \\times 3 + 1\\)"
+  },
+  {
+    "id": 5201909,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(4,16 \\div 2\\)",
+    "bonne_reponse": "\\(2,08\\)"
+  },
+  {
+    "id": 5201910,
+    "classe": "5e",
+    "chapitres": ["heures"],
+    "question": "Un train part à \\(12\\)h\\(45\\) et arrive à \\(14\\)h\\(17\\). Quelle est la durée du trajet ?<br><br>\\(\\ldots\\) h \\(\\ldots\\) min",
+    "bonne_reponse": "\\(1\\) h \\(32\\) min"
+  },
+  {
+    "id": 5201911,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(8,5+12,8,+1,5\\)",
+    "bonne_reponse": "\\(22,8\\)"
+  },
+  {
+    "id": 5201912,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(\\dfrac{1}{4}+ \\ldots = 0,75\\)",
+    "bonne_reponse": "\\(\\dfrac{1}{4}+ 0,5 = 0,75\\)"
+  },
+  {
+    "id": 5201913,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(4,1-1,4\\)",
+    "bonne_reponse": "\\(2,7\\)"
+  },
+  {
+    "id": 5201914,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(27-7 \\times 3\\)",
+    "bonne_reponse": "\\(6\\)"
+  },
+  {
+    "id": 5201915,
+    "classe": "5e",
+    "chapitres": ["pourcentages"],
+    "question": "\\(25 \\%\\) de \\(36\\)",
+    "bonne_reponse": "\\(9\\)"
+  },
+  {
+    "id": 5201916,
+    "classe": "5e",
+    "chapitres": ["nombres"],
+    "question": "Placer le point \\(A\\) d'abscisse \\(1,5\\)<br><br><img src='figures/5_2019_01.png' style='transform: scale(0.8); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "<img src='figures/5_2019_02.png' style='transform: scale(0.8); transform-origin: auto;' width='220' />"
+  },
+  {
+    "id": 5201917,
+    "classe": "5e",
+    "chapitres": ["triangles"],
+    "question": "<img src='figures/5_2019_03.png' style='transform: scale(1.1); transform-origin: auto; width='220';' />",
+    "bonne_reponse": "\\(? = 90 ^\\circ - 55 ^\\circ = 35 ^\\circ\\)"
+  },
+  {
+    "id": 5201918,
+    "classe": "5e",
+    "chapitres": ["calcul littéral"],
+    "question": "Que vaut \\(33~a\\), si \\(a\\) vaut \\(3\\) ?",
+    "bonne_reponse": "\\(33 \\times 3 = 99\\)"
+  },
+  {
+    "id": 5201919,
+    "classe": "5e",
+    "chapitres": ["calcul littéral"],
+    "question": "Volume de ce pavé droit<br><br><img src='figures/5_2019_04.png' style='transform: scale(0.8); transform-origin: auto; width='220';' /><br>\\(V= \\ldots \\) cm\\(^3\\)",
+    "bonne_reponse": "\\(V = 84\\) cm\\(^3\\)"
+  },
+  {
+    "id": 5201920,
+    "classe": "5e",
+    "chapitres": ["calcul littéral"],
+    "question": "\\(0,5\\) m\\(^3= \\ldots\\) L",
+    "bonne_reponse": "\\(0,5\\) m\\(^3= 500\\) L"
+  },
+  {
+    "id": 5201921,
+    "classe": "5e",
+    "chapitres": ["fractions"],
+    "question": "Quelle fraction de cette figure est grisée ?<br><br><img src='figures/5_2019_05.png' style='transform: scale(0.8); transform-origin: auto; width='220';' />",
+    "bonne_reponse": "\\(\\dfrac{4}{10}=\\dfrac{2}{5}\\)"
+  },
+  {
+    "id": 5201922,
+    "classe": "5e",
+    "chapitres": ["fractions"],
+    "question": "\\(\\dfrac{3}{5}\\) de \\(40\\)",
+    "bonne_reponse": "\\(24\\)"
+  },
+  {
+    "id": 5201923,
+    "classe": "5e",
+    "chapitres": ["aire"],
+    "question": "Aire du triangle<br><br><img src='figures/5_2019_06.png' style='transform: scale(0.8); transform-origin: auto; width='220';' />",
+    "bonne_reponse": "\\(\\dfrac{7 \\times 5}{2}=17,5\\) cm\\(^2\\)"
+  },
+  {
+    "id": 5201924,
+    "classe": "5e",
+    "chapitres": ["vitesse"],
+    "question": "Un cycliste parcourt \\(6\\) km en \\(15\\) minutes. Quelle est sa vitesse en km/h ?",
+    "bonne_reponse": "\\(24\\) km/h"
+  },
+  {
+    "id": 5201925,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(24 \\times 1,5\\)",
+    "bonne_reponse": "\\(36\\)"
+  },
+  {
+    "id": 5201926,
+    "classe": "5e",
+    "chapitres": ["aire"],
+    "question": "<img src='figures/5_2019_07.png' style='transform: scale(1); transform-origin: auto; width='220';' />",
+    "bonne_reponse": "\\(? = 0,5\\) m"
+  },
+  {
+    "id": 5201927,
+    "classe": "5e",
+    "chapitres": ["nombres"],
+    "question": "Donner le plus petit entier supérieur à \\(1126\\) qui soit divisible par \\(3\\)",
+    "bonne_reponse": "\\(1128\\)"
+  },
+  {
+    "id": 5201928,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(2,5 \\times 7 + 2,5 \\times 4\\)",
+    "bonne_reponse": "\\(27,5\\)"
+  },
+  {
+    "id": 5201929,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(101 \\times 72\\)",
+    "bonne_reponse": "\\(7272\\)"
+  },
+  {
+    "id": 5201930,
+    "classe": "5e",
+    "chapitres": ["nombres","fractions"],
+    "question": "Ecriture décimale de \\(\\dfrac{21}{4}\\)",
+    "bonne_reponse": "\\(5,25\\)"
   },
   {
     "id": 3201601,
@@ -936,7 +1146,7 @@
     "classe": "3e",
     "chapitres": ["statistiques"],
     "question": "Moyenne des nombres<br>\\(~~12,2 \\quad -1 \\quad 6,8\\)",
-    "bonne_reponse": "\\(3\\)"
+    "bonne_reponse": "\\(6\\)"
   },
   {
     "id": 3201715,
