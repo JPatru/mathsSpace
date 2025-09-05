@@ -1,0 +1,16 @@
+[
+    {
+      "id": 60001,
+      "classe": "6e",
+      "chapitres": ["entiers"],
+      "question": "\\(18 +~? = 100\\)",
+      "bonne_reponse": "\\(18 + {\\color{#228B22}{82}} = 100\\)"
+    },
+    {
+      "id": 60002,
+      "classe": "6e",
+      "chapitres": ["entiers"],
+      "question": "\\(1000 - 640 =~?\\)",
+      "bonne_reponse": "\\(1000 - 640 = {\\color{#228B22}{360}}\\)"
+    }
+]

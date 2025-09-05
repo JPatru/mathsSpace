@@ -1,5 +1,425 @@
 [
   {
+    "id": 6201601,
+    "classe": "6e",
+    "chapitres": ["nombres","opérations"],
+    "question": "\\(5 \\times 9\\)",
+    "bonne_reponse": "\\(45\\)"
+  },
+  {
+    "id": 6201602,
+    "classe": "6e",
+    "chapitres": ["nombres","opérations"],
+    "question": "\\(27-8\\)",
+    "bonne_reponse": "\\(19\\)"
+  },
+  {
+    "id": 6201603,
+    "classe": "6e",
+    "chapitres": ["nombres","opérations"],
+    "question": "Le triple de \\(8\\)",
+    "bonne_reponse": "\\(24\\)"
+  },
+  {
+    "id": 6201604,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Le chiffre des dixièmes de \\(157,32\\)",
+    "bonne_reponse": "\\(3\\)"
+  },
+  {
+    "id": 6201605,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "\\((7 \\times 1000)+(8 \\times 10)\\)\\(+(9 \\times 1)\\)",
+    "bonne_reponse": "\\(7~089\\)"
+  },
+  {
+    "id": 6201606,
+    "classe": "6e",
+    "chapitres": ["nombres","opérations"],
+    "question": "La moitié de \\(126\\)",
+    "bonne_reponse": "\\(63\\)"
+  },
+  {
+    "id": 6201607,
+    "classe": "6e",
+    "chapitres": ["nombres","opérations"],
+    "question": "\\(0,12 + 0,5\\)",
+    "bonne_reponse": "\\(0,62\\)"
+  },
+  {
+    "id": 6201608,
+    "classe": "6e",
+    "chapitres": ["nombres","opérations"],
+    "question": "Compléter : \\(100 - \\ldots  =87\\)",
+    "bonne_reponse": "\\(13\\)"
+  },
+  {
+    "id": 6201609,
+    "classe": "6e",
+    "chapitres": ["proportionnalité"],
+    "question": "\\(2\\) kg de pommes coûtent \\(5\\) €. Quel est le prix de \\(6\\) kg ?",
+    "bonne_reponse": "\\(15\\) €"
+  },
+  {
+    "id": 6201610,
+    "classe": "6e",
+    "chapitres": ["heures"],
+    "question": "\\(1\\) h \\(20\\) min - \\(40\\) min",
+    "bonne_reponse": "\\(40\\) min"
+  },
+  {
+    "id": 6201611,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Quelle est l’abscisse de \\(A\\) ?<br><img src='figures/6_2016_01.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(\\dfrac{3}{8}\\)"
+  },
+  {
+    "id": 6201612,
+    "classe": "6e",
+    "chapitres": ["unités"],
+    "question": "\\(2,3\\) km \\(= \\ldots\\) m",
+    "bonne_reponse": "\\(2~300\\) m"
+  },
+  {
+    "id": 6201613,
+    "classe": "6e",
+    "chapitres": ["fractions"],
+    "question": "Quelle est la fraction de la figure qui est grisée ?<br><br><img src='figures/6_2016_02.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(\\dfrac{3}{8}\\)"
+  },
+  {
+    "id": 6201614,
+    "classe": "6e",
+    "chapitres": ["nombres","fractions"],
+    "question": "Ecriture décimale de \\(3 + \\dfrac{7}{10} + \\dfrac{9}{1000}\\)",
+    "bonne_reponse": "\\(3,709\\)"
+  },
+  {
+    "id": 6201615,
+    "classe": "6e",
+    "chapitres": ["pourcentages"],
+    "question": "\\(50~\\%\\) de \\(110\\)",
+    "bonne_reponse": "\\(55\\)"
+  },
+  {
+    "id": 6201616,
+    "classe": "6e",
+    "chapitres": ["périmètre"],
+    "question": "<img src='figures/6_2016_03.png' style='transform: scale(0.8); transform-origin: auto;' width='220' /><br><br>Le périmètre de ce triangle est égal à \\(\\ldots \\ldots\\) cm",
+    "bonne_reponse": "\\(5\\) cm"
+  },
+  {
+    "id": 6201617,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "Yacine mesure \\(1,52\\) m. Il mesure \\(13\\) cm de plus que Pierre. Quelle est la taille de Pierre ?",
+    "bonne_reponse": "\\(1,39\\) m"
+  },
+  {
+    "id": 6201618,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "Dans \\(420\\) combien de fois \\(60\\) ?",
+    "bonne_reponse": "\\(7\\)"
+  },
+  {
+    "id": 6201619,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "Compléter<br><br> \\(6,1 + \\ldots \\ldots = 10\\)",
+    "bonne_reponse": "\\(3,9\\)"
+  },
+  {
+    "id": 6201620,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(25 \\times 17 \\times 4\\)",
+    "bonne_reponse": "\\(1~700\\)"
+  },
+  {
+    "id": 6201621,
+    "classe": "6e",
+    "chapitres": ["heures"],
+    "question": "\\(250\\) min = \\(\\ldots\\) h \\(\\ldots\\) min",
+    "bonne_reponse": "\\(4\\) h \\(10\\) min"
+  },
+  {
+    "id": 6201622,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Quelle est l’abscisse de \\(A\\) ?<br><br><img src='figures/6_2016_04.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(3,07\\)"
+  },
+  {
+    "id": 6201623,
+    "classe": "6e",
+    "chapitres": ["proportionnalité"],
+    "question": "\\(12\\) petits pains au chocolat coûtent \\(15\\) €. Combien coûtent \\(18\\) petits pains ?",
+    "bonne_reponse": "\\(22,50\\) €"
+  },
+  {
+    "id": 6201624,
+    "classe": "6e",
+    "chapitres": ["nombres","opérations"],
+    "question": "Compléter : \\(12 \\times \\ldots = 6\\)",
+    "bonne_reponse": "\\(0,5\\)"
+  },
+  {
+    "id": 6201625,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "Le produit de \\(278\\) par \\(0,1\\)",
+    "bonne_reponse": "\\(27,8\\)"
+  },
+  {
+    "id": 6201626,
+    "classe": "6e",
+    "chapitres": ["fractions"],
+    "question": "Encadrer \\(\\dfrac{17}{3}\\) entre deux entiers consécutifs<br><br>\\(\\ldots < \\dfrac{17}{3} < \\ldots\\)",
+    "bonne_reponse": "\\(5 < \\dfrac{17}{3} < 6\\)"
+  },
+  {
+    "id": 6201627,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(1,7 + 12,51 + 8,3\\)",
+    "bonne_reponse": "\\(22,51\\)"
+  },
+  {
+    "id": 6201628,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "<img src='figures/6_2016_05.png' style='transform: scale(1); transform-origin: auto;' width='220' /><br><br>\\(AB = \\ldots \\ldots \\ldots \\) cm",
+    "bonne_reponse": "\\(AB = 2,25 \\) cm"
+  },
+  {
+    "id": 6201629,
+    "classe": "6e",
+    "chapitres": ["pourcentages"],
+    "question": "\\(15~\\%\\) de \\(80\\)",
+    "bonne_reponse": "\\(12\\)"
+  },
+  {
+    "id": 6201630,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(2~000~000 - 30~000\\)",
+    "bonne_reponse": "\\(1~970~000\\)"
+  },
+  {
+    "id": 6201701,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(8 \\times 8\\)",
+    "bonne_reponse": "\\(64\\) "
+  },
+  {
+    "id": 6201702,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "La moitié de \\(32\\)",
+    "bonne_reponse": "\\(16\\) "
+  },
+  {
+    "id": 6201703,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "\\((6 \\times 1000) + (3 \\times 10)\\)",
+    "bonne_reponse": "\\(6~030\\) "
+  },
+  {
+    "id": 6201704,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Complète :<br><br><img src='figures/6_2017_01.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(38\\) "
+  },
+  {
+    "id": 6201705,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(27-9\\)",
+    "bonne_reponse": "\\(18\\) "
+  },
+  {
+    "id": 6201706,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(100-19\\)",
+    "bonne_reponse": "\\(81\\) "
+  },
+  {
+    "id": 6201707,
+    "classe": "6e",
+    "chapitres": ["heures"],
+    "question": "Ajoute un quart-heure <br> à \\(2\\) h \\(50\\) min",
+    "bonne_reponse": "\\(3\\) h \\(05\\) min"
+  },
+  {
+    "id": 6201708,
+    "classe": "6e",
+    "chapitres": ["fractions"],
+    "question": "A quelle fraction de \\(u\\) correspond la partie grisée ?<br><br><img src='figures/6_2017_02.png' style='transform: scale(0.6); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(\\dfrac{4}{3}\\) "
+  },
+  {
+    "id": 6201709,
+    "classe": "6e",
+    "chapitres": ["proportionnalité"],
+    "question": "\\(12\\) feutres coûtent \\(6\\) €.<br>Combien coûtent \\(6\\) feutres ?",
+    "bonne_reponse": "\\(3\\) €"
+  },
+  {
+    "id": 6201710,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "Complète \\(77-\\ldots = 50\\)",
+    "bonne_reponse": "\\(27\\) "
+  },
+  {
+    "id": 6201711,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "Complète : \\(59 \\times \\ldots = 5,9\\)",
+    "bonne_reponse": "\\(0,1\\) "
+  },
+  {
+    "id": 6201712,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Combien d’unités font \\(90\\) dizaines et \\(2\\) centaines ?",
+    "bonne_reponse": "\\(1~100\\) "
+  },
+  {
+    "id": 6201713,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "Combien faut-il de pièces de \\(10\\) centimes pour avoir \\(2,90\\) € ?",
+    "bonne_reponse": "\\(29\\) "
+  },
+  {
+    "id": 6201714,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(0,5 \\times 7\\)",
+    "bonne_reponse": "\\(3,5\\) "
+  },
+  {
+    "id": 6201715,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(42\\) élèves se mettent par groupe de \\(3\\).<br>Combien y-a-t-il de groupes ?",
+    "bonne_reponse": "\\(14\\) "
+  },
+  {
+    "id": 6201716,
+    "classe": "6e",
+    "chapitres": ["unités"],
+    "question": "Complète : \\(166\\) cm \\(= \\ldots\\) m",
+    "bonne_reponse": "\\(166\\) cm \\(= 1,66\\) m"
+  },
+  {
+    "id": 6201717,
+    "classe": "6e",
+    "chapitres": ["périmètre"],
+    "question": "Le périmètre de ce triangle équilatéral est de \\(22,5\\) cm.<br><img src='figures/6_2017_03.png' style='transform: scale(0.6); transform-origin: auto;' width='220' /> <br>Complète.",
+    "bonne_reponse": "\\(7,5\\) cm"
+  },
+  {
+    "id": 6201718,
+    "classe": "6e",
+    "chapitres": ["fractions"],
+    "question": "Complète :<br><br>\\(2+\\dfrac{3}{10}+\\ldots=2,8\\)",
+    "bonne_reponse": "\\(2+\\dfrac{3}{10}+0,5=2,8\\)"
+  },
+  {
+    "id": 6201719,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "Dans \\(150\\) combien de fois \\(25\\) ?",
+    "bonne_reponse": "\\(6\\) fois"
+  },
+  {
+    "id": 6201720,
+    "classe": "6e",
+    "chapitres": ["fractions"],
+    "question": "Quel est le plus grand nombre entre \\(1,3\\) et \\(\\dfrac{7}{8}\\)",
+    "bonne_reponse": "\\(1,3\\)"
+  },
+  {
+    "id": 6201721,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(30 \\div 2\\)",
+    "bonne_reponse": "\\(15\\) "
+  },
+  {
+    "id": 6201722,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(30 \\div 4\\)",
+    "bonne_reponse": "\\(7,5\\) "
+  },
+  {
+    "id": 6201723,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Complète :<br><br><img src='figures/6_2017_04.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(32,7\\) "
+  },
+  {
+    "id": 6201724,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Complète par un nombre décimal :<br><br>\\(19,8 < \\ldots < 19,9\\)",
+    "bonne_reponse": "Plusieurs réponses possibles<br><br>\\(19,81~;~19,82~;~19,83\\ldots\\) "
+  },
+  {
+    "id": 6201725,
+    "classe": "6e",
+    "chapitres": ["heures"],
+    "question": "Ajoute \\(55\\) min à \\(3\\) h \\(46\\) min.",
+    "bonne_reponse": "\\(4\\) h \\(41\\) min"
+  },
+  {
+    "id": 6201726,
+    "classe": "6e",
+    "chapitres": ["unités"],
+    "question": "Complète : \\(1,2\\) kg \\(= \\ldots\\) g",
+    "bonne_reponse": "\\(1~200\\) g"
+  },
+  {
+    "id": 6201727,
+    "classe": "6e",
+    "chapitres": ["proportionnalité"],
+    "question": "\\(3\\) croissants coûtent \\(3,15\\) €.<br>Combien coûte un croissant ?",
+    "bonne_reponse": "\\(1,05\\) €"
+  },
+  {
+    "id": 6201728,
+    "classe": "6e",
+    "chapitres": ["unités"],
+    "question": "Complète :<br>\\(750\\) mL \\(+ \\ldots\\) mL \\(= 1\\) L",
+    "bonne_reponse": "\\(750\\) mL \\(+ 250\\) mL \\(= 1\\) L"
+  },
+  {
+    "id": 6201729,
+    "classe": "6e",
+    "chapitres": ["proportionnalité"],
+    "question": "Il faut \\(6\\) œufs pour faire des crêpes pour \\(9\\) personnes.<br>Combien faut-il d’œufs pour \\(12\\) personnes ?",
+    "bonne_reponse": "\\(8\\) œufs"
+  },
+  {
+    "id": 6201730,
+    "classe": "6e",
+    "chapitres": ["aire"],
+    "question": "<img src='figures/6_2017_05.png' style='transform: scale(1); transform-origin: auto;' width='220' /><br><br>La figure 1 a une aire de \\(36\\) cm\\(^2\\). Quelle est l’aire de la figure 2 ?",
+    "bonne_reponse": "\\(36\\) cm\\(^2\\)"
+  },
+  {
     "id": 5201601,
     "classe": "5e",
     "chapitres": ["nombres"],
@@ -233,7 +653,7 @@
   {
     "id": 5201704,
     "classe": "5e",
-    "chapitres": ["conversions"],
+    "chapitres": ["unités"],
     "question": "\\(1,2\\) kg \\(= \\ldots\\) g",
     "bonne_reponse": "\\(1~200\\) g"
   },
@@ -408,7 +828,7 @@
   {
     "id": 5201729,
     "classe": "5e",
-    "chapitres": ["conversions"],
+    "chapitres": ["unités"],
     "question": "\\(2\\) cm\\(^2 + 7\\) mm\\(^2=\\ldots\\) cm\\(^2\\)",
     "bonne_reponse": "\\(2,07\\) cm\\(^2\\)"
   },
@@ -443,7 +863,7 @@
   {
     "id": 5201804,
     "classe": "5e",
-    "chapitres": ["conversions"],
+    "chapitres": ["unités"],
     "question": "\\(0,4\\) km",
     "bonne_reponse": "\\(0,4\\) km = \\(400\\) m"
   },
@@ -773,7 +1193,7 @@
     "id": 5201921,
     "classe": "5e",
     "chapitres": ["fractions"],
-    "question": "Quelle fraction de cette figure est grisée ?<br><br><img src='figures/5_2019_05.png' style='transform: scale(0.8); transform-origin: auto; width='220';' />",
+    "question": "Quelle fraction de cette figure est grisée ?<br><br><img src='figures/5_2019_02.png' style='transform: scale(0.8); transform-origin: auto; width='220';' />",
     "bonne_reponse": "\\(\\dfrac{4}{10}=\\dfrac{2}{5}\\)"
   },
   {
@@ -1074,7 +1494,7 @@
   {
     "id": 3201704,
     "classe": "3e",
-    "chapitres": ["conversions"],
+    "chapitres": ["unités"],
     "question": "\\(1,2\\) kg \\(=\\ldots\\) g",
     "bonne_reponse": "\\(1~200\\) g"
   },
@@ -1249,7 +1669,7 @@
   {
     "id": 3201729,
     "classe": "3e",
-    "chapitres": ["conversions"],
+    "chapitres": ["unités"],
     "question": "Convertir \\(10\\) m/s en km/h.",
     "bonne_reponse": "\\(36\\) km/h"
   },
@@ -1284,7 +1704,7 @@
   {
     "id": 3201804,
     "classe": "3e",
-    "chapitres": ["conversions"],
+    "chapitres": ["unités"],
     "question": "\\(0,4\\) km \\(=\\ldots\\) m",
     "bonne_reponse": "\\(400\\) m"
   },
@@ -1438,7 +1858,7 @@
   {
     "id": 3201826,
     "classe": "3e",
-    "chapitres": ["conversions"],
+    "chapitres": ["unités"],
     "question": "\\(2,3\\) m\\(^3=\\ldots\\) L",
     "bonne_reponse": "\\(2~300\\) L"
   },

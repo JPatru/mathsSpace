@@ -1,0 +1,521 @@
+[
+    {
+      "id": 60001,
+      "classe": "6e",
+      "chapitres": ["Nombres"],
+      "question": "Combien de millièmes d'unité y a-t-il dans une unité ? Traduire par une égalité.",
+      "bonne_reponse": "Il Y a \\(1~000\\) millièmes d'unité dans une unité : \\(1~000 \\times 0,001 = 1\\)"
+    },
+    {
+      "id": 60002,
+      "classe": "6e",
+      "chapitres": ["Nombres"],
+      "question": "Combien de centièmes d'unité y a-t-il dans un dixième d'unité ? Traduire par une égalité.",
+      "bonne_reponse": "Il Y a \\(10\\) centièmes d'unité dans un dixième d'unité : \\(10 \\times 0,01 = 0,1\\)"
+    },
+    {
+      "id": 60003,
+      "classe": "6e",
+      "chapitres": ["Nombres"],
+      "question": "L'aire totale du carré vaut 1. Ecris une fraction décimale correspondant à la partie colorée.<br><br><img src='figures/60003.png' style='transform: scale(1); transform-origin: auto;' width='155' />",
+      "bonne_reponse": "\\(\\color{#228B22}{\\dfrac{1}{10}}\\)"
+    },
+    {
+      "id": 60004,
+      "classe": "6e",
+      "chapitres": ["Nombres"],
+      "question": "L'aire totale du carré vaut 1. Ecris une fraction décimale correspondant à la partie colorée.<br><br><img src='figures/60004.png' style='transform: scale(1); transform-origin: auto;' width='155' /><br><br> \\(\\dfrac{\\ldots}{100}=\\dfrac{\\ldots}{10}\\)",
+      "bonne_reponse": "\\(\\color{#228B22}{\\dfrac{40}{100}=\\dfrac{4}{10}}\\)"
+    },
+    {
+      "id": 60005,
+      "classe": "6e",
+      "chapitres": ["Nombres"],
+      "question": "L'aire totale du carré vaut 1. Ecris une fraction décimale correspondant à la partie colorée.<br><br><img src='figures/60005.png' style='transform: scale(1); transform-origin: auto;' width='155' />",
+      "bonne_reponse": "\\(\\color{#228B22}{\\dfrac{16}{100}}\\)"
+    },
+    {
+      "id": 60006,
+      "classe": "6e",
+      "chapitres": ["Nombres"],
+      "question": "L'aire totale du carré vaut 1. Ecris la somme d'un entier et d'une fraction décimale correspondant à la partie colorée.<br><br><img src='figures/60006.png' style='transform: scale(1); transform-origin: auto;' width='220' /><br><br> \\(\\dfrac{\\ldots}{\\ldots}=1+\\dfrac{\\ldots}{\\ldots}\\)",
+      "bonne_reponse": "\\(\\color{#228B22}{\\dfrac{14}{10}=1+\\dfrac{4}{10}}\\)"
+    },
+    {
+      "id": 60007,
+      "classe": "6e",
+      "chapitres": ["Nombres"],
+      "question": "L'aire totale du carré vaut 1. Ecris la somme d'un entier et d'une fraction décimale correspondant à la partie colorée.<br><br><img src='figures/60007.png' style='transform: scale(1); transform-origin: auto;' width='220' /><br><br> \\(\\dfrac{\\ldots}{\\ldots}=\\ldots+\\dfrac{\\ldots}{\\ldots}\\)",
+      "bonne_reponse": "\\(\\color{#228B22}{\\dfrac{146}{100}=1+\\dfrac{46}{100}}\\)"
+    },
+    {
+      "id": 60008,
+      "classe": "6e",
+      "chapitres": ["Nombres"],
+      "question": "Quels sont les nombres égaux à \\(\\dfrac{7}{10}\\) ?<br><br>\\(\\dfrac{700}{100}~~\\dfrac{70}{10}~~\\dfrac{700}{1~000}~~\\dfrac{70}{100}~~\\dfrac{70}{1~000}\\)",
+      "bonne_reponse": "\\(\\color{#228B22}{\\dfrac{700}{1~000}~~~~\\dfrac{70}{100}}\\)"
+    },
+    {
+      "id": 60009,
+      "classe": "6e",
+      "chapitres": ["Nombres"],
+      "question": "\\(1=\\dfrac{\\ldots}{10}\\)",
+      "bonne_reponse": "\\(1=\\dfrac{\\color{#228B22}{10}}{10}\\)"
+    },
+    {
+      "id": 60010,
+      "classe": "6e",
+      "chapitres": ["Nombres"],
+      "question": "\\(8=\\dfrac{\\ldots}{100}\\)",
+      "bonne_reponse": "\\(8=\\dfrac{\\color{#228B22}{800}}{100}\\)"
+    },
+    {
+      "id": 60011,
+      "classe": "6e",
+      "chapitres": ["Nombres"],
+      "question": "\\(\\dfrac{160}{100}=\\dfrac{\\ldots}{10}\\)",
+      "bonne_reponse": "\\(\\dfrac{160}{100}=\\dfrac{\\color{#228B22}{16}}{10}\\)"
+    },
+    {
+      "id": 60012,
+      "classe": "6e",
+      "chapitres": ["Nombres"],
+      "question": "\\(\\dfrac{9}{10}=\\dfrac{\\ldots}{1~000}\\)",
+      "bonne_reponse": "\\(\\dfrac{9}{10}=\\dfrac{\\color{#228B22}{900}}{1~000}\\)"
+    },
+    {
+      "id": 60013,
+      "classe": "6e",
+      "chapitres": ["Nombres"],
+      "question": "\\(\\dfrac{17}{10}=\\dfrac{\\ldots}{100}\\)",
+      "bonne_reponse": "\\(\\dfrac{17}{10}=\\dfrac{\\color{#228B22}{170}}{100}\\)"
+    },
+    {
+      "id": 60014,
+      "classe": "6e",
+      "chapitres": ["Nombres"],
+      "question": "\\(\\dfrac{32}{100}=\\dfrac{\\ldots}{1~000}\\)",
+      "bonne_reponse": "\\(\\dfrac{32}{100}=\\dfrac{\\color{#228B22}{320}}{1~000}\\)"
+    },
+    {
+      "id": 60015,
+      "classe": "6e",
+      "chapitres": ["Nombres"],
+      "question": "Quelles sont les expressions égales à \\(7,34\\) ?<br><br>\\(\\dfrac{734}{100}~~;~~7+\\dfrac{34}{10}~~;~~7+\\dfrac{34}{100}\\)<br><br>\\(\\dfrac{734}{1~000}~~;~~7+\\dfrac{3}{10}+\\dfrac{4}{100}\\)",
+      "bonne_reponse": "\\(\\color{#228B22}{\\dfrac{734}{100}~~;~~7+\\dfrac{34}{100}}\\)<br><br>\\(\\color{#228B22}{7+\\dfrac{3}{10}+\\dfrac{4}{100}}\\)"
+    },
+    {
+      "id": 60016,
+      "classe": "6e",
+      "chapitres": ["Nombres"],
+      "question": "Donne une écriture décimale de<br><br>\\(\\dfrac{65}{10}\\)",
+      "bonne_reponse": "\\(\\dfrac{65}{10}=\\color{#228B22}{6,5}\\)"
+    },
+    {
+      "id": 60017,
+      "classe": "6e",
+      "chapitres": ["Nombres"],
+      "question": "Donne une écriture décimale de<br><br>\\(\\dfrac{485}{1~000}\\)",
+      "bonne_reponse": "\\(\\dfrac{485}{1~000}=\\color{#228B22}{0,485}\\)"
+    },
+    {
+      "id": 60018,
+      "classe": "6e",
+      "chapitres": ["Nombres"],
+      "question": "Donne une écriture décimale de<br><br>\\(\\dfrac{1~328}{100}\\)",
+      "bonne_reponse": "\\(\\dfrac{1~328}{100}=\\color{#228B22}{1,328}\\)"
+    },
+    {
+      "id": 60019,
+      "classe": "6e",
+      "chapitres": ["Nombres"],
+      "question": "Donne une écriture décimale de<br><br>\\(\\dfrac{9~007}{1~000}\\)",
+      "bonne_reponse": "\\(\\dfrac{9~007}{1~000}=\\color{#228B22}{9,007}\\)"
+    },
+    {
+      "id": 60020,
+      "classe": "6e",
+      "chapitres": ["Nombres"],
+      "question": "Donne une écriture décimale de<br><br>\\(\\dfrac{33}{100}\\)",
+      "bonne_reponse": "\\(\\dfrac{33}{100}=\\color{#228B22}{0,33}\\)"
+    },
+    {
+      "id": 60021,
+      "classe": "6e",
+      "chapitres": ["Nombres"],
+      "question": "Donne une écriture décimale de<br><br>\\(\\dfrac{480~208}{10~000}\\)",
+      "bonne_reponse": "\\(\\dfrac{480~208}{10~000}=\\color{#228B22}{48,0208}\\)"
+    },
+    {
+      "id": 60022,
+      "classe": "6e",
+      "chapitres": ["Nombres"],
+      "question": "Ecris sous la forme d'une fraction décimale<br><br>\\(0,3=\\dfrac{\\ldots}{\\ldots}\\)",
+      "bonne_reponse": "\\(0,3=\\color{#228B22}{\\dfrac{3}{10}}\\)"
+    },
+    {
+      "id": 60023,
+      "classe": "6e",
+      "chapitres": ["Nombres"],
+      "question": "Ecris sous la forme d'une fraction décimale<br><br>\\(0,27=\\dfrac{\\ldots}{\\ldots}\\)",
+      "bonne_reponse": "\\(0,27=\\color{#228B22}{\\dfrac{27}{100}}\\)"
+    },
+    {
+      "id": 60023,
+      "classe": "6e",
+      "chapitres": ["Nombres"],
+      "question": "Ecris sous la forme d'une fraction décimale<br><br>\\(4,2=\\dfrac{\\ldots}{\\ldots}\\)",
+      "bonne_reponse": "\\(4,2=\\color{#228B22}{\\dfrac{42}{10}}\\)"
+    },
+    {
+      "id": 60024,
+      "classe": "6e",
+      "chapitres": ["Nombres"],
+      "question": "Ecris sous la forme d'une fraction décimale<br><br>\\(1,02=\\dfrac{\\ldots}{\\ldots}\\)",
+      "bonne_reponse": "\\(102=\\color{#228B22}{\\dfrac{102}{100}}\\)"
+    },
+    {
+      "id": 60025,
+      "classe": "6e",
+      "chapitres": ["Nombres"],
+      "question": "Ecris sous la forme d'une fraction décimale<br><br>\\(5,035=\\dfrac{\\ldots}{\\ldots}\\)",
+      "bonne_reponse": "\\(5,035=\\color{#228B22}{\\dfrac{5035}{1000}}\\)"
+    },
+    {
+      "id": 60026,
+      "classe": "6e",
+      "chapitres": ["Nombres"],
+      "question": "Ecris sous la forme d'une fraction décimale<br><br>\\(7,607~7=\\dfrac{\\ldots}{\\ldots}\\)",
+      "bonne_reponse": "\\(7,607~7=\\color{#228B22}{\\dfrac{76~077}{10~000}}\\)"
+    },
+    {
+      "id": 60027,
+      "classe": "6e",
+      "chapitres": ["Nombres"],
+      "question": "Ecris sous la forme d'une fraction décimale<br><br>\\(12,9=\\dfrac{\\ldots}{\\ldots}\\)",
+      "bonne_reponse": "\\(12,9=\\color{#228B22}{\\dfrac{129}{10}}\\)"
+    },
+    {
+      "id": 60028,
+      "classe": "6e",
+      "chapitres": ["Nombres"],
+      "question": "Ecris sous la forme d'une fraction décimale<br><br>\\(5,62=\\dfrac{\\ldots}{\\ldots}\\)",
+      "bonne_reponse": "\\(5,62=\\color{#228B22}{\\dfrac{5,62}{100}}\\)"
+    },
+    {
+      "id": 60029,
+      "classe": "6e",
+      "chapitres": ["Nombres"],
+      "question": "Ecris sous la forme d'une fraction décimale<br><br>\\(7,125=\\dfrac{\\ldots}{\\ldots}\\)",
+      "bonne_reponse": "\\(7,125=\\color{#228B22}{\\dfrac{7~125}{1~000}}\\)"
+    },
+    {
+      "id": 60030,
+      "classe": "6e",
+      "chapitres": ["Nombres"],
+      "question": "Ecris sous la forme d'une fraction décimale<br><br>\\(47,06=\\dfrac{\\ldots}{\\ldots}\\)",
+      "bonne_reponse": "\\(47,06=\\color{#228B22}{\\dfrac{4~706}{100}}\\)"
+    },
+    {
+      "id": 60031,
+      "classe": "6e",
+      "chapitres": ["Nombres"],
+      "question": "Décompose ainsi :<br><br>\\(\\dfrac{736}{100}=7+\\dfrac{3}{10}+\\dfrac{6}{100}\\)<br><br>\\(\\dfrac{8~725}{1~000}=\\ldots\\ldots\\ldots\\)",
+      "bonne_reponse": "\\(\\color{#228B22}{8+\\dfrac{7}{10}+\\dfrac{2}{100}+\\dfrac{5}{1~000}}\\)"
+    },
+    {
+      "id": 60032,
+      "classe": "6e",
+      "chapitres": ["Nombres"],
+      "question": "Décompose ainsi :<br><br>\\(\\dfrac{736}{100}=7+\\dfrac{3}{10}+\\dfrac{6}{100}\\)<br><br>\\(\\dfrac{1~253}{100}=\\ldots\\ldots\\ldots\\)",
+      "bonne_reponse": "\\(\\dfrac{1~253}{100}=\\color{#228B22}{12+\\dfrac{5}{10}+\\dfrac{3}{100}}\\)"
+    },
+    {
+      "id": 60033,
+      "classe": "6e",
+      "chapitres": ["Nombres"],
+      "question": "Décompose ainsi :<br><br>\\(\\dfrac{736}{100}=7+\\dfrac{3}{10}+\\dfrac{6}{100}\\)<br><br>\\(\\dfrac{32}{100}=\\ldots\\ldots\\ldots\\)",
+      "bonne_reponse": "\\(\\dfrac{32}{100}=\\color{#228B22}{\\dfrac{3}{10}+\\dfrac{2}{100}}\\)"
+    },
+    {
+      "id": 60034,
+      "classe": "6e",
+      "chapitres": ["Nombres"],
+      "question": "Décompose ainsi :<br><br>\\(\\dfrac{736}{100}=7+\\dfrac{3}{10}+\\dfrac{6}{100}\\)<br><br>\\(\\dfrac{908}{10}=\\ldots\\ldots\\ldots\\)",
+      "bonne_reponse": "\\(\\dfrac{908}{10}=\\color{#228B22}{90+\\dfrac{8}{10}}\\)"
+    },
+    {
+      "id": 60035,
+      "classe": "6e",
+      "chapitres": ["Nombres","Calcul mental"],
+      "question": "\\(37 \\times 100 = \\ldots\\ldots\\ldots\\)",
+      "bonne_reponse": "\\(37 \\times 100 = \\color{#228B22}{3~700}\\)"
+    },
+    {
+      "id": 60036,
+      "classe": "6e",
+      "chapitres": ["Nombres","Calcul mental"],
+      "question": "\\(10 \\times 758 = \\ldots\\ldots\\ldots\\)",
+      "bonne_reponse": "\\(10 \\times 758 = \\color{#228B22}{7~580}\\)"
+    },
+    {
+      "id": 60037,
+      "classe": "6e",
+      "chapitres": ["Nombres","Calcul mental"],
+      "question": "\\(46 \\times 1~000 = \\ldots\\ldots\\ldots\\)",
+      "bonne_reponse": "\\(46 \\times 1~000 = \\color{#228B22}{46~000}\\)"
+    },
+    {
+      "id": 60038,
+      "classe": "6e",
+      "chapitres": ["Nombres","Calcul mental"],
+      "question": "\\(3~520 \\times 1~000 = \\ldots\\ldots\\ldots\\)",
+      "bonne_reponse": "\\(3~520 \\times 1~000 = \\color{#228B22}{3~520~000}\\)"
+    },
+    {
+      "id": 60039,
+      "classe": "6e",
+      "chapitres": ["Nombres","Calcul mental"],
+      "question": "\\(1~478 \\times 100 = \\ldots\\ldots\\ldots\\)",
+      "bonne_reponse": "\\(1~478 \\times 100 = \\color{#228B22}{147~800}\\)"
+    },
+    {
+      "id": 60040,
+      "classe": "6e",
+      "chapitres": ["Nombres","Calcul mental"],
+      "question": "\\(1~000 \\times 587 = \\ldots\\ldots\\ldots\\)",
+      "bonne_reponse": "\\(1~000 \\times 587 = \\color{#228B22}{587~000}\\)"
+    },
+    {
+      "id": 60041,
+      "classe": "6e",
+      "chapitres": ["Nombres","Calcul mental"],
+      "question": "\\(10~000 \\times 14 = \\ldots\\ldots\\ldots\\)",
+      "bonne_reponse": "\\(10~000 \\times 14 = \\color{#228B22}{140~000}\\)"
+    },
+    {
+      "id": 60042,
+      "classe": "6e",
+      "chapitres": ["Nombres","Calcul mental"],
+      "question": "\\(5,378 \\times 100 = \\ldots\\ldots\\ldots\\)",
+      "bonne_reponse": "\\(5,378 \\times 100 = \\color{#228B22}{537,8}\\)"
+    },
+    {
+      "id": 60043,
+      "classe": "6e",
+      "chapitres": ["Nombres","Calcul mental"],
+      "question": "\\(0,065 \\times 10 = \\ldots\\ldots\\ldots\\)",
+      "bonne_reponse": "\\(0,065 \\times 10 = \\color{#228B22}{0,65}\\)"
+    },
+    {
+      "id": 60044,
+      "classe": "6e",
+      "chapitres": ["Nombres","Calcul mental"],
+      "question": "\\(79,2 \\times 1~000 = \\ldots\\ldots\\ldots\\)",
+      "bonne_reponse": "\\(79,2 \\times 1~000 = \\color{#228B22}{79~200}\\)"
+    },
+    {
+      "id": 60045,
+      "classe": "6e",
+      "chapitres": ["Nombres","Calcul mental"],
+      "question": "\\(71,47 \\times 100 = \\ldots\\ldots\\ldots\\)",
+      "bonne_reponse": "\\(71,47 \\times 100 = \\color{#228B22}{7~147}\\)"
+    },
+    {
+      "id": 60046,
+      "classe": "6e",
+      "chapitres": ["Nombres","Calcul mental"],
+      "question": "\\(0,34 \\times 1~000 = \\ldots\\ldots\\ldots\\)",
+      "bonne_reponse": "\\(0,34 \\times 1~000 = \\color{#228B22}{340}\\)"
+    },
+    {
+      "id": 60047,
+      "classe": "6e",
+      "chapitres": ["Nombres","Calcul mental"],
+      "question": "\\(87 \\times 100 = \\ldots\\ldots\\ldots\\)",
+      "bonne_reponse": "\\(87 \\times 100 = \\color{#228B22}{8~700}\\)"
+    },
+    {
+      "id": 60048,
+      "classe": "6e",
+      "chapitres": ["Nombres","Calcul mental"],
+      "question": "\\(0,58 \\times 10 = \\ldots\\ldots\\ldots\\)",
+      "bonne_reponse": "\\(0,58 \\times 10 = \\color{#228B22}{5,8}\\)"
+    },
+    {
+      "id": 60049,
+      "classe": "6e",
+      "chapitres": ["Nombres","Calcul mental"],
+      "question": "\\(934 \\times 10 = \\ldots\\ldots\\ldots\\)",
+      "bonne_reponse": "\\(934 \\times 10 = \\color{#228B22}{9~340}\\)"
+    },
+    {
+      "id": 60050,
+      "classe": "6e",
+      "chapitres": ["Nombres","Calcul mental"],
+      "question": "\\(11,11 \\times 1~000 = \\ldots\\ldots\\ldots\\)",
+      "bonne_reponse": "\\(11,11 \\times 1~000 = \\color{#228B22}{11~110}\\)"
+    },
+    {
+      "id": 60051,
+      "classe": "6e",
+      "chapitres": ["Nombres","Calcul mental"],
+      "question": "\\(0,05 \\times 10~000 = \\ldots\\ldots\\ldots\\)",
+      "bonne_reponse": "\\(0,05 \\times 10~000 = \\color{#228B22}{500}\\)"
+    },
+    {
+      "id": 40002,
+      "classe": "4e",
+      "chapitres": ["Calcul littéral"],
+      "question": "Quelle est l'écriture simplifiée de<br><br>\\(7 \\times x + 3 \\times y \\times 2\\)",
+      "reponses": ["\\(7x+6y\\)", "\\(13xy\\)", "\\(12+x+y\\)", "\\(7x+3y2\\)"],
+      "bonne_reponse": "\\(7x+6y\\)"
+    },
+    {
+      "id": 40003,
+      "classe": "4e",
+      "chapitres": ["Calcul littéral"],
+      "question": "Réduire l'expression :<br><br>\\(x^2-2x+7x-x^2+7\\)",
+      "reponses": ["\\(5x^6+7\\)", "\\(2x^2+5x\\)", "\\(5x^2+5\\)", "\\(5x+7\\)"],
+      "bonne_reponse": "\\(5x+7\\)"
+    },
+    {
+      "id": 40004,
+      "classe": "4e",
+      "chapitres": ["Calcul littéral"],
+      "question": "Réduire l'expression :<br><br>\\(2x^2+3y^2+x^2-6y\\)",
+      "reponses": ["\\(3x^2-3y^2\\)", "\\(3x^2+3y^2-6y\\)", "\\(3x^4-3y^3\\)", "\\(0x^2y^2\\)"],
+      "bonne_reponse": "\\(3x^2+3y^2-6y\\)"
+    },
+    {
+      "id": 40005,
+      "classe": "4e",
+      "chapitres": ["Calcul littéral"],
+      "question": "Que vaut l'expression<br><br>\\(2x^2-2x+1\\) quand \\(x=3\\)",
+      "reponses": ["\\(1\\)", "\\(7\\)", "\\(13\\)", "\\(18\\)"],
+      "bonne_reponse": "\\(13\\)"
+    },
+    {
+      "id": 40006,
+      "classe": "4e",
+      "chapitres": ["Calcul littéral"],
+      "question": "Que vaut l'expression<br><br>\\(x^2-7x-3\\) quand \\(x=-1\\)",
+      "reponses": ["\\(-12\\)", "\\(-9\\)", "\\(3\\)", "\\(5\\)"],
+      "bonne_reponse": "\\(5\\)"
+    },
+    {
+      "id": 40007,
+      "classe": "4e",
+      "chapitres": ["Calcul littéral"],
+      "question": "Réduire l'expression<br> \\(2x+3-x+2\\)",
+      "bonne_reponse": "\\(x+5\\)"
+    },
+    {
+      "id": 40008,
+      "classe": "4e",
+      "chapitres": ["Calcul littéral"],
+      "question": "Réduire l'expression<br> \\(-2x+x^2-7\\)",
+      "bonne_reponse": "Elle est irréductible"
+    },
+    {
+      "id": 40009,
+      "classe": "4e",
+      "chapitres": ["Calcul littéral"],
+      "question": "Réduire l'expression<br> \\(7t^2+t-4t^2+2\\)",
+      "bonne_reponse": "\\(3t^2+t+2\\)"
+    },
+    {
+      "id": 40010,
+      "classe": "4e",
+      "chapitres": ["Calcul littéral"],
+      "question": "Réduire l'expression<br> \\(12y^2 \\times y -3 \\times 4 y^3\\)",
+      "bonne_reponse": "\\(0\\)"
+    },
+    {
+      "id": 40011,
+      "classe": "4e",
+      "chapitres": ["Calcul littéral"],
+      "question": "Développer et réduire <br> \\(x(2 + 2x) \\)",
+      "bonne_reponse": "\\(2x^2 + 2x\\)"
+    },
+    {
+      "id": 40012,
+      "classe": "4e",
+      "chapitres": ["Calcul littéral"],
+      "question": "Développer et réduire <br> \\(7(2y+1) \\)",
+      "bonne_reponse": "\\(14y+7\\)"
+    },
+    {
+      "id": 40013,
+      "classe": "4e",
+      "chapitres": ["Calcul littéral"],
+      "question": "Développer et réduire <br> \\(-4,6(a-b)\\)",
+      "bonne_reponse": "\\(4,6b-4,6a\\)"
+    },
+    {
+      "id": 40014,
+      "classe": "4e",
+      "chapitres": ["Calcul littéral"],
+      "question": "Factoriser <br> \\(5x-10\\)",
+      "bonne_reponse": "\\(5(x-2)\\)"
+    },
+    {
+      "id": 40016,
+      "classe": "4e",
+      "chapitres": ["Multiples et Diviseurs", "Division euclidienne"],
+      "question": "Quel est le reste de la division de \\(16\\) par \\(5\\) ?",
+      "bonne_reponse": "\\(1\\)"
+    },
+    {
+      "id": 40017,
+      "classe": "4e",
+      "chapitres": ["Multiples et Diviseurs", "Division euclidienne"],
+      "question": "Quel est le reste de la division de \\(40\\) par \\(6\\) ?",
+      "bonne_reponse": "\\(4\\)"
+    },
+    {
+      "id": 40018,
+      "classe": "4e",
+      "chapitres": ["Multiples et Diviseurs", "Division euclidienne"],
+      "question": "Quel est le reste de la division de \\(52\\) par \\(7\\) ?",
+      "bonne_reponse": "\\(3\\)"
+    },
+    {
+      "id": 40019,
+      "classe": "4e",
+      "chapitres": ["Multiples et Diviseurs", "Division euclidienne"],
+      "question": "Quel est le reste de la division de \\(96\\) par \\(6\\) ?",
+      "bonne_reponse": "\\(0\\)"
+    },
+    {
+      "id": 40020,
+      "classe": "4e",
+      "chapitres": ["Multiples et Diviseurs"],
+      "question": "Quel est le reste de la division de \\(100\\) par \\(11\\) ?",
+      "bonne_reponse": "\\(1\\)"
+    },
+    {
+      "id": 40021,
+      "classe": "4e",
+      "chapitres": ["Multiples et Diviseurs"],
+      "question": "Quel nombre est un multiple de \\(3\\) ?",
+      "reponses": ["\\(965\\)", "\\(468\\)", "\\(358\\)", "\\(445\\)"],
+      "bonne_reponse": "\\(468\\)"
+    },
+    {
+      "id": 40022,
+      "classe": "4e",
+      "chapitres": ["Multiples et Diviseurs", "test"],
+      "question": "Quel nombre est un multiple de \\(4\\) ?",
+      "reponses": ["\\(16~365\\)", "\\(100~030\\)", "\\(105~692\\)", "\\(2~541\\)"],
+      "bonne_reponse": "\\(105~692\\)"
+    },
+    {
+      "id": 40023,
+      "classe": "4e",
+      "chapitres": ["Multiples et Diviseurs", "test"],
+      "question": "Quel nombre est un multiple de \\(6\\) ?",
+      "reponses": ["\\(1~113\\)", "\\(6~569~019\\)", "\\(98\\)", "\\(7~002\\)"],
+      "bonne_reponse": "\\(7~002\\)"
+    }
+  ]

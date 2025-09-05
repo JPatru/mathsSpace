@@ -31,9 +31,10 @@
       <div class="quiz-selector">
         <label>Choisir un quiz :  
           <select v-model="selectedSet" @change="switchSet">
-            <option value="base">Général</option>
+            <option value="base">Flash</option>
             <option value="eleves">Par les élèves</option>
             <option value="course">Course aux nombres</option>
+            <option value="mental">Calcul mental</option>
           </select>
         </label>
       </div>
@@ -74,9 +75,10 @@
   
   <script setup lang="ts">
   import type { Question } from '../store/questions'
-  import base from '../data/questions.json'
+  import base from '../data/flash.json'
   import eleves from '../data/eleves.json'
   import course from '../data/courseNombres.json'
+  import mental from '../data/calculMental.json'
   import QuestionCard from '../components/QuestionCard.vue'
   import AppHeader from '../components/AppHeader.vue'
   declare global {
@@ -131,6 +133,7 @@
     let data: Question[] = base
     if (selectedSet.value === 'eleves') data = eleves
     else if (selectedSet.value === 'course') data = course
+    else if (selectedSet.value === 'mental') data = mental
 
     store.questions = data
     loadRandom()
