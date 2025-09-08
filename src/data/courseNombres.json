@@ -65,7 +65,7 @@
   {
     "id": 6201610,
     "classe": "6e",
-    "chapitres": ["heures"],
+    "chapitres": ["durées"],
     "question": "\\(1\\) h \\(20\\) min - \\(40\\) min",
     "bonne_reponse": "\\(40\\) min"
   },
@@ -142,7 +142,7 @@
   {
     "id": 6201621,
     "classe": "6e",
-    "chapitres": ["heures"],
+    "chapitres": ["durées"],
     "question": "\\(250\\) min = \\(\\ldots\\) h \\(\\ldots\\) min",
     "bonne_reponse": "\\(4\\) h \\(10\\) min"
   },
@@ -254,7 +254,7 @@
   {
     "id": 6201707,
     "classe": "6e",
-    "chapitres": ["heures"],
+    "chapitres": ["durées"],
     "question": "Ajoute un quart-heure <br> à \\(2\\) h \\(50\\) min",
     "bonne_reponse": "\\(3\\) h \\(05\\) min"
   },
@@ -380,7 +380,7 @@
   {
     "id": 6201725,
     "classe": "6e",
-    "chapitres": ["heures"],
+    "chapitres": ["durées"],
     "question": "Ajoute \\(55\\) min à \\(3\\) h \\(46\\) min.",
     "bonne_reponse": "\\(4\\) h \\(41\\) min"
   },
@@ -418,6 +418,335 @@
     "chapitres": ["aire"],
     "question": "<img src='figures/6_2017_05.png' style='transform: scale(1); transform-origin: auto;' width='220' /><br><br>La figure 1 a une aire de \\(36\\) cm\\(^2\\). Quelle est l’aire de la figure 2 ?",
     "bonne_reponse": "\\(36\\) cm\\(^2\\)"
+  },
+  {
+    "id": 6201801,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(58+9\\)",
+    "bonne_reponse": "\\(67\\)"
+  },
+  {
+    "id": 6201802,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(300-101\\)",
+    "bonne_reponse": "\\(199\\)"
+  },
+  {
+    "id": 6201803,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(8+8+8+8\\)",
+    "bonne_reponse": "\\(32\\)"
+  },
+  {
+    "id": 6201804,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(9 \\times 3\\)",
+    "bonne_reponse": "\\(27\\)"
+  },
+  {
+    "id": 6201805,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "Complète : \\(4 \\times \\ldots = 32\\)",
+    "bonne_reponse": "\\(4 \\times 8 = 32\\)"
+  },
+  {
+    "id": 6201806,
+    "classe": "6e",
+    "chapitres": ["durées"],
+    "question": "Enlève une demi-heure à \\(1\\) h \\(10\\) min.",
+    "bonne_reponse": "\\(40\\) min"
+  },
+  {
+    "id": 6201807,
+    "classe": "6e",
+    "chapitres": ["opérations","fractions"],
+    "question": "Le quart de \\(32\\)",
+    "bonne_reponse": "\\(8\\)"
+  },
+  {
+    "id": 6201808,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(7\\) vis pèsent \\(15\\) g.<br><br>\\(\\ldots\\) vis pèsent \\(30\\) g",
+    "bonne_reponse": "\\(14\\) vis pèsent \\(30\\) g"
+  },
+  {
+    "id": 6201809,
+    "classe": "6e",
+    "chapitres": ["nombres","fractions"],
+    "question": "Complète :<br><br><img src='figures/6_2018_01.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(\\dfrac{3}{4}\\)"
+  },
+  {
+    "id": 6201810,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(45 \\div 3\\)",
+    "bonne_reponse": "\\(15\\)"
+  },
+  {
+    "id": 6201811,
+    "classe": "6e",
+    "chapitres": ["fractions"],
+    "question": "Ecris autrement \\(\\dfrac{104}{100}\\)",
+    "bonne_reponse": "\\(1,04\\)"
+  },
+  {
+    "id": 6201812,
+    "classe": "6e",
+    "chapitres": ["fractions"],
+    "question": "Complète \\(30,5 = \\dfrac{\\ldots}{\\ldots}\\)",
+    "bonne_reponse": "\\(30,5 = \\dfrac{305}{10}\\)"
+  },
+  {
+    "id": 6201813,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Complète :<br><br><img src='figures/6_2018_02.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(0,8\\) ou \\(\\dfrac{8}{10}\\)"
+  },
+  {
+    "id": 6201814,
+    "classe": "6e",
+    "chapitres": ["problèmes"],
+    "question": "Avec \\(56\\) roses, un fleuriste fait \\(8\\) bouquets identiques.<br><br>Il y a \\(\\ldots\\) roses dans chaque bouquet.",
+    "bonne_reponse": "\\(7\\)"
+  },
+  {
+    "id": 6201815,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(1 \\div 5\\)",
+    "bonne_reponse": "\\(0,2\\)"
+  },
+  {
+    "id": 6201816,
+    "classe": "6e",
+    "chapitres": ["périmètre"],
+    "question": "Le périmètre de ce carré est de \\(22\\) cm. Complète.<br><img src='figures/6_2018_03.png' style='transform: scale(0.6); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(5,5\\) cm"
+  },
+  {
+    "id": 6201817,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Encadre \\(0,8\\) par deux entiers qui se suivent.<br><br>\\(\\ldots < 0,8 < \\ldots\\)",
+    "bonne_reponse": "\\(0 < 0,8 < 1\\)"
+  },
+  {
+    "id": 6201818,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Quel est le nombre \\(100\\) fois plus grand que \\(3\\) centièmes ?",
+    "bonne_reponse": "\\(0,03 \\times 100 = 3\\)"
+  },
+  {
+    "id": 6201819,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(6 \\times 1,5\\)",
+    "bonne_reponse": "\\(9\\)"
+  },
+  {
+    "id": 6201820,
+    "classe": "6e",
+    "chapitres": ["fractions"],
+    "question": "Quel est le plus grand nombre ?<br><br>\\(\\dfrac{6}{7}\\qquad \\dfrac{3}{2}\\)",
+    "bonne_reponse": "\\(\\dfrac{3}{2}\\)"
+  },
+  {
+    "id": 6201821,
+    "classe": "6e",
+    "chapitres": ["fractions"],
+    "question": "Un cinquième de \\(20\\) œufs",
+    "bonne_reponse": "\\(4\\) œufs"
+  },
+  {
+    "id": 6201822,
+    "classe": "6e",
+    "chapitres": ["fractions"],
+    "question": "Trois cinquièmes de \\(200\\) g",
+    "bonne_reponse": "\\(120\\) g"
+  },
+  {
+    "id": 6201823,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Écris en chiffre :<br>deux-millions-deux-mille",
+    "bonne_reponse": "\\(2~002~000\\)"
+  },
+  {
+    "id": 6201824,
+    "classe": "6e",
+    "chapitres": ["problèmes"],
+    "question": "Il me manque \\(2\\) € pour acheter deux BD à \\(12\\) € chacune.<br><br> J'ai \\(\\ldots\\)",
+    "bonne_reponse": "\\(22\\) €"
+  },
+  {
+    "id": 6201825,
+    "classe": "6e",
+    "chapitres": ["problèmes"],
+    "question": "5 vis pèsent 60 g.<br>Combien pèsent 2 vis ?<br><br> \\(\\ldots\\) g",
+    "bonne_reponse": "\\(24\\) g"
+  },
+  {
+    "id": 6201826,
+    "classe": "6e",
+    "chapitres": ["unités"],
+    "question": "Complète : \\(75\\) cL + \\(\\ldots\\) cL \\(= 1\\) L",
+    "bonne_reponse": "\\(75\\) cL + \\(25\\) cL \\(= 1\\) L"
+  },
+  {
+    "id": 6201827,
+    "classe": "6e",
+    "chapitres": ["problèmes"],
+    "question": "Léo et Lisa ont ensemble \\(10\\) ans.<br>Dans \\(5\\) ans, il auront ensemble \\(\\ldots\\) ans.",
+    "bonne_reponse": "\\(20\\) ans"
+  },
+  {
+    "id": 6201828,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Quelle est la (les) réponse(s) possible(s).<br><br>Une personne mesure : \\([)180\\) m ; \\(180\\) cm ; \\(1,8\\) m ",
+    "bonne_reponse": "\\([)180\\) m ; \\(180\\) cm ; \\(1,8\\) m"
+  },
+  {
+    "id": 6201829,
+    "classe": "6e",
+    "chapitres": ["problèmes","proportionnalité"],
+    "question": "Une pile de \\(4\\) livres identiques a une hauteur de \\(10\\) cm.<br>Une pile de \\(6\\) de ces livres a une hauteur de \\(\\ldots\\) cm.",
+    "bonne_reponse": "\\(15\\) cm"
+  },
+  {
+    "id": 6201830,
+    "classe": "6e",
+    "chapitres": ["problèmes","opérations"],
+    "question": "Léo a 12 billes. Il en a 6 fois moins que Zoé.<br><br>Zoé a \\(\\ldots\\) billes.",
+    "bonne_reponse": "\\(72\\) billes"
+  },
+  {
+    "id": 6201901,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(3 \\times 6\\)",
+    "bonne_reponse": "\\(18\\)"
+  },
+  {
+    "id": 6201902,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "Complète : \\(25=\\ldots \\times \\ldots\\)",
+    "bonne_reponse": "\\(25 = 5 \\times 5\\)"
+  },
+  {
+    "id": 6201903,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "La moitié de \\(50\\)",
+    "bonne_reponse": "\\(25\\)"
+  },
+  {
+    "id": 6201904,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(200-99\\)",
+    "bonne_reponse": "\\(101\\)"
+  },
+  {
+    "id": 6201905,
+    "classe": "6e",
+    "chapitres": ["unités"],
+    "question": "Complète : \\(1\\) L \\(= \\ldots\\) cL",
+    "bonne_reponse": "\\(1\\) L \\(= 100\\) cL"
+  },
+  {
+    "id": 6201906,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "Quelle est la bonne réponse ? \\(2,5 \\times 10\\)<br><br>\\(2,5 \\qquad 20,50 \\qquad 25\\)",
+    "bonne_reponse": "\\(25\\)"
+  },
+  {
+    "id": 6201907,
+    "classe": "6e",
+    "chapitres": ["durées"],
+    "question": "Enlève une demi-heure à \\(2\\) h \\(10\\) min.<br><br>\\(\\ldots\\) h \\(\\ldots\\) min",
+    "bonne_reponse": "\\(1\\) h \\(40\\) min"
+  },
+  {
+    "id": 6201908,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Combien y-a-t'il de milliers dans un million ?",
+    "bonne_reponse": "\\(1000\\)"
+  },
+  {
+    "id": 6201909,
+    "classe": "6e",
+    "chapitres": ["problèmes","proportionnalité"],
+    "question": "\\(6\\) gommes identiques<br>pèsent \\(42\\) g<br><br>\\(\\ldots\\) gommes pèsent \\(21\\) g",
+    "bonne_reponse": "\\(3\\) gommes"
+  },
+  {
+    "id": 6201910,
+    "classe": "6e",
+    "chapitres": ["opérations","fractions"],
+    "question": "Le quart de \\(100\\)",
+    "bonne_reponse": "\\(25\\)"
+  },
+  {
+    "id": 6201911,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "Complète : \\(7,1 + \\ldots = 10\\)",
+    "bonne_reponse": "\\(2,9\\)"
+  },
+  {
+    "id": 6201912,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(23,5+1,2+0,8\\)",
+    "bonne_reponse": "\\(25,5\\)"
+  },
+  {
+    "id": 6201913,
+    "classe": "6e",
+    "chapitres": ["volumes","test"],
+    "question": "L'unité est le petit cube<br><br><img src='figures/6_2019_01.png' style='transform: scale(1); transform-origin: auto;' width='220' /><br><br>Il y a \\(\\ldots\\) unités en tout.",
+    "bonne_reponse": "Il y a \\(1032\\) unités en tout."
+  },
+  {
+    "id": 6201914,
+    "classe": "6e",
+    "chapitres": ["nombres","test"],
+    "question": "Complète :<br><br>\\(6042 = \\ldots\\) centaines \\(\\ldots\\) unités",
+    "bonne_reponse": "\\(60\\) centaines \\(42\\) unités"
+  },
+  {
+    "id": 6201915,
+    "classe": "6e",
+    "chapitres": ["unités","test"],
+    "question": "Complète :<br><br>\\(13\\) mm + \\(8\\) cm \\(= \\ldots\\) cm",
+    "bonne_reponse": "\\(93\\) cm"
+  },
+  {
+    "id": 6201916,
+    "classe": "6e",
+    "chapitres": ["",""],
+    "question": "",
+    "bonne_reponse": "\\(\\)"
+  },
+  {
+    "id": 6201917,
+    "classe": "6e",
+    "chapitres": ["",""],
+    "question": "",
+    "bonne_reponse": "\\(\\)"
   },
   {
     "id": 5201601,
@@ -485,7 +814,7 @@
   {
     "id": 5201610,
     "classe": "5e",
-    "chapitres": ["heures"],
+    "chapitres": ["durées"],
     "question": "\\(1\\) h \\(20\\) min - \\(40\\) min",
     "bonne_reponse": "\\(40\\) min"
   },
@@ -583,7 +912,7 @@
   {
     "id": 5201624,
     "classe": "5e",
-    "chapitres": ["heures"],
+    "chapitres": ["durées"],
     "question": "Un train part à \\(6\\)h\\(30\\) et arrive à \\(8\\)h\\(20\\). Quelle est la durée du trajet ?<br><br>\\(\\ldots\\) h \\(\\ldots\\) min",
     "bonne_reponse": "\\(1\\) h \\(50\\) min"
   },
@@ -660,7 +989,7 @@
   {
     "id": 5201705,
     "classe": "5e",
-    "chapitres": ["heures"],
+    "chapitres": ["durées"],
     "question": "\\(2\\) h \\(51\\) min \\(+ 3\\) h \\(20\\) min<br>= \\(\\ldots\\) h \\(\\ldots\\) min",
     "bonne_reponse": "\\(6\\) h \\(11\\) min"
   },
@@ -737,7 +1066,7 @@
   {
     "id": 5201716,
     "classe": "5e",
-    "chapitres": ["heures"],
+    "chapitres": ["durées"],
     "question": "\\(1,5\\) h = \\(\\ldots\\) h \\(\\ldots\\) min",
     "bonne_reponse": "\\(1\\) h \\(30\\) min"
   },
@@ -856,7 +1185,7 @@
   {
     "id": 5201803,
     "classe": "5e",
-    "chapitres": ["heures"],
+    "chapitres": ["durées"],
     "question": "Départ : \\(13\\) h \\(40\\)<br>Arrivée : \\(15\\) h \\(17\\)<br>Quelle est la durée du trajet ?",
     "bonne_reponse": "\\(1\\) h \\(37\\) min"
   },
@@ -933,7 +1262,7 @@
   {
     "id": 5201814,
     "classe": "5e",
-    "chapitres": ["heures"],
+    "chapitres": ["durées"],
     "question": "\\(2,5\\) h \\(= \\ldots\\) h \\(\\ldots\\) min",
     "bonne_reponse": "\\(2\\) h \\(30\\) min"
   },
@@ -1115,7 +1444,7 @@
   {
     "id": 5201910,
     "classe": "5e",
-    "chapitres": ["heures"],
+    "chapitres": ["durées"],
     "question": "Un train part à \\(12\\)h\\(45\\) et arrive à \\(14\\)h\\(17\\). Quelle est la durée du trajet ?<br><br>\\(\\ldots\\) h \\(\\ldots\\) min",
     "bonne_reponse": "\\(1\\) h \\(32\\) min"
   },
@@ -1325,7 +1654,7 @@
   {
     "id": 3201610,
     "classe": "3e",
-    "chapitres": ["heures"],
+    "chapitres": ["durées"],
     "question": "\\(1\\) h \\(20\\) min - \\(40\\) min",
     "bonne_reponse": "\\(40\\) min"
   },
@@ -1501,7 +1830,7 @@
   {
     "id": 3201705,
     "classe": "3e",
-    "chapitres": ["heures"],
+    "chapitres": ["durées"],
     "question": "\\(2\\) h \\(51\\) min \\(+ 3\\) h \\(20\\) min<br>= \\(\\ldots\\) h \\(\\ldots\\) min",
     "bonne_reponse": "\\(6\\) h \\(11\\) min"
   },
@@ -1697,7 +2026,7 @@
   {
     "id": 3201803,
     "classe": "3e",
-    "chapitres": ["heures"],
+    "chapitres": ["durées"],
     "question": "Départ : \\(13\\) h \\(40\\)<br>Arrivée : \\(15\\) h \\(17\\)<br>Quelle est la durée du trajet ?",
     "bonne_reponse": "\\(1\\) h \\(37\\) min"
   },
@@ -1753,7 +2082,7 @@
   {
     "id": 3201811,
     "classe": "3e",
-    "chapitres": ["heures"],
+    "chapitres": ["durées"],
     "question": "\\(3,1\\) h \\(=\\ldots\\) h \\(\\ldots\\) min",
     "bonne_reponse": "\\(3\\) h \\(06\\) min"
   },
