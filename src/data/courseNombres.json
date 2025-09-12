@@ -612,8 +612,8 @@
     "id": 6201828,
     "classe": "6e",
     "chapitres": ["nombres"],
-    "question": "Quelle est la (les) réponse(s) possible(s).<br><br>Une personne mesure : \\([)180\\) m ; \\(180\\) cm ; \\(1,8\\) m ",
-    "bonne_reponse": "\\([)180\\) m ; \\(180\\) cm ; \\(1,8\\) m"
+    "question": "Quelle est la (les) réponse(s) possible(s).<br><br>Une personne mesure :<br>\\(180\\) m ; \\(180\\) cm ; \\(1,8\\) m ",
+    "bonne_reponse": "\\(180\\) cm ; \\(1,8\\) m"
   },
   {
     "id": 6201829,
@@ -716,37 +716,338 @@
   {
     "id": 6201913,
     "classe": "6e",
-    "chapitres": ["volumes","test"],
+    "chapitres": ["volumes"],
     "question": "L'unité est le petit cube<br><br><img src='figures/6_2019_01.png' style='transform: scale(1); transform-origin: auto;' width='220' /><br><br>Il y a \\(\\ldots\\) unités en tout.",
     "bonne_reponse": "Il y a \\(1032\\) unités en tout."
   },
   {
     "id": 6201914,
     "classe": "6e",
-    "chapitres": ["nombres","test"],
+    "chapitres": ["nombres"],
     "question": "Complète :<br><br>\\(6042 = \\ldots\\) centaines \\(\\ldots\\) unités",
     "bonne_reponse": "\\(60\\) centaines \\(42\\) unités"
   },
   {
     "id": 6201915,
     "classe": "6e",
-    "chapitres": ["unités","test"],
+    "chapitres": ["unités"],
     "question": "Complète :<br><br>\\(13\\) mm + \\(8\\) cm \\(= \\ldots\\) cm",
     "bonne_reponse": "\\(93\\) cm"
   },
   {
     "id": 6201916,
     "classe": "6e",
-    "chapitres": ["",""],
-    "question": "",
-    "bonne_reponse": "\\(\\)"
+    "chapitres": ["périmètre"],
+    "question": "<img src='figures/6_2019_02.png' style='transform: scale(1); transform-origin: auto;' width='220' /><br>Ces figures ont le même périmètre. VRAI ou FAUX ?",
+    "bonne_reponse": "\\(20\\) cm = \\(20\\) cm : VRAI"
   },
   {
     "id": 6201917,
     "classe": "6e",
-    "chapitres": ["",""],
-    "question": "",
-    "bonne_reponse": "\\(\\)"
+    "chapitres": ["aire"],
+    "question": "<img src='figures/6_2019_02.png' style='transform: scale(1); transform-origin: auto;' width='220' /><br>Ces figures ont la même aire. VRAI ou FAUX ?",
+    "bonne_reponse": "\\(25\\) cm\\(^2~\\neq\\) \\(24\\) cm\\(^2\\) : FAUX"
+  },
+  {
+    "id": 6201918,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Complète :<br><br><img src='figures/6_2019_03.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(12\\)"
+  },
+  {
+    "id": 6201919,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Complète :<br><br><img src='figures/6_2019_04.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(1,75\\) ou \\(\\dfrac{7}{4}\\)"
+  },
+  {
+    "id": 6201920,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(18 \\times 5\\)",
+    "bonne_reponse": "\\(90\\)"
+  },
+  {
+    "id": 6201921,
+    "classe": "6e",
+    "chapitres": ["problèmes","opérations"],
+    "question": "Tom achète \\(7\\) romans à \\(6,50\\) € et \\(3\\) BD à \\(6,50\\) €<br><br>Combien paiera-t-il ?",
+    "bonne_reponse": "\\(65\\) €"
+  },
+  {
+    "id": 6201922,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\((7 \\times 6,50) + (3 \\times 6,50)\\)",
+    "bonne_reponse": "\\(65\\)"
+  },
+  {
+    "id": 6201923,
+    "classe": "6e",
+    "chapitres": ["unités"],
+    "question": "Quelle est la réponse possible ?<br><br>Un camion pèse :<br>\\(35\\) kg ; \\(3,5\\) t ; \\(35\\) dg",
+    "bonne_reponse": "\\(3,5\\) t"
+  },
+  {
+    "id": 6201924,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "Quelle est la réponse la plus précise ?<br><br>J'achète \\(150\\) petits pains à \\(0,95\\) € chacun.<br>Je paye environ:<br>\\(15\\) € ; \\(100\\) € ;\\(150\\) €",
+    "bonne_reponse": "\\(150\\) €"
+  },
+  {
+    "id": 6201925,
+    "classe": "6e",
+    "chapitres": ["opérations","nombres"],
+    "question": "Quel est le chiffre des unités de \\(58 \\times 247\\) ?",
+    "bonne_reponse": "\\(6\\)"
+  },
+  {
+    "id": 6201926,
+    "classe": "6e",
+    "chapitres": ["problèmes"],
+    "question": "Un manège fait \\(2\\) tours en \\(30\\) s<br>Il fait \\(\\ldots\\) tours en \\(1\\) min.",
+    "bonne_reponse": "\\(4\\) tours"
+  },
+  {
+    "id": 6201927,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(42 \\div 6\\)",
+    "bonne_reponse": "\\(42 \\div 6 = 7\\)"
+  },
+  {
+    "id": 6201928,
+    "classe": "6e",
+    "chapitres": ["fractions"],
+    "question": "\\(\\dfrac{1}{3}\\) de \\(15\\) L<br><br>\\(\\ldots\\) L",
+    "bonne_reponse": "\\(5\\) L"
+  },
+  {
+    "id": 6201929,
+    "classe": "6e",
+    "chapitres": ["problèmes"],
+    "question": "Quelles sont les réponses possible ?<br><br>Un professeur veut répartir ses \\(27\\) élèves dans des groupes de même taille.<br><br>Il peut faire des groupes de :<br>\\(2 \\qquad 3 \\qquad 7 \\qquad 9\\)",
+    "bonne_reponse": "\\(3\\) et \\(9\\)"
+  },
+  {
+    "id": 6201930,
+    "classe": "6e",
+    "chapitres": ["cercle"],
+    "question": "\\(A\\) est le centre du cercle.<br><img src='figures/6_2019_05.png' style='transform: scale(0.7); transform-origin: auto;' width='220' /><br>Le périmètre du triangle \\(ABC\\) est égal à \\(\\ldots\\) cm.",
+    "bonne_reponse": "\\(6\\) cm"
+  },
+  {
+    "id": 6202101,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(4 \\times 6\\)",
+    "bonne_reponse": "\\(24\\)"
+  },
+  {
+    "id": 6202102,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(425-11\\)",
+    "bonne_reponse": "\\(414\\)"
+  },
+  {
+    "id": 6202103,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "Le triple de \\(15\\)",
+    "bonne_reponse": "\\(45\\)"
+  },
+  {
+    "id": 6202104,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Complète :<br><br><img src='figures/6_2021_01.png' style='transform: scale(0.8); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(26\\)"
+  },
+  {
+    "id": 6202105,
+    "classe": "6e",
+    "chapitres": ["proportionnalité","problèmes"],
+    "question": "\\(2\\) carreaux de chocolat pèsent \\(10\\) g en tout.<br><br>\\(8\\) carreaux pèsent \\(\\ldots\\) g.",
+    "bonne_reponse": "\\(40\\) g"
+  },
+  {
+    "id": 6202106,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(7 \\times 50\\)",
+    "bonne_reponse": "\\(350\\)"
+  },
+  {
+    "id": 6202107,
+    "classe": "6e",
+    "chapitres": ["unités"],
+    "question": "Complète : \\(1\\) kg \\(= \\ldots\\) g",
+    "bonne_reponse": "\\(1000\\) g"
+  },
+  {
+    "id": 6202108,
+    "classe": "6e",
+    "chapitres": ["durées"],
+    "question": "Il est \\(10\\) h \\(55\\). Dans un quart d'heure, quelle heure sera-t-il ?",
+    "bonne_reponse": "\\(11\\) h \\(10\\)"
+  },
+  {
+    "id": 6202109,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Écris en chiffres :<br>\\(6\\) centaines et \\(22\\) dizaines",
+    "bonne_reponse": "\\(820\\)"
+  },
+  {
+    "id": 6202110,
+    "classe": "6e",
+    "chapitres": ["opérations","fractions"],
+    "question": "Le quart de \\(60\\)",
+    "bonne_reponse": "\\(15\\)"
+  },
+  {
+    "id": 6202111,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "Complète : \\(2,7 + \\ldots = 10\\)",
+    "bonne_reponse": "\\(7,3\\)"
+  },
+  {
+    "id": 6202112,
+    "classe": "6e",
+    "chapitres": ["problèmes"],
+    "question": "Un ruban mesure \\(18\\) cm. On le coupe en \\(10\\) morceaux de même longueur.<br><br>Un morceau mesure \\(\\ldots\\) cm.",
+    "bonne_reponse": "\\(1,8\\) cm"
+  },
+  {
+    "id": 6202113,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Donne l’écriture décimale de \\(6-\\dfrac{4}{100}\\)",
+    "bonne_reponse": "\\(5,96\\)"
+  },
+  {
+    "id": 6202114,
+    "classe": "6e",
+    "chapitres": ["problèmes"],
+    "question": "Complète la suite logique :<br><br>\\(0,25 \\quad 0,5 \\quad 0,75 \\quad \\ldots\\)",
+    "bonne_reponse": "\\(1\\)"
+  },
+  {
+    "id": 6202115,
+    "classe": "6e",
+    "chapitres": ["volumes"],
+    "question": "Ces volumes sont constitués de cubes unités.<br><img src='figures/6_2021_02.png' style='transform: scale(0.8); transform-origin: auto;' width='220' /><br>Il y a \\(\\ldots\\) centaines d'unités en tout.",
+    "bonne_reponse": "\\(10\\) centaines"
+  },
+  {
+    "id": 6202116,
+    "classe": "6e",
+    "chapitres": ["unités"],
+    "question": "La ditance de Paris à Lyon est environ<br><br>\\(450\\) km \\(\\quad\\) \\(450\\) m \\(\\quad\\) \\(450\\) mm",
+    "bonne_reponse": "\\(450\\) km"
+  },
+  {
+    "id": 6202117,
+    "classe": "6e",
+    "chapitres": ["périmètre"],
+    "question": "Quel est le périmètre d’un triangle équilatéral de côté \\(4,5\\) cm ?",
+    "bonne_reponse": "\\(13,5\\) cm"
+  },
+  {
+    "id": 6202118,
+    "classe": "6e",
+    "chapitres": ["unités"],
+    "question": "Complète : \\(7\\) cm \\(= \\ldots\\) m",
+    "bonne_reponse": "\\(0,07\\) m"
+  },
+  {
+    "id": 6202119,
+    "classe": "6e",
+    "chapitres": ["nombres","fractions"],
+    "question": "Place le nombre \\(\\dfrac{7}{5}\\)<br><br><img src='figures/6_2021_03.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "<img src='figures/6_2021_04.png' style='transform: scale(1); transform-origin: auto;' width='220' />"
+  },
+  {
+    "id": 6202120,
+    "classe": "6e",
+    "chapitres": ["problèmes"],
+    "question": "Inès a planté \\(20\\) fleurs. Elle en cueille \\(6\\).<br>Il reste \\(\\ldots\\) fleurs.",
+    "bonne_reponse": "\\(14\\) fleurs"
+  },
+  {
+    "id": 6202121,
+    "classe": "6e",
+    "chapitres": ["fractions"],
+    "question": "Le tiers de \\(36\\)",
+    "bonne_reponse": "\\(12\\)"
+  },
+  {
+    "id": 6202122,
+    "classe": "6e",
+    "chapitres": ["fractions"],
+    "question": "\\(\\dfrac{1}{3}\\) de \\(3,6\\)",
+    "bonne_reponse": "\\(1,2\\)"
+  },
+  {
+    "id": 6202123,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "Quel est le nombre cent fois plus grand que \\(0,03\\) ?",
+    "bonne_reponse": "\\(3\\)"
+  },
+  {
+    "id": 6202124,
+    "classe": "6e",
+    "chapitres": ["fractions"],
+    "question": "Quelle est la mesure du segment<br><br><img src='figures/6_2021_05.png' style='transform: scale(1); transform-origin: auto;' width='220' /><br><br>\\(\\ldots\\) unité",
+    "bonne_reponse": "\\(\\dfrac{2}{3}\\) unité"
+  },
+  {
+    "id": 6202125,
+    "classe": "6e",
+    "chapitres": ["problèmes","test"],
+    "question": "En 20 minutes, mon train électrique fait 8 tours.<br><br>En \\(5\\) minutes, il fait \\(\\ldots\\) tours.",
+    "bonne_reponse": "\\(2\\) tours."
+  },
+  {
+    "id": 6202126,
+    "classe": "6e",
+    "chapitres": ["fractions"],
+    "question": "Complète :<br><br>\\(2+\\dfrac{3}{100}=\\dfrac{\\ldots}{100}\\)",
+    "bonne_reponse": "\\(\\dfrac{203}{100}\\)"
+  },
+  {
+    "id": 6202127,
+    "classe": "6e",
+    "chapitres": ["durées"],
+    "question": "Complète : \\(0,25\\) h \\(= \\ldots\\) min",
+    "bonne_reponse": "\\(15\\) min"
+  },
+  {
+    "id": 6202128,
+    "classe": "6e",
+    "chapitres": ["problèmes"],
+    "question": "J’ai \\(12\\) ans. Je suis \\(2\\) fois plus âgé que Léa.<br>Quel est l’âge de Léa ?",
+    "bonne_reponse": "\\(6\\) ans"
+  },
+  {
+    "id": 6202129,
+    "classe": "6e",
+    "chapitres": ["problèmes"],
+    "question": "J’ai \\(2\\) tee-shirts différents et \\(5\\) pantalons différents.<br><br>Je peux m’habiller de \\(\\ldots\\) façons différentes.",
+    "bonne_reponse": "\\(10\\)"
+  },
+  {
+    "id": 6202130,
+    "classe": "6e",
+    "chapitres": ["aire","test"],
+    "question": "En grisé, on a représenté une unité d’aire, notée uA.<br>Quelle est l’aire de la figure hachurée ?<br><img src='figures/6_2021_06.png' style='transform: scale(1); transform-origin: auto;' width='220' /><br><br>\\(\\ldots\\) uA",
+    "bonne_reponse": "\\(1,2\\) uA"
   },
   {
     "id": 5201601,
@@ -1193,7 +1494,7 @@
     "id": 5201804,
     "classe": "5e",
     "chapitres": ["unités"],
-    "question": "\\(0,4\\) km",
+    "question": "\\(0,4\\) km \\(=\\ldots\\) m", 
     "bonne_reponse": "\\(0,4\\) km = \\(400\\) m"
   },
   {
@@ -1522,7 +1823,7 @@
     "id": 5201921,
     "classe": "5e",
     "chapitres": ["fractions"],
-    "question": "Quelle fraction de cette figure est grisée ?<br><br><img src='figures/5_2019_02.png' style='transform: scale(0.8); transform-origin: auto; width='220';' />",
+    "question": "Quelle fraction de cette figure est grisée ?<br><br><img src='figures/5_2019_05.png' style='transform: scale(0.8); transform-origin: auto; width='220';' />",
     "bonne_reponse": "\\(\\dfrac{4}{10}=\\dfrac{2}{5}\\)"
   },
   {
@@ -1587,6 +1888,216 @@
     "chapitres": ["nombres","fractions"],
     "question": "Ecriture décimale de \\(\\dfrac{21}{4}\\)",
     "bonne_reponse": "\\(5,25\\)"
+  },
+  {
+    "id": 5202101,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(9 \\times 6\\)",
+    "bonne_reponse": "\\(54\\)"
+  },
+  {
+    "id": 5202102,
+    "classe": "5e",
+    "chapitres": ["pourcentages"],
+    "question": "\\(50 \\%\\) de \\(124\\)",
+    "bonne_reponse": "\\(62\\)"
+  },
+  {
+    "id": 5202103,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(7,2 + 1,38\\)",
+    "bonne_reponse": "\\(8,58\\)"
+  },
+  {
+    "id": 5202104,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(20-3,8\\)",
+    "bonne_reponse": "\\(16,2\\)"
+  },
+  {
+    "id": 5202105,
+    "classe": "5e",
+    "chapitres": ["nombres"],
+    "question": "Le chiffre des centièmes de \\(125,93\\)",
+    "bonne_reponse": "\\(3\\)"
+  },
+  {
+    "id": 5202106,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(42 \\div 7\\)",
+    "bonne_reponse": "\\(6\\)"
+  },
+  {
+    "id": 5202107,
+    "classe": "5e",
+    "chapitres": ["durées"],
+    "question": "Un film commence à \\(20\\) h \\(55\\) min et dure \\(1\\) h \\(35\\) min.<br>À quelle heure se termine-t-il ?",
+    "bonne_reponse": "\\(22\\) h \\(30\\)"
+  },
+  {
+    "id": 5202108,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "Le triple de \\(16\\)",
+    "bonne_reponse": "\\(48\\)"
+  },
+  {
+    "id": 5202109,
+    "classe": "5e",
+    "chapitres": ["problèmes","proportionnalité"],
+    "question": "\\(8\\) cahiers coûtent \\(4\\) €.<br>Combien coûtent \\(12\\) de ces mêmes cahiers ?",
+    "bonne_reponse": "\\(6\\) €"
+  },
+  {
+    "id": 5202110,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "Le reste de la division euclidienne de \\(28\\) par \\(3\\) est :",
+    "bonne_reponse": "\\(28 = 3 \\times 9 + 1\\).<br>Le reste est 1."
+  },
+  {
+    "id": 5202111,
+    "classe": "5e",
+    "chapitres": ["nombres"],
+    "question": "Quelle est l’abscisse de \\(A\\) ? <br><br> <img src='figures/5_2021_01.png' style='transform: scale(1); transform-origin: auto; width='220';' />",
+    "bonne_reponse": "\\(A(65)\\)"
+  },
+  {
+    "id": 5202112,
+    "classe": "5e",
+    "chapitres": ["fractions"],
+    "question": "Quelle fraction de la surface totale est grisée ?<br><br><img src='figures/5_2021_02.png' style='transform: scale(1); transform-origin: auto; width='220';' />",
+    "bonne_reponse": "\\(\\dfrac{3}{7}\\)"
+  },
+  {
+    "id": 5202113,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(25-5 \\times 4\\)",
+    "bonne_reponse": "\\(5\\)"
+  },
+  {
+    "id": 5202114,
+    "classe": "5e",
+    "chapitres": ["nombres"],
+    "question": "Complète cette suite logique :<br>\\(4,5 - 5,8 - 7 - ? - 9,4\\)",
+    "bonne_reponse": "\\(8,2\\)"
+  },
+  {
+    "id": 5202115,
+    "classe": "5e",
+    "chapitres": ["opérations","problèmes"],
+    "question": "<img src='figures/5_2021_03.png' style='transform: scale(1); transform-origin: auto; width='250';' />",
+    "bonne_reponse": "\\(9\\)"
+  },
+  {
+    "id": 5202116,
+    "classe": "5e",
+    "chapitres": ["unités"],
+    "question": "Complète : \\(9,5\\) hL \\(= \\ldots\\) L",
+    "bonne_reponse": "\\(9,5\\) hL \\(= 950\\) L"
+  },
+  {
+    "id": 5202117,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(5 \\times 4 \\times 3,2 \\times 5\\)",
+    "bonne_reponse": "\\(320\\)"
+  },
+  {
+    "id": 5202118,
+    "classe": "5e",
+    "chapitres": ["pourcentages"],
+    "question": "\\(40 \\%\\) des \\(20\\) € de ma tirelire sont utilisés pour l’achat d’un jeu.<br>Quel est le prix de ce jeu ?",
+    "bonne_reponse": "\\(8\\) €"
+  },
+  {
+    "id": 5202119,
+    "classe": "5e",
+    "chapitres": ["périmètre"],
+    "question": "\\(EFGH\\) est un losange et \\(EF = 50\\) mm.<br>Quel est le périmètre de ce losange ?",
+    "bonne_reponse": "\\(200\\) mm"
+  },
+  {
+    "id": 5202120,
+    "classe": "5e",
+    "chapitres": ["triangles"],
+    "question": "Peut-on construire un triangle dont les trois côtés ont pour longueur :<br>\\(3,8\\) cm ; \\(13,5\\) cm et \\(9,8\\) cm ?",
+    "bonne_reponse": "Oui : \\(9,8 + 3,8 \\geq 13,5\\)"
+  },
+  {
+    "id": 5202121,
+    "classe": "5e",
+    "chapitres": ["aire"],
+    "question": "L’aire d’un carré est égale à<br>\\(49\\) cm\\(^2\\).<br>Quelle est la longueur de son côté ?",
+    "bonne_reponse": "\\(7\\) cm"
+  },
+  {
+    "id": 5202122,
+    "classe": "5e",
+    "chapitres": ["angles"],
+    "question": "<img src='figures/5_2021_04.png' style='transform: scale(1); transform-origin: auto; width='250';' /><br><br>\\(\\widehat{tBv}=\\ldots\\)°",
+    "bonne_reponse": "\\(100\\)°"
+  },
+  {
+    "id": 5202123,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(40 \\times 99\\)",
+    "bonne_reponse": "\\(3~960\\)"
+  },
+  {
+    "id": 5202124,
+    "classe": "5e",
+    "chapitres": ["calcul littéral"],
+    "question": "Calcule<br>\\(n \\times (n-2)\\) si \\(n = 7\\)",
+    "bonne_reponse": "\\(7 \\times 5 = 35\\)"
+  },
+  {
+    "id": 5202125,
+    "classe": "5e",
+    "chapitres": ["problèmes"],
+    "question": "Julia a mangé les trois dixièmes d’un paquet de 30 bonbons.<br>Combien de bonbons reste-t-il ?",
+    "bonne_reponse": "\\(21\\) bonbons"
+  },
+  {
+    "id": 5202126,
+    "classe": "5e",
+    "chapitres": ["unités"],
+    "question": "Complète : \\(57\\) m\\(^3 = \\ldots\\) dm\\(^3\\)",
+    "bonne_reponse": "\\(57~000\\) dm\\(^3\\)"
+  },
+  {
+    "id": 5202127,
+    "classe": "5e",
+    "chapitres": ["aire"],
+    "question": "L’aire de la figure ci-dessous est égale à :<br><img src='figures/5_2021_05.png' style='transform: scale(1); transform-origin: auto; width='220';' />",
+    "bonne_reponse": "\\(34\\) cm\\(^2\\)"
+  },
+  {
+    "id": 5202128,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(7 + 7 \\div 7 \\times 7\\)",
+    "bonne_reponse": "\\(14\\)"
+  },
+  {
+    "id": 5202129,
+    "classe": "5e",
+    "chapitres": ["périmètre","calcul littéral"],
+    "question": "Exprime en fonction de \\(x\\) le périmètre de ce triangle :<br><img src='figures/5_2021_06.png' style='transform: scale(1); transform-origin: auto; width='250';' />",
+    "bonne_reponse": "\\(3x\\) cm"
+  },
+  {
+    "id": 5202130,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "Le quotient de la somme de \\(15\\) et \\(7\\) par \\(2\\) est égale à :",
+    "bonne_reponse": "\\(\\dfrac{15+7}{2} = 11\\)"
   },
   {
     "id": 3201601,
