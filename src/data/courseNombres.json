@@ -732,7 +732,7 @@
     "classe": "6e",
     "chapitres": ["unités"],
     "question": "Complète :<br><br>\\(13\\) mm + \\(8\\) cm \\(= \\ldots\\) cm",
-    "bonne_reponse": "\\(93\\) cm"
+    "bonne_reponse": "\\(9,3\\) cm"
   },
   {
     "id": 6201916,
@@ -1010,7 +1010,7 @@
   {
     "id": 6202125,
     "classe": "6e",
-    "chapitres": ["problèmes","test"],
+    "chapitres": ["problèmes"],
     "question": "En 20 minutes, mon train électrique fait 8 tours.<br><br>En \\(5\\) minutes, il fait \\(\\ldots\\) tours.",
     "bonne_reponse": "\\(2\\) tours."
   },
@@ -1045,9 +1045,219 @@
   {
     "id": 6202130,
     "classe": "6e",
-    "chapitres": ["aire","test"],
+    "chapitres": ["aire"],
     "question": "En grisé, on a représenté une unité d’aire, notée uA.<br>Quelle est l’aire de la figure hachurée ?<br><img src='figures/6_2021_06.png' style='transform: scale(1); transform-origin: auto;' width='220' /><br><br>\\(\\ldots\\) uA",
     "bonne_reponse": "\\(1,2\\) uA"
+  },
+  {
+    "id": 6202201,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(7 \\times 8\\)",
+    "bonne_reponse": "\\(56\\)"
+  },
+  {
+    "id": 6202202,
+    "classe": "6e",
+    "chapitres": ["fractions"],
+    "question": "Le tiers de \\(27\\)",
+    "bonne_reponse": "\\(9\\)"
+  },
+  {
+    "id": 6202203,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "Complète : \\(27 - \\ldots = 10\\)",
+    "bonne_reponse": "\\(27 - 17 = 10\\)"
+  },
+  {
+    "id": 6202204,
+    "classe": "6e",
+    "chapitres": ["problèmes","proportionnalité"],
+    "question": "\\(6\\) feutres coûtent \\(8\\) €.<br>\\(\\ldots\\) feutres coûtent \\(16\\) €",
+    "bonne_reponse": "\\(12\\) feutres"
+  },
+  {
+    "id": 6202205,
+    "classe": "6e",
+    "chapitres": ["durées"],
+    "question": "Complète : \\(\\dfrac{3}{4}\\) h \\(= \\ldots\\) min",
+    "bonne_reponse": "\\(45\\) min"
+  },
+  {
+    "id": 6202206,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Complète :<br><br><img src='figures/6_2022_01.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(8,3\\)"
+  },
+  {
+    "id": 6202207,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(38 - 19\\)",
+    "bonne_reponse": "\\(19\\)"
+  },
+  {
+    "id": 6202208,
+    "classe": "6e",
+    "chapitres": ["problèmes"],
+    "question": "Un entraineur répartit \\(21\\) joueurs dans des équipes ayant le même nombre de joueurs.<br>Il peut faire des équipes de : <br><br>\\(2\\) joueurs \\(\\quad 3\\) joueurs <br> \\(5\\) joueurs \\(\\quad 7\\) joueurs",
+    "bonne_reponse": "\\(3 \\text{ et } 7\\)"
+  },
+  {
+    "id": 6202209,
+    "classe": "6e",
+    "chapitres": ["fractions"],
+    "question": "Le quart de \\(10\\)",
+    "bonne_reponse": "\\(2,5\\)"
+  },
+  {
+    "id": 6202210,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "Complète : \\(14 - 3 = \\ldots + 5\\)",
+    "bonne_reponse": "\\(6\\)"
+  },
+  {
+    "id": 6202211,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(53,7 \\div 10\\)",
+    "bonne_reponse": "\\(5,37\\)"
+  },
+  {
+    "id": 6202212,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Donne deux autres écritures du nombre \\(\\dfrac{50}{100}\\)",
+    "bonne_reponse": "\\(\\dfrac{50}{100} = 0,5 = 50\\%\\)"
+  },
+  {
+    "id": 6202213,
+    "classe": "6e",
+    "chapitres": ["problèmes"],
+    "question": "J’ai \\(2\\) pièces de \\(50\\) centimes et \\(6\\) pièces de \\(20\\) centimes.<br>En tout, j’ai \\(\\ldots\\) €",
+    "bonne_reponse": "\\(2,20\\) €"
+  },
+  {
+    "id": 6202214,
+    "classe": "6e",
+    "chapitres": ["durées"],
+    "question": "Enlève \\(20\\) min à \\(14\\) h \\(05\\) min.",
+    "bonne_reponse": "\\(13\\) h \\(45\\) min"
+  },
+  {
+    "id": 6202215,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Combien de dixièmes dans \\(1,3\\) unité ?",
+    "bonne_reponse": "\\(13\\)"
+  },
+  {
+    "id": 6202216,
+    "classe": "6e",
+    "chapitres": ["problèmes"],
+    "question": "Inès a \\(14\\) billes. Inès en a \\(2\\) fois plus que Samad.<br><br>Samad a \\(\\ldots\\) billes.",
+    "bonne_reponse": "\\(7\\) billes"
+  },
+  {
+    "id": 6202217,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "Complète : \\(6 \\times \\ldots = 3\\)",
+    "bonne_reponse": "\\(6 \\times 0,5 = 3\\)"
+  },
+  {
+    "id": 6202218,
+    "classe": "6e",
+    "chapitres": ["unités"],
+    "question": "Complète : \\(2,5\\) L \\(+ 50\\) cL = \\(\\ldots\\) L",
+    "bonne_reponse": "\\(3\\) L"
+  },
+  {
+    "id": 6202219,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Écris en chiffres : \\(5\\) dizaines et \\(2\\) centaines",
+    "bonne_reponse": "\\(50 + 200 = 250\\)"
+  },
+  {
+    "id": 6202220,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Quelle est la longueur du segment \\([AB]\\) ?<br><br><img src='figures/6_2022_02.png' style='transform: scale(1); transform-origin: auto;' width='220' /><br><br>\\(\\ldots\\) unité(s)",
+    "bonne_reponse": "\\(\\dfrac{4}{3}\\) unité"
+  },
+  {
+    "id": 6202221,
+    "classe": "6e",
+    "chapitres": ["fractions"],
+    "question": "Calcule \\(\\dfrac{4}{3}\\) de \\(15\\) €",
+    "bonne_reponse": "\\(20\\) €"
+  },
+  {
+    "id": 6202222,
+    "classe": "6e",
+    "chapitres": ["fractions"],
+    "question": "Calcule \\(\\dfrac{4}{3}\\) de \\(150\\) €",
+    "bonne_reponse": "\\(200\\) €"
+  },
+  {
+    "id": 6202223,
+    "classe": "6e",
+    "chapitres": ["problèmes"],
+    "question": "Un caramel coûte \\(15\\) centimes. En dépensant \\(1,50\\) €, j’achète \\(\\ldots\\) caramels.",
+    "bonne_reponse": "\\(10\\) caramels."
+  },
+  {
+    "id": 6202224,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Complète :<br><br><img src='figures/6_2022_03.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(2,4\\)"
+  },
+  {
+    "id": 6202225,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(3 \\times 0,4\\)",
+    "bonne_reponse": "\\(1,2\\)"
+  },
+  {
+    "id": 6202226,
+    "classe": "6e",
+    "chapitres": ["problèmes"],
+    "question": "Quelle est la réponse possible ?<br><br>Une voiture pèse :<br>\\(1~500\\) g ; \\(1~500\\) kg ; \\(1~500\\) t",
+    "bonne_reponse": "\\(1~500\\) kg"
+  },
+  {
+    "id": 6202227,
+    "classe": "6e",
+    "chapitres": ["fractions"],
+    "question": "La moitié de \\(0,3\\)",
+    "bonne_reponse": "\\(0,15\\)"
+  },
+  {
+    "id": 6202228,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(50 \\times 3 \\times 2\\)",
+    "bonne_reponse": "\\(300\\)"
+  },
+  {
+    "id": 6202229,
+    "classe": "6e",
+    "chapitres": ["problèmes"],
+    "question": "Quand je monte de \\(20\\) marches, je m’élève de \\(100\\) cm.<br>Quand je monte de \\(5\\) marches, je m’élève de \\(\\ldots\\) cm.",
+    "bonne_reponse": "\\(50\\) cm"
+  },
+  {
+    "id": 6202230,
+    "classe": "6e",
+    "chapitres": ["aire"],
+    "question": "Quelle est l’aire de ce rectangle ?<br><img src='figures/6_2022_04.png' style='transform: scale(1); transform-origin: auto;' width='220' /><br><br>\\(\\ldots\\) unités d'aire",
+    "bonne_reponse": "\\(48\\) unités d'aire"
   },
   {
     "id": 5201601,
