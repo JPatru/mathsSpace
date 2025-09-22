@@ -1564,7 +1564,7 @@
     "id": 5201714,
     "classe": "5e",
     "chapitres": ["proportionnalité"],
-    "question": "Le rectangle 2 est un agrandissement du rectangle 1<br><br><img src='figures/5_2017_03.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
+    "question": "Le rectangle ➁ est un agrandissement du rectangle ➀<br><br><img src='figures/5_2017_03.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
     "bonne_reponse": "\\(3\\) cm"
   },
   {
@@ -1788,7 +1788,7 @@
     "id": 5201816,
     "classe": "5e",
     "chapitres": ["proportionnalité"],
-    "question": "Le triangle 2 est un agrandissement du triangle 1<br><img src='figures/5_2018_04.png' style='transform: scale(0.8); transform-origin: auto;' width='220' /><br>\\(? = \\ldots\\) cm",
+    "question": "Le triangle ➁ est un agrandissement du triangle ➀<br><img src='figures/5_2018_04.png' style='transform: scale(0.8); transform-origin: auto;' width='220' /><br>\\(? = \\ldots\\) cm",
     "bonne_reponse": "\\(7,5\\) cm"
   },
   {
@@ -2100,6 +2100,216 @@
     "bonne_reponse": "\\(5,25\\)"
   },
   {
+    "id": 5202001,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(7 \\times \\ldots = 42\\)",
+    "bonne_reponse": "\\(6\\)"
+  },
+  {
+    "id": 5202002,
+    "classe": "5e",
+    "chapitres": ["nombres"],
+    "question": "Ecriture décimale de \\(5+\\dfrac{3}{10}+\\dfrac{7}{1000}\\)",
+    "bonne_reponse": "\\(5,307\\)"
+  },
+  {
+    "id": 5202003,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(5,4 + 0,12\\)",
+    "bonne_reponse": "\\(5,52\\)"
+  },
+  {
+    "id": 5202004,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(10 - 5,2\\)",
+    "bonne_reponse": "\\(4,8\\)"
+  },
+  {
+    "id": 5202005,
+    "classe": "5e",
+    "chapitres": ["pourcentages"],
+    "question": "\\(10 \\%\\) de \\(64\\)",
+    "bonne_reponse": "\\(6,4\\)"
+  },
+  {
+    "id": 5202006,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(72 \\div 8\\)",
+    "bonne_reponse": "\\(9\\)"
+  },
+  {
+    "id": 5202007,
+    "classe": "5e",
+    "chapitres": ["durées"],
+    "question": "Toto part à \\(14\\) h \\(30\\) min et son trajet dure \\(2\\) h \\(50\\) min.<br>À quelle heure arrive-t-il ?",
+    "bonne_reponse": "\\(17\\) h \\(20\\) min"
+  },
+  {
+    "id": 5202008,
+    "classe": "5e",
+    "chapitres": ["fractions"],
+    "question": "La moitié de \\(34\\)",
+    "bonne_reponse": "\\(17\\)"
+  },
+  {
+    "id": 5202009,
+    "classe": "5e",
+    "chapitres": ["problèmes"],
+    "question": "\\(4\\) bâtons de réglisse coûtent \\(3\\) €.<br>Combien coûtent \\(6\\) bâtons de réglisse ?",
+    "bonne_reponse": "\\(4,50\\) €"
+  },
+  {
+    "id": 5202010,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "Le reste de la division euclidienne de \\(43\\) par \\(5\\) est :",
+    "bonne_reponse": "\\(3\\)"
+  },
+  {
+    "id": 5202011,
+    "classe": "5e",
+    "chapitres": ["nombres"],
+    "question": "Quelle est l’abscisse de \\(A\\) ?<br><br><img src='figures/5_2020_01.png' style='transform: scale(1); transform-origin: auto; width='250';' />",
+    "bonne_reponse": "\\(A(54)\\)"
+  },
+  {
+    "id": 5202012,
+    "classe": "5e",
+    "chapitres": ["proportionnalité"],
+    "question": "La figure ➁ est un agrandissement de ➀.<br><br><img src='figures/5_2020_02.png' style='transform: scale(1); transform-origin: auto; width='250';' /><br><br>? \\(= \\ldots\\) cm",
+    "bonne_reponse": "\\(4,8\\) cm"
+  },
+  {
+    "id": 5202013,
+    "classe": "5e",
+    "chapitres": ["fractions"],
+    "question": "Quelle fraction de la surface totale représente la surface grisée ?<br><br><img src='figures/5_2020_03.png' style='transform: scale(1); transform-origin: auto; width='250';' />",
+    "bonne_reponse": "\\(\\dfrac{4}{15}\\)"
+  },
+  {
+    "id": 5202014,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(6 + 3 \\times 4\\)",
+    "bonne_reponse": "\\(18\\)"
+  },
+  {
+    "id": 5202015,
+    "classe": "5e",
+    "chapitres": ["problèmes"],
+    "question": "Complète la suite logique :<br><br>\\(2,6 \\quad 5,2 \\quad 10,4 \\quad \\ldots \\quad 41,6\\)",
+    "bonne_reponse": "\\(20,8\\)"
+  },
+  {
+    "id": 5202016,
+    "classe": "5e",
+    "chapitres": ["données"],
+    "question": "<img src='figures/5_2020_04.png' style='transform: scale(1); transform-origin: auto; width='250';' /><br><br>Le nombre total d’animaux comptabilisés est:",
+    "bonne_reponse": "\\(800\\)"
+  },
+  {
+    "id": 5202017,
+    "classe": "5e",
+    "chapitres": ["pourcentages"],
+    "question": "Sur \\(25\\) chiots, \\(11\\) sont de couleur marron.<br>Quel est le pourcentage de chiots marrons ?",
+    "bonne_reponse": "\\(44 \\%\\)"
+  },
+  {
+    "id": 5202018,
+    "classe": "5e",
+    "chapitres": ["durées"],
+    "question": "Complète : \\(1,5\\) h \\(= \\ldots\\) h \\(\\ldots\\) min",
+    "bonne_reponse": "\\(1\\) h \\(30\\) min"
+  },
+  {
+    "id": 5202019,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(12 \\times 50 \\times 3 \\times 2\\)",
+    "bonne_reponse": "\\(3600\\)"
+  },
+  {
+    "id": 5202020,
+    "classe": "5e",
+    "chapitres": ["périmètre"],
+    "question": "Quel est le périmètre d’un rectangle \\(ABCD\\) tel que :<br>\\(AB = 43\\) mm et \\(BC = 5,7\\) cm ?<br><br>\\(\\ldots\\) cm",
+    "bonne_reponse": "\\(20\\) cm"
+  },
+  {
+    "id": 5202021,
+    "classe": "5e",
+    "chapitres": ["triangles"],
+    "question": "Peut-on constuire un triangle dont les trois côtés ont pour longueur :<br><br>\\(3,5\\) cm; \\(5,5\\) cm et \\(12\\) cm ?",
+    "bonne_reponse": "\\(3,5 + 5,5 < 12\\) donc non."
+  },
+  {
+    "id": 5202022,
+    "classe": "5e",
+    "chapitres": ["volumes"],
+    "question": "Volume en cm\\(^3\\) de ce pavé droit :<br><img src='figures/5_2020_05.png' style='transform: scale(1); transform-origin: auto; width='250';' />",
+    "bonne_reponse": "\\(30\\) cm\\(^3\\)"
+  },
+  {
+    "id": 5202023,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(16 \\times 101\\)",
+    "bonne_reponse": "\\(1616\\)"
+  },
+  {
+    "id": 5202024,
+    "classe": "5e",
+    "chapitres": ["calcul littéral"],
+    "question": "Calcule<br>\\(n \\times (n+2)\\) si \\(n = 6\\)",
+    "bonne_reponse": "\\(6 \\times 8 = 48\\)"
+  },
+  {
+    "id": 5202025,
+    "classe": "5e",
+    "chapitres": ["problèmes"],
+    "question": "Arthur mange les deux tiers d’un fromage de \\(33\\) g.<br>Quelle masse de fromage a-t-il mangé ?",
+    "bonne_reponse": "\\(22\\) g"
+  },
+  {
+    "id": 5202026,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "Complète : \\(2 \\times \\ldots = 3\\)",
+    "bonne_reponse": "\\(\\dfrac{3}{2}\\)"
+  },
+  {
+    "id": 5202027,
+    "classe": "5e",
+    "chapitres": ["unités"],
+    "question": "Complète : \\(32,5\\) m\\(^3 = \\ldots\\) dm\\(^3\\)",
+    "bonne_reponse": "\\(32~500\\) dm\\(^3\\)"
+  },
+  {
+    "id": 5202028,
+    "classe": "5e",
+    "chapitres": ["aire"],
+    "question": "Aire du polygone grisé en cm\\(^2\\) :<img src='figures/5_2020_06.png' style='transform: scale(1); transform-origin: auto; width='250';' />",
+    "bonne_reponse": "\\(12\\) cm\\(^2\\)"
+  },
+  {
+    "id": 5202029,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "Le produit de la somme de \\(8\\) et \\(9\\) par la différence de \\(11\\) et \\(9\\) est égal à:",
+    "bonne_reponse": "\\((8 + 9) \\times (11 - 9) = 34\\)"
+  },
+  {
+    "id": 5202030,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(6 - 6 ÷ 6 \\times 6 + 6 \\times 6\\)",
+    "bonne_reponse": "\\(36\\)"
+  },
+  {
     "id": 5202101,
     "classe": "5e",
     "chapitres": ["opérations"],
@@ -2308,6 +2518,426 @@
     "chapitres": ["opérations"],
     "question": "Le quotient de la somme de \\(15\\) et \\(7\\) par \\(2\\) est égale à :",
     "bonne_reponse": "\\(\\dfrac{15+7}{2} = 11\\)"
+  },
+  {
+    "id": 5202201,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(7 \\times 9\\)",
+    "bonne_reponse": "\\(63\\)"
+  },
+  {
+    "id": 5202202,
+    "classe": "5e",
+    "chapitres": ["nombres"],
+    "question": "Écris en chiffre le nombre cinquante-mille-trente-quatre.",
+    "bonne_reponse": "\\(5034\\)"
+  },
+  {
+    "id": 5202203,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(82-39\\)",
+    "bonne_reponse": "\\(43\\)"
+  },
+  {
+    "id": 5202204,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(3 \\times 5 \\times 7 \\times 2\\)",
+    "bonne_reponse": "\\(210\\)"
+  },
+  {
+    "id": 5202205,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(21,99 + 45,1\\)",
+    "bonne_reponse": "\\(67,09\\)"
+  },
+  {
+    "id": 5202206,
+    "classe": "5e",
+    "chapitres": ["nombres"],
+    "question": "Ecriture décimale de \\(21 + \\dfrac{2}{100} + \\dfrac{7}{1000}\\)",
+    "bonne_reponse": "\\(21,027\\)"
+  },
+  {
+    "id": 5202207,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(35 - 8 \\times 3\\)",
+    "bonne_reponse": "\\(11\\)"
+  },
+  {
+    "id": 5202208,
+    "classe": "5e",
+    "chapitres": ["unités"],
+    "question": "Complète : \\(7,8\\) km \\(= \\ldots\\) m",
+    "bonne_reponse": "\\(7800\\) m"
+  },
+  {
+    "id": 5202209,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "Quel est le résultat de :<br>\\(2,3 \\times 6,5\\)<br><br>\\(1,495 \\quad 14,95 \\quad 149,5\\)",
+    "bonne_reponse": "\\(14,95\\)"
+  },
+  {
+    "id": 5202210,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(7,3 \\times 0,1\\)",
+    "bonne_reponse": "\\(0,73\\)"
+  },
+  {
+    "id": 5202211,
+    "classe": "5e",
+    "chapitres": ["volumes"],
+    "question": "Combien y a-t-il de petits cubes dans ce pavé droit ?<br><br><img src='figures/5_2022_01.png' style='transform: scale(1); transform-origin: auto; width='220';' />",
+    "bonne_reponse": "\\(60\\) cubes"
+  },
+  {
+    "id": 5202212,
+    "classe": "5e",
+    "chapitres": ["durées"],
+    "question": "Complète : \\(284\\) min \\(= \\ldots\\) h \\(\\ldots\\) min",
+    "bonne_reponse": "\\(4\\) h \\(44\\) min"
+  },
+  {
+    "id": 5202213,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(90 \\times 0,03\\)",
+    "bonne_reponse": "\\(2,7\\)"
+  },
+  {
+    "id": 5202214,
+    "classe": "5e",
+    "chapitres": ["symétrie"],
+    "question": "Le triangle \\(DEF\\) est le symétrique du triangle \\(ABC\\) par rapport au point \\(O\\).<br><br><img src='figures/5_2022_02.png' style='transform: scale(1); transform-origin: auto; width='220';' /><br>\\(\\widehat{E}=\\ldots\\)",
+    "bonne_reponse": "\\(\\widehat{E}=72^\\circ\\)"
+  },
+  {
+    "id": 5202215,
+    "classe": "5e",
+    "chapitres": ["fractions","opérations"],
+    "question": "La moitié de \\(0,7\\)",
+    "bonne_reponse": "\\(0,035\\)"
+  },
+  {
+    "id": 5202216,
+    "classe": "5e",
+    "chapitres": ["volumes"],
+    "question": "Quel est le nombre de faces de ce solide ?<br><br><img src='figures/5_2022_03.png' style='transform: scale(1); transform-origin: auto; width='220';' />",
+    "bonne_reponse": "\\(11\\) faces"
+  },
+  {
+    "id": 5202217,
+    "classe": "5e",
+    "chapitres": ["nombres"],
+    "question": "L'opposé de \\(7,5\\) est \\(\\ldots\\)",
+    "bonne_reponse": "\\(-7,5\\)"
+  },
+  {
+    "id": 5202218,
+    "classe": "5e",
+    "chapitres": ["cercle"],
+    "question": "La figure a été faite à main levée.<br><br><img src='figures/5_2022_04.png' style='transform: scale(1); transform-origin: auto; width='220';' /><br>\\(GI = \\ldots\\)",
+    "bonne_reponse": "\\(GI = 1,6\\)"
+  },
+  {
+    "id": 5202219,
+    "classe": "5e",
+    "chapitres": ["proportionnalité"],
+    "question": "Complète le tableau de proportionnalité :<br><br><img src='figures/5_2022_05.png' style='transform: scale(1); transform-origin: auto; width='220';' />",
+    "bonne_reponse": "\\(54\\)"
+  },
+  {
+    "id": 5202220,
+    "classe": "5e",
+    "chapitres": ["nombres"],
+    "question": "Quelle est l’abscisse de \\(A\\) ?<br><br><img src='figures/5_2022_06.png' style='transform: scale(1); transform-origin: auto;' width='250' />",
+    "bonne_reponse": "\\(A(42,6)\\)"
+  },
+  {
+    "id": 5202221,
+    "classe": "5e",
+    "chapitres": ["pourcentages"],
+    "question": "\\(15 \\%\\) de \\(120\\)",
+    "bonne_reponse": "\\(18\\)"
+  },
+  {
+    "id": 5202222,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(1,13 + 6,42 + 8,87\\)",
+    "bonne_reponse": "\\(16,42\\)"
+  },
+  {
+    "id": 5202223,
+    "classe": "5e",
+    "chapitres": ["fractions"],
+    "question": "\\(\\dfrac{4}{3} \\times 18\\)",
+    "bonne_reponse": "\\(24\\)"
+  },
+  {
+    "id": 5202224,
+    "classe": "5e",
+    "chapitres": ["angles"],
+    "question": "Donne la mesure de l’angle.<br><br><img src='figures/5_2022_07.png' style='transform: scale(1); transform-origin: auto;' width='250' />",
+    "bonne_reponse": "\\(110^\\circ\\)"
+  },
+  {
+    "id": 5202225,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "Calcule la différence entre le produit de \\(7\\) par \\(9\\) et \\(17\\).",
+    "bonne_reponse": "\\(7 \\times 9 - 17 = 46\\)"
+  },
+  {
+    "id": 5202226,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(2 + 4 \\times (5 + 3)\\)",
+    "bonne_reponse": "\\(34\\)"
+  },
+  {
+    "id": 5202227,
+    "classe": "5e",
+    "chapitres": ["fractions"],
+    "question": "Complète : \\(4 \\times \\ldots = 5\\)",
+    "bonne_reponse": "\\(\\dfrac{5}{4}\\)"
+  },
+  {
+    "id": 5202228,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(24 \\times 99\\)",
+    "bonne_reponse": "\\(2376\\)"
+  },
+  {
+    "id": 5202229,
+    "classe": "5e",
+    "chapitres": ["aire"],
+    "question": "L’aire d’un disque de diamètre 10 cm est :<br><br>\\(\\ldots \\pi\\) cm\\(^2\\)",
+    "bonne_reponse": "\\(25 \\pi\\) cm\\(^2\\)"
+  },
+  {
+    "id": 5202230,
+    "classe": "5e",
+    "chapitres": ["nombres"],
+    "question": "Ecriture décimale de \\(\\dfrac{21}{5}\\)",
+    "bonne_reponse": "\\(4,2\\)"
+  },
+  {
+    "id": 5202301,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(7 \\times 8 = \\ldots\\)",
+    "bonne_reponse": "\\(56\\)"
+  },
+  {
+    "id": 5202302,
+    "classe": "5e",
+    "chapitres": ["nombres"],
+    "question": "Le chiffre des millièmes dans \\(745,2961\\) est :",
+    "bonne_reponse": "\\(6\\)"
+  },
+  {
+    "id": 5202303,
+    "classe": "5e",
+    "chapitres": ["durées"],
+    "question": "Le film commence à \\(20\\)h\\(55\\)min et dure \\(1\\)h\\(35\\)min.<br>À quelle heure se termine-t-il ?",
+    "bonne_reponse": "\\(22\\)h\\(30\\)min"
+  },
+  {
+    "id": 5202304,
+    "classe": "5e",
+    "chapitres": ["fractions"],
+    "question": "La moitié de \\(162\\) est :",
+    "bonne_reponse": "\\(81\\)"
+  },
+  {
+    "id": 5202305,
+    "classe": "5e",
+    "chapitres": ["angles"],
+    "question": "<img src='figures/5_2023_01.png' style='transform: scale(0.8); transform-origin: auto;' width='220' /><br><br>\\(?=\\ldots\\)",
+    "bonne_reponse": "\\(55^\\circ\\)"
+  },
+  {
+    "id": 5202306,
+    "classe": "5e",
+    "chapitres": ["aire"],
+    "question": "\\(120,45\\) cm\\(^2=\\ldots\\) dm\\(^2\\)",
+    "bonne_reponse": "\\(1,2045\\) dm\\(^2\\)"
+  },
+  {
+    "id": 5202307,
+    "classe": "5e",
+    "chapitres": ["problèmes","proportionnalité"],
+    "question": "\\(6\\) crayons identiques<br>coûtent \\(3\\) €.<br>Combien coûtent \\(4\\) crayons ?",
+    "bonne_reponse": "\\(2\\) €"
+  },
+  {
+    "id": 5202308,
+    "classe": "5e",
+    "chapitres": ["fractions"],
+    "question": "<img src='figures/5_2023_02.png' style='transform: scale(0.8); transform-origin: auto;' width='220' /><br><br>Quelle fraction du rectangle représente l’aire grisée ?",
+    "bonne_reponse": "\\(\\dfrac{9}{20}\\)"
+  },
+  {
+    "id": 5202309,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(7,4+2,31=\\ldots\\)",
+    "bonne_reponse": "\\(10,01\\)"
+  },
+  {
+    "id": 5202310,
+    "classe": "5e",
+    "chapitres": ["nombres"],
+    "question": "La valeur arrondie de \\(7,236\\) au centième près est :",
+    "bonne_reponse": "\\(7,24\\)"
+  },
+  {
+    "id": 5202311,
+    "classe": "5e",
+    "chapitres": ["nombres"],
+    "question": "Le point \\(A\\) est repéré par le nombre :<br><br><img src='figures/5_2023_03.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(A(-2,5)\\)"
+  },
+  {
+    "id": 5202312,
+    "classe": "5e",
+    "chapitres": ["fractions"],
+    "question": "Luc dépense le quart de son salaire du mois pour payer le loyer.<br>Quelle fraction de son salaire lui reste-t-il ?",
+    "bonne_reponse": "\\(\\dfrac{3}{4}\\)"
+  },
+  {
+    "id": 5202313,
+    "classe": "5e",
+    "chapitres": ["calcul littéral"],
+    "question": "Voici trois nombres entiers<br>\\(n\\) ; \\(n-1\\) et \\(n+1\\).<br>Quel est le plus petit ?",
+    "bonne_reponse": "\\(n-1\\)"
+  },
+  {
+    "id": 5202314,
+    "classe": "5e",
+    "chapitres": ["fractions"],
+    "question": "\\(16 \\times \\dfrac{5}{4}\\)",
+    "bonne_reponse": "\\(20\\)"
+  },
+  {
+    "id": 5202315,
+    "classe": "5e",
+    "chapitres": ["durées"],
+    "question": "\\(204\\) min \\(=\\ldots\\) h \\(\\ldots\\) min",
+    "bonne_reponse": "\\(3\\) h \\(24\\) min"
+  },
+  {
+    "id": 5202316,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(4,42-3,5\\)",
+    "bonne_reponse": "\\(0,92\\)"
+  },
+  {
+    "id": 5202317,
+    "classe": "5e",
+    "chapitres": ["problèmes"],
+    "question": "Pour payer \\(78,13\\) €, je donne des billets :<br>un de \\(10\\) €,<br>un de \\(20\\) €<br>et un de \\(50\\) €.<br>Combien me rend-on ?",
+    "bonne_reponse": "\\(7,87\\) €"
+  },
+  {
+    "id": 5202318,
+    "classe": "5e",
+    "chapitres": ["proportionnalité"],
+    "question": "On donne le tableau de proportionnalité suivant<br><br><img src='figures/5_2023_04.png' style='transform: scale(0.8); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(9\\)"
+  },
+  {
+    "id": 5202319,
+    "classe": "5e",
+    "chapitres": ["fractions"],
+    "question": "Le tiers de la somme de \\(15\\) et \\(18\\) est :",
+    "bonne_reponse": "\\(11\\)"
+  },
+  {
+    "id": 5202320,
+    "classe": "5e",
+    "chapitres": ["angles"],
+    "question": "Donne la mesure de l’angle \\(\\widehat{ACB}\\) ?<br><br><img src='figures/5_2023_05.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(120^\\circ\\)"
+  },
+  {
+    "id": 5202321,
+    "classe": "5e",
+    "chapitres": ["pourcentages"],
+    "question": "\\(25 \\%\\) de \\(120\\) est égal à :",
+    "bonne_reponse": "\\(30\\)"
+  },
+  {
+    "id": 5202322,
+    "classe": "5e",
+    "chapitres": ["nombres"],
+    "question": "Quelle est l’abscisse du point \\(A\\) ?<br><br><img src='figures/5_2023_06.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(4,5\\)"
+  },
+  {
+    "id": 5202323,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(1009,7 \\div 10 =\\)",
+    "bonne_reponse": "\\(100,97\\)"
+  },
+  {
+    "id": 5202324,
+    "classe": "5e",
+    "chapitres": ["aire"],
+    "question": "Donne un ordre de grandeur de l’aire d’un disque de rayon \\(6\\) cm.",
+    "bonne_reponse": "\\(108\\) cm\\(^2\\)"
+  },
+  {
+    "id": 5202325,
+    "classe": "5e",
+    "chapitres": ["nombres"],
+    "question": "\\(2 \\times 10~000 + 6 \\times 100 + 3 \\times 10\\)",
+    "bonne_reponse": "\\(20~630\\)"
+  },
+  {
+    "id": 5202326,
+    "classe": "5e",
+    "chapitres": ["volumes"],
+    "question": "Calculer le volume de ce pavé en cm\\(^3\\)<br><br><img src='figures/5_2023_07.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(60\\) cm\\(^3\\)"
+  },
+  {
+    "id": 5202327,
+    "classe": "5e",
+    "chapitres": ["volumes"],
+    "question": "Combien de petits cubes faut-il pour construire cet objet ?<br><br><img src='figures/5_2023_08.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(68\\)"
+  },
+  {
+    "id": 5202328,
+    "classe": "5e",
+    "chapitres": ["opérations","test"],
+    "question": "\\(4+3 \\times (5-3)\\)",
+    "bonne_reponse": "\\(10\\)"
+  },
+  {
+    "id": 5202329,
+    "classe": "5e",
+    "chapitres": ["unités"],
+    "question": "\\(0,28\\) L = \\(\\ldots\\) dm\\(^3\\)",
+    "bonne_reponse": "\\(0,28\\) L = \\(0,28\\) dm\\(^3\\)"
+  },
+  {
+    "id": 5202330,
+    "classe": "5e",
+    "chapitres": ["nombres","test"],
+    "question": "Je suis un nombre entier a 3 chiffres.<br>Mon chiffre des unités est \\(7\\).<br>Le nombre de mes dizaines est le triple du chiffre des unités.<br>Qui suis-je ?",
+    "bonne_reponse": "\\(217\\)"
   },
   {
     "id": 3201601,
