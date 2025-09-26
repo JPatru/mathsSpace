@@ -2921,7 +2921,7 @@
   {
     "id": 5202328,
     "classe": "5e",
-    "chapitres": ["opérations","test"],
+    "chapitres": ["opérations"],
     "question": "\\(4+3 \\times (5-3)\\)",
     "bonne_reponse": "\\(10\\)"
   },
@@ -2935,9 +2935,219 @@
   {
     "id": 5202330,
     "classe": "5e",
-    "chapitres": ["nombres","test"],
+    "chapitres": ["nombres"],
     "question": "Je suis un nombre entier a 3 chiffres.<br>Mon chiffre des unités est \\(7\\).<br>Le nombre de mes dizaines est le triple du chiffre des unités.<br>Qui suis-je ?",
     "bonne_reponse": "\\(217\\)"
+  },
+  {
+    "id": 5202401,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(6 \\times 8\\)",
+    "bonne_reponse": "\\(48\\)"
+  },
+  {
+    "id": 5202402,
+    "classe": "5e",
+    "chapitres": ["fractions"],
+    "question": "Le tiers de \\(12\\)",
+    "bonne_reponse": "\\(4\\)"
+  },
+  {
+    "id": 5202403,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(2 \\times 0,7\\)",
+    "bonne_reponse": "\\(1,4\\)"
+  },
+  {
+    "id": 5202404,
+    "classe": "5e",
+    "chapitres": ["problèmes","proportionnalité"],
+    "question": "Paul répartit équitablement \\(90\\) pommes dans \\(6\\) caisses.<br>Combien y a-t-il de pommes dans \\(4\\) caisses ?",
+    "bonne_reponse": "\\(60\\)"
+  },
+  {
+    "id": 5202405,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "La différence entre \\(63\\) et \\(49\\)",
+    "bonne_reponse": "\\(14\\)"
+  },
+  {
+    "id": 5202406,
+    "classe": "5e",
+    "chapitres": ["nombres","arrondi"],
+    "question": "L’arrondi de \\(4,963\\) au dixième près",
+    "bonne_reponse": "\\(5,0\\)"
+  },
+  {
+    "id": 5202407,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(7,3 \\div 10\\)",
+    "bonne_reponse": "\\(0,73\\)"
+  },
+  {
+    "id": 5202408,
+    "classe": "5e",
+    "chapitres": ["nombres"],
+    "question": "Écriture décimale de :<br>\\(23+\\dfrac{7}{10}+\\dfrac{9}{1000}\\)",
+    "bonne_reponse": "\\(23,7009\\)"
+  },
+  {
+    "id": 5202409,
+    "classe": "5e",
+    "chapitres": ["durées"],
+    "question": "Nora part au cinéma à \\(14\\) h \\(15\\) min.<br>Le trajet dure \\(47\\) minutes.<br>Elle arrive au cinéma à : \\(\\ldots\\)",
+    "bonne_reponse": "\\(15\\) h \\(02\\)"
+  },
+  {
+    "id": 5202410,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(3,25 + 4,21 + 1,75\\)",
+    "bonne_reponse": "\\(9,21\\)"
+  },
+  {
+    "id": 5202411,
+    "classe": "5e",
+    "chapitres": ["périmètre"],
+    "question": "Quel est le périmètre d’un rectangle de longueur \\(6\\) cm et de largeur \\(4\\) cm ?",
+    "bonne_reponse": "\\(20\\) cm"
+  },
+  {
+    "id": 5202412,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(621 \\div 3\\)",
+    "bonne_reponse": "\\(207\\)"
+  },
+  {
+    "id": 5202413,
+    "classe": "5e",
+    "chapitres": ["proportionnalité"],
+    "question": "On donne le tableau de proportionnalité suivant :<br><br><img src='figures/5_2024_01.png' style='transform: scale(0.8); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "? \\(= 24\\)"
+  },
+  {
+    "id": 5202414,
+    "classe": "5e",
+    "chapitres": ["nombres"],
+    "question": "L’abscisse du point A est :<br><br><img src='figures/5_2024_02.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(\\dfrac{7}{4}=1,75\\)"
+  },
+  {
+    "id": 5202415,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(3 + 4 \\times 5 - 1\\)",
+    "bonne_reponse": "\\(22\\)"
+  },
+  {
+    "id": 5202416,
+    "classe": "5e",
+    "chapitres": ["triangles"],
+    "question": "<img src='figures/5_2024_03.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "? \\(= 70^\\circ\\)"
+  },
+  {
+    "id": 5202417,
+    "classe": "5e",
+    "chapitres": ["pourcentages"],
+    "question": "\\(20\\%\\) de \\(80\\) €",
+    "bonne_reponse": "\\(16\\) €"
+  },
+  {
+    "id": 5202418,
+    "classe": "5e",
+    "chapitres": ["nombres"],
+    "question": "\\(15,4 \\times 998,6\\)<br><br>Un ordre de grandeur du résultat est :<br><br>\\(150 \\quad 1~500 \\quad 15~000\\)",
+    "bonne_reponse": "\\(15~000\\)"
+  },
+  {
+    "id": 5202419,
+    "classe": "5e",
+    "chapitres": ["fractions"],
+    "question": "\\(\\dfrac{3}{4} = \\dfrac{\\ldots}{16}\\)",
+    "bonne_reponse": "\\(\\dfrac{3}{4} = \\dfrac{12}{16}\\)"
+  },
+  {
+    "id": 5202420,
+    "classe": "5e",
+    "chapitres": ["volumes"],
+    "question": "Le volume de ce pavé droit est :<br><br><img src='figures/5_2024_04.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(30\\) m\\(^3\\)"
+  },
+  {
+    "id": 5202421,
+    "classe": "5e",
+    "chapitres": ["probabilités"],
+    "question": "Louise a \\(5\\) t-shirts blancs et \\(8\\) t-shirts noirs.<br>Elle en choisit un au hasard.<br>La probabilité que le t-shirt choisi soit blanc est :",
+    "bonne_reponse": "\\(\\dfrac{5}{13}\\)"
+  },
+  {
+    "id": 5202422,
+    "classe": "5e",
+    "chapitres": ["problèmes","proportionnalité"],
+    "question": "\\(5\\) cahiers identiques coûtent \\(20\\) €.<br>Quel est le prix de \\(8\\) de ces cahiers ?",
+    "bonne_reponse": "\\(32\\) €"
+  },
+  {
+    "id": 5202423,
+    "classe": "5e",
+    "chapitres": ["aire"],
+    "question": "Quelle est l’aire du terrain rectangulaire \\(ABCD\\) ?<br><br><img src='figures/5_2024_05.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(240\\) m\\(^2\\)"
+  },
+  {
+    "id": 5202424,
+    "classe": "5e",
+    "chapitres": ["symétrie"],
+    "question": "<img src='figures/5_2024_06.png' style='transform: scale(0.8); transform-origin: auto;' width='220' /><br><br>Quel est le nombre d’axes de symétrie de ce panneau ?",
+    "bonne_reponse": "\\(2\\)"
+  },
+  {
+    "id": 5202425,
+    "classe": "5e",
+    "chapitres": ["statistiques"],
+    "question": "« ALGEBRE »<br><br>La fréquence d’apparition de la lettre « E » dans ce mot est :",
+    "bonne_reponse": "\\(\\dfrac{2}{7}\\)"
+  },
+  {
+    "id": 5202426,
+    "classe": "5e",
+    "chapitres": ["volumes"],
+    "question": "Le nombre de faces d’un prisme droit à base triangulaire est :",
+    "bonne_reponse": "\\(4\\)"
+  },
+  {
+    "id": 5202427,
+    "classe": "5e",
+    "chapitres": ["fractions"],
+    "question": "\\(\\dfrac{15}{4} = 3 + \\dfrac{\\ldots}{\\ldots}\\)",
+    "bonne_reponse": "\\(\\dfrac{15}{4} = 3 + \\dfrac{3}{4}\\)"
+  },
+  {
+    "id": 5202428,
+    "classe": "5e",
+    "chapitres": ["unités"],
+    "question": "Complète : \\(350\\) L \\(= \\ldots\\) m\\(^3\\)",
+    "bonne_reponse": "\\(0,35\\) m\\(^3\\)"
+  },
+  {
+    "id": 5202429,
+    "classe": "5e",
+    "chapitres": ["opérations"],
+    "question": "\\(24 \\times 66 = 1~584\\)<br><br>Que vaut \\(48 \\times 33\\) ?",
+    "bonne_reponse": "\\(1~584\\)"
+  },
+  {
+    "id": 5202430,
+    "classe": "5e",
+    "chapitres": ["durées"],
+    "question": "\\(2,30\\) h \\(= \\ldots\\) h \\(\\ldots\\) min",
+    "bonne_reponse": "\\(2\\) h \\(18\\) min"
   },
   {
     "id": 3201601,
