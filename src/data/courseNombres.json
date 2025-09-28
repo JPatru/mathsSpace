@@ -1260,6 +1260,426 @@
     "bonne_reponse": "\\(48\\) unités d'aire"
   },
   {
+    "id": 6202301,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(9 \\times 4\\)",
+    "bonne_reponse": "\\(36\\)"
+  },
+  {
+    "id": 6202302,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(48-19\\)",
+    "bonne_reponse": "\\(29\\)"
+  },
+  {
+    "id": 6202303,
+    "classe": "6e",
+    "chapitres": ["aire"],
+    "question": "Combien y a-t-il de fleurs ?<br><br><img src='figures/6_2023_01.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(21\\) fleurs"
+  },
+  {
+    "id": 6202304,
+    "classe": "6e",
+    "chapitres": ["fractions"],
+    "question": "La moitié de \\(36\\)",
+    "bonne_reponse": "\\(18\\)"
+  },
+  {
+    "id": 6202305,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Complète :<br><br><img src='figures/6_2023_02.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(65\\)"
+  },
+  {
+    "id": 6202306,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(30 = \\ldots \\times \\ldots\\)",
+    "bonne_reponse": "\\(1 \\times 30\\)<br>\\(2 \\times 15\\)<br>\\(3 \\times 10\\)<br>\\(5 \\times 6\\)"
+  },
+  {
+    "id": 6202307,
+    "classe": "6e",
+    "chapitres": ["durées"],
+    "question": "\\(30\\) min \\(+ 80\\) min \\(= 1\\) h \\(\\ldots\\) min",
+    "bonne_reponse": "\\(1\\) h \\(50\\) min"
+  },
+  {
+    "id": 6202308,
+    "classe": "6e",
+    "chapitres": ["problèmes"],
+    "question": "Les bouteilles sont vendues par pack de \\(6\\).<br>Je dois acheter \\(18\\) bouteilles<br><br>J'achète alors \\(\\ldots\\) packs.",
+    "bonne_reponse": "\\(3\\) packs"
+  },
+  {
+    "id": 6202309,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Quelle est la réponse possible ?<br><br>Un bébé pèse :<br>\\(3\\) g ; \\(3\\) kg ; \\(30\\) kg",
+    "bonne_reponse": "\\(3\\) kg"
+  },
+  {
+    "id": 6202310,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Ecris en chiffres « Mille-douze »",
+    "bonne_reponse": "\\(1~012\\)"
+  },
+  {
+    "id": 6202311,
+    "classe": "6e",
+    "chapitres": ["problèmes"],
+    "question": "Une bouteille contient \\(1,5\\) L d'eau. Un bidon en contient \\(2\\) fois plus.<br><br>Un bidon contient \\(\\ldots\\) L d'eau.",
+    "bonne_reponse": "\\(3\\) L"
+  },
+  {
+    "id": 6202312,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Donne l'écriture décimale de \\(3 \\times 8\\) centièmes.",
+    "bonne_reponse": "\\(0,24\\)"
+  },
+  {
+    "id": 6202313,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Complète :<br><br><img src='figures/6_2023_03.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(5,4\\)"
+  },
+  {
+    "id": 6202314,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(6,8 + \\ldots = 10\\)",
+    "bonne_reponse": "\\(6,8 + 3,2 = 10\\)"
+  },
+  {
+    "id": 6202315,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "\\(5~734 = \\ldots\\) dizaines \\(\\ldots\\) unités",
+    "bonne_reponse": "\\(573\\) dizaines \\(4\\) unités"
+  },
+  {
+    "id": 6202316,
+    "classe": "6e",
+    "chapitres": ["fractions"],
+    "question": "Quelle est la fraction de l'aire du rectangle qui est grisée ?<br><br><img src='figures/6_2023_04.png' style='transform: scale(0.8); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(\\dfrac{5}{6}\\)"
+  },
+  {
+    "id": 6202317,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(78 \\div 6 = \\ldots\\)",
+    "bonne_reponse": "\\(13\\)"
+  },
+  {
+    "id": 6202318,
+    "classe": "6e",
+    "chapitres": ["problèmes"],
+    "question": "Si un empilement de \\(4\\) boîtes identiques a une hauteur de \\(18\\) cm,<br>alors un empilement de \\(6\\) de ces boîtes a une hauteur de \\(\\ldots\\) cm.",
+    "bonne_reponse": "\\(27\\) cm"
+  },
+  {
+    "id": 6202319,
+    "classe": "6e",
+    "chapitres": ["fractions"],
+    "question": "Quelle est la longueur de la ligne en pointillés ?<br><br><img src='figures/6_2023_05.png' style='transform: scale(0.8); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(\\dfrac{4}{3}\\)"
+  },
+  {
+    "id": 6202320,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(5 \\times 120\\)",
+    "bonne_reponse": "\\(600\\)"
+  },
+  {
+    "id": 6202321,
+    "classe": "6e",
+    "chapitres": ["vitesse"],
+    "question": "Un marcheur se déplace à une vitesse constante de \\(6\\) km/h.<br><br>Il parcourt \\(\\ldots\\) km en \\(15\\) min.",
+    "bonne_reponse": "\\(1,5\\) km"
+  },
+  {
+    "id": 6202322,
+    "classe": "6e",
+    "chapitres": ["vitesse"],
+    "question": "Un marcheur se déplace à une vitesse constante de \\(6\\) km/h.<br><br>Il parcourt \\(\\ldots\\) km en \\(1\\) h \\(15\\) min.",
+    "bonne_reponse": "\\(7,5\\) km"
+  },
+  {
+    "id": 6202323,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "Dans \\(40\\), combien de fois \\(5\\) ?",
+    "bonne_reponse": "\\(8\\) fois"
+  },
+  {
+    "id": 6202324,
+    "classe": "6e",
+    "chapitres": ["problèmes"],
+    "question": "\\(2\\) pochettes de \\(100\\) cartes et \\(\\ldots\\) pochettes de \\(10\\) cartes font \\(540\\) cartes en tout.",
+    "bonne_reponse": "\\(34\\)"
+  },
+  {
+    "id": 6202325,
+    "classe": "6e",
+    "chapitres": ["fractions"],
+    "question": "Combien de petits carrés pour tracer une figure d'aire \\(\\dfrac{5}{4}\\) unités d'aire (ua) ?<br><br><img src='figures/6_2023_06.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(5\\)"
+  },
+  {
+    "id": 6202326,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(0,1 \\times 0,5\\)",
+    "bonne_reponse": "\\(0,05\\)"
+  },
+  {
+    "id": 6202327,
+    "classe": "6e",
+    "chapitres": ["problèmes"],
+    "question": "\\(3\\) gommes coûtent \\(2\\) € \\(40\\) centimes.<br>Combien coûtent \\(4\\) gommes ?<br><br>\\(\\ldots\\) € \\(\\ldots\\) centimes",
+    "bonne_reponse": "\\(3\\) € \\(20\\) centimes"
+  },
+  {
+    "id": 6202328,
+    "classe": "6e",
+    "chapitres": ["proportionnalité"],
+    "question": "Le triangle ➀ est un agrandissement du triangle ➁<br>Complète<br><br><img src='figures/6_2023_07.png' style='transform: scale(0.8); transform-origin: auto;' width='220' /><br>\\(? = \\ldots\\) cm",
+    "bonne_reponse": "\\(2\\) cm"
+  },
+  {
+    "id": 6202329,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(0,5 + 0,7\\)",
+    "bonne_reponse": "\\(0,5 + 0,7 = 1,2\\)"
+  },
+  {
+    "id": 6202330,
+    "classe": "6e",
+    "chapitres": ["problèmes"],
+    "question": "Avec un choix de \\(5\\) plats et \\(4\\) desserts, combien de repas différents peut-on réaliser ?",
+    "bonne_reponse": "\\(20\\) repas"
+  },
+  {
+    "id": 6202401,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(4 \\times 8\\)",
+    "bonne_reponse": "\\(32\\)"
+  },
+  {
+    "id": 6202402,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(200 - 99\\)",
+    "bonne_reponse": "\\(101\\)"
+  },
+  {
+    "id": 6202403,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Écris le nombre égal à \\(4\\) centaines et \\(20\\) dizaines",
+    "bonne_reponse": "\\(600\\)"
+  },
+  {
+    "id": 6202404,
+    "classe": "6e",
+    "chapitres": ["proportionnalité","problèmes"],
+    "question": "\\(2\\) carrés de chocolat pèsent \\(8\\) g.<br> \\(\\ldots\\) carrés de chocolat pèsent \\(80\\) g.",
+    "bonne_reponse": "\\(20\\)"
+  },
+  {
+    "id": 6202405,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "Complète : \\(14 + 2 = \\ldots \\times 2\\)",
+    "bonne_reponse": "\\(14 + 2 = 8 \\times 2\\)"
+  },
+  {
+    "id": 6202406,
+    "classe": "6e",
+    "chapitres": ["problèmes"],
+    "question": "Avec \\(10\\) €, j’achète un livre à \\(4,90\\) €.<br><br>Combien me rend-on ?",
+    "bonne_reponse": "\\(5,10\\) €"
+  },
+  {
+    "id": 6202407,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "Complète : \\(\\ldots \\times \\ldots = 21\\)",
+    "bonne_reponse": "\\(3 \\times 7 = 21\\)"
+  },
+  {
+    "id": 6202408,
+    "classe": "6e",
+    "chapitres": ["problèmes"],
+    "question": "Un fleuriste a \\(70\\) roses.<br>Combien de bouquets de \\(5\\) roses peut-il faire au maximum ?",
+    "bonne_reponse": "\\(14\\)"
+  },
+  {
+    "id": 6202409,
+    "classe": "6e",
+    "chapitres": ["unités"],
+    "question": "Complète : \\(1\\) L \\(= \\ldots\\) mL",
+    "bonne_reponse": "\\(1\\) L \\(= 1~000\\) mL"
+  },
+  {
+    "id": 6202410,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Quelle est la réponse possible ?<br><br>La hauteur dune porte est :<br>\\(20\\) cm ; \\(20\\) dm ; \\(20\\) m",
+    "bonne_reponse": "\\(20\\) dm"
+  },
+  {
+    "id": 6202411,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Quel est le plus grand nombre ?<br><br>\\(1,4\\qquad \\dfrac{2}{3}\\)",
+    "bonne_reponse": "\\(1,4\\)"
+  },
+  {
+    "id": 6202412,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(50 \\times 6,3 \\times 2\\)",
+    "bonne_reponse": "\\(6~300\\)"
+  },
+  {
+    "id": 6202413,
+    "classe": "6e",
+    "chapitres": ["problèmes"],
+    "question": "Eva achète \\(7\\) BD à \\(4,50\\) € l’unité et \\(3\\) romans à \\(4,50\\) € l’unité.<br><br>Elle paye \\(\\ldots\\) €",
+    "bonne_reponse": "\\(45\\) €"
+  },
+  {
+    "id": 6202414,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Quel est le nombre \\(100\\) fois plus grand que \\(5\\) dixièmes ?",
+    "bonne_reponse": "\\(50\\)"
+  },
+  {
+    "id": 6202415,
+    "classe": "6e",
+    "chapitres": ["périmètre"],
+    "question": "<img src='figures/6_2024_01.png' style='transform: scale(0.8); transform-origin: auto;' width='220' /><br><br>Le périmètre de cette figure est égal à \\(\\ldots\\) cm.",
+    "bonne_reponse": "\\(9\\) cm"
+  },
+  {
+    "id": 6202416,
+    "classe": "6e",
+    "chapitres": ["fractions"],
+    "question": "Le tiers de \\(39\\)",
+    "bonne_reponse": "\\(13\\)"
+  },
+  {
+    "id": 6202417,
+    "classe": "6e",
+    "chapitres": ["problèmes"],
+    "question": "J’ai \\(12\\) ans. J’ai \\(5\\) ans de moins que mon frère.<br><br>Quel âge a mon frère ?",
+    "bonne_reponse": "\\(17\\) ans"
+  },
+  {
+    "id": 6202418,
+    "classe": "6e",
+    "chapitres": ["aire"],
+    "question": "Quelle est l’aire de la figure \\(A\\) en unité d’aire (ua) ?<br><br><img src='figures/6_2024_02.png' style='transform: scale(0.8); transform-origin: auto;' width='220' /><br><br>\\(\\ldots\\) ua",
+    "bonne_reponse": "\\(5\\) ua"
+  },
+  {
+    "id": 6202419,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Ajoute \\(1\\) dixième à \\(1,91\\).",
+    "bonne_reponse": "\\(2,01\\)"
+  },
+  {
+    "id": 6202420,
+    "classe": "6e",
+    "chapitres": ["durées"],
+    "question": "Complète : \\(1,5\\) h \\(= \\ldots\\) h \\(\\ldots\\) min",
+    "bonne_reponse": "\\(1,5\\) h \\(= 1\\) h \\(30\\) min"
+  },
+  {
+    "id": 6202421,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Ecriture décimale de \\(2+\\dfrac{15}{10}\\)",
+    "bonne_reponse": "\\(3,5\\)"
+  },
+  {
+    "id": 6202422,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "La moitié de \\(1,5\\)",
+    "bonne_reponse": "\\(0,75\\)"
+  },
+  {
+    "id": 6202423,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Complète :<br><br><img src='figures/6_2024_03.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(2,02\\)"
+  },
+  {
+    "id": 6202424,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "Sachant que \\(13 \\times 17 = 221\\), complète.<br><br>\\(221 \\div 13 = \\ldots\\)",
+    "bonne_reponse": "\\(221 \\div 13 = 17\\)"
+  },
+  {
+    "id": 6202425,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Complète par un nombre qui convient.<br><br>\\(5,9 < \\ldots < 6\\)",
+    "bonne_reponse": "\\(5,91 \\quad 5,92 \\quad 5,916 \\ldots\\)"
+  },
+  {
+    "id": 6202426,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(4 \\times 0,7\\)",
+    "bonne_reponse": "\\(2,8\\)"
+  },
+  {
+    "id": 6202427,
+    "classe": "6e",
+    "chapitres": ["fractions"],
+    "question": "Quelle est la longueur de la ligne bleue en unité de longueur (ul) ?<br><br><img src='figures/6_2024_04.png' style='transform: scale(0.8); transform-origin: auto;' width='220' /><br><br>\\(\\ldots\\) ul",
+    "bonne_reponse": "\\(\\dfrac{4}{3}\\) ul"
+  },
+  {
+    "id": 6202428,
+    "classe": "6e",
+    "chapitres": ["unités"],
+    "question": "Complète : \\(3\\) cm \\(+ 2\\) m \\(= \\ldots\\) m",
+    "bonne_reponse": "\\(2,03\\) m"
+  },
+  {
+    "id": 6202429,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(12 \\div 5\\)",
+    "bonne_reponse": "\\(2,4\\)"
+  },
+  {
+    "id": 6202430,
+    "classe": "6e",
+    "chapitres": ["problèmes"],
+    "question": "Une usine fabrique des tasses de \\(2\\) tailles différentes. Pour chaque taille, \\(4\\) couleurs sont possibles.<br><br>Cette usine peut fabriquer \\(\\ldots\\) tasses différentes.",
+    "bonne_reponse": "\\(8\\) tasses"
+  },
+  {
     "id": 5201601,
     "classe": "5e",
     "chapitres": ["nombres"],
@@ -3148,6 +3568,216 @@
     "chapitres": ["durées"],
     "question": "\\(2,30\\) h \\(= \\ldots\\) h \\(\\ldots\\) min",
     "bonne_reponse": "\\(2\\) h \\(18\\) min"
+  },
+  {
+    "id": 4201601,
+    "classe": "4e",
+    "chapitres": ["opérations"],
+    "question": "\\(5 \\times 9\\)",
+    "bonne_reponse": "\\(45\\)"
+  },
+  {
+    "id": 4201602,
+    "classe": "4e",
+    "chapitres": ["opérations"],
+    "question": "\\(27-8\\)",
+    "bonne_reponse": "\\(19\\)"
+  },
+  {
+    "id": 4201603,
+    "classe": "4e",
+    "chapitres": ["opérations"],
+    "question": "Le triple de \\(8\\)",
+    "bonne_reponse": "24"
+  },
+  {
+    "id": 4201604,
+    "classe": "4e",
+    "chapitres": ["nombres"],
+    "question": "Le chiffre des dixièmes de \\(157,32\\)",
+    "bonne_reponse": "\\(3\\)"
+  },
+  {
+    "id": 4201605,
+    "classe": "4e",
+    "chapitres": ["nombres"],
+    "question": "\\((7 \\times 1000)+(8 \\times 10)\\)\\(+(9 \\times 1)\\)",
+    "bonne_reponse": "\\(7089\\)"
+  },
+  {
+    "id": 4201606,
+    "classe": "4e",
+    "chapitres": ["fractions"],
+    "question": "La moitié de \\(126\\)",
+    "bonne_reponse": "\\(63\\)"
+  },
+  {
+    "id": 4201607,
+    "classe": "4e",
+    "chapitres": ["opérations"],
+    "question": "\\(0,12+0,5\\)",
+    "bonne_reponse": "\\(0,62\\)"
+  },
+  {
+    "id": 4201608,
+    "classe": "4e",
+    "chapitres": ["opérations"],
+    "question": "Compléter : \\(100 - \\ldots  =87\\)",
+    "bonne_reponse": "\\(100 - 13  =87\\)"
+  },
+  {
+    "id": 4201609,
+    "classe": "4e",
+    "chapitres": ["proportionnalité"],
+    "question": "\\(2\\) kg de pommes coûtent \\(5\\) €. Quel est le prix de \\(6\\) kg ?",
+    "bonne_reponse": "\\(15\\) €"
+  },
+  {
+    "id": 4201610,
+    "classe": "4e",
+    "chapitres": ["durées"],
+    "question": "\\(1\\) h \\(20\\) min - \\(40\\) min",
+    "bonne_reponse": "\\(40\\) min"
+  },
+  {
+    "id": 4201611,
+    "classe": "4e",
+    "chapitres": ["opérations"],
+    "question": "\\(-300 + 101\\)",
+    "bonne_reponse": "\\(-199\\)"
+  },
+  {
+    "id": 4201612,
+    "classe": "4e",
+    "chapitres": ["triangles"],
+    "question": "<img src='figures/4_2016_01.png' style='transform: scale(0.6); transform-origin: auto;' width='220' /><br><br>Combien mesure \\(\\widehat{B}\\)",
+    "bonne_reponse": "\\(\\widehat{B} = 70^\\circ\\)"
+  },
+  {
+    "id": 4201613,
+    "classe": "4e",
+    "chapitres": ["pourcentages"],
+    "question": "Un smartphone coûte \\(120\\) €. Son prix baisse de \\(10\\%\\). Quel est son nouveau prix ?",
+    "bonne_reponse": "\\(108\\) €"
+  },
+  {
+    "id": 4201614,
+    "classe": "4e",
+    "chapitres": ["fractions"],
+    "question": "\\(\\dfrac{1}{4}+\\dfrac{1}{8}\\)",
+    "bonne_reponse": "\\(\\dfrac{3}{8}\\)"
+  },
+  {
+    "id": 4201615,
+    "classe": "4e",
+    "chapitres": ["durées"],
+    "question": "\\(2,25\\) h = \\(\\ldots\\) h \\(\\ldots\\) min",
+    "bonne_reponse": "\\(2\\) h \\(15\\) min"
+  },
+  {
+    "id": 4201616,
+    "classe": "4e",
+    "chapitres": ["calcul littéral"],
+    "question": "\\(A = 4 + 3x\\)<br>Calculer \\(A\\) pour \\(x=-2\\)",
+    "bonne_reponse": "\\(A = -2\\)"
+  },
+  {
+    "id": 4201617,
+    "classe": "4e",
+    "chapitres": ["fractions"],
+    "question": "Ecrire l'entier égal à<br><br>\\(\\dfrac{16}{43} \\times \\dfrac{43}{4}\\)",
+    "bonne_reponse": "\\(4\\)"
+  },
+  {
+    "id": 4201618,
+    "classe": "4e",
+    "chapitres": ["périmètre"],
+    "question": "<img src='figures/4_2016_02.png' style='transform: scale(0.6); transform-origin: auto;' width='220' /><br><br>Le périmètre de ce triangle est égal à \\(12\\) cm. Quelle est son aire ?",
+    "bonne_reponse": "\\(6\\) cm\\(^2\\)"
+  },
+  {
+    "id": 4201619,
+    "classe": "4e",
+    "chapitres": ["proportionnalité"],
+    "question": "La figure 2 est un agrandis-<br>sement de la figure 1 :<br><br><img src='figures/4_2016_03.png' style='transform: scale(0.8); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "? \\(= 6\\) cm"
+  },
+  {
+    "id": 4201620,
+    "classe": "4e",
+    "chapitres": ["fractions"],
+    "question": "Ecriture décimale de \\(\\dfrac{21}{4}\\)",
+    "bonne_reponse": "\\(5,25\\)"
+  },
+  {
+    "id": 4201621,
+    "classe": "4e",
+    "chapitres": ["Pythagore"],
+    "question": "<img src='figures/4_2016_04.png' style='transform: scale(0.6); transform-origin: auto;' width='220' /><br><br>\\(BC = \\ldots\\) cm",
+    "bonne_reponse": "\\(BC = \\sqrt{100} = 10\\) cm"
+  },
+  {
+    "id": 4201622,
+    "classe": "4e",
+    "chapitres": ["calcul littéral"],
+    "question": "Si \\(4x-5=23\\) alors<br><br>\\(x = \\ldots\\)",
+    "bonne_reponse": "\\(x = 7\\)"
+  },
+  {
+    "id": 4201623,
+    "classe": "4e",
+    "chapitres": ["angles"],
+    "question": "<img src='figures/4_2016_05.png' style='transform: scale(1); transform-origin: auto;' width='250' /><br><br>? \\(= \\ldots ^\\circ\\)",
+    "bonne_reponse": "? \\(= 20 ^\\circ\\)"
+  },
+  {
+    "id": 4201624,
+    "classe": "4e",
+    "chapitres": ["pourcentages"],
+    "question": "Dans une classe, il y a \\(15\\) filles et \\(5\\) garçons.<br>Quel est le pourcentage de garçons ?",
+    "bonne_reponse": "\\(25 \\%\\)"
+  },
+  {
+    "id": 4201625,
+    "classe": "4e",
+    "chapitres": ["opérations"],
+    "question": "\\(-7-7 \\div 7+7\\)",
+    "bonne_reponse": "\\(-1\\)"
+  },
+  {
+    "id": 4201626,
+    "classe": "4e",
+    "chapitres": ["fractions"],
+    "question": "Compléter par un entier<br><br>\\(\\dfrac{38}{5} = \\ldots + \\dfrac{3}{5}\\)",
+    "bonne_reponse": "\\(\\dfrac{38}{5} = 7 + \\dfrac{3}{5}\\)"
+  },
+  {
+    "id": 4201627,
+    "classe": "4e",
+    "chapitres": ["périmètre"],
+    "question": "La valeur la plus proche du périmètre d’un cercle de diamètre \\(10\\) cm est<br><br>\\(\\bullet~~60\\) cm<br>\\(\\bullet~~600\\) cm<br>\\(\\bullet~~30\\) cm<br>\\(\\bullet~~300\\) cm",
+    "bonne_reponse": "\\(60\\) cm"
+  },
+  {
+    "id": 4201628,
+    "classe": "4e",
+    "chapitres": ["opérations"],
+    "question": "\\(0,25 \\times 28\\)",
+    "bonne_reponse": "\\(0,25 \\times 28 = 7\\)"
+  },
+  {
+    "id": 4201629,
+    "classe": "4e",
+    "chapitres": ["vitesse","test08"],
+    "question": "Une voiture a parcouru \\(50\\) km en \\(40\\) min.<br>Quelle est sa vitesse moyenne ?",
+    "bonne_reponse": "\\(75\\) km/h"
+  },
+  {
+    "id": 4201630,
+    "classe": "4e",
+    "chapitres": ["volumes","test08"],
+    "question": "Quel est le volume du prisme droit représenté par le patron ci-dessous ?<br><br><img src='figures/4_2016_06.png' style='transform: scale(1); transform-origin: auto;' width='210' />",
+    "bonne_reponse": "\\(12\\) cm\\(^3\\)"
   },
   {
     "id": 3201601,
