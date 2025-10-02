@@ -618,37 +618,86 @@
     {
       "id": 60088,
       "classe": "6e",
-      "chapitres": ["Fractions","Calcul mental","test"],
+      "chapitres": ["Fractions","Calcul mental"],
       "question": "Dans quelle(s) figure(s) la surface coloriée est-elle égale au quart de la surface totale ?<br><br><img src='figures/60014.png' style='transform: scale(1); transform-origin: auto;' width='250' />",
       "bonne_reponse": "La figure triangulaire"
     },
     {
       "id": 60089,
       "classe": "6e",
-      "chapitres": ["Fractions","Calcul mental","test"],
+      "chapitres": ["Fractions","Calcul mental"],
       "question": "Indique la fraction de la surface totale qui est colorée.<br><br><img src='figures/60015.png' style='transform: scale(1); transform-origin: auto;' width='155' />",
       "bonne_reponse": "\\(\\dfrac{3}{8}\\)"
     },
     {
       "id": 60090,
       "classe": "6e",
-      "chapitres": ["Fractions","Calcul mental","test"],
+      "chapitres": ["Fractions","Calcul mental"],
       "question": "Indique la fraction de la surface totale qui est colorée.<br><br><img src='figures/60016.png' style='transform: scale(1); transform-origin: auto;' width='155' />",
       "bonne_reponse": "\\(\\dfrac{4}{12}=\\dfrac{1}{3}\\)"
     },
     {
       "id": 60091,
       "classe": "6e",
-      "chapitres": ["Fractions","Calcul mental","test"],
+      "chapitres": ["Fractions","Calcul mental"],
       "question": "Indique la fraction de la surface totale qui est colorée.<br><br><img src='figures/60017.png' style='transform: scale(1); transform-origin: auto;' width='155' />",
       "bonne_reponse": "\\(\\dfrac{1}{4}\\)"
     },
     {
       "id": 60092,
       "classe": "6e",
-      "chapitres": ["Fractions","Calcul mental","test"],
+      "chapitres": ["Fractions","Calcul mental"],
       "question": "Indique la fraction de la surface totale qui est colorée.<br><br><img src='figures/60018.png' style='transform: scale(1); transform-origin: auto;' width='155' />",
       "bonne_reponse": "\\(\\dfrac{13}{36}\\)"
+    },
+    {
+      "id": 60093,
+      "classe": "6e",
+      "chapitres": ["Fractions","Calcul mental"],
+      "question": "\\(68 \\times \\dfrac{\\ldots}{68} = 52\\)",
+      "bonne_reponse": "\\(68 \\times \\dfrac{{\\color{#228B22}52}}{68} = 52\\)"
+    },
+    {
+      "id": 60094,
+      "classe": "6e",
+      "chapitres": ["Fractions","Calcul mental"],
+      "question": "\\(74 \\times \\dfrac{\\ldots}{74} = 38\\)",
+      "bonne_reponse": "\\(74 \\times \\dfrac{{\\color{#228B22}38}}{74} = 38\\)"
+    },
+    {
+      "id": 60095,
+      "classe": "6e",
+      "chapitres": ["Fractions","Calcul mental"],
+      "question": "\\(\\dfrac{57}{90} \\times \\ldots = 57\\)",
+      "bonne_reponse": "\\(\\dfrac{57}{90} \\times {\\color{#228B22}90} = 57\\)"
+    },
+    {
+      "id": 60096,
+      "classe": "6e",
+      "chapitres": ["Fractions","Calcul mental"],
+      "question": "\\(\\ldots \\times \\dfrac{9}{85} = 9\\)",
+      "bonne_reponse": "\\({\\color{#228B22}85} \\times \\dfrac{9}{85} = 9\\)"
+    },
+    {
+      "id": 60097,
+      "classe": "6e",
+      "chapitres": ["Fractions","Calcul mental","test02"],
+      "question": "Par quel nombre faut-il<br>multiplier \\(5\\) pour obtenir \\(3\\) ?",
+      "bonne_reponse": "\\(5 \\times {\\color{#228B22}\\dfrac{3}{5}} = 3\\)"
+    },
+    {
+      "id": 60098,
+      "classe": "6e",
+      "chapitres": ["Fractions","Calcul mental","test02"],
+      "question": "Par quel nombre faut-il<br>multiplier \\(19\\) pour obtenir \\(97\\) ?",
+      "bonne_reponse": "\\(19 \\times {\\color{#228B22}\\dfrac{97}{19}} = 97\\)"
+    },
+    {
+      "id": 60099,
+      "classe": "6e",
+      "chapitres": ["Fractions","Calcul mental","test02"],
+      "question": "Par quel nombre faut-il<br>multiplier \\(12\\) pour obtenir \\(11\\) ?",
+      "bonne_reponse": "\\(12 \\times {\\color{#228B22}\\dfrac{11}{12}} = 11\\)"
     },
     {
       "id": 40002,
