@@ -123,7 +123,7 @@
       "classe": "6e",
       "chapitres": ["Nombres"],
       "question": "Donne une écriture décimale de<br><br>\\(\\dfrac{1~328}{100}\\)",
-      "bonne_reponse": "\\(\\dfrac{1~328}{100}=\\color{#228B22}{1,328}\\)"
+      "bonne_reponse": "\\(\\dfrac{1~328}{100}=\\color{#228B22}{13,28}\\)"
     },
     {
       "id": 60019,
@@ -172,7 +172,7 @@
       "classe": "6e",
       "chapitres": ["Nombres"],
       "question": "Ecris sous la forme d'une fraction décimale<br><br>\\(1,02=\\dfrac{\\ldots}{\\ldots}\\)",
-      "bonne_reponse": "\\(102=\\color{#228B22}{\\dfrac{102}{100}}\\)"
+      "bonne_reponse": "\\(1,02=\\color{#228B22}{\\dfrac{102}{100}}\\)"
     },
     {
       "id": 60025,
@@ -681,23 +681,240 @@
     {
       "id": 60097,
       "classe": "6e",
-      "chapitres": ["Fractions","Calcul mental","test02"],
+      "chapitres": ["Fractions","Calcul mental"],
       "question": "Par quel nombre faut-il<br>multiplier \\(5\\) pour obtenir \\(3\\) ?",
       "bonne_reponse": "\\(5 \\times {\\color{#228B22}\\dfrac{3}{5}} = 3\\)"
     },
     {
       "id": 60098,
       "classe": "6e",
-      "chapitres": ["Fractions","Calcul mental","test02"],
+      "chapitres": ["Fractions","Calcul mental"],
       "question": "Par quel nombre faut-il<br>multiplier \\(19\\) pour obtenir \\(97\\) ?",
       "bonne_reponse": "\\(19 \\times {\\color{#228B22}\\dfrac{97}{19}} = 97\\)"
     },
     {
       "id": 60099,
       "classe": "6e",
-      "chapitres": ["Fractions","Calcul mental","test02"],
+      "chapitres": ["Fractions","Calcul mental"],
       "question": "Par quel nombre faut-il<br>multiplier \\(12\\) pour obtenir \\(11\\) ?",
       "bonne_reponse": "\\(12 \\times {\\color{#228B22}\\dfrac{11}{12}} = 11\\)"
+    },
+    {
+      "id": 60100,
+      "classe": "6e",
+      "chapitres": ["Fractions","Calcul mental"],
+      "question": "\\(\\dfrac{\\ldots}{2}=1\\)",
+      "bonne_reponse": "\\(\\dfrac{{\\color{#228B22}2}}{2}=1\\)"
+    },
+    {
+      "id": 60101,
+      "classe": "6e",
+      "chapitres": ["Fractions","Calcul mental"],
+      "question": "\\(\\dfrac{\\ldots}{3}=4\\)",
+      "bonne_reponse": "\\(\\dfrac{{\\color{#228B22}12}}{3}=4\\)"
+    },
+    {
+      "id": 60102,
+      "classe": "6e",
+      "chapitres": ["Fractions","Calcul mental"],
+      "question": "\\(\\dfrac{\\ldots}{18}=0\\)",
+      "bonne_reponse": "\\(\\dfrac{{\\color{#228B22}0}}{18}=0\\)"
+    },
+    {
+      "id": 60103,
+      "classe": "6e",
+      "chapitres": ["Fractions","Calcul mental"],
+      "question": "\\(\\dfrac{\\ldots}{3}=10\\)",
+      "bonne_reponse": "\\(\\dfrac{{\\color{#228B22}30}}{3}=10\\)"
+    },
+    {
+      "id": 60104,
+      "classe": "6e",
+      "chapitres": ["Fractions","Calcul mental"],
+      "question": "\\(\\dfrac{7}{\\ldots}=3,5\\)",
+      "bonne_reponse": "\\(\\dfrac{7}{{\\color{#228B22}2}}=3,5\\)"
+    },
+    {
+      "id": 60105,
+      "classe": "6e",
+      "chapitres": ["Fractions","Calcul mental"],
+      "question": "\\(\\dfrac{1}{\\ldots}=0,1\\)",
+      "bonne_reponse": "\\(\\dfrac{1}{{\\color{#228B22}10}}=0,1\\)"
+    },
+    {
+      "id": 60106,
+      "classe": "6e",
+      "chapitres": ["Fractions","Calcul mental"],
+      "question": "\\(3=\\dfrac{9}{\\ldots}\\)",
+      "bonne_reponse": "\\(3=\\dfrac{9}{{\\color{#228B22}3}}\\)"
+    },
+    {
+      "id": 60107,
+      "classe": "6e",
+      "chapitres": ["Fractions","Calcul mental"],
+      "question": "\\(3=\\dfrac{\\ldots}{9}\\)",
+      "bonne_reponse": "\\(3=\\dfrac{{\\color{#228B22}27}}{9}\\)"
+    },
+    {
+      "id": 60108,
+      "classe": "6e",
+      "chapitres": ["Fractions","Calcul mental"],
+      "question": "\\(9=\\dfrac{\\ldots}{3}\\)",
+      "bonne_reponse": "\\(9=\\dfrac{{\\color{#228B22}27}}{3}\\)"
+    },
+    {
+      "id": 60109,
+      "classe": "6e",
+      "chapitres": ["Fractions","Calcul mental"],
+      "question": "\\(50 \\times \\dfrac{1}{2}\\)",
+      "bonne_reponse": "\\(50 \\times \\dfrac{1}{2}={\\color{#228B22}25}\\)"
+    },
+    {
+      "id": 60110,
+      "classe": "6e",
+      "chapitres": ["Fractions","Calcul mental"],
+      "question": "\\(24 \\times \\dfrac{1}{2}\\)",
+      "bonne_reponse": "\\(24 \\times \\dfrac{1}{2}={\\color{#228B22}12}\\)"
+    },
+    {
+      "id": 60111,
+      "classe": "6e",
+      "chapitres": ["Fractions","Calcul mental"],
+      "question": "\\(13 \\times \\dfrac{1}{2}\\)",
+      "bonne_reponse": "\\(13 \\times \\dfrac{1}{2}={\\color{#228B22}6,5}\\)"
+    },
+    {
+      "id": 60112,
+      "classe": "6e",
+      "chapitres": ["Fractions","Calcul mental"],
+      "question": "\\(60 \\times \\dfrac{1}{2}\\)",
+      "bonne_reponse": "\\(60 \\times \\dfrac{1}{2}={\\color{#228B22}30}\\)"
+    },
+    {
+      "id": 60113,
+      "classe": "6e",
+      "chapitres": ["Fractions","Calcul mental"],
+      "question": "\\(\\dfrac{1}{2} \\times 31 = \\ldots\\)",
+      "bonne_reponse": "\\(\\dfrac{1}{2} \\times 31 = {\\color{#228B22}15,5}\\)"
+    },
+    {
+      "id": 60114,
+      "classe": "6e",
+      "chapitres": ["Fractions","Calcul mental"],
+      "question": "\\(\\dfrac{1}{4}\\) de \\(20\\), c'est \\(\\ldots\\)",
+      "bonne_reponse": "\\(\\dfrac{1}{4}\\) de \\(20\\), c'est \\({\\color{#228B22}5}\\)"
+    },
+    {
+      "id": 60115,
+      "classe": "6e",
+      "chapitres": ["Fractions","Calcul mental"],
+      "question": "\\(\\dfrac{1}{4}\\) de \\(120\\), c'est \\(\\ldots\\)",
+      "bonne_reponse": "\\(\\dfrac{1}{4}\\) de \\(120\\), c'est \\({\\color{#228B22}30}\\)"
+    },
+    {
+      "id": 60116,
+      "classe": "6e",
+      "chapitres": ["Fractions","Calcul mental"],
+      "question": "Un quart de \\(40\\), c'est \\(\\ldots\\)",
+      "bonne_reponse": "Un quart de \\(40\\), c'est \\({\\color{#228B22}10}\\)"
+    },
+    {
+      "id": 60117,
+      "classe": "6e",
+      "chapitres": ["Fractions","Calcul mental"],
+      "question": "La moitié de \\(58\\), c'est \\(\\ldots\\)",
+      "bonne_reponse": "La moitié de \\(58\\), c'est \\({\\color{#228B22}29}\\)"
+    },
+    {
+      "id": 60118,
+      "classe": "6e",
+      "chapitres": ["Fractions","Calcul mental"],
+      "question": "Le tiers de \\(15\\), c'est \\(\\ldots\\)",
+      "bonne_reponse": "Le tiezrs de \\(15\\), c'est \\({\\color{#228B22}5}\\)"
+    },
+    {
+      "id": 60119,
+      "classe": "6e",
+      "chapitres": ["Fractions","Calcul mental"],
+      "question": "Le quart de \\(18\\), c'est \\(\\ldots\\)",
+      "bonne_reponse": "Le quart de \\(18\\), c'est \\({\\color{#228B22}4,5}\\)"
+    },
+    {
+      "id": 60120,
+      "classe": "6e",
+      "chapitres": ["Fractions","Calcul mental"],
+      "question": "Le quart de \\(50\\), c'est \\(\\ldots\\)",
+      "bonne_reponse": "Le quart de \\(50\\), c'est \\({\\color{#228B22}12,5}\\)"
+    },
+    {
+      "id": 60121,
+      "classe": "6e",
+      "chapitres": ["Fractions","Calcul mental"],
+      "question": "La moitié de \\(1,3\\), c'est \\(\\ldots\\)",
+      "bonne_reponse": "La moitié de \\(1,3\\), c'est \\({\\color{#228B22}0,65}\\)"
+    },
+    {
+      "id": 60122,
+      "classe": "6e",
+      "chapitres": ["Fractions","Calcul mental"],
+      "question": "La moitié de \\(86~402\\), c'est \\(\\ldots\\)",
+      "bonne_reponse": "La moitié de \\(86~402\\),<br> c'est \\({\\color{#228B22}43~201}\\)"
+    },
+    {
+      "id": 60123,
+      "classe": "6e",
+      "chapitres": ["Fractions","Calcul mental"],
+      "question": "Le tiers du quart de \\(60\\), c'est \\(\\ldots\\)",
+      "bonne_reponse": "Le tiers du quart de \\(60\\),<br> c'est \\({\\color{#228B22}5}\\)"
+    },
+    {
+      "id": 60124,
+      "classe": "6e",
+      "chapitres": ["Fractions","Calcul mental"],
+      "question": "Le quart du tiers de \\(24\\), c'est \\(\\ldots\\)",
+      "bonne_reponse": "Le quart du tiers de \\(24\\),<br> c'est \\({\\color{#228B22}2}\\)"
+    },
+    {
+      "id": 60125,
+      "classe": "6e",
+      "chapitres": ["Fractions","Calcul mental"],
+      "question": "\\(\\dfrac{1}{2}\\) heure, c'est \\(\\ldots\\) min",
+      "bonne_reponse": "\\(\\dfrac{1}{2}\\) heure, c'est \\({\\color{#228B22}30}\\) min"
+    },
+    {
+      "id": 60126,
+      "classe": "6e",
+      "chapitres": ["Fractions","Calcul mental"],
+      "question": "\\(\\dfrac{1}{4}\\) heure, c'est \\(\\ldots\\) min",
+      "bonne_reponse": "\\(\\dfrac{1}{4}\\) heure, c'est \\({\\color{#228B22}15}\\) min"
+    },
+    {
+      "id": 60127,
+      "classe": "6e",
+      "chapitres": ["Fractions","Calcul mental"],
+      "question": "\\(\\dfrac{1}{3}\\) heure, c'est \\(\\ldots\\) min",
+      "bonne_reponse": "\\(\\dfrac{1}{3}\\) heure, c'est \\({\\color{#228B22}20}\\) min"
+    },
+    {
+      "id": 60128,
+      "classe": "6e",
+      "chapitres": ["Fractions","Calcul mental"],
+      "question": "\\(\\dfrac{2}{3}\\) heure, c'est \\(\\ldots\\) min",
+      "bonne_reponse": "\\(\\dfrac{2}{3}\\) heure, c'est \\({\\color{#228B22}40}\\) min"
+    },
+    {
+      "id": 60129,
+      "classe": "6e",
+      "chapitres": ["Fractions","Calcul mental"],
+      "question": "\\(\\dfrac{3}{4}\\) heure, c'est \\(\\ldots\\) min",
+      "bonne_reponse": "\\(\\dfrac{3}{4}\\) heure, c'est \\({\\color{#228B22}45}\\) min"
+    },
+    {
+      "id": 60130,
+      "classe": "6e",
+      "chapitres": ["Fractions","Calcul mental"],
+      "question": "\\(\\dfrac{2}{5}\\) heure, c'est \\(\\ldots\\) min",
+      "bonne_reponse": "\\(\\dfrac{2}{5}\\) heure, c'est \\({\\color{#228B22}24}\\) min"
     },
     {
       "id": 40002,

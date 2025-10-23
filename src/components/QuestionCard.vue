@@ -44,16 +44,17 @@ function replace() {
 
 const showAnswer = ref(false)
 function revealAnswer() {
-  showAnswer.value = true
+  showAnswer.value = !showAnswer.value
 }
 
 watch(showAnswer, async (val) => {
-  if (val && typeof window.MathJax !== 'undefined' && window.MathJax.typesetPromise) {
-    await nextTick() // ⬅️ attend que la réponse soit dans le DOM
-    window.MathJax.typesetPromise()
+  if (val && typeof window !== 'undefined' && (window as any).MathJax?.typesetPromise) {
+    await nextTick()
+    ;(window as any).MathJax.typesetPromise()
   }
 })
 
+// Si tu as ce watch pour réinitialiser à chaque nouvelle question, garde-le :
 watch(() => props.question, () => {
   showAnswer.value = false
 }, { immediate: true, deep: true })

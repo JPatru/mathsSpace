@@ -7,7 +7,8 @@
     </div>
 
     <div class="header-bar">
-    
+      <div class="header-date">{{ formattedDate }}</div>
+   
       <div class="controls-top-row">
         <label>Classe :
           <select v-model="selectedClasse">
@@ -90,6 +91,9 @@
   import { useQuestionStore } from '../store/questions'
   import { storeToRefs } from 'pinia'
   
+  const today = new Date()
+  const options: Intl.DateTimeFormatOptions = { day: 'numeric', month: 'long', year: 'numeric' }
+  const formattedDate = today.toLocaleDateString('fr-FR', options)
   const showChapitres = ref(true)
   const store = useQuestionStore()
   const selectedSet = ref('base')
@@ -206,6 +210,15 @@
     flex-wrap: wrap;
     gap: 1rem;
   }
+
+  .header-date {
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    color: #333;
+    font-size: 1.2rem;
+    margin-right: 1.5rem;
+  }
+
 
   .app-header-wrapper {
     flex-shrink: 0;

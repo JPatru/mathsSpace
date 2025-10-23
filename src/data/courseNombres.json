@@ -74,7 +74,7 @@
     "classe": "6e",
     "chapitres": ["nombres"],
     "question": "Quelle est l’abscisse de \\(A\\) ?<br><img src='figures/6_2016_01.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
-    "bonne_reponse": "\\(\\dfrac{3}{8}\\)"
+    "bonne_reponse": "\\(18\\)"
   },
   {
     "id": 6201612,
@@ -605,7 +605,7 @@
     "id": 6201827,
     "classe": "6e",
     "chapitres": ["problèmes"],
-    "question": "Léo et Lisa ont ensemble \\(10\\) ans.<br>Dans \\(5\\) ans, il auront ensemble \\(\\ldots\\) ans.",
+    "question": "Léo et Lisa ont ensemble \\(10\\) ans.<br>Dans \\(5\\) ans, ils auront ensemble \\(\\ldots\\) ans.",
     "bonne_reponse": "\\(20\\) ans"
   },
   {
@@ -1470,6 +1470,216 @@
     "bonne_reponse": "\\(20\\) repas"
   },
   {
+    "id": 62023201,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(7 \\times 4\\)",
+    "bonne_reponse": "\\(28\\)"
+  },
+  {
+    "id": 62023202,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(23 + 19\\)",
+    "bonne_reponse": "\\(42\\)"
+  },
+  {
+    "id": 62023203,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "Combien y a-t-il de fleurs ?<br><br><img src='figures/6_2023_2_01.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(15\\) fleurs"
+  },
+  {
+    "id": 62023204,
+    "classe": "6e",
+    "chapitres": ["fractions"],
+    "question": "La moitié de \\(32\\)",
+    "bonne_reponse": "\\(16\\)"
+  },
+  {
+    "id": 62023205,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Complète :<br><br><img src='figures/6_2023_2_02.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(105\\)"
+  },
+  {
+    "id": 62023206,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "Complète : \\(18 = \\ldots \\times \\ldots\\)",
+    "bonne_reponse": "\\(18 = 2 \\times 9 = 3 \\times 6\\)"
+  },
+  {
+    "id": 62023207,
+    "classe": "6e",
+    "chapitres": ["durées"],
+    "question": "\\(30\\) min \\(+ 45\\) min<br><br>\\(= 1\\) h \\(\\ldots\\) min",
+    "bonne_reponse": "\\(1\\) h \\(15\\) min"
+  },
+  {
+    "id": 62023208,
+    "classe": "6e",
+    "chapitres": ["problèmes"],
+    "question": "Pour ranger \\(32\\) œufs, combien de boites de \\(4\\) œufs dois-je utiliser ?",
+    "bonne_reponse": "\\(8\\) boites"
+  },
+  {
+    "id": 62023209,
+    "classe": "6e",
+    "chapitres": ["problèmes"],
+    "question": "Quelle est la réponse possible ?<br><br>La hauteur dune porte est :<br>\\(2\\) dm ; \\(2\\) m ; \\(2\\) dam",
+    "bonne_reponse": "\\(2\\) m"
+  },
+  {
+    "id": 62023210,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Écris en chiffres<br>« Mille-soixante-et-onze »",
+    "bonne_reponse": "\\(1~071\\)"
+  },
+  {
+    "id": 62023211,
+    "classe": "6e",
+    "chapitres": ["problèmes"],
+    "question": "Stella a \\(14\\) ans. Loïc est \\(2\\) fois plus âgé que Stella.<br>Loïc a \\(\\ldots\\) ans",
+    "bonne_reponse": "\\(28\\) ans"
+  },
+  {
+    "id": 62023212,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Donne l’écriture décimale de \\(3 \\times 7\\) dixièmes.",
+    "bonne_reponse": "\\(2,1\\)"
+  },
+  {
+    "id": 62023213,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Complète :<br><br><img src='figures/6_2023_2_03.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(3,5\\)"
+  },
+  {
+    "id": 62023214,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "Complète : \\(7,2 + \\ldots = 10\\)",
+    "bonne_reponse": "\\(7,2 + 2,8 = 10\\)"
+  },
+  {
+    "id": 62023215,
+    "classe": "6e",
+    "chapitres": ["fractions"],
+    "question": "La moitié de \\(0,14\\)",
+    "bonne_reponse": "\\(0,07\\)"
+  },
+  {
+    "id": 62023216,
+    "classe": "6e",
+    "chapitres": ["fractions"],
+    "question": "Quelle est la fraction de l’aire du rectangle qui est grisée ?<br><br><img src='figures/6_2023_2_04.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(\\dfrac{1}{2}\\)"
+  },
+  {
+    "id": 62023217,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "Complète : \\(72 \\div 6 = \\ldots\\)",
+    "bonne_reponse": "\\(12\\)"
+  },
+  {
+    "id": 62023218,
+    "classe": "6e",
+    "chapitres": ["problèmes"],
+    "question": "Si une pile de \\(6\\) pièces de monnaie a une hauteur de \\(12\\) mm, alors une pile de \\(9\\) de ces pièces a une hauteur de \\(\\ldots\\) mm.",
+    "bonne_reponse": "\\(18\\) mm"
+  },
+  {
+    "id": 62023219,
+    "classe": "6e",
+    "chapitres": ["fractions"],
+    "question": "Quelle est la longueur de la ligne en pointillés ?<br><br><img src='figures/6_2023_2_05.png' style='transform: scale(0.8); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(\\dfrac{2}{3}\\) ul"
+  },
+  {
+    "id": 62023220,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(12 \\times 500\\)",
+    "bonne_reponse": "\\(6~000\\)"
+  },
+  {
+    "id": 62023221,
+    "classe": "6e",
+    "chapitres": ["vitesse"],
+    "question": "Une voiture roule à vitesse constante de \\(40\\) km/h.<br><br>Elle parcourt \\(\\ldots\\) km en \\(15\\) min.",
+    "bonne_reponse": "\\(10\\) km"
+  },
+  {
+    "id": 62023222,
+    "classe": "6e",
+    "chapitres": ["vitesse"],
+    "question": "Une voiture roule à vitesse constante de \\(40\\) km/h.<br><br>Elle parcourt \\(\\ldots\\) km en \\(1\\) h \\(45\\) min.",
+    "bonne_reponse": "\\(70\\) km"
+  },
+  {
+    "id": 62023223,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "Dans \\(24\\), combien de fois \\(3\\) ?",
+    "bonne_reponse": "\\(8\\) fois"
+  },
+  {
+    "id": 62023224,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Complète : \\(3\\) centaines et \\(\\ldots\\) dixièmes font \\(305,4\\).",
+    "bonne_reponse": "\\(3\\) centaines et \\(54\\) dixièmes font \\(305,4\\)"
+  },
+  {
+    "id": 62023225,
+    "classe": "6e",
+    "chapitres": ["aire"],
+    "question": "Combien de petits carrés pour tracer une figure d'aire \\(\\dfrac{3}{2}\\) unités d'aire (ua) ?<br><br><img src='figures/6_2023_2_06.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(6\\) petits carrés"
+  },
+  {
+    "id": 62023226,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Complète :<br><br><img src='figures/6_2023_2_07.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(1,38\\)"
+  },
+  {
+    "id": 62023227,
+    "classe": "6e",
+    "chapitres": ["problèmes"],
+    "question": "\\(6\\) cahiers identiques coûtent \\(1,20\\) €.<br>Quel est le prix de \\(2\\) de ces cahiers ?",
+    "bonne_reponse": "\\(40\\) centimes"
+  },
+  {
+    "id": 62023228,
+    "classe": "6e",
+    "chapitres": ["proportionnalité"],
+    "question": "Le rectangle ➁ est un agrandissement du rectangle ➀<br>Complète<br><br><img src='figures/6_2023_2_08.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(2\\) cm"
+  },
+  {
+    "id": 62023229,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(1,24 + 0,6\\)",
+    "bonne_reponse": "\\(1,84\\)"
+  },
+  {
+    "id": 62023230,
+    "classe": "6e",
+    "chapitres": ["problèmes"],
+    "question": "En prenant un plat au choix parmi \\(3\\) plats et un dessert au choix parmi \\(2\\) desserts, combien de repas différents peut-on réaliser ?",
+    "bonne_reponse": "\\(3 \\times 2 = 6\\) repas"
+  },
+  {
     "id": 6202401,
     "classe": "6e",
     "chapitres": ["opérations"],
@@ -1678,6 +1888,216 @@
     "chapitres": ["problèmes"],
     "question": "Une usine fabrique des tasses de \\(2\\) tailles différentes. Pour chaque taille, \\(4\\) couleurs sont possibles.<br><br>Cette usine peut fabriquer \\(\\ldots\\) tasses différentes.",
     "bonne_reponse": "\\(8\\) tasses"
+  },
+  {
+    "id": 62024201,
+    "classe": "6e",
+    "chapitres": ["","test1"],
+    "question": "",
+    "bonne_reponse": ""
+  },
+  {
+    "id": 62024202,
+    "classe": "6e",
+    "chapitres": ["","test1"],
+    "question": "",
+    "bonne_reponse": ""
+  },
+  {
+    "id": 62024203,
+    "classe": "6e",
+    "chapitres": ["","test1"],
+    "question": "",
+    "bonne_reponse": ""
+  },
+  {
+    "id": 62024204,
+    "classe": "6e",
+    "chapitres": ["","test1"],
+    "question": "",
+    "bonne_reponse": ""
+  },
+  {
+    "id": 62024205,
+    "classe": "6e",
+    "chapitres": ["","test2"],
+    "question": "",
+    "bonne_reponse": ""
+  },
+  {
+    "id": 62024206,
+    "classe": "6e",
+    "chapitres": ["","test2"],
+    "question": "",
+    "bonne_reponse": ""
+  },
+  {
+    "id": 62024207,
+    "classe": "6e",
+    "chapitres": ["","test2"],
+    "question": "",
+    "bonne_reponse": ""
+  },
+  {
+    "id": 62024208,
+    "classe": "6e",
+    "chapitres": ["","test2"],
+    "question": "",
+    "bonne_reponse": ""
+  },
+  {
+    "id": 62024209,
+    "classe": "6e",
+    "chapitres": ["","test3"],
+    "question": "",
+    "bonne_reponse": ""
+  },
+  {
+    "id": 62024210,
+    "classe": "6e",
+    "chapitres": ["","test3"],
+    "question": "",
+    "bonne_reponse": ""
+  },
+  {
+    "id": 62024211,
+    "classe": "6e",
+    "chapitres": ["","test3"],
+    "question": "",
+    "bonne_reponse": ""
+  },
+  {
+    "id": 62024212,
+    "classe": "6e",
+    "chapitres": ["","test3"],
+    "question": "",
+    "bonne_reponse": ""
+  },
+  {
+    "id": 62024213,
+    "classe": "6e",
+    "chapitres": ["","test4"],
+    "question": "",
+    "bonne_reponse": ""
+  },
+  {
+    "id": 62024214,
+    "classe": "6e",
+    "chapitres": ["","test4"],
+    "question": "",
+    "bonne_reponse": ""
+  },
+  {
+    "id": 62024215,
+    "classe": "6e",
+    "chapitres": ["","test4"],
+    "question": "",
+    "bonne_reponse": ""
+  },
+  {
+    "id": 62024216,
+    "classe": "6e",
+    "chapitres": ["","test4"],
+    "question": "",
+    "bonne_reponse": ""
+  },
+  {
+    "id": 62024217,
+    "classe": "6e",
+    "chapitres": ["","test5"],
+    "question": "",
+    "bonne_reponse": ""
+  },
+  {
+    "id": 62024218,
+    "classe": "6e",
+    "chapitres": ["","test5"],
+    "question": "",
+    "bonne_reponse": ""
+  },
+  {
+    "id": 62024219,
+    "classe": "6e",
+    "chapitres": ["","test5"],
+    "question": "",
+    "bonne_reponse": ""
+  },
+  {
+    "id": 62024220,
+    "classe": "6e",
+    "chapitres": ["","test5"],
+    "question": "",
+    "bonne_reponse": ""
+  },
+  {
+    "id": 62024221,
+    "classe": "6e",
+    "chapitres": ["","test6"],
+    "question": "",
+    "bonne_reponse": ""
+  },
+  {
+    "id": 62024222,
+    "classe": "6e",
+    "chapitres": ["","test6"],
+    "question": "",
+    "bonne_reponse": ""
+  },
+  {
+    "id": 62024223,
+    "classe": "6e",
+    "chapitres": ["","test6"],
+    "question": "",
+    "bonne_reponse": ""
+  },
+  {
+    "id": 62024224,
+    "classe": "6e",
+    "chapitres": ["","test6"],
+    "question": "",
+    "bonne_reponse": ""
+  },
+  {
+    "id": 62024225,
+    "classe": "6e",
+    "chapitres": ["","test7"],
+    "question": "",
+    "bonne_reponse": ""
+  },
+  {
+    "id": 62024226,
+    "classe": "6e",
+    "chapitres": ["","test7"],
+    "question": "",
+    "bonne_reponse": ""
+  },
+  {
+    "id": 62024227,
+    "classe": "6e",
+    "chapitres": ["","test7"],
+    "question": "",
+    "bonne_reponse": ""
+  },
+  {
+    "id": 62024228,
+    "classe": "6e",
+    "chapitres": ["","test7"],
+    "question": "",
+    "bonne_reponse": ""
+  },
+  {
+    "id": 62024229,
+    "classe": "6e",
+    "chapitres": ["","test8"],
+    "question": "",
+    "bonne_reponse": ""
+  },
+  {
+    "id": 62024230,
+    "classe": "6e",
+    "chapitres": ["","test8"],
+    "question": "",
+    "bonne_reponse": ""
   },
   {
     "id": 5201601,
@@ -3756,7 +4176,7 @@
     "classe": "4e",
     "chapitres": ["périmètre"],
     "question": "La valeur la plus proche du périmètre d’un cercle de diamètre \\(10\\) cm est<br><br>\\(\\bullet~~60\\) cm<br>\\(\\bullet~~600\\) cm<br>\\(\\bullet~~30\\) cm<br>\\(\\bullet~~300\\) cm",
-    "bonne_reponse": "\\(60\\) cm"
+    "bonne_reponse": "\\(30\\) cm"
   },
   {
     "id": 4201628,
@@ -3945,7 +4365,7 @@
     "classe": "4e",
     "chapitres": ["aire"],
     "question": "Quelle est l’aire du triangle grisé ?<br><br><img src='figures/4_2017_02.png' style='transform: scale(0.8); transform-origin: auto;' width='220' />",
-    "bonne_reponse": "\\(30\\) cm\\(^2\\)"
+    "bonne_reponse": "\\(21\\) cm\\(^2\\)"
   },
   {
     "id": 4201725,
