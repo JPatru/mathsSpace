@@ -1,0 +1,482 @@
+[
+  {
+    "id": 6001,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Combien font \\(7 + 8\\) ?",
+    "reponses": ["\\(13\\)", "\\(14\\)", "\\(15\\)", "\\(16\\)"],
+    "bonne_reponse": "\\(15\\)"
+  },
+  {
+    "id": 6002,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Combien font \\(12 - 5\\) ?",
+    "reponses": ["\\(8\\)", "\\(7\\)", "\\(6\\)", "\\(9\\)"],
+    "bonne_reponse": "\\(7\\)"
+  },
+  {
+    "id": 6003,
+    "classe": "6e",
+    "chapitres": ["multiplications"],
+    "question": "Calcule \\(6 \\times 7\\)",
+    "reponses": ["\\(42\\)", "\\(36\\)", "\\(49\\)", "\\(56\\)"],
+    "bonne_reponse": "\\(42\\)"
+  },
+  {
+    "id": 6004,
+    "classe": "6e",
+    "chapitres": ["divisions"],
+    "question": "Quel est le quotient de \\(56 \\div 8\\) ?",
+    "reponses": ["\\(7\\)", "\\(6\\)", "\\(8\\)", "\\(9\\)"],
+    "bonne_reponse": "\\(7\\)"
+  },
+  {
+    "id": 6005,
+    "classe": "6e",
+    "chapitres": ["fractions"],
+    "question": "Quelle est la moitié de \\( \\dfrac{10}{6} \\) ?",
+    "reponses": ["\\( \\dfrac{5}{6} \\)", "\\( \\dfrac{10}{12} \\)", "\\( \\dfrac{3}{6} \\)", "\\( \\dfrac{6}{12} \\)"],
+    "bonne_reponse": "\\( \\dfrac{5}{6} \\)"
+  },
+  {
+    "id": 6006,
+    "classe": "6e",
+    "chapitres": ["fractions"],
+    "question": "Simplifie \\( \\dfrac{8}{12} \\)",
+    "reponses": ["\\( \\dfrac{2}{3} \\)", "\\( \\dfrac{3}{4} \\)", "\\( \\dfrac{4}{6} \\)", "\\( \\dfrac{1}{2} \\)"],
+    "bonne_reponse": "\\( \\dfrac{2}{3} \\)"
+  },
+  {
+    "id": 6007,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Quelle est la somme de \\(23\\) et \\(19\\) ?",
+    "reponses": ["\\(41\\)", "\\(42\\)", "\\(43\\)", "\\(44\\)"],
+    "bonne_reponse": "\\(42\\)"
+  },
+  {
+    "id": 6008,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Quel est le successeur de \\(99\\) ?",
+    "reponses": ["\\(100\\)", "\\(98\\)", "\\(101\\)", "\\(99\\)"],
+    "bonne_reponse": "\\(100\\)"
+  },
+  {
+    "id": 6009,
+    "classe": "6e",
+    "chapitres": ["unités"],
+    "question": "Combien de centimètres y a-t-il dans \\(1\\) mètre ?",
+    "reponses": ["\\(10\\)", "\\(100\\)", "\\(1000\\)", "\\(10000\\)"],
+    "bonne_reponse": "\\(100\\)"
+  },
+  {
+    "id": 6010,
+    "classe": "6e",
+    "chapitres": ["unités"],
+    "question": "Combien de grammes dans \\(1\\) kilogramme ?",
+    "reponses": ["\\(10\\)", "\\(100\\)", "\\(1000\\)", "\\(10000\\)"],
+    "bonne_reponse": "\\(1000\\)"
+  },
+  {
+    "id": 6011,
+    "classe": "6e",
+    "chapitres": ["unités"],
+    "question": "Combien de minutes dans une heure ?",
+    "reponses": ["\\(60\\)", "\\(100\\)", "\\(24\\)", "\\(90\\)"],
+    "bonne_reponse": "\\(60\\)"
+  },
+  {
+    "id": 6012,
+    "classe": "6e",
+    "chapitres": ["géométrie"],
+    "question": "Combien d’angles droits possède un carré ?",
+    "reponses": ["\\(2\\)", "\\(3\\)", "\\(4\\)", "\\(5\\)"],
+    "bonne_reponse": "\\(4\\)"
+  },
+  {
+    "id": 6013,
+    "classe": "6e",
+    "chapitres": ["géométrie"],
+    "question": "Combien de côtés possède un pentagone ?",
+    "reponses": ["\\(4\\)", "\\(5\\)", "\\(6\\)", "\\(7\\)"],
+    "bonne_reponse": "\\(5\\)"
+  },
+  {
+    "id": 6014,
+    "classe": "6e",
+    "chapitres": ["géométrie"],
+    "question": "Un triangle a pour somme des angles :",
+    "reponses": ["\\(90°\\)", "\\(120°\\)", "\\(180°\\)", "\\(360°\\)"],
+    "bonne_reponse": "\\(180°\\)"
+  },
+  {
+    "id": 6015,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Quel est le double de \\(24\\) ?",
+    "reponses": ["\\(48\\)", "\\(44\\)", "\\(42\\)", "\\(46\\)"],
+    "bonne_reponse": "\\(48\\)"
+  },
+  {
+    "id": 6016,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Quel est le triple de \\(5\\) ?",
+    "reponses": ["\\(8\\)", "\\(10\\)", "\\(15\\)", "\\(20\\)"],
+    "bonne_reponse": "\\(15\\)"
+  },
+  {
+    "id": 6017,
+    "classe": "6e",
+    "chapitres": ["proportionnalité"],
+    "question": "Si 2 stylos coûtent 4 €, combien coûtent 5 stylos ?",
+    "reponses": ["\\(8€\\)", "\\(9€\\)", "\\(10€\\)", "\\(12€\\)"],
+    "bonne_reponse": "\\(10€\\)"
+  },
+  {
+    "id": 6018,
+    "classe": "6e",
+    "chapitres": ["proportionnalité"],
+    "question": "Si 3 pommes pèsent 600 g, combien pèsent 1 pomme ?",
+    "reponses": ["\\(100g\\)", "\\(150g\\)", "\\(200g\\)", "\\(300g\\)"],
+    "bonne_reponse": "\\(200g\\)"
+  },
+  {
+    "id": 6019,
+    "classe": "6e",
+    "chapitres": ["logique"],
+    "question": "La moitié d’un nombre pair est toujours :",
+    "reponses": ["pair", "impair", "nul", "inconnu"],
+    "bonne_reponse": "pair"
+  },
+  {
+    "id": 6020,
+    "classe": "6e",
+    "chapitres": ["logique"],
+    "question": "Le triple d’un nombre impair est :",
+    "reponses": ["pair", "impair", "nul", "fraction"],
+    "bonne_reponse": "impair"
+  },
+  {
+    "id": 6021,
+    "classe": "6e",
+    "chapitres": ["fractions"],
+    "question": "Que vaut \\( \\dfrac{1}{2} + \\dfrac{1}{2} \\) ?",
+    "reponses": ["\\(1\\)", "\\( \\dfrac{2}{2} \\)", "\\( \\dfrac{1}{4} \\)", "\\(2\\)"],
+    "bonne_reponse": "\\(1\\)"
+  },
+  {
+    "id": 6022,
+    "classe": "6e",
+    "chapitres": ["fractions"],
+    "question": "Quelle est la fraction équivalente à \\( \\dfrac{2}{4} \\) ?",
+    "reponses": ["\\( \\dfrac{1}{2} \\)", "\\( \\dfrac{3}{6} \\)", "\\( \\dfrac{4}{8} \\)", "\\( \\dfrac{2}{8} \\)"],
+    "bonne_reponse": "\\( \\dfrac{1}{2} \\)"
+  },
+  {
+    "id": 6023,
+    "classe": "6e",
+    "chapitres": ["aires"],
+    "question": "Aire d’un rectangle de \\(5\\,cm\\) sur \\(3\\,cm\\) :",
+    "reponses": ["\\(15\\,cm^2\\)", "\\(8\\,cm^2\\)", "\\(10\\,cm^2\\)", "\\(30\\,cm^2\\)"],
+    "bonne_reponse": "\\(15\\,cm^2\\)"
+  },
+  {
+    "id": 6024,
+    "classe": "6e",
+    "chapitres": ["périmètres"],
+    "question": "Périmètre d’un carré de côté \\(6\\,cm\\) :",
+    "reponses": ["\\(12\\)", "\\(18\\)", "\\(24\\)", "\\(36\\)"],
+    "bonne_reponse": "\\(24\\)"
+  },
+  {
+    "id": 6025,
+    "classe": "6e",
+    "chapitres": ["géométrie"],
+    "question": "Un angle plat mesure :",
+    "reponses": ["\\(90°\\)", "\\(180°\\)", "\\(360°\\)", "\\(45°\\)"],
+    "bonne_reponse": "\\(180°\\)"
+  },
+  {
+    "id": 6026,
+    "classe": "6e",
+    "chapitres": ["unités"],
+    "question": "Combien de centilitres dans \\(1\\,L\\) ?",
+    "reponses": ["\\(10\\)", "\\(100\\)", "\\(1000\\)", "\\(10000\\)"],
+    "bonne_reponse": "\\(100\\)"
+  },
+  {
+    "id": 6027,
+    "classe": "6e",
+    "chapitres": ["relatifs"],
+    "question": "Calcule \\( (-3) + 7 \\)",
+    "reponses": ["\\(-10\\)", "\\(4\\)", "\\(10\\)", "\\(-4\\)"],
+    "bonne_reponse": "\\(4\\)"
+  },
+  {
+    "id": 6028,
+    "classe": "6e",
+    "chapitres": ["relatifs"],
+    "question": "Calcule \\( (-5) + (-6) \\)",
+    "reponses": ["\\(1\\)", "\\(-1\\)", "\\(-11\\)", "\\(-10\\)"],
+    "bonne_reponse": "\\(-11\\)"
+  },
+  {
+    "id": 6029,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Quel chiffre occupe la place des unités dans \\(239\\) ?",
+    "reponses": ["2", "3", "9", "0"],
+    "bonne_reponse": "9"
+  },
+  {
+    "id": 6030,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Quel chiffre est dans la colonne des dizaines de \\(348\\) ?",
+    "reponses": ["8", "3", "4", "5"],
+    "bonne_reponse": "4"
+  },
+  {
+    "id": 4001,
+    "classe": "4e",
+    "chapitres": ["nombres"],
+    "question": "Combien font \\(7 \\times 8\\) ?",
+    "reponses": ["\\(54\\)", "\\(56\\)", "\\(64\\)", "\\(58\\)"],
+    "bonne_reponse": "\\(56\\)"
+  },
+  {
+    "id": 4002,
+    "classe": "4e",
+    "chapitres": ["fractions"],
+    "question": "Quelle est la fraction simplifiée de \\( \\frac{6}{8} \\) ?",
+    "reponses": ["\\( \\frac{3}{4} \\)", "\\( \\frac{2}{3} \\)", "\\( \\frac{4}{6} \\)", "\\( \\frac{1}{2} \\)"],
+    "bonne_reponse": "\\( \\frac{3}{4} \\)"
+  },
+  {
+    "id": 4003,
+    "classe": "4e",
+    "chapitres": ["angles"],
+    "question": "Si deux droites parallèles forment avec une sécante un angle de \\(75°\\), que vaut son angle alterne-interne ?",
+    "reponses": ["\\(75°\\)", "\\(100°\\)", "\\(105°\\)", "\\(85°\\)"],
+    "bonne_reponse": "\\(75°\\)"
+  },
+  {
+    "id": 4004,
+    "classe": "4e",
+    "chapitres": ["puissances"],
+    "question": "Combien vaut \\(10^3\\) ?",
+    "reponses": ["\\(30\\)", "\\(100\\)", "\\(1000\\)", "\\(3000\\)"],
+    "bonne_reponse": "\\(1000\\)"
+  },
+  {
+    "id": 4005,
+    "classe": "4e",
+    "chapitres": ["calcul littéral"],
+    "question": "Réduis : \\(3x + 5x\\)",
+    "reponses": ["\\(8x\\)", "\\(15x\\)", "\\(x^2\\)", "\\(3x^2\\)"],
+    "bonne_reponse": "\\(8x\\)"
+  },
+  {
+    "id": 4006,
+    "classe": "4e",
+    "chapitres": ["divisibilité"],
+    "question": "Un nombre divisible par 9 a pour somme des chiffres...",
+    "reponses": ["égale à 9", "multiple de 9", "paire", "égale à 3"],
+    "bonne_reponse": "multiple de 9"
+  },
+  {
+    "id": 4007,
+    "classe": "4e",
+    "chapitres": ["proportionnalité"],
+    "question": "Dans un tableau de proportionnalité, les quotients des valeurs correspondantes sont...",
+    "reponses": ["égaux", "différents", "multipliés", "inversés"],
+    "bonne_reponse": "égaux"
+  },
+  {
+    "id": 4008,
+    "classe": "4e",
+    "chapitres": ["aires"],
+    "question": "L’aire d’un rectangle se calcule avec la formule :",
+    "reponses": ["\\(2L + 2l\\)", "\\(L + l\\)", "\\(L \\times l\\)", "\\(\\frac{L + l}{2}\\)"],
+    "bonne_reponse": "\\(L \\times l\\)"
+  },
+  {
+    "id": 4009,
+    "classe": "4e",
+    "chapitres": ["périmètres"],
+    "question": "Le périmètre d’un cercle est donné par :",
+    "reponses": ["\\(2 \\pi r\\)", "\\(\\pi r^2\\)", "\\(r^2\\)", "\\(\\pi d^2\\)"],
+    "bonne_reponse": "\\(2 \\pi r\\)"
+  },
+  {
+    "id": 40010,
+    "classe": "4e",
+    "chapitres": ["triangles"],
+    "question": "La somme des angles d’un triangle vaut :",
+    "reponses": ["\\(90°\\)", "\\(180°\\)", "\\(270°\\)", "\\(360°\\)"],
+    "bonne_reponse": "\\(180°\\)"
+  },
+  {
+    "id": 40011,
+    "classe": "4e",
+    "chapitres": ["fractions"],
+    "question": "Calcule : \\(\\frac{3}{4} + \\frac{1}{4}\\)",
+    "reponses": ["\\(1\\)", "\\(\\frac{4}{4}\\)", "\\(\\frac{1}{2}\\)", "\\(\\frac{2}{4}\\)"],
+    "bonne_reponse": "\\(1\\)"
+  },
+  {
+    "id": 40012,
+    "classe": "4e",
+    "chapitres": ["priorités"],
+    "question": "Calcule : \\(2 + 3 \\times 4\\)",
+    "reponses": ["\\(20\\)", "\\(14\\)", "\\(24\\)", "\\(9\\)"],
+    "bonne_reponse": "\\(14\\)"
+  },
+  {
+    "id": 40013,
+    "classe": "4e",
+    "chapitres": ["proportionnalité"],
+    "question": "Si 4 cahiers coûtent 6 €, combien coûtent 10 cahiers ?",
+    "reponses": ["\\(12\\) €", "\\(15\\) €", "\\(18\\) €", "\\(20\\) €"],
+    "bonne_reponse": "\\(15\\) €"
+  },
+  {
+    "id": 40014,
+    "classe": "4e",
+    "chapitres": ["relatifs"],
+    "question": "Calcule : \\((-3) + 8\\)",
+    "reponses": ["\\(-11\\)", "\\(5\\)", "\\(-5\\)", "\\(11\\)"],
+    "bonne_reponse": "\\(5\\)"
+  },
+  {
+    "id": 40015,
+    "classe": "4e",
+    "chapitres": ["relatifs"],
+    "question": "Calcule : \\((-4) \\times (-5)\\)",
+    "reponses": ["\\(-20\\)", "\\(20\\)", "\\(9\\)", "\\(1\\)"],
+    "bonne_reponse": "\\(20\\)"
+  },
+  {
+    "id": 40016,
+    "classe": "4e",
+    "chapitres": ["relatifs"],
+    "question": "Calcule : \\((-10) - (-3)\\)",
+    "reponses": ["\\(-13\\)", "\\(-7\\)", "\\(13\\)", "\\(7\\)"],
+    "bonne_reponse": "\\(-7\\)"
+  },
+  {
+    "id": 40017,
+    "classe": "4e",
+    "chapitres": ["théorème de Pythagore"],
+    "question": "Dans un triangle rectangle, \\(AB^2 = AC^2 + BC^2\\). Le côté opposé à l’angle droit est :",
+    "reponses": ["l’hypoténuse", "un côté adjacent", "la hauteur", "la médiane"],
+    "bonne_reponse": "l’hypoténuse"
+  },
+  {
+    "id": 40018,
+    "classe": "4e",
+    "chapitres": ["symétrie"],
+    "question": "L’image d’un point par une symétrie axiale est située...",
+    "reponses": ["du même côté de l’axe", "de l’autre côté de l’axe", "sur l’axe", "au hasard"],
+    "bonne_reponse": "de l’autre côté de l’axe"
+  },
+  {
+    "id": 40019,
+    "classe": "4e",
+    "chapitres": ["moyenne"],
+    "question": "La moyenne de 6 et 10 est :",
+    "reponses": ["\\(7\\)", "\\(8\\)", "\\(9\\)", "\\(10\\)"],
+    "bonne_reponse": "\\(8\\)"
+  },
+  {
+    "id": 40020,
+    "classe": "4e",
+    "chapitres": ["pourcentages"],
+    "question": "20 % de 50 est égal à :",
+    "reponses": ["\\(5\\)", "\\(10\\)", "\\(15\\)", "\\(20\\)"],
+    "bonne_reponse": "\\(10\\)"
+  },
+  {
+    "id": 40021,
+    "classe": "4e",
+    "chapitres": ["équations"],
+    "question": "Résous : \\(x + 7 = 12\\)",
+    "reponses": ["\\(x = 4\\)", "\\(x = 5\\)", "\\(x = 6\\)", "\\(x = 7\\)"],
+    "bonne_reponse": "\\(x = 5\\)"
+  },
+  {
+    "id": 40022,
+    "classe": "4e",
+    "chapitres": ["équations"],
+    "question": "Résous : \\(3x = 12\\)",
+    "reponses": ["\\(x = 3\\)", "\\(x = 4\\)", "\\(x = 6\\)", "\\(x = 9\\)"],
+    "bonne_reponse": "\\(x = 4\\)"
+  },
+  {
+    "id": 40023,
+    "classe": "4e",
+    "chapitres": ["aires"],
+    "question": "L’aire d’un disque de rayon \\(3\\) cm est :",
+    "reponses": ["\\(3\\pi\\)", "\\(6\\pi\\)", "\\(9\\pi\\)", "\\(12\\pi\\)"],
+    "bonne_reponse": "\\(9\\pi\\)"
+  },
+  {
+    "id": 40024,
+    "classe": "4e",
+    "chapitres": ["périmètres"],
+    "question": "Le périmètre d’un carré de côté \\(5\\) cm est :",
+    "reponses": ["\\(10\\)", "\\(15\\)", "\\(20\\)", "\\(25\\)"],
+    "bonne_reponse": "\\(20\\)"
+  },
+  {
+    "id": 40025,
+    "classe": "4e",
+    "chapitres": ["conversion"],
+    "question": "Combien de mètres font \\(3\\) km ?",
+    "reponses": ["\\(300\\)", "\\(3000\\)", "\\(30\\)", "\\(30000\\)"],
+    "bonne_reponse": "\\(3000\\)"
+  },
+  {
+    "id": 40026,
+    "classe": "4e",
+    "chapitres": ["géométrie plane"],
+    "question": "Un angle droit mesure :",
+    "reponses": ["\\(45°\\)", "\\(90°\\)", "\\(180°\\)", "\\(360°\\)"],
+    "bonne_reponse": "\\(90°\\)"
+  },
+  {
+    "id": 40027,
+    "classe": "4e",
+    "chapitres": ["puissances"],
+    "question": "Combien vaut \\(2^5\\) ?",
+    "reponses": ["\\(10\\)", "\\(16\\)", "\\(32\\)", "\\(25\\)"],
+    "bonne_reponse": "\\(32\\)"
+  },
+  {
+    "id": 40028,
+    "classe": "4e",
+    "chapitres": ["calcul littéral"],
+    "question": "Développe : \\(2(x + 3)\\)",
+    "reponses": ["\\(2x + 6\\)", "\\(2x + 3\\)", "\\(x + 6\\)", "\\(x + 3\\)"],
+    "bonne_reponse": "\\(2x + 6\\)"
+  },
+  {
+    "id": 40029,
+    "classe": "4e",
+    "chapitres": ["divisions"],
+    "question": "Le quotient de \\(42 \\div 6\\) est :",
+    "reponses": ["\\(8\\)", "\\(7\\)", "\\(9\\)", "\\(6\\)"],
+    "bonne_reponse": "\\(7\\)"
+  },
+  {
+    "id": 40030,
+    "classe": "4e",
+    "chapitres": ["relatifs"],
+    "question": "Calcule : \\((-2) + (-7)\\)",
+    "reponses": ["\\(5\\)", "\\(-5\\)", "\\(-9\\)", "\\(9\\)"],
+    "bonne_reponse": "\\(-9\\)"
+  }
+]

@@ -9,7 +9,7 @@
       <nav class="burger-menu">
         <router-link to="/">🏠 Accueil</router-link>
         <router-link to="/evaluation">📋 Évaluation</router-link>
-        <router-link to="/course">🏁 Course</router-link>
+        <router-link to="/defi">🏁 Défi</router-link>
       </nav>
     </div>
   </header>
