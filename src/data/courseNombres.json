@@ -1892,212 +1892,212 @@
   {
     "id": 62024201,
     "classe": "6e",
-    "chapitres": ["","test1"],
-    "question": "",
-    "bonne_reponse": ""
+    "chapitres": ["opérations"],
+    "question": "\\(6 \\times 3\\)",
+    "bonne_reponse": "\\(18\\)"
   },
   {
     "id": 62024202,
     "classe": "6e",
-    "chapitres": ["","test1"],
-    "question": "",
-    "bonne_reponse": ""
+    "chapitres": ["opérations"],
+    "question": "\\(35 + 19\\)",
+    "bonne_reponse": "\\(54\\)"
   },
   {
     "id": 62024203,
     "classe": "6e",
-    "chapitres": ["","test1"],
-    "question": "",
-    "bonne_reponse": ""
+    "chapitres": ["nombres"],
+    "question": "Écris le nombre égal à \\(25\\) centaines.",
+    "bonne_reponse": "\\(2500\\)"
   },
   {
     "id": 62024204,
     "classe": "6e",
-    "chapitres": ["","test1"],
-    "question": "",
-    "bonne_reponse": ""
+    "chapitres": ["proportionnalité","problèmes"],
+    "question": "\\(2\\) carreaux de chocolat pèsent \\(8\\) g.<br>\\(6\\) carreaux de chocolat pèsent \\(\\ldots\\) g.",
+    "bonne_reponse": "\\(24\\) g"
   },
   {
     "id": 62024205,
     "classe": "6e",
-    "chapitres": ["","test2"],
-    "question": "",
-    "bonne_reponse": ""
+    "chapitres": ["opérations"],
+    "question": "Complète : \\(7 + 3 = \\ldots - 2\\)",
+    "bonne_reponse": "\\(7 + 3 = 12 - 2 = 10\\)"
   },
   {
     "id": 62024206,
     "classe": "6e",
-    "chapitres": ["","test2"],
-    "question": "",
-    "bonne_reponse": ""
+    "chapitres": ["problèmes"],
+    "question": "J’ai reçu \\(27\\) € puis \\(73\\) €.<br>En tout, j’ai reçu \\(\\ldots\\) €.",
+    "bonne_reponse": "\\(100\\) €"
   },
   {
     "id": 62024207,
     "classe": "6e",
-    "chapitres": ["","test2"],
-    "question": "",
-    "bonne_reponse": ""
+    "chapitres": ["opérations"],
+    "question": "Complète : \\(\\ldots \\times 4 = 36\\)",
+    "bonne_reponse": "\\(9 \\times 4 = 36\\)"
   },
   {
     "id": 62024208,
     "classe": "6e",
-    "chapitres": ["","test2"],
-    "question": "",
-    "bonne_reponse": ""
+    "chapitres": ["problèmes"],
+    "question": "Un fleuriste a \\(100\\) roses. Combien de bouquets de \\(25\\) roses peut-il faire au maximum ?",
+    "bonne_reponse": "\\(4\\) bouquets"
   },
   {
     "id": 62024209,
     "classe": "6e",
-    "chapitres": ["","test3"],
-    "question": "",
-    "bonne_reponse": ""
+    "chapitres": ["durées"],
+    "question": "Complète : \\(1\\) h \\(20\\) min \\(= \\ldots\\) min",
+    "bonne_reponse": "\\(80\\) min"
   },
   {
     "id": 62024210,
     "classe": "6e",
-    "chapitres": ["","test3"],
-    "question": "",
-    "bonne_reponse": ""
+    "chapitres": ["unités"],
+    "question": "Quelle est la réponse possible ?<br><br>La hauteur dune table est :<br>\\(80\\) cm ; \\(80\\) dm ; \\(80\\) m",
+    "bonne_reponse": "\\(80\\) cm"
   },
   {
     "id": 62024211,
     "classe": "6e",
-    "chapitres": ["","test3"],
-    "question": "",
-    "bonne_reponse": ""
+    "chapitres": ["nombres"],
+    "question": "Quel est le plus grand nombre ?<br><br>\\(3,4\\qquad \\dfrac{7}{3}\\)",
+    "bonne_reponse": "\\(3,4\\)"
   },
   {
     "id": 62024212,
     "classe": "6e",
-    "chapitres": ["","test3"],
-    "question": "",
-    "bonne_reponse": ""
+    "chapitres": ["opérations"],
+    "question": "\\(50 \\times 3,5 \\times 2\\)",
+    "bonne_reponse": "\\(350\\)"
   },
   {
     "id": 62024213,
     "classe": "6e",
-    "chapitres": ["","test4"],
-    "question": "",
-    "bonne_reponse": ""
+    "chapitres": ["problèmes"],
+    "question": "Tom achète \\(6\\) BD à \\(6,50\\) € l’unité et \\(4\\) romans à \\(6,50\\) € l’unité.",
+    "bonne_reponse": "\\(65\\) €"
   },
   {
     "id": 62024214,
     "classe": "6e",
-    "chapitres": ["","test4"],
-    "question": "",
-    "bonne_reponse": ""
+    "chapitres": ["opérations"],
+    "question": "\\(75 \\times \\ldots = 7,5\\)",
+    "bonne_reponse": "\\(75 \\times 0,1 = 7,5\\)"
   },
   {
     "id": 62024215,
     "classe": "6e",
-    "chapitres": ["","test4"],
-    "question": "",
-    "bonne_reponse": ""
+    "chapitres": ["périmètre"],
+    "question": "<img src='figures/6_2024_2_01.png' style='transform: scale(0.8); transform-origin: auto;' width='220' /><br><br>Le périmètre de ce rectangle est égal à \\(\\ldots\\) cm.",
+    "bonne_reponse": "\\(12\\) cm"
   },
   {
     "id": 62024216,
     "classe": "6e",
-    "chapitres": ["","test4"],
-    "question": "",
-    "bonne_reponse": ""
+    "chapitres": ["pourcentages"],
+    "question": "\\(25 \\%\\) de \\(240\\) km<br><br>\\(\\ldots\\) km",
+    "bonne_reponse": "\\(60\\) km"
   },
   {
     "id": 62024217,
     "classe": "6e",
-    "chapitres": ["","test5"],
-    "question": "",
-    "bonne_reponse": ""
+    "chapitres": ["problèmes"],
+    "question": "Léo a \\(12\\) billes. Il en a \\(4\\) fois moins que Lola.<br><br>Lola a \\(\\ldots\\) billes",
+    "bonne_reponse": "Lola a \\(48\\) billes"
   },
   {
     "id": 62024218,
     "classe": "6e",
-    "chapitres": ["","test5"],
-    "question": "",
-    "bonne_reponse": ""
+    "chapitres": ["aire"],
+    "question": "Quelle est l’aire de la figure \\(A\\) en unité d’aire (ua) ?<br><br><img src='figures/6_2024_2_02.png' style='transform: scale(0.8); transform-origin: auto;' width='220' /><br><br>\\(\\ldots\\) ua",
+    "bonne_reponse": "\\(8\\) ua"
   },
   {
     "id": 62024219,
     "classe": "6e",
-    "chapitres": ["","test5"],
-    "question": "",
-    "bonne_reponse": ""
+    "chapitres": ["opérations"],
+    "question": "\\(10-7,6\\)",
+    "bonne_reponse": "\\(2,4\\)"
   },
   {
     "id": 62024220,
     "classe": "6e",
-    "chapitres": ["","test5"],
-    "question": "",
-    "bonne_reponse": ""
+    "chapitres": ["vitesse"],
+    "question": "Une voiture roule à une vitesse de \\(60\\) km/h.<br><br>En \\(2\\) h \\(30\\) min, elle parcourt \\(\\ldots\\) km.",
+    "bonne_reponse": "\\(150\\) km"
   },
   {
     "id": 62024221,
     "classe": "6e",
-    "chapitres": ["","test6"],
-    "question": "",
-    "bonne_reponse": ""
+    "chapitres": ["nombres"],
+    "question": "Complète :<br><br><img src='figures/6_2024_2_03.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(12,5\\)"
   },
   {
     "id": 62024222,
     "classe": "6e",
-    "chapitres": ["","test6"],
-    "question": "",
-    "bonne_reponse": ""
+    "chapitres": ["nombres"],
+    "question": "Complète :<br><br><img src='figures/6_2024_2_04.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(18,5\\)"
   },
   {
     "id": 62024223,
     "classe": "6e",
-    "chapitres": ["","test6"],
-    "question": "",
-    "bonne_reponse": ""
+    "chapitres": ["opérations"],
+    "question": "La moitié de \\(72\\)",
+    "bonne_reponse": "\\(36\\)"
   },
   {
     "id": 62024224,
     "classe": "6e",
-    "chapitres": ["","test6"],
-    "question": "",
-    "bonne_reponse": ""
+    "chapitres": ["opérations"],
+    "question": "Sachant que \\(24 \\times 7 = 168\\), complète :<br><br>\\(2,4 \\times 7 = \\ldots\\)",
+    "bonne_reponse": "\\(16,8\\)"
   },
   {
     "id": 62024225,
     "classe": "6e",
-    "chapitres": ["","test7"],
-    "question": "",
-    "bonne_reponse": ""
+    "chapitres": ["nombres"],
+    "question": "Encadre \\(19,3\\) par deux entiers consécutifs.<br><br>\\(\\ldots < 19,3 < \\ldots\\)",
+    "bonne_reponse": "\\(19 < 19,3 < 20\\)"
   },
   {
     "id": 62024226,
     "classe": "6e",
-    "chapitres": ["","test7"],
-    "question": "",
-    "bonne_reponse": ""
+    "chapitres": ["opérations"],
+    "question": "\\(0,16 + 0,4\\)",
+    "bonne_reponse": "\\(0,56\\)"
   },
   {
     "id": 62024227,
     "classe": "6e",
-    "chapitres": ["","test7"],
-    "question": "",
-    "bonne_reponse": ""
+    "chapitres": ["fractions","aire"],
+    "question": "Quelle est la fraction de l'aire du rectangle qui est grisée ?<br><br><img src='figures/6_2024_2_05.png' style='transform: scale(0.8); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(\\dfrac{1}{6}\\)"
   },
   {
     "id": 62024228,
     "classe": "6e",
-    "chapitres": ["","test7"],
-    "question": "",
-    "bonne_reponse": ""
+    "chapitres": ["unités"],
+    "question": "Complète : \\(25\\) cL \\(+\\ldots\\) cL \\(= 1\\) L",
+    "bonne_reponse": "\\(25\\) cL \\(+ 75\\) cL \\(= 1\\) L"
   },
   {
     "id": 62024229,
     "classe": "6e",
-    "chapitres": ["","test8"],
-    "question": "",
-    "bonne_reponse": ""
+    "chapitres": ["opérations"],
+    "question": "\\(120 \\div 5\\)",
+    "bonne_reponse": "\\(24\\)"
   },
   {
     "id": 62024230,
     "classe": "6e",
-    "chapitres": ["","test8"],
-    "question": "",
-    "bonne_reponse": ""
+    "chapitres": ["problèmes"],
+    "question": "À midi, j’ai gagné \\(6\\) cartes. J’en ai maintenant \\(11\\).<br><br>Combien en avais-je ce matin ?",
+    "bonne_reponse": "\\(5\\) cartes"
   },
   {
     "id": 5201601,
@@ -4519,7 +4519,7 @@
     "classe": "4e",
     "chapitres": ["nombres"],
     "question": "<img src='figures/4_2018_02.png' style='transform: scale(1); transform-origin: auto;' width='250' />",
-    "bonne_reponse": "\\(5,08\\)"
+    "bonne_reponse": "\\(4,98\\)"
   },
   {
     "id": 4201817,
@@ -4617,7 +4617,7 @@
     "classe": "4e",
     "chapitres": ["volumes"],
     "question": "Volume de ce prisme droit :<br><br><img src='figures/4_2018_07.png' style='transform: scale(0.8); transform-origin: auto;' width='220' />",
-    "bonne_reponse": "\\(15\\) cm\\(^3\\)"
+    "bonne_reponse": "\\(14\\) cm\\(^3\\)"
   },
   {
     "id": 3201601,

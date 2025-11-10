@@ -239,244 +239,1155 @@
     "reponses": ["8", "3", "4", "5"],
     "bonne_reponse": "4"
   },
+
   {
-    "id": 4001,
+    "id": 40001,
     "classe": "4e",
-    "chapitres": ["nombres"],
-    "question": "Combien font \\(7 \\times 8\\) ?",
-    "reponses": ["\\(54\\)", "\\(56\\)", "\\(64\\)", "\\(58\\)"],
-    "bonne_reponse": "\\(56\\)"
+    "chapitres": ["Opérations sur les nombres relatifs"],
+    "question": "Calcule : \\((-3) + (-5)\\)",
+    "reponses": ["\\(-8\\)", "\\(8\\)", "\\(-2\\)", "\\(2\\)"],
+    "bonne_reponse": "\\(-8\\)"
   },
   {
-    "id": 4002,
+    "id": 40002,
     "classe": "4e",
-    "chapitres": ["fractions"],
-    "question": "Quelle est la fraction simplifiée de \\( \\frac{6}{8} \\) ?",
-    "reponses": ["\\( \\frac{3}{4} \\)", "\\( \\frac{2}{3} \\)", "\\( \\frac{4}{6} \\)", "\\( \\frac{1}{2} \\)"],
-    "bonne_reponse": "\\( \\frac{3}{4} \\)"
+    "chapitres": ["Opérations sur les nombres relatifs"],
+    "question": "Calcule : \\((-7) - (-3)\\)",
+    "reponses": ["\\(-10\\)", "\\(10\\)", "\\(-4\\)", "\\(-7\\)"],
+    "bonne_reponse": "\\(-4\\)"
   },
   {
-    "id": 4003,
+    "id": 40003,
     "classe": "4e",
-    "chapitres": ["angles"],
-    "question": "Si deux droites parallèles forment avec une sécante un angle de \\(75°\\), que vaut son angle alterne-interne ?",
-    "reponses": ["\\(75°\\)", "\\(100°\\)", "\\(105°\\)", "\\(85°\\)"],
-    "bonne_reponse": "\\(75°\\)"
+    "chapitres": ["Opérations sur les nombres relatifs"],
+    "question": "Calcule : \\((-6) + 8\\)",
+    "reponses": ["\\(-14\\)", "\\(2\\)", "\\(-2\\)", "\\(14\\)"],
+    "bonne_reponse": "\\(2\\)"
   },
   {
-    "id": 4004,
+    "id": 40004,
     "classe": "4e",
-    "chapitres": ["puissances"],
-    "question": "Combien vaut \\(10^3\\) ?",
-    "reponses": ["\\(30\\)", "\\(100\\)", "\\(1000\\)", "\\(3000\\)"],
-    "bonne_reponse": "\\(1000\\)"
+    "chapitres": ["Opérations sur les nombres relatifs"],
+    "question": "Calcule : \\((-9) - 4\\)",
+    "reponses": ["\\(-13\\)", "\\(-5\\)", "\\(13\\)", "\\(5\\)"],
+    "bonne_reponse": "\\(-13\\)"
   },
   {
-    "id": 4005,
+    "id": 40005,
     "classe": "4e",
-    "chapitres": ["calcul littéral"],
-    "question": "Réduis : \\(3x + 5x\\)",
-    "reponses": ["\\(8x\\)", "\\(15x\\)", "\\(x^2\\)", "\\(3x^2\\)"],
-    "bonne_reponse": "\\(8x\\)"
+    "chapitres": ["Opérations sur les nombres relatifs"],
+    "question": "Calcule : \\((-2) \\times (-8)\\)",
+    "reponses": ["\\(-16\\)", "\\(16\\)", "\\(10\\)", "\\(-10\\)"],
+    "bonne_reponse": "\\(16\\)"
   },
   {
-    "id": 4006,
+    "id": 40006,
     "classe": "4e",
-    "chapitres": ["divisibilité"],
-    "question": "Un nombre divisible par 9 a pour somme des chiffres...",
-    "reponses": ["égale à 9", "multiple de 9", "paire", "égale à 3"],
-    "bonne_reponse": "multiple de 9"
+    "chapitres": ["Opérations sur les nombres relatifs"],
+    "question": "Calcule : \\((-3) \\times 5\\)",
+    "reponses": ["\\(15\\)", "\\(-15\\)", "\\(8\\)", "\\(-8\\)"],
+    "bonne_reponse": "\\(-15\\)"
   },
   {
-    "id": 4007,
+    "id": 40007,
     "classe": "4e",
-    "chapitres": ["proportionnalité"],
-    "question": "Dans un tableau de proportionnalité, les quotients des valeurs correspondantes sont...",
-    "reponses": ["égaux", "différents", "multipliés", "inversés"],
-    "bonne_reponse": "égaux"
+    "chapitres": ["Opérations sur les nombres relatifs"],
+    "question": "Calcule : \\( (-6) \\div (-2) \\)",
+    "reponses": ["\\(-3\\)", "\\(3\\)", "\\(-12\\)", "\\(12\\)"],
+    "bonne_reponse": "\\(3\\)"
   },
   {
-    "id": 4008,
+    "id": 40008,
     "classe": "4e",
-    "chapitres": ["aires"],
-    "question": "L’aire d’un rectangle se calcule avec la formule :",
-    "reponses": ["\\(2L + 2l\\)", "\\(L + l\\)", "\\(L \\times l\\)", "\\(\\frac{L + l}{2}\\)"],
-    "bonne_reponse": "\\(L \\times l\\)"
+    "chapitres": ["Opérations sur les nombres relatifs"],
+    "question": "Calcule : \\( (-12) \\div 3 \\)",
+    "reponses": ["\\(-4\\)", "\\(4\\)", "\\(-9\\)", "\\(9\\)"],
+    "bonne_reponse": "\\(-4\\)"
   },
   {
-    "id": 4009,
+    "id": 40009,
     "classe": "4e",
-    "chapitres": ["périmètres"],
-    "question": "Le périmètre d’un cercle est donné par :",
-    "reponses": ["\\(2 \\pi r\\)", "\\(\\pi r^2\\)", "\\(r^2\\)", "\\(\\pi d^2\\)"],
-    "bonne_reponse": "\\(2 \\pi r\\)"
+    "chapitres": ["Opérations sur les nombres relatifs"],
+    "question": "Calcule : \\( 5 - (-7) \\)",
+    "reponses": ["\\(12\\)", "\\(-12\\)", "\\(2\\)", "\\(-2\\)"],
+    "bonne_reponse": "\\(12\\)"
   },
   {
     "id": 40010,
     "classe": "4e",
-    "chapitres": ["triangles"],
-    "question": "La somme des angles d’un triangle vaut :",
-    "reponses": ["\\(90°\\)", "\\(180°\\)", "\\(270°\\)", "\\(360°\\)"],
-    "bonne_reponse": "\\(180°\\)"
+    "chapitres": ["Opérations sur les nombres relatifs"],
+    "question": "Calcule : \\( -9 + 15 \\)",
+    "reponses": ["\\(24\\)", "\\(-6\\)", "\\(6\\)", "\\(-24\\)"],
+    "bonne_reponse": "\\(6\\)"
   },
   {
     "id": 40011,
     "classe": "4e",
-    "chapitres": ["fractions"],
-    "question": "Calcule : \\(\\frac{3}{4} + \\frac{1}{4}\\)",
-    "reponses": ["\\(1\\)", "\\(\\frac{4}{4}\\)", "\\(\\frac{1}{2}\\)", "\\(\\frac{2}{4}\\)"],
-    "bonne_reponse": "\\(1\\)"
+    "chapitres": ["Opérations sur les nombres relatifs"],
+    "question": "Calcule : \\( 3 - 8 \\)",
+    "reponses": ["\\(5\\)", "\\(-5\\)", "\\(11\\)", "\\(-11\\)"],
+    "bonne_reponse": "\\(-5\\)"
   },
   {
     "id": 40012,
     "classe": "4e",
-    "chapitres": ["priorités"],
-    "question": "Calcule : \\(2 + 3 \\times 4\\)",
-    "reponses": ["\\(20\\)", "\\(14\\)", "\\(24\\)", "\\(9\\)"],
-    "bonne_reponse": "\\(14\\)"
+    "chapitres": ["Opérations sur les nombres relatifs"],
+    "question": "Calcule : \\( (-10) + 4 \\)",
+    "reponses": ["\\(-6\\)", "\\(6\\)", "\\(-14\\)", "\\(14\\)"],
+    "bonne_reponse": "\\(-6\\)"
   },
   {
     "id": 40013,
     "classe": "4e",
-    "chapitres": ["proportionnalité"],
-    "question": "Si 4 cahiers coûtent 6 €, combien coûtent 10 cahiers ?",
-    "reponses": ["\\(12\\) €", "\\(15\\) €", "\\(18\\) €", "\\(20\\) €"],
-    "bonne_reponse": "\\(15\\) €"
+    "chapitres": ["Opérations sur les nombres relatifs"],
+    "question": "Calcule : \\( 7 + (-9) \\)",
+    "reponses": ["\\(16\\)", "\\(-16\\)", "\\(2\\)", "\\(-2\\)"],
+    "bonne_reponse": "\\(-2\\)"
   },
   {
     "id": 40014,
     "classe": "4e",
-    "chapitres": ["relatifs"],
-    "question": "Calcule : \\((-3) + 8\\)",
-    "reponses": ["\\(-11\\)", "\\(5\\)", "\\(-5\\)", "\\(11\\)"],
-    "bonne_reponse": "\\(5\\)"
+    "chapitres": ["Opérations sur les nombres relatifs"],
+    "question": "Calcule : \\( (-8) - (-3) \\)",
+    "reponses": ["\\(-5\\)", "\\(5\\)", "\\(-11\\)", "\\(11\\)"],
+    "bonne_reponse": "\\(-5\\)"
   },
   {
     "id": 40015,
     "classe": "4e",
-    "chapitres": ["relatifs"],
-    "question": "Calcule : \\((-4) \\times (-5)\\)",
-    "reponses": ["\\(-20\\)", "\\(20\\)", "\\(9\\)", "\\(1\\)"],
-    "bonne_reponse": "\\(20\\)"
+    "chapitres": ["Opérations sur les nombres relatifs"],
+    "question": "Calcule : \\( 0 - (-12) \\)",
+    "reponses": ["\\(12\\)", "\\(-12\\)", "\\(0\\)", "\\(-24\\)"],
+    "bonne_reponse": "\\(12\\)"
   },
   {
     "id": 40016,
     "classe": "4e",
-    "chapitres": ["relatifs"],
-    "question": "Calcule : \\((-10) - (-3)\\)",
-    "reponses": ["\\(-13\\)", "\\(-7\\)", "\\(13\\)", "\\(7\\)"],
-    "bonne_reponse": "\\(-7\\)"
+    "chapitres": ["Opérations sur les nombres relatifs"],
+    "question": "Calcule : \\( (-4) + (-9) \\)",
+    "reponses": ["\\(-13\\)", "\\(13\\)", "\\(-5\\)", "\\(5\\)"],
+    "bonne_reponse": "\\(-13\\)"
   },
   {
     "id": 40017,
     "classe": "4e",
-    "chapitres": ["théorème de Pythagore"],
-    "question": "Dans un triangle rectangle, \\(AB^2 = AC^2 + BC^2\\). Le côté opposé à l’angle droit est :",
-    "reponses": ["l’hypoténuse", "un côté adjacent", "la hauteur", "la médiane"],
-    "bonne_reponse": "l’hypoténuse"
+    "chapitres": ["Opérations sur les nombres relatifs"],
+    "question": "Calcule : \\( (-2) \\times 9 \\)",
+    "reponses": ["\\(-18\\)", "\\(18\\)", "\\(7\\)", "\\(-7\\)"],
+    "bonne_reponse": "\\(-18\\)"
   },
   {
     "id": 40018,
     "classe": "4e",
-    "chapitres": ["symétrie"],
-    "question": "L’image d’un point par une symétrie axiale est située...",
-    "reponses": ["du même côté de l’axe", "de l’autre côté de l’axe", "sur l’axe", "au hasard"],
-    "bonne_reponse": "de l’autre côté de l’axe"
+    "chapitres": ["Opérations sur les nombres relatifs"],
+    "question": "Calcule : \\( (-4) \\times (-3) \\)",
+    "reponses": ["\\(12\\)", "\\(-12\\)", "\\(7\\)", "\\(-7\\)"],
+    "bonne_reponse": "\\(12\\)"
   },
   {
     "id": 40019,
     "classe": "4e",
-    "chapitres": ["moyenne"],
-    "question": "La moyenne de 6 et 10 est :",
-    "reponses": ["\\(7\\)", "\\(8\\)", "\\(9\\)", "\\(10\\)"],
-    "bonne_reponse": "\\(8\\)"
+    "chapitres": ["Opérations sur les nombres relatifs"],
+    "question": "Calcule : \\( 5 - 12 \\)",
+    "reponses": ["\\(17\\)", "\\(-17\\)", "\\(-7\\)", "\\(7\\)"],
+    "bonne_reponse": "\\(-7\\)"
   },
   {
     "id": 40020,
     "classe": "4e",
-    "chapitres": ["pourcentages"],
-    "question": "20 % de 50 est égal à :",
-    "reponses": ["\\(5\\)", "\\(10\\)", "\\(15\\)", "\\(20\\)"],
-    "bonne_reponse": "\\(10\\)"
+    "chapitres": ["Opérations sur les nombres relatifs"],
+    "question": "Calcule : \\( 9 + (-15) \\)",
+    "reponses": ["\\(24\\)", "\\(-6\\)", "\\(6\\)", "\\(-24\\)"],
+    "bonne_reponse": "\\(-6\\)"
   },
-  {
+    {
     "id": 40021,
     "classe": "4e",
-    "chapitres": ["équations"],
-    "question": "Résous : \\(x + 7 = 12\\)",
-    "reponses": ["\\(x = 4\\)", "\\(x = 5\\)", "\\(x = 6\\)", "\\(x = 7\\)"],
-    "bonne_reponse": "\\(x = 5\\)"
+    "chapitres": ["Nombres rationnels"],
+    "question": "Écris sous forme décimale : \\( \\dfrac{1}{2} \\)",
+    "reponses": ["0,2", "0,25", "0,5", "0,75"],
+    "bonne_reponse": "0,5"
   },
   {
     "id": 40022,
     "classe": "4e",
-    "chapitres": ["équations"],
-    "question": "Résous : \\(3x = 12\\)",
-    "reponses": ["\\(x = 3\\)", "\\(x = 4\\)", "\\(x = 6\\)", "\\(x = 9\\)"],
-    "bonne_reponse": "\\(x = 4\\)"
+    "chapitres": ["Nombres rationnels"],
+    "question": "Écris sous forme décimale : \\( \\dfrac{3}{4} \\)",
+    "reponses": ["0,25", "0,5", "0,75", "1,25"],
+    "bonne_reponse": "0,75"
   },
   {
     "id": 40023,
     "classe": "4e",
-    "chapitres": ["aires"],
-    "question": "L’aire d’un disque de rayon \\(3\\) cm est :",
-    "reponses": ["\\(3\\pi\\)", "\\(6\\pi\\)", "\\(9\\pi\\)", "\\(12\\pi\\)"],
-    "bonne_reponse": "\\(9\\pi\\)"
+    "chapitres": ["Nombres rationnels"],
+    "question": "Quelle est la fraction égale à \\( \\dfrac{2}{5} \\) telle que \\( \\dfrac{2}{5} = \\dfrac{\\ldots}{10}\\) ?",
+    "reponses": ["\\( \\dfrac{2}{10} \\)", "\\( \\dfrac{4}{10} \\)", "\\( \\dfrac{5}{10} \\)", "\\( \\dfrac{8}{10} \\)"],
+    "bonne_reponse": "\\( \\dfrac{4}{10} \\)"
   },
   {
     "id": 40024,
     "classe": "4e",
-    "chapitres": ["périmètres"],
-    "question": "Le périmètre d’un carré de côté \\(5\\) cm est :",
-    "reponses": ["\\(10\\)", "\\(15\\)", "\\(20\\)", "\\(25\\)"],
-    "bonne_reponse": "\\(20\\)"
+    "chapitres": ["Nombres rationnels"],
+    "question": "Simplifie \\( \\dfrac{12}{20} \\)",
+    "reponses": ["\\( \\dfrac{3}{4} \\)", "\\( \\dfrac{4}{5} \\)", "\\( \\dfrac{6}{10} \\)", "\\( \\dfrac{2}{3} \\)"],
+    "bonne_reponse": "\\( \\dfrac{3}{5} \\)"
   },
   {
     "id": 40025,
     "classe": "4e",
-    "chapitres": ["conversion"],
-    "question": "Combien de mètres font \\(3\\) km ?",
-    "reponses": ["\\(300\\)", "\\(3000\\)", "\\(30\\)", "\\(30000\\)"],
-    "bonne_reponse": "\\(3000\\)"
+    "chapitres": ["Nombres rationnels"],
+    "question": "Calcule : \\( \\dfrac{3}{4} + \\dfrac{1}{4} \\)",
+    "reponses": ["\\( \\dfrac{3}{8} \\)", "\\( \\dfrac{1}{2} \\)", "\\(1\\)", "\\( \\dfrac{5}{4} \\)"],
+    "bonne_reponse": "\\(1\\)"
   },
   {
     "id": 40026,
     "classe": "4e",
-    "chapitres": ["géométrie plane"],
-    "question": "Un angle droit mesure :",
-    "reponses": ["\\(45°\\)", "\\(90°\\)", "\\(180°\\)", "\\(360°\\)"],
-    "bonne_reponse": "\\(90°\\)"
+    "chapitres": ["Nombres rationnels"],
+    "question": "Calcule : \\( \\dfrac{5}{6} - \\dfrac{1}{6} \\)",
+    "reponses": ["\\( \\dfrac{4}{6} \\)", "\\( \\dfrac{2}{3} \\)", "\\( \\dfrac{1}{3} \\)", "\\( \\dfrac{5}{3} \\)"],
+    "bonne_reponse": "\\( \\dfrac{2}{3} \\)"
   },
   {
     "id": 40027,
     "classe": "4e",
-    "chapitres": ["puissances"],
-    "question": "Combien vaut \\(2^5\\) ?",
-    "reponses": ["\\(10\\)", "\\(16\\)", "\\(32\\)", "\\(25\\)"],
-    "bonne_reponse": "\\(32\\)"
+    "chapitres": ["Nombres rationnels"],
+    "question": "Calcule : \\( \\dfrac{2}{3} \\times \\dfrac{3}{5} \\)",
+    "reponses": ["\\( \\dfrac{1}{5} \\)", "\\( \\dfrac{2}{5} \\)", "\\( \\dfrac{3}{8} \\)", "\\( \\dfrac{2}{9} \\)"],
+    "bonne_reponse": "\\( \\dfrac{2}{5} \\)"
   },
   {
     "id": 40028,
     "classe": "4e",
-    "chapitres": ["calcul littéral"],
-    "question": "Développe : \\(2(x + 3)\\)",
-    "reponses": ["\\(2x + 6\\)", "\\(2x + 3\\)", "\\(x + 6\\)", "\\(x + 3\\)"],
-    "bonne_reponse": "\\(2x + 6\\)"
+    "chapitres": ["Nombres rationnels"],
+    "question": "Calcule : \\( \\dfrac{4}{7} \\div \\dfrac{2}{7} \\)",
+    "reponses": ["\\(1\\)", "\\(2\\)", "\\(4\\)", "\\( \\dfrac{1}{2} \\)"],
+    "bonne_reponse": "\\(2\\)"
   },
   {
     "id": 40029,
     "classe": "4e",
-    "chapitres": ["divisions"],
-    "question": "Le quotient de \\(42 \\div 6\\) est :",
-    "reponses": ["\\(8\\)", "\\(7\\)", "\\(9\\)", "\\(6\\)"],
-    "bonne_reponse": "\\(7\\)"
+    "chapitres": ["Nombres rationnels"],
+    "question": "Compare : \\( \\dfrac{3}{5} \\) et \\( \\dfrac{4}{7} \\)",
+    "reponses": ["\\( \\dfrac{3}{5} < \\dfrac{4}{7} \\)", "\\( \\dfrac{3}{5} > \\dfrac{4}{7} \\)", "égales", "aucune"],
+    "bonne_reponse": "\\( \\dfrac{3}{5} > \\dfrac{4}{7} \\)"
   },
   {
     "id": 40030,
     "classe": "4e",
-    "chapitres": ["relatifs"],
-    "question": "Calcule : \\((-2) + (-7)\\)",
-    "reponses": ["\\(5\\)", "\\(-5\\)", "\\(-9\\)", "\\(9\\)"],
-    "bonne_reponse": "\\(-9\\)"
+    "chapitres": ["Nombres rationnels"],
+    "question": "Calcule : \\( 1 - \\dfrac{3}{8} \\)",
+    "reponses": ["\\( \\dfrac{3}{8} \\)", "\\( \\dfrac{5}{8} \\)", "\\( \\dfrac{7}{8} \\)", "\\( \\dfrac{9}{8} \\)"],
+    "bonne_reponse": "\\( \\dfrac{5}{8} \\)"
+  },
+  {
+    "id": 40031,
+    "classe": "4e",
+    "chapitres": ["Nombres rationnels"],
+    "question": "Quel est le nombre décimal égal à \\( \\dfrac{1}{4} \\) ?",
+    "reponses": ["0,4", "0,25", "0,5", "0,75"],
+    "bonne_reponse": "0,25"
+  },
+  {
+    "id": 40032,
+    "classe": "4e",
+    "chapitres": ["Nombres rationnels"],
+    "question": "Écris \\(2,75\\) sous forme de fraction irréductible.",
+    "reponses": ["\\( \\dfrac{11}{4} \\)", "\\( \\dfrac{27}{10} \\)", "\\( \\dfrac{3}{2} \\)", "\\( \\dfrac{7}{4} \\)"],
+    "bonne_reponse": "\\( \\dfrac{11}{4} \\)"
+  },
+  {
+    "id": 40033,
+    "classe": "4e",
+    "chapitres": ["Nombres rationnels"],
+    "question": "Calcule : \\( \\dfrac{7}{3} - 1 \\)",
+    "reponses": ["\\( \\dfrac{4}{3} \\)", "\\( \\dfrac{2}{3} \\)", "\\( \\dfrac{5}{3} \\)", "\\( \\dfrac{1}{3} \\)"],
+    "bonne_reponse": "\\( \\dfrac{4}{3} \\)"
+  },
+  {
+    "id": 40034,
+    "classe": "4e",
+    "chapitres": ["Nombres rationnels"],
+    "question": "Calcule : \\( 2 + \\dfrac{3}{5} \\)",
+    "reponses": ["\\( \\dfrac{7}{5} \\)", "\\( \\dfrac{8}{5} \\)", "\\( \\dfrac{13}{5} \\)", "\\( \\dfrac{10}{5} \\)"],
+    "bonne_reponse": "\\( \\dfrac{13}{5} \\)"
+  },
+  {
+    "id": 40035,
+    "classe": "4e",
+    "chapitres": ["Nombres rationnels"],
+    "question": "Calcule : \\( \\dfrac{5}{2} \\times \\dfrac{3}{10} \\)",
+    "reponses": ["\\( \\dfrac{15}{20} \\)", "\\( \\dfrac{15}{25} \\)", "\\( \\dfrac{3}{4} \\)", "\\( \\dfrac{3}{2} \\)"],
+    "bonne_reponse": "\\( \\dfrac{3}{4} \\)"
+  },
+  {
+    "id": 40036,
+    "classe": "4e",
+    "chapitres": ["Nombres rationnels"],
+    "question": "Calcule : \\( \\dfrac{2}{9} \\div \\dfrac{4}{3} \\)",
+    "reponses": ["\\( \\dfrac{6}{9} \\)", "\\( \\dfrac{3}{18} \\)", "\\( \\dfrac{1}{6} \\)", "\\( \\dfrac{3}{8} \\)"],
+    "bonne_reponse": "\\( \\dfrac{1}{6} \\)"
+  },
+  {
+    "id": 40037,
+    "classe": "4e",
+    "chapitres": ["Nombres rationnels"],
+    "question": "Complète : \\( \\dfrac{a}{b} \\) est un nombre rationnel si ...",
+    "reponses": [
+      "a et b sont des entiers, b ≠ 0",
+      "a et b sont des réels",
+      "a est un entier, b = 0",
+      "a et b sont des fractions"
+    ],
+    "bonne_reponse": "a et b sont des entiers, b ≠ 0"
+  },
+  {
+    "id": 40038,
+    "classe": "4e",
+    "chapitres": ["Nombres rationnels"],
+    "question": "Lequel de ces nombres n’est pas rationnel ?",
+    "reponses": ["\\( \\dfrac{2}{5} \\)", "\\( 0,75 \\)", "\\( \\sqrt{2} \\)", "\\( -3 \\)"],
+    "bonne_reponse": "\\( \\sqrt{2} \\)"
+  },
+  {
+    "id": 40039,
+    "classe": "4e",
+    "chapitres": ["Nombres rationnels"],
+    "question": "Calcule : \\( \\dfrac{7}{8} + \\dfrac{1}{8} \\)",
+    "reponses": ["\\( \\dfrac{8}{8} \\)", "\\( \\dfrac{9}{8} \\)", "\\(1\\)", "\\( \\dfrac{7}{9} \\)"],
+    "bonne_reponse": "\\(1\\)"
+  },
+  {
+    "id": 40040,
+    "classe": "4e",
+    "chapitres": ["Nombres rationnels"],
+    "question": "Simplifie \\( \\dfrac{15}{45} \\)",
+    "reponses": ["\\( \\dfrac{1}{2} \\)", "\\( \\dfrac{1}{3} \\)", "\\( \\dfrac{2}{3} \\)", "\\( \\dfrac{3}{4} \\)"],
+    "bonne_reponse": "\\( \\dfrac{1}{3} \\)"
+  },
+   {
+    "id": 40041,
+    "classe": "4e",
+    "chapitres": ["Puissances"],
+    "question": "Calcule : \\( 2^3 \\)",
+    "reponses": ["6", "8", "9", "12"],
+    "bonne_reponse": "8"
+  },
+  {
+    "id": 40042,
+    "classe": "4e",
+    "chapitres": ["Puissances"],
+    "question": "Calcule : \\( (-3)^2 \\)",
+    "reponses": ["-9", "9", "6", "3"],
+    "bonne_reponse": "9"
+  },
+  {
+    "id": 40043,
+    "classe": "4e",
+    "chapitres": ["Puissances"],
+    "question": "Calcule : \\( (-2)^3 \\)",
+    "reponses": ["8", "-8", "6", "-6"],
+    "bonne_reponse": "-8"
+  },
+  {
+    "id": 40044,
+    "classe": "4e",
+    "chapitres": ["Puissances"],
+    "question": "Simplifie : \\( 10^3 \\times 10^2 \\)",
+    "reponses": ["\\(10^5\\)", "\\(10^6\\)", "\\(10^1\\)", "\\(10^4\\)"],
+    "bonne_reponse": "\\(10^5\\)"
+  },
+  {
+    "id": 40045,
+    "classe": "4e",
+    "chapitres": ["Puissances"],
+    "question": "Simplifie : \\( 10^6 \\div 10^2 \\)",
+    "reponses": ["\\(10^3\\)", "\\(10^4\\)", "\\(10^8\\)", "\\(10^2\\)"],
+    "bonne_reponse": "\\(10^4\\)"
+  },
+  {
+    "id": 40046,
+    "classe": "4e",
+    "chapitres": ["Puissances"],
+    "question": "Calcule : \\( 5^0 \\)",
+    "reponses": ["0", "1", "5", "10"],
+    "bonne_reponse": "1"
+  },
+  {
+    "id": 40047,
+    "classe": "4e",
+    "chapitres": ["Puissances"],
+    "question": "Simplifie : \\( (3^2)^3 \\)",
+    "reponses": ["\\(3^5\\)", "\\(3^6\\)", "\\(3^9\\)", "\\(3^8\\)"],
+    "bonne_reponse": "\\(3^6\\)"
+  },
+  {
+    "id": 40048,
+    "classe": "4e",
+    "chapitres": ["Puissances"],
+    "question": "Simplifie : \\( (2^4) \\times (2^5) \\)",
+    "reponses": ["\\(2^9\\)", "\\(2^20\\)", "\\(2^1\\)", "\\(2^10\\)"],
+    "bonne_reponse": "\\(2^9\\)"
+  },
+  {
+    "id": 40049,
+    "classe": "4e",
+    "chapitres": ["Puissances"],
+    "question": "Calcule : \\( 4^{-2} \\)",
+    "reponses": ["\\(\\dfrac{1}{8}\\)", "\\(\\dfrac{1}{4}\\)", "\\(\\dfrac{1}{16}\\)", "\\(16\\)"],
+    "bonne_reponse": "\\(\\dfrac{1}{16}\\)"
+  },
+  {
+    "id": 40050,
+    "classe": "4e",
+    "chapitres": ["Puissances"],
+    "question": "Simplifie : \\( 10^{-3} \\)",
+    "reponses": ["0,003", "0,03", "0,3", "3"],
+    "bonne_reponse": "0,001"
+  },
+  {
+    "id": 40051,
+    "classe": "4e",
+    "chapitres": ["Puissances"],
+    "question": "Calcule : \\( (-1)^5 \\)",
+    "reponses": ["-1", "1", "0", "5"],
+    "bonne_reponse": "-1"
+  },
+  {
+    "id": 40052,
+    "classe": "4e",
+    "chapitres": ["Puissances"],
+    "question": "Simplifie : \\( \\dfrac{10^7}{10^5} \\)",
+    "reponses": ["\\(10^2\\)", "\\(10^{12}\\)", "\\(10^3\\)", "\\(10^5\\)"],
+    "bonne_reponse": "\\(10^2\\)"
+  },
+  {
+    "id": 40053,
+    "classe": "4e",
+    "chapitres": ["Puissances"],
+    "question": "Calcule : \\( 2^{-3} \\)",
+    "reponses": ["\\(\\dfrac{1}{8}\\)", "\\(8\\)", "\\(\\dfrac{1}{2}\\)", "\\(\\dfrac{1}{6}\\)"],
+    "bonne_reponse": "\\(\\dfrac{1}{8}\\)"
+  },
+  {
+    "id": 40054,
+    "classe": "4e",
+    "chapitres": ["Puissances"],
+    "question": "Simplifie : \\( (10^2)^4 \\)",
+    "reponses": ["\\(10^8\\)", "\\(10^6\\)", "\\(10^4\\)", "\\(10^10\\)"],
+    "bonne_reponse": "\\(10^8\\)"
+  },
+  {
+    "id": 40055,
+    "classe": "4e",
+    "chapitres": ["Puissances"],
+    "question": "Calcule : \\( 3^4 \\times 3^{-2} \\)",
+    "reponses": ["\\(3^6\\)", "\\(3^2\\)", "\\(3^8\\)", "\\(3^1\\)"],
+    "bonne_reponse": "\\(3^2\\)"
+  },
+  {
+    "id": 40056,
+    "classe": "4e",
+    "chapitres": ["Puissances"],
+    "question": "Simplifie : \\( (a^5) \\div (a^2) \\)",
+    "reponses": ["\\(a^7\\)", "\\(a^3\\)", "\\(a^2\\)", "\\(a^{-3}\\)"],
+    "bonne_reponse": "\\(a^3\\)"
+  },
+  {
+    "id": 40057,
+    "classe": "4e",
+    "chapitres": ["Puissances"],
+    "question": "Simplifie : \\( a^3 \\times a^{-5} \\)",
+    "reponses": ["\\(a^2\\)", "\\(a^{-2}\\)", "\\(a^8\\)", "\\(a^{-8}\\)"],
+    "bonne_reponse": "\\(a^{-2}\\)"
+  },
+  {
+    "id": 40058,
+    "classe": "4e",
+    "chapitres": ["Puissances"],
+    "question": "Calcule : \\( (-2)^4 \\)",
+    "reponses": ["-16", "16", "-8", "8"],
+    "bonne_reponse": "16"
+  },
+  {
+    "id": 40059,
+    "classe": "4e",
+    "chapitres": ["Puissances"],
+    "question": "Simplifie : \\( \\dfrac{1}{10^3} \\)",
+    "reponses": ["0,001", "0,0001", "0,01", "0,1"],
+    "bonne_reponse": "0,001"
+  },
+  {
+    "id": 40060,
+    "classe": "4e",
+    "chapitres": ["Puissances"],
+    "question": "Quelle est la valeur de \\( 10^{-2} \\) ?",
+    "reponses": ["0,1", "0,01", "0,001", "0,0001"],
+    "bonne_reponse": "0,01"
+  },
+    {
+    "id": 40061,
+    "classe": "4e",
+    "chapitres": ["Racine carrée"],
+    "question": "Quelle est la racine carrée de \\(9\\) ?",
+    "reponses": ["1", "2", "3", "9"],
+    "bonne_reponse": "3"
+  },
+  {
+    "id": 40062,
+    "classe": "4e",
+    "chapitres": ["Racine carrée"],
+    "question": "Quelle est la racine carrée de \\(16\\) ?",
+    "reponses": ["2", "3", "4", "5"],
+    "bonne_reponse": "4"
+  },
+  {
+    "id": 40063,
+    "classe": "4e",
+    "chapitres": ["Racine carrée"],
+    "question": "Calcule : \\( \\sqrt{25} \\)",
+    "reponses": ["4", "5", "6", "7"],
+    "bonne_reponse": "5"
+  },
+  {
+    "id": 40064,
+    "classe": "4e",
+    "chapitres": ["Racine carrée"],
+    "question": "Calcule : \\( \\sqrt{49} \\)",
+    "reponses": ["6", "7", "8", "9"],
+    "bonne_reponse": "7"
+  },
+  {
+    "id": 40065,
+    "classe": "4e",
+    "chapitres": ["Racine carrée"],
+    "question": "Quel est le carré de \\( \\sqrt{5} \\) ?",
+    "reponses": ["1", "5", "10", "25"],
+    "bonne_reponse": "5"
+  },
+  {
+    "id": 40066,
+    "classe": "4e",
+    "chapitres": ["Racine carrée"],
+    "question": "Calcule : \\( \\sqrt{100} \\)",
+    "reponses": ["10", "20", "5", "50"],
+    "bonne_reponse": "10"
+  },
+  {
+    "id": 40067,
+    "classe": "4e",
+    "chapitres": ["Racine carrée"],
+    "question": "Simplifie : \\( \\sqrt{36} \\times \\sqrt{4} \\)",
+    "reponses": ["12", "24", "6", "8"],
+    "bonne_reponse": "12"
+  },
+  {
+    "id": 40068,
+    "classe": "4e",
+    "chapitres": ["Racine carrée"],
+    "question": "Simplifie : \\( \\sqrt{9} \\times \\sqrt{16} \\)",
+    "reponses": ["9", "12", "24", "48"],
+    "bonne_reponse": "12"
+  },
+  {
+    "id": 40069,
+    "classe": "4e",
+    "chapitres": ["Racine carrée"],
+    "question": "Simplifie : \\( \\sqrt{81} \\div \\sqrt{9} \\)",
+    "reponses": ["1", "2", "3", "9"],
+    "bonne_reponse": "3"
+  },
+  {
+    "id": 40070,
+    "classe": "4e",
+    "chapitres": ["Racine carrée"],
+    "question": "Quelle est la racine carrée de \\(121\\) ?",
+    "reponses": ["10", "11", "12", "13"],
+    "bonne_reponse": "11"
+  },
+  {
+    "id": 40071,
+    "classe": "4e",
+    "chapitres": ["Racine carrée"],
+    "question": "Quelle est la racine carrée de \\(64\\) ?",
+    "reponses": ["6", "7", "8", "9"],
+    "bonne_reponse": "8"
+  },
+  {
+    "id": 40072,
+    "classe": "4e",
+    "chapitres": ["Racine carrée"],
+    "question": "Calcule : \\( \\sqrt{4} + \\sqrt{9} \\)",
+    "reponses": ["5", "6", "7", "8"],
+    "bonne_reponse": "5"
+  },
+  {
+    "id": 40073,
+    "classe": "4e",
+    "chapitres": ["Racine carrée"],
+    "question": "Calcule : \\( (\\sqrt{3})^2 \\)",
+    "reponses": ["3", "6", "9", "1"],
+    "bonne_reponse": "3"
+  },
+  {
+    "id": 40074,
+    "classe": "4e",
+    "chapitres": ["Racine carrée"],
+    "question": "Simplifie : \\( \\sqrt{50} \\)",
+    "reponses": ["\\(5\\sqrt{2}\\)", "\\(25\\)", "\\(10\\)", "\\(7\\)"],
+    "bonne_reponse": "\\(5\\sqrt{2}\\)"
+  },
+  {
+    "id": 40075,
+    "classe": "4e",
+    "chapitres": ["Racine carrée"],
+    "question": "Simplifie : \\( \\sqrt{18} \\)",
+    "reponses": ["\\(3\\sqrt{2}\\)", "\\(6\\)", "\\(2\\sqrt{3}\\)", "\\(\\sqrt{9}\\)"],
+    "bonne_reponse": "\\(3\\sqrt{2}\\)"
+  },
+  {
+    "id": 40076,
+    "classe": "4e",
+    "chapitres": ["Racine carrée"],
+    "question": "Quel est le résultat de \\( \\sqrt{81} - \\sqrt{16} \\) ?",
+    "reponses": ["5", "4", "3", "2"],
+    "bonne_reponse": "5"
+  },
+  {
+    "id": 40077,
+    "classe": "4e",
+    "chapitres": ["Racine carrée"],
+    "question": "Quelle est la racine carrée de \\(0,49\\) ?",
+    "reponses": ["0,07", "0,7", "0,14", "0,5"],
+    "bonne_reponse": "0,7"
+  },
+  {
+    "id": 40078,
+    "classe": "4e",
+    "chapitres": ["Racine carrée"],
+    "question": "Complète : \\( \\sqrt{a \\times b} = \\ ? \\)",
+    "reponses": ["\\(\\sqrt{a} + \\sqrt{b}\\)", "\\(\\sqrt{a} \\times \\sqrt{b}\\)", "\\(\\sqrt{a+b}\\)", "\\(\\sqrt{a-b}\\)"],
+    "bonne_reponse": "\\(\\sqrt{a} \\times \\sqrt{b}\\)"
+  },
+  {
+    "id": 40079,
+    "classe": "4e",
+    "chapitres": ["Racine carrée"],
+    "question": "Calcule : \\( \\sqrt{0,09} \\)",
+    "reponses": ["0,3", "0,09", "0,9", "0,03"],
+    "bonne_reponse": "0,3"
+  },
+  {
+    "id": 40080,
+    "classe": "4e",
+    "chapitres": ["Racine carrée"],
+    "question": "Calcule : \\( \\sqrt{1} + \\sqrt{4} + \\sqrt{9} \\)",
+    "reponses": ["6", "7", "8", "9"],
+    "bonne_reponse": "6"
+  },
+    {
+    "id": 40081,
+    "classe": "4e",
+    "chapitres": ["Calcul littéral"],
+    "question": "Réduis : \\( 3x + 5x \\)",
+    "reponses": ["\\(8x\\)", "\\(15x\\)", "\\(2x\\)", "\\(x^2\\)"],
+    "bonne_reponse": "\\(8x\\)"
+  },
+  {
+    "id": 40082,
+    "classe": "4e",
+    "chapitres": ["Calcul littéral"],
+    "question": "Réduis : \\( 7a - 3a \\)",
+    "reponses": ["\\(4a\\)", "\\(10a\\)", "\\(a^4\\)", "\\(a\\)"],
+    "bonne_reponse": "\\(4a\\)"
+  },
+  {
+    "id": 40083,
+    "classe": "4e",
+    "chapitres": ["Calcul littéral"],
+    "question": "Développe : \\( 2(x + 3) \\)",
+    "reponses": ["\\(2x + 3\\)", "\\(2x + 6\\)", "\\(x + 5\\)", "\\(5x\\)"],
+    "bonne_reponse": "\\(2x + 6\\)"
+  },
+  {
+    "id": 40084,
+    "classe": "4e",
+    "chapitres": ["Calcul littéral"],
+    "question": "Développe : \\( 3(a - 4) \\)",
+    "reponses": ["\\(3a - 4\\)", "\\(3a - 12\\)", "\\(a - 1\\)", "\\(12 - 3a\\)"],
+    "bonne_reponse": "\\(3a - 12\\)"
+  },
+  {
+    "id": 40085,
+    "classe": "4e",
+    "chapitres": ["Calcul littéral"],
+    "question": "Développe : \\( (x + 2)^2 \\)",
+    "reponses": ["\\(x^2 + 2\\)", "\\(x^2 + 4x + 4\\)", "\\(x^2 + 2x + 2\\)", "\\(x^2 + 4\\)"],
+    "bonne_reponse": "\\(x^2 + 4x + 4\\)"
+  },
+  {
+    "id": 40086,
+    "classe": "4e",
+    "chapitres": ["Calcul littéral"],
+    "question": "Développe : \\( (x - 3)^2 \\)",
+    "reponses": ["\\(x^2 - 3x + 9\\)", "\\(x^2 - 6x + 9\\)", "\\(x^2 - 9x + 3\\)", "\\(x^2 - 6x - 9\\)"],
+    "bonne_reponse": "\\(x^2 - 6x + 9\\)"
+  },
+  {
+    "id": 40087,
+    "classe": "4e",
+    "chapitres": ["Calcul littéral"],
+    "question": "Développe : \\( (x + 5)(x + 2) \\)",
+    "reponses": ["\\(x^2 + 7x + 10\\)", "\\(x^2 + 5x + 2\\)", "\\(x^2 + 10x + 7\\)", "\\(x^2 + 12x + 7\\)"],
+    "bonne_reponse": "\\(x^2 + 7x + 10\\)"
+  },
+  {
+    "id": 40088,
+    "classe": "4e",
+    "chapitres": ["Calcul littéral"],
+    "question": "Développe : \\( (2x + 3)(x - 1) \\)",
+    "reponses": ["\\(2x^2 + x - 3\\)", "\\(2x^2 + x + 3\\)", "\\(2x^2 - x - 3\\)", "\\(x^2 + 3x - 1\\)"],
+    "bonne_reponse": "\\(2x^2 + x - 3\\)"
+  },
+  {
+    "id": 40089,
+    "classe": "4e",
+    "chapitres": ["Calcul littéral"],
+    "question": "Factorise : \\( 3x + 6 \\)",
+    "reponses": ["\\(3(x + 2)\\)", "\\(x(3 + 6)\\)", "\\(6(x + 1)\\)", "\\(3x(2)\\)"],
+    "bonne_reponse": "\\(3(x + 2)\\)"
+  },
+  {
+    "id": 40090,
+    "classe": "4e",
+    "chapitres": ["Calcul littéral"],
+    "question": "Factorise : \\( 5a - 15 \\)",
+    "reponses": ["\\(5(a - 3)\\)", "\\(15(a - 1)\\)", "\\(3(a - 5)\\)", "\\(a(5 - 3)\\)"],
+    "bonne_reponse": "\\(5(a - 3)\\)"
+  },
+  {
+    "id": 40091,
+    "classe": "4e",
+    "chapitres": ["Calcul littéral"],
+    "question": "Réduis : \\( 4x + 2 - 3x + 5 \\)",
+    "reponses": ["\\(x + 7\\)", "\\(x + 3\\)", "\\(7x\\)", "\\(x - 3\\)"],
+    "bonne_reponse": "\\(x + 7\\)"
+  },
+  {
+    "id": 40092,
+    "classe": "4e",
+    "chapitres": ["Calcul littéral"],
+    "question": "Développe : \\( -2(x - 4) \\)",
+    "reponses": ["\\(-2x - 8\\)", "\\(-2x + 8\\)", "\\(2x + 8\\)", "\\(2x - 8\\)"],
+    "bonne_reponse": "\\(-2x + 8\\)"
+  },
+  {
+    "id": 40093,
+    "classe": "4e",
+    "chapitres": ["Calcul littéral"],
+    "question": "Développe : \\( (x + 1)(x - 1) \\)",
+    "reponses": ["\\(x^2 - 1\\)", "\\(x^2 + 1\\)", "\\(x^2 + x - 1\\)", "\\(x^2 - x - 1\\)"],
+    "bonne_reponse": "\\(x^2 - 1\\)"
+  },
+  {
+    "id": 40094,
+    "classe": "4e",
+    "chapitres": ["Calcul littéral"],
+    "question": "Simplifie : \\( 4x + 7x - 2x \\)",
+    "reponses": ["\\(9x\\)", "\\(10x\\)", "\\(7x\\)", "\\(8x\\)"],
+    "bonne_reponse": "\\(9x\\)"
+  },
+  {
+    "id": 40095,
+    "classe": "4e",
+    "chapitres": ["Calcul littéral"],
+    "question": "Développe : \\( (3x + 1)^2 \\)",
+    "reponses": ["\\(9x^2 + 6x + 1\\)", "\\(3x^2 + 6x + 1\\)", "\\(9x^2 + 1\\)", "\\(3x^2 + 1\\)"],
+    "bonne_reponse": "\\(9x^2 + 6x + 1\\)"
+  },
+  {
+    "id": 40096,
+    "classe": "4e",
+    "chapitres": ["Calcul littéral"],
+    "question": "Factorise : \\( x^2 - 9 \\)",
+    "reponses": ["\\((x - 3)(x + 3)\\)", "\\((x - 9)(x + 1)\\)", "\\((x - 3)^2\\)", "\\((x + 3)^2\\)"],
+    "bonne_reponse": "\\((x - 3)(x + 3)\\)"
+  },
+  {
+    "id": 40097,
+    "classe": "4e",
+    "chapitres": ["Calcul littéral"],
+    "question": "Réduis : \\( 5x - 2x + 3x \\)",
+    "reponses": ["\\(10x\\)", "\\(6x\\)", "\\(7x\\)", "\\(8x\\)"],
+    "bonne_reponse": "\\(6x\\)"
+  },
+  {
+    "id": 40098,
+    "classe": "4e",
+    "chapitres": ["Calcul littéral"],
+    "question": "Simplifie : \\( 2(a + b) - (a - b) \\)",
+    "reponses": ["\\(a + 3b\\)", "\\(a - 3b\\)", "\\(b\\)", "\\(3a + b\\)"],
+    "bonne_reponse": "\\(a + 3b\\)"
+  },
+  {
+    "id": 40099,
+    "classe": "4e",
+    "chapitres": ["Calcul littéral"],
+    "question": "Développe : \\( 4x(x - 2) \\)",
+    "reponses": ["\\(4x^2 - 8x\\)", "\\(4x^2 + 8x\\)", "\\(8x - 4x^2\\)", "\\(x^2 - 8x\\)"],
+    "bonne_reponse": "\\(4x^2 - 8x\\)"
+  },
+  {
+    "id": 40100,
+    "classe": "4e",
+    "chapitres": ["Calcul littéral"],
+    "question": "Factorise : \\( 2x^2 + 6x \\)",
+    "reponses": ["\\(2x(x + 3)\\)", "\\(x(2x + 6)\\)", "\\(2(x + 3)\\)", "\\(6x(x + 2)\\)"],
+    "bonne_reponse": "\\(2x(x + 3)\\)"
+  },  
+  {
+    "id": 40101,
+    "classe": "4e",
+    "chapitres": ["Statistiques"],
+    "question": "On a les notes : 8 ; 10 ; 12 ; 14. Quelle est la moyenne ?",
+    "reponses": ["10", "11", "12", "13"],
+    "bonne_reponse": "11"
+  },
+  {
+    "id": 40102,
+    "classe": "4e",
+    "chapitres": ["Statistiques"],
+    "question": "On a les valeurs : 2 ; 5 ; 8 ; 10. Quelle est l’étendue ?",
+    "reponses": ["2", "5", "8", "8"],
+    "bonne_reponse": "8"
+  },
+  {
+    "id": 40103,
+    "classe": "4e",
+    "chapitres": ["Statistiques"],
+    "question": "La médiane sépare la série en ...",
+    "reponses": ["deux moitiés égales", "trois tiers", "quartiles", "deux groupes inégaux"],
+    "bonne_reponse": "deux moitiés égales"
+  },
+  {
+    "id": 40104,
+    "classe": "4e",
+    "chapitres": ["Statistiques"],
+    "question": "Calcule la moyenne : 5 ; 10 ; 15.",
+    "reponses": ["9", "10", "11", "12"],
+    "bonne_reponse": "10"
+  },
+  {
+    "id": 40105,
+    "classe": "4e",
+    "chapitres": ["Statistiques"],
+    "question": "Quelle est la moyenne des valeurs 4 ; 4 ; 5 ; 7 ; 10 ?",
+    "reponses": ["5", "6", "7", "8"],
+    "bonne_reponse": "6"
+  },
+  {
+    "id": 40106,
+    "classe": "4e",
+    "chapitres": ["Statistiques"],
+    "question": "Quelle est la médiane de la série : 1 ; 2 ; 3 ; 4 ; 5 ?",
+    "reponses": ["2", "3", "4", "5"],
+    "bonne_reponse": "3"
+  },
+  {
+    "id": 40107,
+    "classe": "4e",
+    "chapitres": ["Statistiques"],
+    "question": "Quelle est l’étendue de la série : 7 ; 12 ; 15 ; 19 ?",
+    "reponses": ["8", "10", "12", "15"],
+    "bonne_reponse": "12"
+  },
+  {
+    "id": 40108,
+    "classe": "4e",
+    "chapitres": ["Statistiques"],
+    "question": "Dans une classe, 12 élèves sur 24 sont des filles. Quelle est la fréquence des filles ?",
+    "reponses": ["0,4", "0,5", "0,6", "0,7"],
+    "bonne_reponse": "0,5"
+  },
+  {
+    "id": 40109,
+    "classe": "4e",
+    "chapitres": ["Statistiques"],
+    "question": "Une valeur qui apparaît le plus souvent dans une série est ...",
+    "reponses": ["la moyenne", "la médiane", "le mode", "l’étendue"],
+    "bonne_reponse": "le mode"
+  },
+  {
+    "id": 40110,
+    "classe": "4e",
+    "chapitres": ["Statistiques"],
+    "question": "Dans la série : 2 ; 4 ; 4 ; 6 ; 10, quel est le mode ?",
+    "reponses": ["2", "4", "6", "10"],
+    "bonne_reponse": "4"
+  },
+  {
+    "id": 40111,
+    "classe": "4e",
+    "chapitres": ["Statistiques"],
+    "question": "L’étendue mesure ...",
+    "reponses": [
+      "la valeur la plus fréquente",
+      "la dispersion de la série",
+      "la moyenne",
+      "la somme des valeurs"
+    ],
+    "bonne_reponse": "la dispersion de la série"
+  },
+  {
+    "id": 40112,
+    "classe": "4e",
+    "chapitres": ["Statistiques"],
+    "question": "Une fréquence est toujours ...",
+    "reponses": ["négative", "supérieure à 1", "comprise entre 0 et 1", "un entier"],
+    "bonne_reponse": "comprise entre 0 et 1"
+  },
+  {
+    "id": 40113,
+    "classe": "4e",
+    "chapitres": ["Statistiques"],
+    "question": "La moyenne de 10 valeurs égales à 7 est ...",
+    "reponses": ["0,7", "7", "70", "17"],
+    "bonne_reponse": "7"
+  },
+  {
+    "id": 40114,
+    "classe": "4e",
+    "chapitres": ["Statistiques"],
+    "question": "Pour calculer la moyenne, on ...",
+    "reponses": [
+      "additionne les valeurs puis on divise par leur nombre",
+      "multiplie toutes les valeurs",
+      "soustrait la plus petite de la plus grande",
+      "compte le nombre de valeurs"
+    ],
+    "bonne_reponse": "additionne les valeurs puis on divise par leur nombre"
+  },
+  {
+    "id": 40115,
+    "classe": "4e",
+    "chapitres": ["Statistiques"],
+    "question": "Si une série a une étendue nulle, alors ...",
+    "reponses": [
+      "toutes les valeurs sont égales",
+      "il n’y a qu’une seule valeur",
+      "il y a une erreur",
+      "la moyenne est 0"
+    ],
+    "bonne_reponse": "toutes les valeurs sont égales"
+  },
+  {
+    "id": 40116,
+    "classe": "4e",
+    "chapitres": ["Statistiques"],
+    "question": "La somme des fréquences d’une série est ...",
+    "reponses": ["0", "1", "100", "inconnue"],
+    "bonne_reponse": "1"
+  },
+  {
+    "id": 40117,
+    "classe": "4e",
+    "chapitres": ["Statistiques"],
+    "question": "Dans un diagramme circulaire, la somme des angles vaut ...",
+    "reponses": ["90°", "100°", "180°", "360°"],
+    "bonne_reponse": "360°"
+  },
+  {
+    "id": 40118,
+    "classe": "4e",
+    "chapitres": ["Statistiques"],
+    "question": "Dans un diagramme en barres, l’axe des abscisses représente ...",
+    "reponses": [
+      "les effectifs",
+      "les catégories étudiées",
+      "les fréquences cumulées",
+      "les classes de valeurs"
+    ],
+    "bonne_reponse": "les catégories étudiées"
+  },
+  {
+    "id": 40119,
+    "classe": "4e",
+    "chapitres": ["Statistiques"],
+    "question": "La fréquence d’une valeur = (effectif de la valeur) ÷ (effectif total). Quelle est l’unité de la fréquence ?",
+    "reponses": ["en %", "en unité de valeur", "sans unité", "en cm"],
+    "bonne_reponse": "sans unité"
+  },
+  {
+    "id": 40120,
+    "classe": "4e",
+    "chapitres": ["Statistiques"],
+    "question": "Une série de 5 valeurs : 10 ; 10 ; 12 ; 12 ; 14. Quelle est la médiane ?",
+    "reponses": ["10", "11", "12", "13"],
+    "bonne_reponse": "12"
+  },
+  {
+    "id": 40121,
+    "classe": "4e",
+    "chapitres": ["Proportionnalité"],
+    "question": "Dans une situation de proportionnalité, si on double la première grandeur, la seconde ...",
+    "reponses": ["reste la même", "double aussi", "est divisée par deux", "augmente de 1"],
+    "bonne_reponse": "double aussi"
+  },
+  {
+    "id": 40122,
+    "classe": "4e",
+    "chapitres": ["Proportionnalité"],
+    "question": "Complète le tableau de proportionnalité : 2 → 8 ; 4 → ?",
+    "reponses": ["10", "12", "14", "16"],
+    "bonne_reponse": "16"
+  },
+  {
+    "id": 40123,
+    "classe": "4e",
+    "chapitres": ["Proportionnalité"],
+    "question": "Dans un tableau de proportionnalité, les quotients des termes correspondants sont ...",
+    "reponses": ["égaux", "différents", "nuls", "décroissants"],
+    "bonne_reponse": "égaux"
+  },
+  {
+    "id": 40124,
+    "classe": "4e",
+    "chapitres": ["Proportionnalité"],
+    "question": "Pour passer de 3 à 15, on multiplie par ...",
+    "reponses": ["2", "3", "4", "5"],
+    "bonne_reponse": "5"
+  },
+  {
+    "id": 40125,
+    "classe": "4e",
+    "chapitres": ["Proportionnalité"],
+    "question": "Dans un tableau de proportionnalité, si 5 correspond à 20, alors 1 correspond à ...",
+    "reponses": ["2", "3", "4", "5"],
+    "bonne_reponse": "4"
+  },
+  {
+    "id": 40126,
+    "classe": "4e",
+    "chapitres": ["Proportionnalité"],
+    "question": "Complète : 6 → 12 ; 9 → ?",
+    "reponses": ["15", "16", "18", "20"],
+    "bonne_reponse": "18"
+  },
+  {
+    "id": 40127,
+    "classe": "4e",
+    "chapitres": ["Proportionnalité"],
+    "question": "Si un vélo coûte 300 €, combien coûtent 3 vélos identiques ?",
+    "reponses": ["600 €", "700 €", "800 €", "900 €"],
+    "bonne_reponse": "900 €"
+  },
+  {
+    "id": 40128,
+    "classe": "4e",
+    "chapitres": ["Proportionnalité"],
+    "question": "Un article coûte 50 € après une réduction de 20 %. Quel était son prix initial ?",
+    "reponses": ["60 €", "62,50 €", "70 €", "75 €"],
+    "bonne_reponse": "62,50 €"
+  },
+  {
+    "id": 40129,
+    "classe": "4e",
+    "chapitres": ["Proportionnalité"],
+    "question": "Si 4 kg de pommes coûtent 8 €, quel est le prix d’un kilo ?",
+    "reponses": ["1 €", "2 €", "3 €", "4 €"],
+    "bonne_reponse": "2 €"
+  },
+  {
+    "id": 40130,
+    "classe": "4e",
+    "chapitres": ["Proportionnalité"],
+    "question": "Une voiture parcourt 180 km en 3 h. Quelle est sa vitesse moyenne ?",
+    "reponses": ["30 km/h", "60 km/h", "90 km/h", "120 km/h"],
+    "bonne_reponse": "60 km/h"
+  },
+  {
+    "id": 40131,
+    "classe": "4e",
+    "chapitres": ["Proportionnalité"],
+    "question": "Si 5 stylos coûtent 7,50 €, combien coûtent 2 stylos ?",
+    "reponses": ["2,50 €", "3 €", "3,50 €", "4 €"],
+    "bonne_reponse": "3 €"
+  },
+  {
+    "id": 40132,
+    "classe": "4e",
+    "chapitres": ["Proportionnalité"],
+    "question": "Dans une échelle 1:100, 1 cm sur le plan représente ...",
+    "reponses": ["10 cm", "1 m", "10 m", "100 m"],
+    "bonne_reponse": "1 m"
+  },
+  {
+    "id": 40133,
+    "classe": "4e",
+    "chapitres": ["Proportionnalité"],
+    "question": "Si 3 m de tissu coûtent 24 €, quel est le prix de 7 m ?",
+    "reponses": ["52 €", "54 €", "56 €", "58 €"],
+    "bonne_reponse": "56 €"
+  },
+  {
+    "id": 40134,
+    "classe": "4e",
+    "chapitres": ["Proportionnalité"],
+    "question": "Un agrandissement à l’échelle 2 signifie que les longueurs sont ...",
+    "reponses": ["divisées par 2", "multipliées par 2", "inchangées", "inversées"],
+    "bonne_reponse": "multipliées par 2"
+  },
+  {
+    "id": 40135,
+    "classe": "4e",
+    "chapitres": ["Proportionnalité"],
+    "question": "Un plan est à l’échelle 1:50. 5 cm sur le plan représentent ...",
+    "reponses": ["1 m", "2,5 m", "3 m", "4 m"],
+    "bonne_reponse": "2,5 m"
+  },
+  {
+    "id": 40136,
+    "classe": "4e",
+    "chapitres": ["Proportionnalité"],
+    "question": "Une carte indique une échelle 1:25 000. 4 cm sur la carte représentent ...",
+    "reponses": ["0,5 km", "1 km", "2 km", "3 km"],
+    "bonne_reponse": "1 km"
+  },
+  {
+    "id": 40137,
+    "classe": "4e",
+    "chapitres": ["Proportionnalité"],
+    "question": "Si le coefficient de proportionnalité est 4, alors à chaque valeur x correspond ...",
+    "reponses": ["4 - x", "4x", "x + 4", "x / 4"],
+    "bonne_reponse": "4x"
+  },
+  {
+    "id": 40138,
+    "classe": "4e",
+    "chapitres": ["Proportionnalité"],
+    "question": "Un produit en croix sert à ...",
+    "reponses": [
+      "vérifier si deux rapports sont égaux",
+      "calculer une moyenne",
+      "trouver une médiane",
+      "multiplier deux pourcentages"
+    ],
+    "bonne_reponse": "vérifier si deux rapports sont égaux"
+  },
+  {
+    "id": 40139,
+    "classe": "4e",
+    "chapitres": ["Proportionnalité"],
+    "question": "Un taux de 25 % correspond à un coefficient multiplicateur de ...",
+    "reponses": ["1,25", "0,25", "4", "0,75"],
+    "bonne_reponse": "1,25"
+  },
+  {
+    "id": 40140,
+    "classe": "4e",
+    "chapitres": ["Proportionnalité"],
+    "question": "Une baisse de 20 % correspond à un coefficient multiplicateur de ...",
+    "reponses": ["0,8", "1,2", "0,2", "2"],
+    "bonne_reponse": "0,8"
   }
 ]
