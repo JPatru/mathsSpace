@@ -13,6 +13,19 @@ type Preset = {
   emoji: string
   name: string
 }
+
+type SessionEntry = {
+  id: number
+  question: string
+  reponses: string[]
+  bonne_reponse: string
+  choix: string
+  isCorrect: boolean
+}
+
+const sessionLog = ref<SessionEntry[]>([])
+const showReport = ref(false)
+
 const PRESETS: Record<1 | 2 | 3, Preset> = {
   1: { minutes: 3,   penalty: 0, delay: 2, tone: 'green', emoji: '🟩', name: 'Cool'    },
   2: { minutes: 2,   penalty: 1, delay: 2, tone: 'blue',  emoji: '🟦', name: 'Tonique' },
@@ -94,6 +107,13 @@ function buildQueue() {
 
 
 
+/** ========= Impression du rapport final ========= **/
+function printReport() {
+  window.print()
+}
+
+
+
 /** ========= Logique des questions ========= **/
 function loadNextQuestion() {
   if (questionQueue.value.length === 0) {
@@ -107,6 +127,18 @@ function loadNextQuestion() {
 function chooseAnswer(rep: string) {
   if (!currentQuestion.value) return
 
+  const q = currentQuestion.value
+
+  // --- ENREGISTREMENT DE LA RÉPONSE ---
+  sessionLog.value.push({
+    id: q.id,
+    question: q.question,
+    reponses: q.reponses,
+    bonne_reponse: q.bonne_reponse,
+    choix: rep,
+    isCorrect: rep === q.bonne_reponse
+  })
+
   // --- MODE DEBUG : on avance sans scorer ---
   if (isDebugMode.value) {
     loadNextQuestion()
@@ -116,16 +148,21 @@ function chooseAnswer(rep: string) {
   if (isLocked.value) return
   totalQuestions.value++
 
-  if (rep === currentQuestion.value.bonne_reponse) {
+  if (rep === q.bonne_reponse) {
     streak.value++
     correctCount.value++
     score.value += awardedPerGood.value
-    if (score.value >= 20) { stopGame('max'); return }
+    if (score.value >= 20) {
+      stopGame('max')
+      return
+    }
     loadNextQuestion()
   } else {
     streak.value = 0
     wrongFlash.value = true
-    if (PENALTY_POINTS.value > 0) score.value = Math.max(0, score.value - PENALTY_POINTS.value)
+    if (PENALTY_POINTS.value > 0) {
+      score.value = Math.max(0, score.value - PENALTY_POINTS.value)
+    }
     isLocked.value = true
     setTimeout(() => {
       isLocked.value = false
@@ -133,6 +170,7 @@ function chooseAnswer(rep: string) {
     }, PENALTY_DELAY_MS.value)
   }
 }
+
 
 
 /** ========= Cycle du jeu ========= **/
@@ -148,6 +186,8 @@ function stopTimer() {
   if (timerId !== null) { clearInterval(timerId); timerId = null }
 }
 function startGame() {
+  sessionLog.value = []
+  showReport.value = false
   isRunning.value = true
   finalScreen.value = false
   endReason.value = null
@@ -181,6 +221,15 @@ watch(currentQuestion, async (val) => {
   await nextTick()
   mj.typesetPromise()
 })
+
+watch(showReport, async (val) => {
+  if (!val) return
+  const mj = (window as any)?.MathJax
+  if (!mj?.typesetPromise) return
+  await nextTick()
+  mj.typesetPromise()
+})
+
 onUnmounted(() => stopTimer())
 </script>
 
@@ -327,6 +376,56 @@ onUnmounted(() => stopTimer())
         </template>
 
         <button class="btn-primary" @click="startGame">Rejouer</button>
+        
+        <button class="btn-secondary" @click="showReport = !showReport" v-if="sessionLog.length">
+          {{ showReport ? 'Masquer le rapport' : 'Voir le rapport' }}
+        </button>
+
+        <button class="btn-secondary" v-if="showReport" @click="printReport">
+          Imprimer le rapport (PDF)
+        </button>
+
+        <button class="btn-primary" @click="startGame">Rejouer</button>
+
+        <!-- ===== RAPPORT DE SESSION ===== -->
+        <div v-if="showReport" class="report">
+          <h3 class="report-title">Rapport de la session</h3>
+
+          <div v-for="(e, i) in sessionLog" :key="i" class="report-item">
+            <div class="report-head">
+              <span class="report-id">#{{ e.id }}</span>
+              <span :class="['report-badge', e.isCorrect ? 'ok' : 'ko']">
+                {{ e.isCorrect ? 'OK' : 'Erreur' }}
+              </span>
+            </div>
+
+            <div class="report-question" v-html="e.question"></div>
+
+            <ul class="report-answers">
+              <li
+                v-for="(r, j) in e.reponses"
+                :key="j"
+                :class="{
+                  chosen: r === e.choix,
+                  correct: r === e.bonne_reponse
+                }"
+              >
+                <span v-html="r"></span>
+              </li>
+            </ul>
+
+            <div class="report-line">
+              Réponse de l’élève :
+              <strong><span v-html="e.choix"></span></strong>
+            </div>
+
+            <div class="report-line">
+              Correction :
+              <strong><span v-html="e.bonne_reponse"></span></strong>
+            </div>
+          </div>
+        </div>
+        
       </section>
 
     </main>
@@ -667,6 +766,78 @@ onUnmounted(() => stopTimer())
   color: #065f46;
   font-weight: 600;
 }
+
+.btn-secondary {
+  margin-top: 0.5rem;
+  background: #f1f5f9;
+  border: 1px solid #cbd5e1;
+  border-radius: 8px;
+  padding: 0.5rem 0.8rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.report {
+  margin-top: 1rem;
+  text-align: left;
+}
+
+.report-item {
+  border-top: 1px solid #e2e8f0;
+  padding: 0.75rem 0;
+}
+
+.report-head {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.85rem;
+  margin-bottom: 0.25rem;
+}
+
+.report-id {
+  font-family: monospace;
+  color: #64748b;
+}
+
+.report-badge.ok {
+  color: #065f46;
+}
+
+.report-badge.ko {
+  color: #991b1b;
+}
+
+.report-answers li.correct {
+  background: #ecfdf5;
+}
+
+.report-answers li.chosen {
+  outline: 2px solid #38bdf8;
+}
+
+@media print {
+  body {
+    background: white;
+  }
+
+  /* Masquer tout sauf le rapport */
+  .header-bar,
+  .btn-primary,
+  .btn-secondary:not(.print-keep),
+  .intro-card {
+    display: none !important;
+  }
+
+  .report {
+    display: block;
+    font-size: 11pt;
+  }
+
+  .report-item {
+    page-break-inside: avoid;
+  }
+}
+
 
 </style>
 

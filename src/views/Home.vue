@@ -32,7 +32,7 @@
       <div class="quiz-selector">
         <label>Choisir un quiz :  
           <select v-model="selectedSet" @change="switchSet">
-            <option value="base">Flash</option>
+            <option value="base">Automatismes</option>
             <option value="eleves">Par les élèves</option>
             <option value="course">Course aux nombres</option>
             <option value="mental">Calcul mental</option>

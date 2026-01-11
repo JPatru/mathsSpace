@@ -1,1393 +1,1434 @@
 [
   {
-    "id": 6001,
+    "id": 60001,
     "classe": "6e",
-    "chapitres": ["nombres"],
-    "question": "Combien font \\(7 + 8\\) ?",
-    "reponses": ["\\(13\\)", "\\(14\\)", "\\(15\\)", "\\(16\\)"],
-    "bonne_reponse": "\\(15\\)"
-  },
-  {
-    "id": 6002,
-    "classe": "6e",
-    "chapitres": ["nombres"],
-    "question": "Combien font \\(12 - 5\\) ?",
-    "reponses": ["\\(8\\)", "\\(7\\)", "\\(6\\)", "\\(9\\)"],
-    "bonne_reponse": "\\(7\\)"
-  },
-  {
-    "id": 6003,
-    "classe": "6e",
-    "chapitres": ["multiplications"],
-    "question": "Calcule \\(6 \\times 7\\)",
-    "reponses": ["\\(42\\)", "\\(36\\)", "\\(49\\)", "\\(56\\)"],
+    "chapitres": ["Calcul", "Tables de multiplication"],
+    "question": "Combien vaut \\(7 \\times 6\\) ?",
+    "reponses": ["\\(36\\)", "\\(42\\)", "\\(46\\)", "\\(48\\)"],
     "bonne_reponse": "\\(42\\)"
   },
   {
-    "id": 6004,
+    "id": 60002,
     "classe": "6e",
-    "chapitres": ["divisions"],
-    "question": "Quel est le quotient de \\(56 \\div 8\\) ?",
-    "reponses": ["\\(7\\)", "\\(6\\)", "\\(8\\)", "\\(9\\)"],
-    "bonne_reponse": "\\(7\\)"
+    "chapitres": ["Calcul", "Tables de multiplication"],
+    "question": "Combien vaut \\(8 \\times 4\\) ?",
+    "reponses": ["\\(24\\)", "\\(28\\)", "\\(32\\)", "\\(36\\)"],
+    "bonne_reponse": "\\(32\\)"
   },
   {
-    "id": 6005,
+    "id": 60003,
     "classe": "6e",
-    "chapitres": ["fractions"],
-    "question": "Quelle est la moitié de \\( \\dfrac{10}{6} \\) ?",
-    "reponses": ["\\( \\dfrac{5}{6} \\)", "\\( \\dfrac{10}{12} \\)", "\\( \\dfrac{3}{6} \\)", "\\( \\dfrac{6}{12} \\)"],
-    "bonne_reponse": "\\( \\dfrac{5}{6} \\)"
+    "chapitres": ["Calcul", "Tables de multiplication"],
+    "question": "Combien vaut \\(9 \\times 7\\) ?",
+    "reponses": ["\\(56\\)", "\\(63\\)", "\\(72\\)", "\\(67\\)"],
+    "bonne_reponse": "\\(63\\)"
   },
   {
-    "id": 6006,
+    "id": 60004,
     "classe": "6e",
-    "chapitres": ["fractions"],
-    "question": "Simplifie \\( \\dfrac{8}{12} \\)",
-    "reponses": ["\\( \\dfrac{2}{3} \\)", "\\( \\dfrac{3}{4} \\)", "\\( \\dfrac{4}{6} \\)", "\\( \\dfrac{1}{2} \\)"],
-    "bonne_reponse": "\\( \\dfrac{2}{3} \\)"
+    "chapitres": ["Calcul", "Tables de multiplication"],
+    "question": "Combien vaut \\(6 \\times 8\\) ?",
+    "reponses": ["\\(42\\)", "\\(46\\)", "\\(48\\)", "\\(56\\)"],
+    "bonne_reponse": "\\(48\\)"
   },
   {
-    "id": 6007,
+    "id": 60005,
     "classe": "6e",
-    "chapitres": ["nombres"],
-    "question": "Quelle est la somme de \\(23\\) et \\(19\\) ?",
-    "reponses": ["\\(41\\)", "\\(42\\)", "\\(43\\)", "\\(44\\)"],
+    "chapitres": ["Calcul", "Tables de multiplication"],
+    "question": "Combien vaut \\(5 \\times 9\\) ?",
+    "reponses": ["\\(35\\)", "\\(40\\)", "\\(45\\)", "\\(50\\)"],
+    "bonne_reponse": "\\(45\\)"
+  },
+  {
+    "id": 60006,
+    "classe": "6e",
+    "chapitres": ["Calcul", "Tables de multiplication"],
+    "question": "Combien vaut \\(4 \\times 7\\) ?",
+    "reponses": ["\\(21\\)", "\\(24\\)", "\\(28\\)", "\\(32\\)"],
+    "bonne_reponse": "\\(28\\)"
+  },
+  {
+    "id": 60007,
+    "classe": "6e",
+    "chapitres": ["Calcul", "Tables de multiplication"],
+    "question": "Combien vaut \\(3 \\times 8\\) ?",
+    "reponses": ["\\(18\\)", "\\(21\\)", "\\(24\\)", "\\(28\\)"],
+    "bonne_reponse": "\\(24\\)"
+  },
+  {
+    "id": 60008,
+    "classe": "6e",
+    "chapitres": ["Calcul", "Tables de multiplication"],
+    "question": "Combien vaut \\(9 \\times 4\\) ?",
+    "reponses": ["\\(32\\)", "\\(34\\)", "\\(36\\)", "\\(40\\)"],
+    "bonne_reponse": "\\(36\\)"
+  },
+  {
+    "id": 60009,
+    "classe": "6e",
+    "chapitres": ["Calcul", "Tables de multiplication"],
+    "question": "Combien vaut \\(7 \\times 5\\) ?",
+    "reponses": ["\\(30\\)", "\\(35\\)", "\\(40\\)", "\\(45\\)"],
+    "bonne_reponse": "\\(35\\)"
+  },
+  {
+    "id": 60010,
+    "classe": "6e",
+    "chapitres": ["Calcul", "Tables de multiplication"],
+    "question": "Combien vaut \\(6 \\times 9\\) ?",
+    "reponses": ["\\(48\\)", "\\(54\\)", "\\(56\\)", "\\(63\\)"],
+    "bonne_reponse": "\\(54\\)"
+  },
+  {
+    "id": 60011,
+    "classe": "6e",
+    "chapitres": ["Calcul", "Tables de multiplication"],
+    "question": "Combien vaut \\(8 \\times 7\\) ?",
+    "reponses": ["\\(49\\)", "\\(54\\)", "\\(56\\)", "\\(64\\)"],
+    "bonne_reponse": "\\(56\\)"
+  },
+  {
+    "id": 60012,
+    "classe": "6e",
+    "chapitres": ["Calcul", "Tables de multiplication"],
+    "question": "Combien vaut \\(4 \\times 9\\) ?",
+    "reponses": ["\\(32\\)", "\\(36\\)", "\\(38\\)", "\\(40\\)"],
+    "bonne_reponse": "\\(36\\)"
+  },
+  {
+    "id": 60013,
+    "classe": "6e",
+    "chapitres": ["Calcul", "Tables de multiplication"],
+    "question": "Combien vaut \\(3 \\times 6\\) ?",
+    "reponses": ["\\(12\\)", "\\(15\\)", "\\(18\\)", "\\(21\\)"],
+    "bonne_reponse": "\\(18\\)"
+  },
+  {
+    "id": 60014,
+    "classe": "6e",
+    "chapitres": ["Calcul", "Tables de multiplication"],
+    "question": "Combien vaut \\(5 \\times 8\\) ?",
+    "reponses": ["\\(35\\)", "\\(40\\)", "\\(45\\)", "\\(48\\)"],
+    "bonne_reponse": "\\(40\\)"
+  },
+  {
+    "id": 60015,
+    "classe": "6e",
+    "chapitres": ["Calcul", "Tables de multiplication"],
+    "question": "Combien vaut \\(9 \\times 3\\) ?",
+    "reponses": ["\\(18\\)", "\\(24\\)", "\\(27\\)", "\\(30\\)"],
+    "bonne_reponse": "\\(27\\)"
+  },
+  {
+    "id": 60016,
+    "classe": "6e",
+    "chapitres": ["Calcul", "Tables de multiplication"],
+    "question": "Combien vaut \\(6 \\times 7\\) ?",
+    "reponses": ["\\(36\\)", "\\(40\\)", "\\(42\\)", "\\(48\\)"],
     "bonne_reponse": "\\(42\\)"
   },
   {
-    "id": 6008,
+    "id": 60017,
     "classe": "6e",
-    "chapitres": ["nombres"],
-    "question": "Quel est le successeur de \\(99\\) ?",
-    "reponses": ["\\(100\\)", "\\(98\\)", "\\(101\\)", "\\(99\\)"],
-    "bonne_reponse": "\\(100\\)"
+    "chapitres": ["Calcul", "Tables de multiplication"],
+    "question": "Combien vaut \\(8 \\times 5\\) ?",
+    "reponses": ["\\(35\\)", "\\(40\\)", "\\(45\\)", "\\(50\\)"],
+    "bonne_reponse": "\\(40\\)"
   },
   {
-    "id": 6009,
+    "id": 60018,
     "classe": "6e",
-    "chapitres": ["unités"],
-    "question": "Combien de centimètres y a-t-il dans \\(1\\) mètre ?",
-    "reponses": ["\\(10\\)", "\\(100\\)", "\\(1000\\)", "\\(10000\\)"],
-    "bonne_reponse": "\\(100\\)"
+    "chapitres": ["Calcul", "Tables de multiplication"],
+    "question": "Combien vaut \\(4 \\times 6\\) ?",
+    "reponses": ["\\(20\\)", "\\(22\\)", "\\(24\\)", "\\(26\\)"],
+    "bonne_reponse": "\\(24\\)"
   },
   {
-    "id": 6010,
+    "id": 60019,
     "classe": "6e",
-    "chapitres": ["unités"],
-    "question": "Combien de grammes dans \\(1\\) kilogramme ?",
-    "reponses": ["\\(10\\)", "\\(100\\)", "\\(1000\\)", "\\(10000\\)"],
-    "bonne_reponse": "\\(1000\\)"
+    "chapitres": ["Calcul", "Tables de multiplication"],
+    "question": "Combien vaut \\(7 \\times 9\\) ?",
+    "reponses": ["\\(56\\)", "\\(63\\)", "\\(64\\)", "\\(72\\)"],
+    "bonne_reponse": "\\(63\\)"
   },
   {
-    "id": 6011,
+    "id": 60020,
     "classe": "6e",
-    "chapitres": ["unités"],
-    "question": "Combien de minutes dans une heure ?",
-    "reponses": ["\\(60\\)", "\\(100\\)", "\\(24\\)", "\\(90\\)"],
-    "bonne_reponse": "\\(60\\)"
+    "chapitres": ["Calcul", "Tables de multiplication"],
+    "question": "Combien vaut \\(3 \\times 7\\) ?",
+    "reponses": ["\\(18\\)", "\\(20\\)", "\\(21\\)", "\\(24\\)"],
+    "bonne_reponse": "\\(21\\)"
   },
   {
-    "id": 6012,
+    "id": 60021,
     "classe": "6e",
-    "chapitres": ["géométrie"],
-    "question": "Combien d’angles droits possède un carré ?",
-    "reponses": ["\\(2\\)", "\\(3\\)", "\\(4\\)", "\\(5\\)"],
+    "chapitres": ["Calcul", "Tables de multiplication"],
+    "question": "\\(9 \\times \\ldots = 27\\)",
+    "reponses": ["\\(2\\)", "\\(3\\)", "\\(4\\)", "\\(6\\)"],
+    "bonne_reponse": "\\(3\\)"
+  },
+  {
+    "id": 60022,
+    "classe": "6e",
+    "chapitres": ["Calcul", "Tables de multiplication"],
+    "question": "\\(7 \\times \\ldots = 42\\)",
+    "reponses": ["\\(5\\)", "\\(6\\)", "\\(7\\)", "\\(8\\)"],
+    "bonne_reponse": "\\(6\\)"
+  },
+  {
+    "id": 60023,
+    "classe": "6e",
+    "chapitres": ["Calcul", "Tables de multiplication"],
+    "question": "\\(8 \\times \\ldots = 56\\)",
+    "reponses": ["\\(6\\)", "\\(7\\)", "\\(8\\)", "\\(9\\)"],
+    "bonne_reponse": "\\(7\\)"
+  },
+  {
+    "id": 60024,
+    "classe": "6e",
+    "chapitres": ["Calcul", "Tables de multiplication"],
+    "question": "\\(6 \\times \\ldots = 48\\)",
+    "reponses": ["\\(6\\)", "\\(7\\)", "\\(8\\)", "\\(9\\)"],
+    "bonne_reponse": "\\(8\\)"
+  },
+  {
+    "id": 60025,
+    "classe": "6e",
+    "chapitres": ["Calcul", "Tables de multiplication"],
+    "question": "\\(5 \\times \\ldots = 35\\)",
+    "reponses": ["\\(5\\)", "\\(6\\)", "\\(7\\)", "\\(8\\)"],
+    "bonne_reponse": "\\(7\\)"
+  },
+  {
+    "id": 60026,
+    "classe": "6e",
+    "chapitres": ["Calcul", "Tables de multiplication"],
+    "question": "\\(4 \\times \\ldots = 28\\)",
+    "reponses": ["\\(5\\)", "\\(6\\)", "\\(7\\)", "\\(8\\)"],
+    "bonne_reponse": "\\(7\\)"
+  },
+  {
+    "id": 60027,
+    "classe": "6e",
+    "chapitres": ["Calcul", "Tables de multiplication"],
+    "question": "\\(3 \\times \\ldots = 24\\)",
+    "reponses": ["\\(6\\)", "\\(7\\)", "\\(8\\)", "\\(9\\)"],
+    "bonne_reponse": "\\(8\\)"
+  },
+  {
+    "id": 60028,
+    "classe": "6e",
+    "chapitres": ["Calcul", "Tables de multiplication"],
+    "question": "\\(9 \\times \\ldots = 36\\)",
+    "reponses": ["\\(2\\)", "\\(3\\)", "\\(4\\)", "\\(6\\)"],
     "bonne_reponse": "\\(4\\)"
   },
   {
-    "id": 6013,
+    "id": 60029,
     "classe": "6e",
-    "chapitres": ["géométrie"],
-    "question": "Combien de côtés possède un pentagone ?",
+    "chapitres": ["Calcul", "Tables de multiplication"],
+    "question": "\\(7 \\times \\ldots = 35\\)",
     "reponses": ["\\(4\\)", "\\(5\\)", "\\(6\\)", "\\(7\\)"],
     "bonne_reponse": "\\(5\\)"
   },
   {
-    "id": 6014,
+    "id": 60030,
     "classe": "6e",
-    "chapitres": ["géométrie"],
-    "question": "Un triangle a pour somme des angles :",
-    "reponses": ["\\(90°\\)", "\\(120°\\)", "\\(180°\\)", "\\(360°\\)"],
-    "bonne_reponse": "\\(180°\\)"
+    "chapitres": ["Calcul", "Tables de multiplication"],
+    "question": "\\(6 \\times \\ldots = 54\\)",
+    "reponses": ["\\(7\\)", "\\(8\\)", "\\(9\\)", "\\(10\\)"],
+    "bonne_reponse": "\\(9\\)"
   },
   {
-    "id": 6015,
+    "id": 60031,
     "classe": "6e",
-    "chapitres": ["nombres"],
-    "question": "Quel est le double de \\(24\\) ?",
-    "reponses": ["\\(48\\)", "\\(44\\)", "\\(42\\)", "\\(46\\)"],
-    "bonne_reponse": "\\(48\\)"
+    "chapitres": ["Calcul", "Tables de multiplication"],
+    "question": "\\(8 \\times \\ldots = 40\\)",
+    "reponses": ["\\(4\\)", "\\(5\\)", "\\(6\\)", "\\(8\\)"],
+    "bonne_reponse": "\\(5\\)"
   },
   {
-    "id": 6016,
+    "id": 60032,
     "classe": "6e",
-    "chapitres": ["nombres"],
-    "question": "Quel est le triple de \\(5\\) ?",
-    "reponses": ["\\(8\\)", "\\(10\\)", "\\(15\\)", "\\(20\\)"],
-    "bonne_reponse": "\\(15\\)"
+    "chapitres": ["Calcul", "Tables de multiplication"],
+    "question": "\\(9 \\times \\ldots = 63\\)",
+    "reponses": ["\\(6\\)", "\\(7\\)", "\\(8\\)", "\\(9\\)"],
+    "bonne_reponse": "\\(7\\)"
   },
   {
-    "id": 6017,
+    "id": 60033,
     "classe": "6e",
-    "chapitres": ["proportionnalité"],
-    "question": "Si 2 stylos coûtent 4 €, combien coûtent 5 stylos ?",
-    "reponses": ["\\(8€\\)", "\\(9€\\)", "\\(10€\\)", "\\(12€\\)"],
-    "bonne_reponse": "\\(10€\\)"
+    "chapitres": ["Calcul", "Tables de multiplication"],
+    "question": "\\(4 \\times \\ldots = 36\\)",
+    "reponses": ["\\(7\\)", "\\(8\\)", "\\(9\\)", "\\(10\\)"],
+    "bonne_reponse": "\\(9\\)"
   },
   {
-    "id": 6018,
+    "id": 60034,
     "classe": "6e",
-    "chapitres": ["proportionnalité"],
-    "question": "Si 3 pommes pèsent 600 g, combien pèsent 1 pomme ?",
-    "reponses": ["\\(100g\\)", "\\(150g\\)", "\\(200g\\)", "\\(300g\\)"],
-    "bonne_reponse": "\\(200g\\)"
+    "chapitres": ["Calcul", "Tables de multiplication"],
+    "question": "\\(5 \\times \\ldots = 45\\)",
+    "reponses": ["\\(7\\)", "\\(8\\)", "\\(9\\)", "\\(10\\)"],
+    "bonne_reponse": "\\(9\\)"
   },
   {
-    "id": 6019,
+    "id": 60035,
     "classe": "6e",
-    "chapitres": ["logique"],
-    "question": "La moitié d’un nombre pair est toujours :",
-    "reponses": ["pair", "impair", "nul", "inconnu"],
-    "bonne_reponse": "pair"
+    "chapitres": ["Calcul", "Tables de multiplication"],
+    "question": "\\(3 \\times \\ldots = 21\\)",
+    "reponses": ["\\(5\\)", "\\(6\\)", "\\(7\\)", "\\(8\\)"],
+    "bonne_reponse": "\\(7\\)"
   },
   {
-    "id": 6020,
+    "id": 60036,
     "classe": "6e",
-    "chapitres": ["logique"],
-    "question": "Le triple d’un nombre impair est :",
-    "reponses": ["pair", "impair", "nul", "fraction"],
-    "bonne_reponse": "impair"
+    "chapitres": ["Calcul", "Tables de multiplication"],
+    "question": "\\(6 \\times \\ldots = 30\\)",
+    "reponses": ["\\(4\\)", "\\(5\\)", "\\(6\\)", "\\(7\\)"],
+    "bonne_reponse": "\\(5\\)"
   },
   {
-    "id": 6021,
+    "id": 60037,
     "classe": "6e",
-    "chapitres": ["fractions"],
-    "question": "Que vaut \\( \\dfrac{1}{2} + \\dfrac{1}{2} \\) ?",
-    "reponses": ["\\(1\\)", "\\( \\dfrac{2}{2} \\)", "\\( \\dfrac{1}{4} \\)", "\\(2\\)"],
-    "bonne_reponse": "\\(1\\)"
+    "chapitres": ["Calcul", "Tables de multiplication"],
+    "question": "\\(8 \\times \\ldots = 64\\)",
+    "reponses": ["\\(6\\)", "\\(7\\)", "\\(8\\)", "\\(9\\)"],
+    "bonne_reponse": "\\(8\\)"
   },
   {
-    "id": 6022,
+    "id": 60038,
     "classe": "6e",
-    "chapitres": ["fractions"],
-    "question": "Quelle est la fraction équivalente à \\( \\dfrac{2}{4} \\) ?",
-    "reponses": ["\\( \\dfrac{1}{2} \\)", "\\( \\dfrac{3}{6} \\)", "\\( \\dfrac{4}{8} \\)", "\\( \\dfrac{2}{8} \\)"],
-    "bonne_reponse": "\\( \\dfrac{1}{2} \\)"
+    "chapitres": ["Calcul", "Tables de multiplication"],
+    "question": "\\(7 \\times \\ldots = 49\\)",
+    "reponses": ["\\(6\\)", "\\(7\\)", "\\(8\\)", "\\(9\\)"],
+    "bonne_reponse": "\\(7\\)"
   },
   {
-    "id": 6023,
+    "id": 60039,
     "classe": "6e",
-    "chapitres": ["aires"],
-    "question": "Aire d’un rectangle de \\(5\\,cm\\) sur \\(3\\,cm\\) :",
-    "reponses": ["\\(15\\,cm^2\\)", "\\(8\\,cm^2\\)", "\\(10\\,cm^2\\)", "\\(30\\,cm^2\\)"],
-    "bonne_reponse": "\\(15\\,cm^2\\)"
+    "chapitres": ["Calcul", "Tables de multiplication"],
+    "question": "\\(4 \\times \\ldots = 20\\)",
+    "reponses": ["\\(4\\)", "\\(5\\)", "\\(6\\)", "\\(8\\)"],
+    "bonne_reponse": "\\(5\\)"
   },
   {
-    "id": 6024,
+    "id": 60040,
     "classe": "6e",
-    "chapitres": ["périmètres"],
-    "question": "Périmètre d’un carré de côté \\(6\\,cm\\) :",
-    "reponses": ["\\(12\\)", "\\(18\\)", "\\(24\\)", "\\(36\\)"],
-    "bonne_reponse": "\\(24\\)"
-  },
-  {
-    "id": 6025,
-    "classe": "6e",
-    "chapitres": ["géométrie"],
-    "question": "Un angle plat mesure :",
-    "reponses": ["\\(90°\\)", "\\(180°\\)", "\\(360°\\)", "\\(45°\\)"],
-    "bonne_reponse": "\\(180°\\)"
-  },
-  {
-    "id": 6026,
-    "classe": "6e",
-    "chapitres": ["unités"],
-    "question": "Combien de centilitres dans \\(1\\,L\\) ?",
-    "reponses": ["\\(10\\)", "\\(100\\)", "\\(1000\\)", "\\(10000\\)"],
-    "bonne_reponse": "\\(100\\)"
-  },
-  {
-    "id": 6027,
-    "classe": "6e",
-    "chapitres": ["relatifs"],
-    "question": "Calcule \\( (-3) + 7 \\)",
-    "reponses": ["\\(-10\\)", "\\(4\\)", "\\(10\\)", "\\(-4\\)"],
-    "bonne_reponse": "\\(4\\)"
-  },
-  {
-    "id": 6028,
-    "classe": "6e",
-    "chapitres": ["relatifs"],
-    "question": "Calcule \\( (-5) + (-6) \\)",
-    "reponses": ["\\(1\\)", "\\(-1\\)", "\\(-11\\)", "\\(-10\\)"],
-    "bonne_reponse": "\\(-11\\)"
-  },
-  {
-    "id": 6029,
-    "classe": "6e",
-    "chapitres": ["nombres"],
-    "question": "Quel chiffre occupe la place des unités dans \\(239\\) ?",
-    "reponses": ["2", "3", "9", "0"],
-    "bonne_reponse": "9"
-  },
-  {
-    "id": 6030,
-    "classe": "6e",
-    "chapitres": ["nombres"],
-    "question": "Quel chiffre est dans la colonne des dizaines de \\(348\\) ?",
-    "reponses": ["8", "3", "4", "5"],
-    "bonne_reponse": "4"
-  },
-
-  {
-    "id": 40001,
-    "classe": "4e",
-    "chapitres": ["Opérations sur les nombres relatifs"],
-    "question": "Calcule : \\((-3) + (-5)\\)",
-    "reponses": ["\\(-8\\)", "\\(8\\)", "\\(-2\\)", "\\(2\\)"],
-    "bonne_reponse": "\\(-8\\)"
-  },
-  {
-    "id": 40002,
-    "classe": "4e",
-    "chapitres": ["Opérations sur les nombres relatifs"],
-    "question": "Calcule : \\((-7) - (-3)\\)",
-    "reponses": ["\\(-10\\)", "\\(10\\)", "\\(-4\\)", "\\(-7\\)"],
-    "bonne_reponse": "\\(-4\\)"
-  },
-  {
-    "id": 40003,
-    "classe": "4e",
-    "chapitres": ["Opérations sur les nombres relatifs"],
-    "question": "Calcule : \\((-6) + 8\\)",
-    "reponses": ["\\(-14\\)", "\\(2\\)", "\\(-2\\)", "\\(14\\)"],
-    "bonne_reponse": "\\(2\\)"
-  },
-  {
-    "id": 40004,
-    "classe": "4e",
-    "chapitres": ["Opérations sur les nombres relatifs"],
-    "question": "Calcule : \\((-9) - 4\\)",
-    "reponses": ["\\(-13\\)", "\\(-5\\)", "\\(13\\)", "\\(5\\)"],
-    "bonne_reponse": "\\(-13\\)"
-  },
-  {
-    "id": 40005,
-    "classe": "4e",
-    "chapitres": ["Opérations sur les nombres relatifs"],
-    "question": "Calcule : \\((-2) \\times (-8)\\)",
-    "reponses": ["\\(-16\\)", "\\(16\\)", "\\(10\\)", "\\(-10\\)"],
-    "bonne_reponse": "\\(16\\)"
-  },
-  {
-    "id": 40006,
-    "classe": "4e",
-    "chapitres": ["Opérations sur les nombres relatifs"],
-    "question": "Calcule : \\((-3) \\times 5\\)",
-    "reponses": ["\\(15\\)", "\\(-15\\)", "\\(8\\)", "\\(-8\\)"],
-    "bonne_reponse": "\\(-15\\)"
-  },
-  {
-    "id": 40007,
-    "classe": "4e",
-    "chapitres": ["Opérations sur les nombres relatifs"],
-    "question": "Calcule : \\( (-6) \\div (-2) \\)",
-    "reponses": ["\\(-3\\)", "\\(3\\)", "\\(-12\\)", "\\(12\\)"],
-    "bonne_reponse": "\\(3\\)"
-  },
-  {
-    "id": 40008,
-    "classe": "4e",
-    "chapitres": ["Opérations sur les nombres relatifs"],
-    "question": "Calcule : \\( (-12) \\div 3 \\)",
-    "reponses": ["\\(-4\\)", "\\(4\\)", "\\(-9\\)", "\\(9\\)"],
-    "bonne_reponse": "\\(-4\\)"
-  },
-  {
-    "id": 40009,
-    "classe": "4e",
-    "chapitres": ["Opérations sur les nombres relatifs"],
-    "question": "Calcule : \\( 5 - (-7) \\)",
-    "reponses": ["\\(12\\)", "\\(-12\\)", "\\(2\\)", "\\(-2\\)"],
-    "bonne_reponse": "\\(12\\)"
-  },
-  {
-    "id": 40010,
-    "classe": "4e",
-    "chapitres": ["Opérations sur les nombres relatifs"],
-    "question": "Calcule : \\( -9 + 15 \\)",
-    "reponses": ["\\(24\\)", "\\(-6\\)", "\\(6\\)", "\\(-24\\)"],
-    "bonne_reponse": "\\(6\\)"
-  },
-  {
-    "id": 40011,
-    "classe": "4e",
-    "chapitres": ["Opérations sur les nombres relatifs"],
-    "question": "Calcule : \\( 3 - 8 \\)",
-    "reponses": ["\\(5\\)", "\\(-5\\)", "\\(11\\)", "\\(-11\\)"],
-    "bonne_reponse": "\\(-5\\)"
-  },
-  {
-    "id": 40012,
-    "classe": "4e",
-    "chapitres": ["Opérations sur les nombres relatifs"],
-    "question": "Calcule : \\( (-10) + 4 \\)",
-    "reponses": ["\\(-6\\)", "\\(6\\)", "\\(-14\\)", "\\(14\\)"],
-    "bonne_reponse": "\\(-6\\)"
-  },
-  {
-    "id": 40013,
-    "classe": "4e",
-    "chapitres": ["Opérations sur les nombres relatifs"],
-    "question": "Calcule : \\( 7 + (-9) \\)",
-    "reponses": ["\\(16\\)", "\\(-16\\)", "\\(2\\)", "\\(-2\\)"],
-    "bonne_reponse": "\\(-2\\)"
-  },
-  {
-    "id": 40014,
-    "classe": "4e",
-    "chapitres": ["Opérations sur les nombres relatifs"],
-    "question": "Calcule : \\( (-8) - (-3) \\)",
-    "reponses": ["\\(-5\\)", "\\(5\\)", "\\(-11\\)", "\\(11\\)"],
-    "bonne_reponse": "\\(-5\\)"
-  },
-  {
-    "id": 40015,
-    "classe": "4e",
-    "chapitres": ["Opérations sur les nombres relatifs"],
-    "question": "Calcule : \\( 0 - (-12) \\)",
-    "reponses": ["\\(12\\)", "\\(-12\\)", "\\(0\\)", "\\(-24\\)"],
-    "bonne_reponse": "\\(12\\)"
-  },
-  {
-    "id": 40016,
-    "classe": "4e",
-    "chapitres": ["Opérations sur les nombres relatifs"],
-    "question": "Calcule : \\( (-4) + (-9) \\)",
-    "reponses": ["\\(-13\\)", "\\(13\\)", "\\(-5\\)", "\\(5\\)"],
-    "bonne_reponse": "\\(-13\\)"
-  },
-  {
-    "id": 40017,
-    "classe": "4e",
-    "chapitres": ["Opérations sur les nombres relatifs"],
-    "question": "Calcule : \\( (-2) \\times 9 \\)",
-    "reponses": ["\\(-18\\)", "\\(18\\)", "\\(7\\)", "\\(-7\\)"],
-    "bonne_reponse": "\\(-18\\)"
-  },
-  {
-    "id": 40018,
-    "classe": "4e",
-    "chapitres": ["Opérations sur les nombres relatifs"],
-    "question": "Calcule : \\( (-4) \\times (-3) \\)",
-    "reponses": ["\\(12\\)", "\\(-12\\)", "\\(7\\)", "\\(-7\\)"],
-    "bonne_reponse": "\\(12\\)"
-  },
-  {
-    "id": 40019,
-    "classe": "4e",
-    "chapitres": ["Opérations sur les nombres relatifs"],
-    "question": "Calcule : \\( 5 - 12 \\)",
-    "reponses": ["\\(17\\)", "\\(-17\\)", "\\(-7\\)", "\\(7\\)"],
-    "bonne_reponse": "\\(-7\\)"
-  },
-  {
-    "id": 40020,
-    "classe": "4e",
-    "chapitres": ["Opérations sur les nombres relatifs"],
-    "question": "Calcule : \\( 9 + (-15) \\)",
-    "reponses": ["\\(24\\)", "\\(-6\\)", "\\(6\\)", "\\(-24\\)"],
-    "bonne_reponse": "\\(-6\\)"
-  },
-    {
-    "id": 40021,
-    "classe": "4e",
-    "chapitres": ["Nombres rationnels"],
-    "question": "Écris sous forme décimale : \\( \\dfrac{1}{2} \\)",
-    "reponses": ["0,2", "0,25", "0,5", "0,75"],
-    "bonne_reponse": "0,5"
-  },
-  {
-    "id": 40022,
-    "classe": "4e",
-    "chapitres": ["Nombres rationnels"],
-    "question": "Écris sous forme décimale : \\( \\dfrac{3}{4} \\)",
-    "reponses": ["0,25", "0,5", "0,75", "1,25"],
-    "bonne_reponse": "0,75"
-  },
-  {
-    "id": 40023,
-    "classe": "4e",
-    "chapitres": ["Nombres rationnels"],
-    "question": "Quelle est la fraction égale à \\( \\dfrac{2}{5} \\) telle que \\( \\dfrac{2}{5} = \\dfrac{\\ldots}{10}\\) ?",
-    "reponses": ["\\( \\dfrac{2}{10} \\)", "\\( \\dfrac{4}{10} \\)", "\\( \\dfrac{5}{10} \\)", "\\( \\dfrac{8}{10} \\)"],
-    "bonne_reponse": "\\( \\dfrac{4}{10} \\)"
-  },
-  {
-    "id": 40024,
-    "classe": "4e",
-    "chapitres": ["Nombres rationnels"],
-    "question": "Simplifie \\( \\dfrac{12}{20} \\)",
-    "reponses": ["\\( \\dfrac{3}{4} \\)", "\\( \\dfrac{4}{5} \\)", "\\( \\dfrac{6}{10} \\)", "\\( \\dfrac{2}{3} \\)"],
-    "bonne_reponse": "\\( \\dfrac{3}{5} \\)"
-  },
-  {
-    "id": 40025,
-    "classe": "4e",
-    "chapitres": ["Nombres rationnels"],
-    "question": "Calcule : \\( \\dfrac{3}{4} + \\dfrac{1}{4} \\)",
-    "reponses": ["\\( \\dfrac{3}{8} \\)", "\\( \\dfrac{1}{2} \\)", "\\(1\\)", "\\( \\dfrac{5}{4} \\)"],
-    "bonne_reponse": "\\(1\\)"
-  },
-  {
-    "id": 40026,
-    "classe": "4e",
-    "chapitres": ["Nombres rationnels"],
-    "question": "Calcule : \\( \\dfrac{5}{6} - \\dfrac{1}{6} \\)",
-    "reponses": ["\\( \\dfrac{4}{6} \\)", "\\( \\dfrac{2}{3} \\)", "\\( \\dfrac{1}{3} \\)", "\\( \\dfrac{5}{3} \\)"],
-    "bonne_reponse": "\\( \\dfrac{2}{3} \\)"
-  },
-  {
-    "id": 40027,
-    "classe": "4e",
-    "chapitres": ["Nombres rationnels"],
-    "question": "Calcule : \\( \\dfrac{2}{3} \\times \\dfrac{3}{5} \\)",
-    "reponses": ["\\( \\dfrac{1}{5} \\)", "\\( \\dfrac{2}{5} \\)", "\\( \\dfrac{3}{8} \\)", "\\( \\dfrac{2}{9} \\)"],
-    "bonne_reponse": "\\( \\dfrac{2}{5} \\)"
-  },
-  {
-    "id": 40028,
-    "classe": "4e",
-    "chapitres": ["Nombres rationnels"],
-    "question": "Calcule : \\( \\dfrac{4}{7} \\div \\dfrac{2}{7} \\)",
-    "reponses": ["\\(1\\)", "\\(2\\)", "\\(4\\)", "\\( \\dfrac{1}{2} \\)"],
-    "bonne_reponse": "\\(2\\)"
-  },
-  {
-    "id": 40029,
-    "classe": "4e",
-    "chapitres": ["Nombres rationnels"],
-    "question": "Compare : \\( \\dfrac{3}{5} \\) et \\( \\dfrac{4}{7} \\)",
-    "reponses": ["\\( \\dfrac{3}{5} < \\dfrac{4}{7} \\)", "\\( \\dfrac{3}{5} > \\dfrac{4}{7} \\)", "égales", "aucune"],
-    "bonne_reponse": "\\( \\dfrac{3}{5} > \\dfrac{4}{7} \\)"
-  },
-  {
-    "id": 40030,
-    "classe": "4e",
-    "chapitres": ["Nombres rationnels"],
-    "question": "Calcule : \\( 1 - \\dfrac{3}{8} \\)",
-    "reponses": ["\\( \\dfrac{3}{8} \\)", "\\( \\dfrac{5}{8} \\)", "\\( \\dfrac{7}{8} \\)", "\\( \\dfrac{9}{8} \\)"],
-    "bonne_reponse": "\\( \\dfrac{5}{8} \\)"
-  },
-  {
-    "id": 40031,
-    "classe": "4e",
-    "chapitres": ["Nombres rationnels"],
-    "question": "Quel est le nombre décimal égal à \\( \\dfrac{1}{4} \\) ?",
-    "reponses": ["0,4", "0,25", "0,5", "0,75"],
-    "bonne_reponse": "0,25"
-  },
-  {
-    "id": 40032,
-    "classe": "4e",
-    "chapitres": ["Nombres rationnels"],
-    "question": "Écris \\(2,75\\) sous forme de fraction irréductible.",
-    "reponses": ["\\( \\dfrac{11}{4} \\)", "\\( \\dfrac{27}{10} \\)", "\\( \\dfrac{3}{2} \\)", "\\( \\dfrac{7}{4} \\)"],
-    "bonne_reponse": "\\( \\dfrac{11}{4} \\)"
-  },
-  {
-    "id": 40033,
-    "classe": "4e",
-    "chapitres": ["Nombres rationnels"],
-    "question": "Calcule : \\( \\dfrac{7}{3} - 1 \\)",
-    "reponses": ["\\( \\dfrac{4}{3} \\)", "\\( \\dfrac{2}{3} \\)", "\\( \\dfrac{5}{3} \\)", "\\( \\dfrac{1}{3} \\)"],
-    "bonne_reponse": "\\( \\dfrac{4}{3} \\)"
-  },
-  {
-    "id": 40034,
-    "classe": "4e",
-    "chapitres": ["Nombres rationnels"],
-    "question": "Calcule : \\( 2 + \\dfrac{3}{5} \\)",
-    "reponses": ["\\( \\dfrac{7}{5} \\)", "\\( \\dfrac{8}{5} \\)", "\\( \\dfrac{13}{5} \\)", "\\( \\dfrac{10}{5} \\)"],
-    "bonne_reponse": "\\( \\dfrac{13}{5} \\)"
-  },
-  {
-    "id": 40035,
-    "classe": "4e",
-    "chapitres": ["Nombres rationnels"],
-    "question": "Calcule : \\( \\dfrac{5}{2} \\times \\dfrac{3}{10} \\)",
-    "reponses": ["\\( \\dfrac{15}{20} \\)", "\\( \\dfrac{15}{25} \\)", "\\( \\dfrac{3}{4} \\)", "\\( \\dfrac{3}{2} \\)"],
-    "bonne_reponse": "\\( \\dfrac{3}{4} \\)"
-  },
-  {
-    "id": 40036,
-    "classe": "4e",
-    "chapitres": ["Nombres rationnels"],
-    "question": "Calcule : \\( \\dfrac{2}{9} \\div \\dfrac{4}{3} \\)",
-    "reponses": ["\\( \\dfrac{6}{9} \\)", "\\( \\dfrac{3}{18} \\)", "\\( \\dfrac{1}{6} \\)", "\\( \\dfrac{3}{8} \\)"],
-    "bonne_reponse": "\\( \\dfrac{1}{6} \\)"
-  },
-  {
-    "id": 40037,
-    "classe": "4e",
-    "chapitres": ["Nombres rationnels"],
-    "question": "Complète : \\( \\dfrac{a}{b} \\) est un nombre rationnel si ...",
-    "reponses": [
-      "a et b sont des entiers, b ≠ 0",
-      "a et b sont des réels",
-      "a est un entier, b = 0",
-      "a et b sont des fractions"
-    ],
-    "bonne_reponse": "a et b sont des entiers, b ≠ 0"
-  },
-  {
-    "id": 40038,
-    "classe": "4e",
-    "chapitres": ["Nombres rationnels"],
-    "question": "Lequel de ces nombres n’est pas rationnel ?",
-    "reponses": ["\\( \\dfrac{2}{5} \\)", "\\( 0,75 \\)", "\\( \\sqrt{2} \\)", "\\( -3 \\)"],
-    "bonne_reponse": "\\( \\sqrt{2} \\)"
-  },
-  {
-    "id": 40039,
-    "classe": "4e",
-    "chapitres": ["Nombres rationnels"],
-    "question": "Calcule : \\( \\dfrac{7}{8} + \\dfrac{1}{8} \\)",
-    "reponses": ["\\( \\dfrac{8}{8} \\)", "\\( \\dfrac{9}{8} \\)", "\\(1\\)", "\\( \\dfrac{7}{9} \\)"],
-    "bonne_reponse": "\\(1\\)"
-  },
-  {
-    "id": 40040,
-    "classe": "4e",
-    "chapitres": ["Nombres rationnels"],
-    "question": "Simplifie \\( \\dfrac{15}{45} \\)",
-    "reponses": ["\\( \\dfrac{1}{2} \\)", "\\( \\dfrac{1}{3} \\)", "\\( \\dfrac{2}{3} \\)", "\\( \\dfrac{3}{4} \\)"],
-    "bonne_reponse": "\\( \\dfrac{1}{3} \\)"
-  },
-   {
-    "id": 40041,
-    "classe": "4e",
-    "chapitres": ["Puissances"],
-    "question": "Calcule : \\( 2^3 \\)",
-    "reponses": ["6", "8", "9", "12"],
-    "bonne_reponse": "8"
-  },
-  {
-    "id": 40042,
-    "classe": "4e",
-    "chapitres": ["Puissances"],
-    "question": "Calcule : \\( (-3)^2 \\)",
-    "reponses": ["-9", "9", "6", "3"],
-    "bonne_reponse": "9"
-  },
-  {
-    "id": 40043,
-    "classe": "4e",
-    "chapitres": ["Puissances"],
-    "question": "Calcule : \\( (-2)^3 \\)",
-    "reponses": ["8", "-8", "6", "-6"],
-    "bonne_reponse": "-8"
-  },
-  {
-    "id": 40044,
-    "classe": "4e",
-    "chapitres": ["Puissances"],
-    "question": "Simplifie : \\( 10^3 \\times 10^2 \\)",
-    "reponses": ["\\(10^5\\)", "\\(10^6\\)", "\\(10^1\\)", "\\(10^4\\)"],
-    "bonne_reponse": "\\(10^5\\)"
-  },
-  {
-    "id": 40045,
-    "classe": "4e",
-    "chapitres": ["Puissances"],
-    "question": "Simplifie : \\( 10^6 \\div 10^2 \\)",
-    "reponses": ["\\(10^3\\)", "\\(10^4\\)", "\\(10^8\\)", "\\(10^2\\)"],
-    "bonne_reponse": "\\(10^4\\)"
-  },
-  {
-    "id": 40046,
-    "classe": "4e",
-    "chapitres": ["Puissances"],
-    "question": "Calcule : \\( 5^0 \\)",
-    "reponses": ["0", "1", "5", "10"],
-    "bonne_reponse": "1"
-  },
-  {
-    "id": 40047,
-    "classe": "4e",
-    "chapitres": ["Puissances"],
-    "question": "Simplifie : \\( (3^2)^3 \\)",
-    "reponses": ["\\(3^5\\)", "\\(3^6\\)", "\\(3^9\\)", "\\(3^8\\)"],
-    "bonne_reponse": "\\(3^6\\)"
-  },
-  {
-    "id": 40048,
-    "classe": "4e",
-    "chapitres": ["Puissances"],
-    "question": "Simplifie : \\( (2^4) \\times (2^5) \\)",
-    "reponses": ["\\(2^9\\)", "\\(2^20\\)", "\\(2^1\\)", "\\(2^10\\)"],
-    "bonne_reponse": "\\(2^9\\)"
-  },
-  {
-    "id": 40049,
-    "classe": "4e",
-    "chapitres": ["Puissances"],
-    "question": "Calcule : \\( 4^{-2} \\)",
-    "reponses": ["\\(\\dfrac{1}{8}\\)", "\\(\\dfrac{1}{4}\\)", "\\(\\dfrac{1}{16}\\)", "\\(16\\)"],
-    "bonne_reponse": "\\(\\dfrac{1}{16}\\)"
-  },
-  {
-    "id": 40050,
-    "classe": "4e",
-    "chapitres": ["Puissances"],
-    "question": "Simplifie : \\( 10^{-3} \\)",
-    "reponses": ["0,003", "0,03", "0,3", "3"],
-    "bonne_reponse": "0,001"
-  },
-  {
-    "id": 40051,
-    "classe": "4e",
-    "chapitres": ["Puissances"],
-    "question": "Calcule : \\( (-1)^5 \\)",
-    "reponses": ["-1", "1", "0", "5"],
-    "bonne_reponse": "-1"
-  },
-  {
-    "id": 40052,
-    "classe": "4e",
-    "chapitres": ["Puissances"],
-    "question": "Simplifie : \\( \\dfrac{10^7}{10^5} \\)",
-    "reponses": ["\\(10^2\\)", "\\(10^{12}\\)", "\\(10^3\\)", "\\(10^5\\)"],
-    "bonne_reponse": "\\(10^2\\)"
-  },
-  {
-    "id": 40053,
-    "classe": "4e",
-    "chapitres": ["Puissances"],
-    "question": "Calcule : \\( 2^{-3} \\)",
-    "reponses": ["\\(\\dfrac{1}{8}\\)", "\\(8\\)", "\\(\\dfrac{1}{2}\\)", "\\(\\dfrac{1}{6}\\)"],
-    "bonne_reponse": "\\(\\dfrac{1}{8}\\)"
-  },
-  {
-    "id": 40054,
-    "classe": "4e",
-    "chapitres": ["Puissances"],
-    "question": "Simplifie : \\( (10^2)^4 \\)",
-    "reponses": ["\\(10^8\\)", "\\(10^6\\)", "\\(10^4\\)", "\\(10^10\\)"],
-    "bonne_reponse": "\\(10^8\\)"
-  },
-  {
-    "id": 40055,
-    "classe": "4e",
-    "chapitres": ["Puissances"],
-    "question": "Calcule : \\( 3^4 \\times 3^{-2} \\)",
-    "reponses": ["\\(3^6\\)", "\\(3^2\\)", "\\(3^8\\)", "\\(3^1\\)"],
-    "bonne_reponse": "\\(3^2\\)"
-  },
-  {
-    "id": 40056,
-    "classe": "4e",
-    "chapitres": ["Puissances"],
-    "question": "Simplifie : \\( (a^5) \\div (a^2) \\)",
-    "reponses": ["\\(a^7\\)", "\\(a^3\\)", "\\(a^2\\)", "\\(a^{-3}\\)"],
-    "bonne_reponse": "\\(a^3\\)"
-  },
-  {
-    "id": 40057,
-    "classe": "4e",
-    "chapitres": ["Puissances"],
-    "question": "Simplifie : \\( a^3 \\times a^{-5} \\)",
-    "reponses": ["\\(a^2\\)", "\\(a^{-2}\\)", "\\(a^8\\)", "\\(a^{-8}\\)"],
-    "bonne_reponse": "\\(a^{-2}\\)"
-  },
-  {
-    "id": 40058,
-    "classe": "4e",
-    "chapitres": ["Puissances"],
-    "question": "Calcule : \\( (-2)^4 \\)",
-    "reponses": ["-16", "16", "-8", "8"],
-    "bonne_reponse": "16"
-  },
-  {
-    "id": 40059,
-    "classe": "4e",
-    "chapitres": ["Puissances"],
-    "question": "Simplifie : \\( \\dfrac{1}{10^3} \\)",
-    "reponses": ["0,001", "0,0001", "0,01", "0,1"],
-    "bonne_reponse": "0,001"
-  },
-  {
-    "id": 40060,
-    "classe": "4e",
-    "chapitres": ["Puissances"],
-    "question": "Quelle est la valeur de \\( 10^{-2} \\) ?",
-    "reponses": ["0,1", "0,01", "0,001", "0,0001"],
-    "bonne_reponse": "0,01"
-  },
-    {
-    "id": 40061,
-    "classe": "4e",
-    "chapitres": ["Racine carrée"],
-    "question": "Quelle est la racine carrée de \\(9\\) ?",
-    "reponses": ["1", "2", "3", "9"],
-    "bonne_reponse": "3"
-  },
-  {
-    "id": 40062,
-    "classe": "4e",
-    "chapitres": ["Racine carrée"],
-    "question": "Quelle est la racine carrée de \\(16\\) ?",
-    "reponses": ["2", "3", "4", "5"],
-    "bonne_reponse": "4"
-  },
-  {
-    "id": 40063,
-    "classe": "4e",
-    "chapitres": ["Racine carrée"],
-    "question": "Calcule : \\( \\sqrt{25} \\)",
-    "reponses": ["4", "5", "6", "7"],
-    "bonne_reponse": "5"
-  },
-  {
-    "id": 40064,
-    "classe": "4e",
-    "chapitres": ["Racine carrée"],
-    "question": "Calcule : \\( \\sqrt{49} \\)",
-    "reponses": ["6", "7", "8", "9"],
-    "bonne_reponse": "7"
-  },
-  {
-    "id": 40065,
-    "classe": "4e",
-    "chapitres": ["Racine carrée"],
-    "question": "Quel est le carré de \\( \\sqrt{5} \\) ?",
-    "reponses": ["1", "5", "10", "25"],
-    "bonne_reponse": "5"
-  },
-  {
-    "id": 40066,
-    "classe": "4e",
-    "chapitres": ["Racine carrée"],
-    "question": "Calcule : \\( \\sqrt{100} \\)",
-    "reponses": ["10", "20", "5", "50"],
-    "bonne_reponse": "10"
-  },
-  {
-    "id": 40067,
-    "classe": "4e",
-    "chapitres": ["Racine carrée"],
-    "question": "Simplifie : \\( \\sqrt{36} \\times \\sqrt{4} \\)",
-    "reponses": ["12", "24", "6", "8"],
-    "bonne_reponse": "12"
-  },
-  {
-    "id": 40068,
-    "classe": "4e",
-    "chapitres": ["Racine carrée"],
-    "question": "Simplifie : \\( \\sqrt{9} \\times \\sqrt{16} \\)",
-    "reponses": ["9", "12", "24", "48"],
-    "bonne_reponse": "12"
-  },
-  {
-    "id": 40069,
-    "classe": "4e",
-    "chapitres": ["Racine carrée"],
-    "question": "Simplifie : \\( \\sqrt{81} \\div \\sqrt{9} \\)",
-    "reponses": ["1", "2", "3", "9"],
-    "bonne_reponse": "3"
-  },
-  {
-    "id": 40070,
-    "classe": "4e",
-    "chapitres": ["Racine carrée"],
-    "question": "Quelle est la racine carrée de \\(121\\) ?",
-    "reponses": ["10", "11", "12", "13"],
-    "bonne_reponse": "11"
-  },
-  {
-    "id": 40071,
-    "classe": "4e",
-    "chapitres": ["Racine carrée"],
-    "question": "Quelle est la racine carrée de \\(64\\) ?",
-    "reponses": ["6", "7", "8", "9"],
-    "bonne_reponse": "8"
-  },
-  {
-    "id": 40072,
-    "classe": "4e",
-    "chapitres": ["Racine carrée"],
-    "question": "Calcule : \\( \\sqrt{4} + \\sqrt{9} \\)",
-    "reponses": ["5", "6", "7", "8"],
-    "bonne_reponse": "5"
-  },
-  {
-    "id": 40073,
-    "classe": "4e",
-    "chapitres": ["Racine carrée"],
-    "question": "Calcule : \\( (\\sqrt{3})^2 \\)",
-    "reponses": ["3", "6", "9", "1"],
-    "bonne_reponse": "3"
-  },
-  {
-    "id": 40074,
-    "classe": "4e",
-    "chapitres": ["Racine carrée"],
-    "question": "Simplifie : \\( \\sqrt{50} \\)",
-    "reponses": ["\\(5\\sqrt{2}\\)", "\\(25\\)", "\\(10\\)", "\\(7\\)"],
-    "bonne_reponse": "\\(5\\sqrt{2}\\)"
-  },
-  {
-    "id": 40075,
-    "classe": "4e",
-    "chapitres": ["Racine carrée"],
-    "question": "Simplifie : \\( \\sqrt{18} \\)",
-    "reponses": ["\\(3\\sqrt{2}\\)", "\\(6\\)", "\\(2\\sqrt{3}\\)", "\\(\\sqrt{9}\\)"],
-    "bonne_reponse": "\\(3\\sqrt{2}\\)"
-  },
-  {
-    "id": 40076,
-    "classe": "4e",
-    "chapitres": ["Racine carrée"],
-    "question": "Quel est le résultat de \\( \\sqrt{81} - \\sqrt{16} \\) ?",
-    "reponses": ["5", "4", "3", "2"],
-    "bonne_reponse": "5"
-  },
-  {
-    "id": 40077,
-    "classe": "4e",
-    "chapitres": ["Racine carrée"],
-    "question": "Quelle est la racine carrée de \\(0,49\\) ?",
-    "reponses": ["0,07", "0,7", "0,14", "0,5"],
-    "bonne_reponse": "0,7"
-  },
-  {
-    "id": 40078,
-    "classe": "4e",
-    "chapitres": ["Racine carrée"],
-    "question": "Complète : \\( \\sqrt{a \\times b} = \\ ? \\)",
-    "reponses": ["\\(\\sqrt{a} + \\sqrt{b}\\)", "\\(\\sqrt{a} \\times \\sqrt{b}\\)", "\\(\\sqrt{a+b}\\)", "\\(\\sqrt{a-b}\\)"],
-    "bonne_reponse": "\\(\\sqrt{a} \\times \\sqrt{b}\\)"
-  },
-  {
-    "id": 40079,
-    "classe": "4e",
-    "chapitres": ["Racine carrée"],
-    "question": "Calcule : \\( \\sqrt{0,09} \\)",
-    "reponses": ["0,3", "0,09", "0,9", "0,03"],
-    "bonne_reponse": "0,3"
-  },
-  {
-    "id": 40080,
-    "classe": "4e",
-    "chapitres": ["Racine carrée"],
-    "question": "Calcule : \\( \\sqrt{1} + \\sqrt{4} + \\sqrt{9} \\)",
-    "reponses": ["6", "7", "8", "9"],
-    "bonne_reponse": "6"
-  },
-    {
-    "id": 40081,
-    "classe": "4e",
-    "chapitres": ["Calcul littéral"],
-    "question": "Réduis : \\( 3x + 5x \\)",
-    "reponses": ["\\(8x\\)", "\\(15x\\)", "\\(2x\\)", "\\(x^2\\)"],
-    "bonne_reponse": "\\(8x\\)"
-  },
-  {
-    "id": 40082,
-    "classe": "4e",
-    "chapitres": ["Calcul littéral"],
-    "question": "Réduis : \\( 7a - 3a \\)",
-    "reponses": ["\\(4a\\)", "\\(10a\\)", "\\(a^4\\)", "\\(a\\)"],
-    "bonne_reponse": "\\(4a\\)"
-  },
-  {
-    "id": 40083,
-    "classe": "4e",
-    "chapitres": ["Calcul littéral"],
-    "question": "Développe : \\( 2(x + 3) \\)",
-    "reponses": ["\\(2x + 3\\)", "\\(2x + 6\\)", "\\(x + 5\\)", "\\(5x\\)"],
-    "bonne_reponse": "\\(2x + 6\\)"
-  },
-  {
-    "id": 40084,
-    "classe": "4e",
-    "chapitres": ["Calcul littéral"],
-    "question": "Développe : \\( 3(a - 4) \\)",
-    "reponses": ["\\(3a - 4\\)", "\\(3a - 12\\)", "\\(a - 1\\)", "\\(12 - 3a\\)"],
-    "bonne_reponse": "\\(3a - 12\\)"
-  },
-  {
-    "id": 40085,
-    "classe": "4e",
-    "chapitres": ["Calcul littéral"],
-    "question": "Développe : \\( (x + 2)^2 \\)",
-    "reponses": ["\\(x^2 + 2\\)", "\\(x^2 + 4x + 4\\)", "\\(x^2 + 2x + 2\\)", "\\(x^2 + 4\\)"],
-    "bonne_reponse": "\\(x^2 + 4x + 4\\)"
-  },
-  {
-    "id": 40086,
-    "classe": "4e",
-    "chapitres": ["Calcul littéral"],
-    "question": "Développe : \\( (x - 3)^2 \\)",
-    "reponses": ["\\(x^2 - 3x + 9\\)", "\\(x^2 - 6x + 9\\)", "\\(x^2 - 9x + 3\\)", "\\(x^2 - 6x - 9\\)"],
-    "bonne_reponse": "\\(x^2 - 6x + 9\\)"
-  },
-  {
-    "id": 40087,
-    "classe": "4e",
-    "chapitres": ["Calcul littéral"],
-    "question": "Développe : \\( (x + 5)(x + 2) \\)",
-    "reponses": ["\\(x^2 + 7x + 10\\)", "\\(x^2 + 5x + 2\\)", "\\(x^2 + 10x + 7\\)", "\\(x^2 + 12x + 7\\)"],
-    "bonne_reponse": "\\(x^2 + 7x + 10\\)"
-  },
-  {
-    "id": 40088,
-    "classe": "4e",
-    "chapitres": ["Calcul littéral"],
-    "question": "Développe : \\( (2x + 3)(x - 1) \\)",
-    "reponses": ["\\(2x^2 + x - 3\\)", "\\(2x^2 + x + 3\\)", "\\(2x^2 - x - 3\\)", "\\(x^2 + 3x - 1\\)"],
-    "bonne_reponse": "\\(2x^2 + x - 3\\)"
-  },
-  {
-    "id": 40089,
-    "classe": "4e",
-    "chapitres": ["Calcul littéral"],
-    "question": "Factorise : \\( 3x + 6 \\)",
-    "reponses": ["\\(3(x + 2)\\)", "\\(x(3 + 6)\\)", "\\(6(x + 1)\\)", "\\(3x(2)\\)"],
-    "bonne_reponse": "\\(3(x + 2)\\)"
-  },
-  {
-    "id": 40090,
-    "classe": "4e",
-    "chapitres": ["Calcul littéral"],
-    "question": "Factorise : \\( 5a - 15 \\)",
-    "reponses": ["\\(5(a - 3)\\)", "\\(15(a - 1)\\)", "\\(3(a - 5)\\)", "\\(a(5 - 3)\\)"],
-    "bonne_reponse": "\\(5(a - 3)\\)"
-  },
-  {
-    "id": 40091,
-    "classe": "4e",
-    "chapitres": ["Calcul littéral"],
-    "question": "Réduis : \\( 4x + 2 - 3x + 5 \\)",
-    "reponses": ["\\(x + 7\\)", "\\(x + 3\\)", "\\(7x\\)", "\\(x - 3\\)"],
-    "bonne_reponse": "\\(x + 7\\)"
-  },
-  {
-    "id": 40092,
-    "classe": "4e",
-    "chapitres": ["Calcul littéral"],
-    "question": "Développe : \\( -2(x - 4) \\)",
-    "reponses": ["\\(-2x - 8\\)", "\\(-2x + 8\\)", "\\(2x + 8\\)", "\\(2x - 8\\)"],
-    "bonne_reponse": "\\(-2x + 8\\)"
-  },
-  {
-    "id": 40093,
-    "classe": "4e",
-    "chapitres": ["Calcul littéral"],
-    "question": "Développe : \\( (x + 1)(x - 1) \\)",
-    "reponses": ["\\(x^2 - 1\\)", "\\(x^2 + 1\\)", "\\(x^2 + x - 1\\)", "\\(x^2 - x - 1\\)"],
-    "bonne_reponse": "\\(x^2 - 1\\)"
-  },
-  {
-    "id": 40094,
-    "classe": "4e",
-    "chapitres": ["Calcul littéral"],
-    "question": "Simplifie : \\( 4x + 7x - 2x \\)",
-    "reponses": ["\\(9x\\)", "\\(10x\\)", "\\(7x\\)", "\\(8x\\)"],
-    "bonne_reponse": "\\(9x\\)"
-  },
-  {
-    "id": 40095,
-    "classe": "4e",
-    "chapitres": ["Calcul littéral"],
-    "question": "Développe : \\( (3x + 1)^2 \\)",
-    "reponses": ["\\(9x^2 + 6x + 1\\)", "\\(3x^2 + 6x + 1\\)", "\\(9x^2 + 1\\)", "\\(3x^2 + 1\\)"],
-    "bonne_reponse": "\\(9x^2 + 6x + 1\\)"
-  },
-  {
-    "id": 40096,
-    "classe": "4e",
-    "chapitres": ["Calcul littéral"],
-    "question": "Factorise : \\( x^2 - 9 \\)",
-    "reponses": ["\\((x - 3)(x + 3)\\)", "\\((x - 9)(x + 1)\\)", "\\((x - 3)^2\\)", "\\((x + 3)^2\\)"],
-    "bonne_reponse": "\\((x - 3)(x + 3)\\)"
-  },
-  {
-    "id": 40097,
-    "classe": "4e",
-    "chapitres": ["Calcul littéral"],
-    "question": "Réduis : \\( 5x - 2x + 3x \\)",
-    "reponses": ["\\(10x\\)", "\\(6x\\)", "\\(7x\\)", "\\(8x\\)"],
-    "bonne_reponse": "\\(6x\\)"
-  },
-  {
-    "id": 40098,
-    "classe": "4e",
-    "chapitres": ["Calcul littéral"],
-    "question": "Simplifie : \\( 2(a + b) - (a - b) \\)",
-    "reponses": ["\\(a + 3b\\)", "\\(a - 3b\\)", "\\(b\\)", "\\(3a + b\\)"],
-    "bonne_reponse": "\\(a + 3b\\)"
-  },
-  {
-    "id": 40099,
-    "classe": "4e",
-    "chapitres": ["Calcul littéral"],
-    "question": "Développe : \\( 4x(x - 2) \\)",
-    "reponses": ["\\(4x^2 - 8x\\)", "\\(4x^2 + 8x\\)", "\\(8x - 4x^2\\)", "\\(x^2 - 8x\\)"],
-    "bonne_reponse": "\\(4x^2 - 8x\\)"
-  },
-  {
-    "id": 40100,
-    "classe": "4e",
-    "chapitres": ["Calcul littéral"],
-    "question": "Factorise : \\( 2x^2 + 6x \\)",
-    "reponses": ["\\(2x(x + 3)\\)", "\\(x(2x + 6)\\)", "\\(2(x + 3)\\)", "\\(6x(x + 2)\\)"],
-    "bonne_reponse": "\\(2x(x + 3)\\)"
+    "chapitres": ["Calcul", "Tables de multiplication"],
+    "question": "\\(9 \\times \\ldots = 81\\)",
+    "reponses": ["\\(7\\)", "\\(8\\)", "\\(9\\)", "\\(10\\)"],
+    "bonne_reponse": "\\(9\\)"
   },  
   {
-    "id": 40101,
-    "classe": "4e",
-    "chapitres": ["Statistiques"],
-    "question": "On a les notes : 8 ; 10 ; 12 ; 14. Quelle est la moyenne ?",
-    "reponses": ["10", "11", "12", "13"],
-    "bonne_reponse": "11"
+    "id": 60041,
+    "classe": "6e",
+    "chapitres": ["Nombres", "Fractions décimales"],
+    "question": "Convertir le nombre décimal \\(0,3\\) en fraction décimale.",
+    "reponses": ["\\(\\dfrac{3}{10}\\)", "\\(\\dfrac{30}{100}\\)", "\\(\\dfrac{3}{100}\\)", "\\(\\dfrac{13}{10}\\)"],
+    "bonne_reponse": "\\(\\dfrac{3}{10}\\)"
   },
   {
-    "id": 40102,
-    "classe": "4e",
-    "chapitres": ["Statistiques"],
-    "question": "On a les valeurs : 2 ; 5 ; 8 ; 10. Quelle est l’étendue ?",
-    "reponses": ["2", "5", "8", "8"],
-    "bonne_reponse": "8"
+    "id": 60042,
+    "classe": "6e",
+    "chapitres": ["Nombres", "Fractions décimales"],
+    "question": "Convertir le nombre décimal \\(0,45\\) en fraction décimale.",
+    "reponses": ["\\(\\dfrac{45}{10}\\)", "\\(\\dfrac{45}{100}\\)", "\\(\\dfrac{9}{20}\\)", "\\(\\dfrac{450}{1000}\\)"],
+    "bonne_reponse": "\\(\\dfrac{45}{100}\\)"
   },
   {
-    "id": 40103,
-    "classe": "4e",
-    "chapitres": ["Statistiques"],
-    "question": "La médiane sépare la série en ...",
-    "reponses": ["deux moitiés égales", "trois tiers", "quartiles", "deux groupes inégaux"],
-    "bonne_reponse": "deux moitiés égales"
+    "id": 60043,
+    "classe": "6e",
+    "chapitres": ["Nombres", "Fractions décimales"],
+    "question": "Convertir le nombre décimal \\(1,2\\) en fraction décimale.",
+    "reponses": ["\\(\\dfrac{12}{100}\\)", "\\(\\dfrac{6}{5}\\)", "\\(\\dfrac{12}{10}\\)", "\\(\\dfrac{120}{1000}\\)"],
+    "bonne_reponse": "\\(\\dfrac{12}{10}\\)"
   },
   {
-    "id": 40104,
-    "classe": "4e",
-    "chapitres": ["Statistiques"],
-    "question": "Calcule la moyenne : 5 ; 10 ; 15.",
-    "reponses": ["9", "10", "11", "12"],
-    "bonne_reponse": "10"
+    "id": 60044,
+    "classe": "6e",
+    "chapitres": ["Nombres", "Fractions décimales"],
+    "question": "Convertir le nombre décimal \\(0,08\\) en fraction décimale.",
+    "reponses": ["\\(\\dfrac{8}{10}\\)", "\\(\\dfrac{8}{100}\\)", "\\(\\dfrac{80}{1000}\\)", "\\(\\dfrac{8}{1000}\\)"],
+    "bonne_reponse": "\\(\\dfrac{8}{100}\\)"
   },
   {
-    "id": 40105,
-    "classe": "4e",
-    "chapitres": ["Statistiques"],
-    "question": "Quelle est la moyenne des valeurs 4 ; 4 ; 5 ; 7 ; 10 ?",
-    "reponses": ["5", "6", "7", "8"],
-    "bonne_reponse": "6"
+    "id": 60045,
+    "classe": "6e",
+    "chapitres": ["Nombres", "Fractions décimales"],
+    "question": "Convertir le nombre décimal \\(2,5\\) en fraction décimale.",
+    "reponses": ["\\(\\dfrac{25}{100}\\)", "\\(\\dfrac{5}{2}\\)", "\\(\\dfrac{25}{10}\\)", "\\(\\dfrac{250}{1000}\\)"],
+    "bonne_reponse": "\\(\\dfrac{25}{10}\\)"
   },
   {
-    "id": 40106,
-    "classe": "4e",
-    "chapitres": ["Statistiques"],
-    "question": "Quelle est la médiane de la série : 1 ; 2 ; 3 ; 4 ; 5 ?",
-    "reponses": ["2", "3", "4", "5"],
-    "bonne_reponse": "3"
+    "id": 60046,
+    "classe": "6e",
+    "chapitres": ["Nombres", "Fractions décimales"],
+    "question": "Convertir le nombre décimal \\(0,6\\) en fraction décimale.",
+    "reponses": ["\\(\\dfrac{6}{100}\\)", "\\(\\dfrac{60}{100}\\)", "\\(\\dfrac{6}{10}\\)", "\\(\\dfrac{3}{5}\\)"],
+    "bonne_reponse": "\\(\\dfrac{6}{10}\\)"
   },
   {
-    "id": 40107,
-    "classe": "4e",
-    "chapitres": ["Statistiques"],
-    "question": "Quelle est l’étendue de la série : 7 ; 12 ; 15 ; 19 ?",
-    "reponses": ["8", "10", "12", "15"],
-    "bonne_reponse": "12"
+    "id": 60047,
+    "classe": "6e",
+    "chapitres": ["Nombres", "Fractions décimales"],
+    "question": "Convertir le nombre décimal \\(3,04\\) en fraction décimale.",
+    "reponses": ["\\(\\dfrac{304}{100}\\)", "\\(\\dfrac{34}{100}\\)", "\\(\\dfrac{304}{1000}\\)", "\\(\\dfrac{3}{4}\\)"],
+    "bonne_reponse": "\\(\\dfrac{304}{100}\\)"
   },
   {
-    "id": 40108,
-    "classe": "4e",
-    "chapitres": ["Statistiques"],
-    "question": "Dans une classe, 12 élèves sur 24 sont des filles. Quelle est la fréquence des filles ?",
-    "reponses": ["0,4", "0,5", "0,6", "0,7"],
-    "bonne_reponse": "0,5"
+    "id": 60048,
+    "classe": "6e",
+    "chapitres": ["Nombres", "Fractions décimales"],
+    "question": "Convertir le nombre décimal \\(0,125\\) en fraction décimale.",
+    "reponses": ["\\(\\dfrac{125}{1000}\\)", "\\(\\dfrac{125}{100}\\)", "\\(\\dfrac{1}{8}\\)", "\\(\\dfrac{12,5}{100}\\)"],
+    "bonne_reponse": "\\(\\dfrac{125}{1000}\\)"
   },
   {
-    "id": 40109,
-    "classe": "4e",
-    "chapitres": ["Statistiques"],
-    "question": "Une valeur qui apparaît le plus souvent dans une série est ...",
-    "reponses": ["la moyenne", "la médiane", "le mode", "l’étendue"],
-    "bonne_reponse": "le mode"
+    "id": 60049,
+    "classe": "6e",
+    "chapitres": ["Nombres", "Fractions décimales"],
+    "question": "Convertir le nombre décimal \\(4,7\\) en fraction décimale.",
+    "reponses": ["\\(\\dfrac{47}{100}\\)", "\\(\\dfrac{470}{100}\\)", "\\(\\dfrac{47}{10}\\)", "\\(\\dfrac{4}{7}\\)"],
+    "bonne_reponse": "\\(\\dfrac{47}{10}\\)"
   },
   {
-    "id": 40110,
-    "classe": "4e",
-    "chapitres": ["Statistiques"],
-    "question": "Dans la série : 2 ; 4 ; 4 ; 6 ; 10, quel est le mode ?",
-    "reponses": ["2", "4", "6", "10"],
-    "bonne_reponse": "4"
+    "id": 60050,
+    "classe": "6e",
+    "chapitres": ["Nombres", "Fractions décimales"],
+    "question": "Convertir le nombre décimal \\(0,09\\) en fraction décimale.",
+    "reponses": ["\\(\\dfrac{9}{10}\\)", "\\(\\dfrac{9}{100}\\)", "\\(\\dfrac{90}{1000}\\)", "\\(\\dfrac{1}{11}\\)"],
+    "bonne_reponse": "\\(\\dfrac{9}{100}\\)"
   },
   {
-    "id": 40111,
-    "classe": "4e",
-    "chapitres": ["Statistiques"],
-    "question": "L’étendue mesure ...",
-    "reponses": [
-      "la valeur la plus fréquente",
-      "la dispersion de la série",
-      "la moyenne",
-      "la somme des valeurs"
-    ],
-    "bonne_reponse": "la dispersion de la série"
+    "id": 60051,
+    "classe": "6e",
+    "chapitres": ["Nombres", "Fractions décimales"],
+    "question": "Convertir le nombre décimal \\(1,75\\) en fraction décimale.",
+    "reponses": ["\\(\\dfrac{175}{100}\\)", "\\(\\dfrac{7}{4}\\)", "\\(\\dfrac{17,5}{10}\\)", "\\(\\dfrac{175}{1000}\\)"],
+    "bonne_reponse": "\\(\\dfrac{175}{100}\\)"
   },
   {
-    "id": 40112,
-    "classe": "4e",
-    "chapitres": ["Statistiques"],
-    "question": "Une fréquence est toujours ...",
-    "reponses": ["négative", "supérieure à 1", "comprise entre 0 et 1", "un entier"],
-    "bonne_reponse": "comprise entre 0 et 1"
+    "id": 60052,
+    "classe": "6e",
+    "chapitres": ["Nombres", "Fractions décimales"],
+    "question": "Convertir le nombre décimal \\(0,4\\) en fraction décimale.",
+    "reponses": ["\\(\\dfrac{2}{5}\\)", "\\(\\dfrac{4}{100}\\)", "\\(\\dfrac{40}{100}\\)", "\\(\\dfrac{4}{10}\\)"],
+    "bonne_reponse": "\\(\\dfrac{4}{10}\\)"
   },
   {
-    "id": 40113,
-    "classe": "4e",
-    "chapitres": ["Statistiques"],
-    "question": "La moyenne de 10 valeurs égales à 7 est ...",
-    "reponses": ["0,7", "7", "70", "17"],
-    "bonne_reponse": "7"
+    "id": 60053,
+    "classe": "6e",
+    "chapitres": ["Nombres", "Fractions décimales"],
+    "question": "Convertir le nombre décimal \\(2,08\\) en fraction décimale.",
+    "reponses": ["\\(\\dfrac{208}{100}\\)", "\\(\\dfrac{28}{100}\\)", "\\(\\dfrac{208}{1000}\\)", "\\(\\dfrac{52}{25}\\)"],
+    "bonne_reponse": "\\(\\dfrac{208}{100}\\)"
   },
   {
-    "id": 40114,
-    "classe": "4e",
-    "chapitres": ["Statistiques"],
-    "question": "Pour calculer la moyenne, on ...",
-    "reponses": [
-      "additionne les valeurs puis on divise par leur nombre",
-      "multiplie toutes les valeurs",
-      "soustrait la plus petite de la plus grande",
-      "compte le nombre de valeurs"
-    ],
-    "bonne_reponse": "additionne les valeurs puis on divise par leur nombre"
+    "id": 60054,
+    "classe": "6e",
+    "chapitres": ["Nombres", "Fractions décimales"],
+    "question": "Convertir le nombre décimal \\(0,007\\) en fraction décimale.",
+    "reponses": ["\\(\\dfrac{7}{100}\\)", "\\(\\dfrac{7}{1000}\\)", "\\(\\dfrac{70}{1000}\\)", "\\(\\dfrac{7}{10}\\)"],
+    "bonne_reponse": "\\(\\dfrac{7}{1000}\\)"
   },
   {
-    "id": 40115,
-    "classe": "4e",
-    "chapitres": ["Statistiques"],
-    "question": "Si une série a une étendue nulle, alors ...",
-    "reponses": [
-      "toutes les valeurs sont égales",
-      "il n’y a qu’une seule valeur",
-      "il y a une erreur",
-      "la moyenne est 0"
-    ],
-    "bonne_reponse": "toutes les valeurs sont égales"
+    "id": 60055,
+    "classe": "6e",
+    "chapitres": ["Nombres", "Fractions décimales"],
+    "question": "Convertir le nombre décimal \\(5,6\\) en fraction décimale.",
+    "reponses": ["\\(\\dfrac{56}{100}\\)", "\\(\\dfrac{28}{5}\\)", "\\(\\dfrac{56}{10}\\)", "\\(\\dfrac{560}{1000}\\)"],
+    "bonne_reponse": "\\(\\dfrac{56}{10}\\)"
   },
   {
-    "id": 40116,
-    "classe": "4e",
-    "chapitres": ["Statistiques"],
-    "question": "La somme des fréquences d’une série est ...",
-    "reponses": ["0", "1", "100", "inconnue"],
-    "bonne_reponse": "1"
+    "id": 60056,
+    "classe": "6e",
+    "chapitres": ["Nombres", "Fractions décimales"],
+    "question": "Convertir le nombre décimal \\(0,32\\) en fraction décimale.",
+    "reponses": ["\\(\\dfrac{32}{100}\\)", "\\(\\dfrac{16}{50}\\)", "\\(\\dfrac{320}{1000}\\)", "\\(\\dfrac{32}{10}\\)"],
+    "bonne_reponse": "\\(\\dfrac{32}{100}\\)"
   },
   {
-    "id": 40117,
-    "classe": "4e",
-    "chapitres": ["Statistiques"],
-    "question": "Dans un diagramme circulaire, la somme des angles vaut ...",
-    "reponses": ["90°", "100°", "180°", "360°"],
-    "bonne_reponse": "360°"
+    "id": 60057,
+    "classe": "6e",
+    "chapitres": ["Nombres", "Fractions décimales"],
+    "question": "Convertir le nombre décimal \\(10,5\\) en fraction décimale.",
+    "reponses": ["\\(\\dfrac{21}{2}\\)", "\\(\\dfrac{105}{100}\\)", "\\(\\dfrac{105}{10}\\)", "\\(\\dfrac{1050}{1000}\\)"],
+    "bonne_reponse": "\\(\\dfrac{105}{10}\\)"
   },
   {
-    "id": 40118,
-    "classe": "4e",
-    "chapitres": ["Statistiques"],
-    "question": "Dans un diagramme en barres, l’axe des abscisses représente ...",
-    "reponses": [
-      "les effectifs",
-      "les catégories étudiées",
-      "les fréquences cumulées",
-      "les classes de valeurs"
-    ],
-    "bonne_reponse": "les catégories étudiées"
+    "id": 60058,
+    "classe": "6e",
+    "chapitres": ["Nombres", "Fractions décimales"],
+    "question": "Convertir le nombre décimal \\(0,9\\) en fraction décimale.",
+    "reponses": ["\\(\\dfrac{9}{100}\\)", "\\(\\dfrac{90}{100}\\)", "\\(\\dfrac{9}{10}\\)", "\\(\\dfrac{1}{9}\\)"],
+    "bonne_reponse": "\\(\\dfrac{9}{10}\\)"
   },
   {
-    "id": 40119,
-    "classe": "4e",
-    "chapitres": ["Statistiques"],
-    "question": "La fréquence d’une valeur = (effectif de la valeur) ÷ (effectif total). Quelle est l’unité de la fréquence ?",
-    "reponses": ["en %", "en unité de valeur", "sans unité", "en cm"],
-    "bonne_reponse": "sans unité"
+    "id": 60059,
+    "classe": "6e",
+    "chapitres": ["Nombres", "Fractions décimales"],
+    "question": "Convertir le nombre décimal \\(6,02\\) en fraction décimale.",
+    "reponses": ["\\(\\dfrac{602}{100}\\)", "\\(\\dfrac{62}{100}\\)", "\\(\\dfrac{301}{50}\\)", "\\(\\dfrac{602}{1000}\\)"],
+    "bonne_reponse": "\\(\\dfrac{602}{100}\\)"
   },
   {
-    "id": 40120,
-    "classe": "4e",
-    "chapitres": ["Statistiques"],
-    "question": "Une série de 5 valeurs : 10 ; 10 ; 12 ; 12 ; 14. Quelle est la médiane ?",
-    "reponses": ["10", "11", "12", "13"],
-    "bonne_reponse": "12"
+    "id": 60060,
+    "classe": "6e",
+    "chapitres": ["Nombres", "Fractions décimales"],
+    "question": "Convertir le nombre décimal \\(0,015\\) en fraction décimale.",
+    "reponses": ["\\(\\dfrac{15}{100}\\)", "\\(\\dfrac{3}{200}\\)", "\\(\\dfrac{15}{1000}\\)", "\\(\\dfrac{150}{1000}\\)"],
+    "bonne_reponse": "\\(\\dfrac{15}{1000}\\)"
   },
   {
-    "id": 40121,
-    "classe": "4e",
-    "chapitres": ["Proportionnalité"],
-    "question": "Dans une situation de proportionnalité, si on double la première grandeur, la seconde ...",
-    "reponses": ["reste la même", "double aussi", "est divisée par deux", "augmente de 1"],
-    "bonne_reponse": "double aussi"
+    "id": 60061,
+    "classe": "6e",
+    "chapitres": ["Nombres", "Écriture décimale"],
+    "question": "Convertir \\(\\dfrac{3}{10}\\) en écriture décimale.",
+    "reponses": ["\\(0,03\\)", "\\(0,3\\)", "\\(3\\)", "\\(0,003\\)"],
+    "bonne_reponse": "\\(0,3\\)"
   },
   {
-    "id": 40122,
-    "classe": "4e",
-    "chapitres": ["Proportionnalité"],
-    "question": "Complète le tableau de proportionnalité : 2 → 8 ; 4 → ?",
-    "reponses": ["10", "12", "14", "16"],
-    "bonne_reponse": "16"
+    "id": 60062,
+    "classe": "6e",
+    "chapitres": ["Nombres", "Écriture décimale"],
+    "question": "Convertir \\(\\dfrac{45}{100}\\) en écriture décimale.",
+    "reponses": ["\\(4,5\\)", "\\(0,045\\)", "\\(0,45\\)", "\\(45\\)"],
+    "bonne_reponse": "\\(0,45\\)"
   },
   {
-    "id": 40123,
-    "classe": "4e",
-    "chapitres": ["Proportionnalité"],
-    "question": "Dans un tableau de proportionnalité, les quotients des termes correspondants sont ...",
-    "reponses": ["égaux", "différents", "nuls", "décroissants"],
-    "bonne_reponse": "égaux"
+    "id": 60063,
+    "classe": "6e",
+    "chapitres": ["Nombres", "Écriture décimale"],
+    "question": "Convertir \\(\\dfrac{12}{10}\\) en écriture décimale.",
+    "reponses": ["\\(0,12\\)", "\\(1,2\\)", "\\(12\\)", "\\(1,02\\)"],
+    "bonne_reponse": "\\(1,2\\)"
   },
   {
-    "id": 40124,
-    "classe": "4e",
-    "chapitres": ["Proportionnalité"],
-    "question": "Pour passer de 3 à 15, on multiplie par ...",
-    "reponses": ["2", "3", "4", "5"],
-    "bonne_reponse": "5"
+    "id": 60064,
+    "classe": "6e",
+    "chapitres": ["Nombres", "Écriture décimale"],
+    "question": "Convertir \\(\\dfrac{8}{100}\\) en écriture décimale.",
+    "reponses": ["\\(0,8\\)", "\\(0,08\\)", "\\(0,008\\)", "\\(8\\)"],
+    "bonne_reponse": "\\(0,08\\)"
   },
   {
-    "id": 40125,
-    "classe": "4e",
-    "chapitres": ["Proportionnalité"],
-    "question": "Dans un tableau de proportionnalité, si 5 correspond à 20, alors 1 correspond à ...",
-    "reponses": ["2", "3", "4", "5"],
-    "bonne_reponse": "4"
+    "id": 60065,
+    "classe": "6e",
+    "chapitres": ["Nombres", "Écriture décimale"],
+    "question": "Convertir \\(\\dfrac{25}{10}\\) en écriture décimale.",
+    "reponses": ["\\(0,25\\)", "\\(2,5\\)", "\\(25\\)", "\\(0,025\\)"],
+    "bonne_reponse": "\\(2,5\\)"
   },
   {
-    "id": 40126,
-    "classe": "4e",
-    "chapitres": ["Proportionnalité"],
-    "question": "Complète : 6 → 12 ; 9 → ?",
-    "reponses": ["15", "16", "18", "20"],
-    "bonne_reponse": "18"
+    "id": 60066,
+    "classe": "6e",
+    "chapitres": ["Nombres", "Écriture décimale"],
+    "question": "Convertir \\(\\dfrac{6}{10}\\) en écriture décimale.",
+    "reponses": ["\\(0,06\\)", "\\(6\\)", "\\(0,6\\)", "\\(0,006\\)"],
+    "bonne_reponse": "\\(0,6\\)"
   },
   {
-    "id": 40127,
-    "classe": "4e",
-    "chapitres": ["Proportionnalité"],
-    "question": "Si un vélo coûte 300 €, combien coûtent 3 vélos identiques ?",
-    "reponses": ["600 €", "700 €", "800 €", "900 €"],
-    "bonne_reponse": "900 €"
+    "id": 60067,
+    "classe": "6e",
+    "chapitres": ["Nombres", "Écriture décimale"],
+    "question": "Convertir \\(\\dfrac{304}{100}\\) en écriture décimale.",
+    "reponses": ["\\(3,04\\)", "\\(30,4\\)", "\\(0,304\\)", "\\(304\\)"],
+    "bonne_reponse": "\\(3,04\\)"
   },
   {
-    "id": 40128,
-    "classe": "4e",
-    "chapitres": ["Proportionnalité"],
-    "question": "Un article coûte 50 € après une réduction de 20 %. Quel était son prix initial ?",
-    "reponses": ["60 €", "62,50 €", "70 €", "75 €"],
-    "bonne_reponse": "62,50 €"
+    "id": 60068,
+    "classe": "6e",
+    "chapitres": ["Nombres", "Écriture décimale"],
+    "question": "Convertir \\(\\dfrac{125}{1000}\\) en écriture décimale.",
+    "reponses": ["\\(1,25\\)", "\\(0,0125\\)", "\\(0,125\\)", "\\(12,5\\)"],
+    "bonne_reponse": "\\(0,125\\)"
   },
   {
-    "id": 40129,
-    "classe": "4e",
-    "chapitres": ["Proportionnalité"],
-    "question": "Si 4 kg de pommes coûtent 8 €, quel est le prix d’un kilo ?",
-    "reponses": ["1 €", "2 €", "3 €", "4 €"],
-    "bonne_reponse": "2 €"
+    "id": 60069,
+    "classe": "6e",
+    "chapitres": ["Nombres", "Écriture décimale"],
+    "question": "Convertir \\(\\dfrac{47}{10}\\) en écriture décimale.",
+    "reponses": ["\\(0,47\\)", "\\(47\\)", "\\(4,7\\)", "\\(0,047\\)"],
+    "bonne_reponse": "\\(4,7\\)"
   },
   {
-    "id": 40130,
-    "classe": "4e",
-    "chapitres": ["Proportionnalité"],
-    "question": "Une voiture parcourt 180 km en 3 h. Quelle est sa vitesse moyenne ?",
-    "reponses": ["30 km/h", "60 km/h", "90 km/h", "120 km/h"],
-    "bonne_reponse": "60 km/h"
+    "id": 60070,
+    "classe": "6e",
+    "chapitres": ["Nombres", "Écriture décimale"],
+    "question": "Convertir \\(\\dfrac{9}{100}\\) en écriture décimale.",
+    "reponses": ["\\(0,9\\)", "\\(0,09\\)", "\\(9\\)", "\\(0,009\\)"],
+    "bonne_reponse": "\\(0,09\\)"
   },
   {
-    "id": 40131,
-    "classe": "4e",
-    "chapitres": ["Proportionnalité"],
-    "question": "Si 5 stylos coûtent 7,50 €, combien coûtent 2 stylos ?",
-    "reponses": ["2,50 €", "3 €", "3,50 €", "4 €"],
-    "bonne_reponse": "3 €"
+    "id": 60071,
+    "classe": "6e",
+    "chapitres": ["Nombres", "Écriture décimale"],
+    "question": "Convertir \\(\\dfrac{175}{100}\\) en écriture décimale.",
+    "reponses": ["\\(1,75\\)", "\\(17,5\\)", "\\(0,175\\)", "\\(175\\)"],
+    "bonne_reponse": "\\(1,75\\)"
   },
   {
-    "id": 40132,
-    "classe": "4e",
-    "chapitres": ["Proportionnalité"],
-    "question": "Dans une échelle 1:100, 1 cm sur le plan représente ...",
-    "reponses": ["10 cm", "1 m", "10 m", "100 m"],
-    "bonne_reponse": "1 m"
+    "id": 60072,
+    "classe": "6e",
+    "chapitres": ["Nombres", "Écriture décimale"],
+    "question": "Convertir \\(\\dfrac{4}{10}\\) en écriture décimale.",
+    "reponses": ["\\(4\\)", "\\(0,4\\)", "\\(0,04\\)", "\\(0,004\\)"],
+    "bonne_reponse": "\\(0,4\\)"
   },
   {
-    "id": 40133,
-    "classe": "4e",
-    "chapitres": ["Proportionnalité"],
-    "question": "Si 3 m de tissu coûtent 24 €, quel est le prix de 7 m ?",
-    "reponses": ["52 €", "54 €", "56 €", "58 €"],
-    "bonne_reponse": "56 €"
+    "id": 60073,
+    "classe": "6e",
+    "chapitres": ["Nombres", "Écriture décimale"],
+    "question": "Convertir \\(\\dfrac{208}{100}\\) en écriture décimale.",
+    "reponses": ["\\(20,8\\)", "\\(2,08\\)", "\\(0,208\\)", "\\(208\\)"],
+    "bonne_reponse": "\\(2,08\\)"
   },
   {
-    "id": 40134,
-    "classe": "4e",
-    "chapitres": ["Proportionnalité"],
-    "question": "Un agrandissement à l’échelle 2 signifie que les longueurs sont ...",
-    "reponses": ["divisées par 2", "multipliées par 2", "inchangées", "inversées"],
-    "bonne_reponse": "multipliées par 2"
+    "id": 60074,
+    "classe": "6e",
+    "chapitres": ["Nombres", "Écriture décimale"],
+    "question": "Convertir \\(\\dfrac{7}{1000}\\) en écriture décimale.",
+    "reponses": ["\\(0,07\\)", "\\(0,007\\)", "\\(7\\)", "\\(0,0007\\)"],
+    "bonne_reponse": "\\(0,007\\)"
   },
   {
-    "id": 40135,
-    "classe": "4e",
-    "chapitres": ["Proportionnalité"],
-    "question": "Un plan est à l’échelle 1:50. 5 cm sur le plan représentent ...",
-    "reponses": ["1 m", "2,5 m", "3 m", "4 m"],
-    "bonne_reponse": "2,5 m"
+    "id": 60075,
+    "classe": "6e",
+    "chapitres": ["Nombres", "Écriture décimale"],
+    "question": "Convertir \\(\\dfrac{56}{10}\\) en écriture décimale.",
+    "reponses": ["\\(5,6\\)", "\\(0,56\\)", "\\(56\\)", "\\(0,056\\)"],
+    "bonne_reponse": "\\(5,6\\)"
   },
   {
-    "id": 40136,
-    "classe": "4e",
-    "chapitres": ["Proportionnalité"],
-    "question": "Une carte indique une échelle 1:25 000. 4 cm sur la carte représentent ...",
-    "reponses": ["0,5 km", "1 km", "2 km", "3 km"],
-    "bonne_reponse": "1 km"
+    "id": 60076,
+    "classe": "6e",
+    "chapitres": ["Nombres", "Écriture décimale"],
+    "question": "Convertir \\(\\dfrac{32}{100}\\) en écriture décimale.",
+    "reponses": ["\\(3,2\\)", "\\(0,32\\)", "\\(32\\)", "\\(0,032\\)"],
+    "bonne_reponse": "\\(0,32\\)"
   },
   {
-    "id": 40137,
-    "classe": "4e",
-    "chapitres": ["Proportionnalité"],
-    "question": "Si le coefficient de proportionnalité est 4, alors à chaque valeur x correspond ...",
-    "reponses": ["4 - x", "4x", "x + 4", "x / 4"],
-    "bonne_reponse": "4x"
+    "id": 60077,
+    "classe": "6e",
+    "chapitres": ["Nombres", "Écriture décimale"],
+    "question": "Convertir \\(\\dfrac{105}{10}\\) en écriture décimale.",
+    "reponses": ["\\(1,05\\)", "\\(105\\)", "\\(10,5\\)", "\\(0,105\\)"],
+    "bonne_reponse": "\\(10,5\\)"
   },
   {
-    "id": 40138,
-    "classe": "4e",
-    "chapitres": ["Proportionnalité"],
-    "question": "Un produit en croix sert à ...",
-    "reponses": [
-      "vérifier si deux rapports sont égaux",
-      "calculer une moyenne",
-      "trouver une médiane",
-      "multiplier deux pourcentages"
-    ],
-    "bonne_reponse": "vérifier si deux rapports sont égaux"
+    "id": 60078,
+    "classe": "6e",
+    "chapitres": ["Nombres", "Écriture décimale"],
+    "question": "Convertir \\(\\dfrac{9}{10}\\) en écriture décimale.",
+    "reponses": ["\\(0,09\\)", "\\(9\\)", "\\(0,9\\)", "\\(0,009\\)"],
+    "bonne_reponse": "\\(0,9\\)"
   },
   {
-    "id": 40139,
-    "classe": "4e",
-    "chapitres": ["Proportionnalité"],
-    "question": "Un taux de 25 % correspond à un coefficient multiplicateur de ...",
-    "reponses": ["1,25", "0,25", "4", "0,75"],
-    "bonne_reponse": "1,25"
+    "id": 60079,
+    "classe": "6e",
+    "chapitres": ["Nombres", "Écriture décimale"],
+    "question": "Convertir \\(\\dfrac{602}{100}\\) en écriture décimale.",
+    "reponses": ["\\(6,02\\)", "\\(60,2\\)", "\\(0,602\\)", "\\(602\\)"],
+    "bonne_reponse": "\\(6,02\\)"
   },
   {
-    "id": 40140,
+    "id": 60080,
+    "classe": "6e",
+    "chapitres": ["Nombres", "Écriture décimale"],
+    "question": "Convertir \\(\\dfrac{15}{1000}\\) en écriture décimale.",
+    "reponses": ["\\(0,15\\)", "\\(0,015\\)", "\\(15\\)", "\\(0,0015\\)"],
+    "bonne_reponse": "\\(0,015\\)"
+  },
+  {
+    "id": 60081,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Comparaison"],
+    "question": "Quelle fraction est la plus grande ?",
+    "reponses": ["\\(\\dfrac{3}{7}\\)", "\\(\\dfrac{5}{7}\\)", "\\(\\dfrac{1}{7}\\)", "\\(\\dfrac{4}{7}\\)"],
+    "bonne_reponse": "\\(\\dfrac{5}{7}\\)"
+  },
+  {
+    "id": 60082,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Comparaison"],
+    "question": "Quelle fraction est la plus petite ?",
+    "reponses": ["\\(\\dfrac{6}{9}\\)", "\\(\\dfrac{2}{9}\\)", "\\(\\dfrac{4}{9}\\)", "\\(\\dfrac{5}{9}\\)"],
+    "bonne_reponse": "\\(\\dfrac{2}{9}\\)"
+  },
+  {
+    "id": 60083,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Comparaison"],
+    "question": "Quelle fraction est la plus grande ?",
+    "reponses": ["\\(\\dfrac{7}{10}\\)", "\\(\\dfrac{3}{10}\\)", "\\(\\dfrac{9}{10}\\)", "\\(\\dfrac{5}{10}\\)"],
+    "bonne_reponse": "\\(\\dfrac{9}{10}\\)"
+  },
+  {
+    "id": 60084,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Comparaison"],
+    "question": "Quelle fraction est la plus petite ?",
+    "reponses": ["\\(\\dfrac{11}{12}\\)", "\\(\\dfrac{5}{12}\\)", "\\(\\dfrac{9}{12}\\)", "\\(\\dfrac{7}{12}\\)"],
+    "bonne_reponse": "\\(\\dfrac{5}{12}\\)"
+  },
+  {
+    "id": 60085,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Comparaison"],
+    "question": "Quelle fraction est la plus grande ?",
+    "reponses": ["\\(\\dfrac{4}{8}\\)", "\\(\\dfrac{7}{8}\\)", "\\(\\dfrac{1}{8}\\)", "\\(\\dfrac{6}{8}\\)"],
+    "bonne_reponse": "\\(\\dfrac{7}{8}\\)"
+  },
+  {
+    "id": 60086,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Comparaison"],
+    "question": "Quelle fraction est la plus petite ?",
+    "reponses": ["\\(\\dfrac{3}{5}\\)", "\\(\\dfrac{4}{5}\\)", "\\(\\dfrac{1}{5}\\)", "\\(\\dfrac{2}{5}\\)"],
+    "bonne_reponse": "\\(\\dfrac{1}{5}\\)"
+  },
+  {
+    "id": 60087,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Comparaison"],
+    "question": "Quelle fraction est la plus grande ?",
+    "reponses": ["\\(\\dfrac{6}{11}\\)", "\\(\\dfrac{9}{11}\\)", "\\(\\dfrac{4}{11}\\)", "\\(\\dfrac{7}{11}\\)"],
+    "bonne_reponse": "\\(\\dfrac{9}{11}\\)"
+  },
+  {
+    "id": 60088,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Comparaison"],
+    "question": "Quelle fraction est la plus petite ?",
+    "reponses": ["\\(\\dfrac{8}{13}\\)", "\\(\\dfrac{3}{13}\\)", "\\(\\dfrac{11}{13}\\)", "\\(\\dfrac{5}{13}\\)"],
+    "bonne_reponse": "\\(\\dfrac{3}{13}\\)"
+  },
+  {
+    "id": 60089,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Comparaison"],
+    "question": "Quelle fraction est la plus grande ?",
+    "reponses": ["\\(\\dfrac{10}{15}\\)", "\\(\\dfrac{14}{15}\\)", "\\(\\dfrac{6}{15}\\)", "\\(\\dfrac{9}{15}\\)"],
+    "bonne_reponse": "\\(\\dfrac{14}{15}\\)"
+  },
+  {
+    "id": 60090,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Comparaison"],
+    "question": "Quelle fraction est la plus petite ?",
+    "reponses": ["\\(\\dfrac{5}{16}\\)", "\\(\\dfrac{12}{16}\\)", "\\(\\dfrac{9}{16}\\)", "\\(\\dfrac{7}{16}\\)"],
+    "bonne_reponse": "\\(\\dfrac{5}{16}\\)"
+  },
+  {
+    "id": 60091,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Comparaison"],
+    "question": "Quelle fraction est la plus grande ?",
+    "reponses": ["\\(\\dfrac{3}{6}\\)", "\\(\\dfrac{5}{6}\\)", "\\(\\dfrac{1}{6}\\)", "\\(\\dfrac{4}{6}\\)"],
+    "bonne_reponse": "\\(\\dfrac{5}{6}\\)"
+  },
+  {
+    "id": 60092,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Comparaison"],
+    "question": "Quelle fraction est la plus petite ?",
+    "reponses": ["\\(\\dfrac{2}{7}\\)", "\\(\\dfrac{6}{7}\\)", "\\(\\dfrac{4}{7}\\)", "\\(\\dfrac{5}{7}\\)"],
+    "bonne_reponse": "\\(\\dfrac{2}{7}\\)"
+  },
+  {
+    "id": 60093,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Comparaison"],
+    "question": "Quelle fraction est la plus grande ?",
+    "reponses": ["\\(\\dfrac{7}{9}\\)", "\\(\\dfrac{2}{9}\\)", "\\(\\dfrac{5}{9}\\)", "\\(\\dfrac{8}{9}\\)"],
+    "bonne_reponse": "\\(\\dfrac{8}{9}\\)"
+  },
+  {
+    "id": 60094,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Comparaison"],
+    "question": "Quelle fraction est la plus petite ?",
+    "reponses": ["\\(\\dfrac{6}{10}\\)", "\\(\\dfrac{1}{10}\\)", "\\(\\dfrac{4}{10}\\)", "\\(\\dfrac{9}{10}\\)"],
+    "bonne_reponse": "\\(\\dfrac{1}{10}\\)"
+  },
+  {
+    "id": 60095,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Comparaison"],
+    "question": "Quelle fraction est la plus grande ?",
+    "reponses": ["\\(\\dfrac{11}{14}\\)", "\\(\\dfrac{9}{14}\\)", "\\(\\dfrac{6}{14}\\)", "\\(\\dfrac{13}{14}\\)"],
+    "bonne_reponse": "\\(\\dfrac{13}{14}\\)"
+  },
+  {
+    "id": 60096,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Comparaison"],
+    "question": "Quelle fraction est la plus petite ?",
+    "reponses": ["\\(\\dfrac{5}{8}\\)", "\\(\\dfrac{3}{8}\\)", "\\(\\dfrac{7}{8}\\)", "\\(\\dfrac{6}{8}\\)"],
+    "bonne_reponse": "\\(\\dfrac{3}{8}\\)"
+  },
+  {
+    "id": 60097,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Comparaison"],
+    "question": "Quelle fraction est la plus grande ?",
+    "reponses": ["\\(\\dfrac{4}{9}\\)", "\\(\\dfrac{6}{9}\\)", "\\(\\dfrac{8}{9}\\)", "\\(\\dfrac{2}{9}\\)"],
+    "bonne_reponse": "\\(\\dfrac{8}{9}\\)"
+  },
+  {
+    "id": 60098,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Comparaison"],
+    "question": "Quelle fraction est la plus petite ?",
+    "reponses": ["\\(\\dfrac{10}{11}\\)", "\\(\\dfrac{7}{11}\\)", "\\(\\dfrac{3}{11}\\)", "\\(\\dfrac{9}{11}\\)"],
+    "bonne_reponse": "\\(\\dfrac{3}{11}\\)"
+  },
+  {
+    "id": 60099,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Comparaison"],
+    "question": "Quelle fraction est la plus grande ?",
+    "reponses": ["\\(\\dfrac{6}{13}\\)", "\\(\\dfrac{11}{13}\\)", "\\(\\dfrac{4}{13}\\)", "\\(\\dfrac{9}{13}\\)"],
+    "bonne_reponse": "\\(\\dfrac{11}{13}\\)"
+  },
+  {
+    "id": 60100,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Comparaison"],
+    "question": "Quelle fraction est la plus petite ?",
+    "reponses": ["\\(\\dfrac{8}{12}\\)", "\\(\\dfrac{5}{12}\\)", "\\(\\dfrac{11}{12}\\)", "\\(\\dfrac{9}{12}\\)"],
+    "bonne_reponse": "\\(\\dfrac{5}{12}\\)"
+  },
+  {
+    "id": 60101,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Comparaison"],
+    "question": "Quelle fraction est la plus grande ?",
+    "reponses": ["\\(\\dfrac{3}{8}\\)", "\\(\\dfrac{3}{5}\\)", "\\(\\dfrac{3}{10}\\)", "\\(\\dfrac{3}{12}\\)"],
+    "bonne_reponse": "\\(\\dfrac{3}{5}\\)"
+  },
+  {
+    "id": 60102,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Comparaison"],
+    "question": "Quelle fraction est la plus petite ?",
+    "reponses": ["\\(\\dfrac{4}{6}\\)", "\\(\\dfrac{4}{9}\\)", "\\(\\dfrac{4}{7}\\)", "\\(\\dfrac{4}{5}\\)"],
+    "bonne_reponse": "\\(\\dfrac{4}{9}\\)"
+  },
+  {
+    "id": 60103,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Comparaison"],
+    "question": "Quelle fraction est la plus grande ?",
+    "reponses": ["\\(\\dfrac{5}{11}\\)", "\\(\\dfrac{5}{9}\\)", "\\(\\dfrac{5}{13}\\)", "\\(\\dfrac{5}{15}\\)"],
+    "bonne_reponse": "\\(\\dfrac{5}{9}\\)"
+  },
+  {
+    "id": 60104,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Comparaison"],
+    "question": "Quelle fraction est la plus petite ?",
+    "reponses": ["\\(\\dfrac{6}{8}\\)", "\\(\\dfrac{6}{12}\\)", "\\(\\dfrac{6}{10}\\)", "\\(\\dfrac{6}{7}\\)"],
+    "bonne_reponse": "\\(\\dfrac{6}{12}\\)"
+  },
+  {
+    "id": 60105,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Comparaison"],
+    "question": "Quelle fraction est la plus grande ?",
+    "reponses": ["\\(\\dfrac{7}{14}\\)", "\\(\\dfrac{7}{9}\\)", "\\(\\dfrac{7}{11}\\)", "\\(\\dfrac{7}{16}\\)"],
+    "bonne_reponse": "\\(\\dfrac{7}{9}\\)"
+  },
+  {
+    "id": 60106,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Comparaison"],
+    "question": "Quelle fraction est la plus petite ?",
+    "reponses": ["\\(\\dfrac{2}{3}\\)", "\\(\\dfrac{2}{5}\\)", "\\(\\dfrac{2}{9}\\)", "\\(\\dfrac{2}{7}\\)"],
+    "bonne_reponse": "\\(\\dfrac{2}{9}\\)"
+  },
+  {
+    "id": 60107,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Comparaison"],
+    "question": "Quelle fraction est la plus grande ?",
+    "reponses": ["\\(\\dfrac{8}{15}\\)", "\\(\\dfrac{8}{11}\\)", "\\(\\dfrac{8}{17}\\)", "\\(\\dfrac{8}{13}\\)"],
+    "bonne_reponse": "\\(\\dfrac{8}{11}\\)"
+  },
+  {
+    "id": 60108,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Comparaison"],
+    "question": "Quelle fraction est la plus petite ?",
+    "reponses": ["\\(\\dfrac{9}{10}\\)", "\\(\\dfrac{9}{14}\\)", "\\(\\dfrac{9}{12}\\)", "\\(\\dfrac{9}{8}\\)"],
+    "bonne_reponse": "\\(\\dfrac{9}{14}\\)"
+  },
+  {
+    "id": 60109,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Comparaison"],
+    "question": "Quelle fraction est la plus grande ?",
+    "reponses": ["\\(\\dfrac{1}{6}\\)", "\\(\\dfrac{1}{9}\\)", "\\(\\dfrac{1}{4}\\)", "\\(\\dfrac{1}{12}\\)"],
+    "bonne_reponse": "\\(\\dfrac{1}{4}\\)"
+  },
+  {
+    "id": 60110,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Comparaison"],
+    "question": "Quelle fraction est la plus petite ?",
+    "reponses": ["\\(\\dfrac{5}{6}\\)", "\\(\\dfrac{5}{10}\\)", "\\(\\dfrac{5}{8}\\)", "\\(\\dfrac{5}{12}\\)"],
+    "bonne_reponse": "\\(\\dfrac{5}{12}\\)"
+  },
+  {
+    "id": 60111,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Comparaison"],
+    "question": "Quelle fraction est la plus grande ?",
+    "reponses": ["\\(\\dfrac{4}{9}\\)", "\\(\\dfrac{4}{7}\\)", "\\(\\dfrac{4}{11}\\)", "\\(\\dfrac{4}{13}\\)"],
+    "bonne_reponse": "\\(\\dfrac{4}{7}\\)"
+  },
+  {
+    "id": 60112,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Comparaison"],
+    "question": "Quelle fraction est la plus petite ?",
+    "reponses": ["\\(\\dfrac{6}{9}\\)", "\\(\\dfrac{6}{11}\\)", "\\(\\dfrac{6}{7}\\)", "\\(\\dfrac{6}{5}\\)"],
+    "bonne_reponse": "\\(\\dfrac{6}{11}\\)"
+  },
+  {
+    "id": 60113,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Comparaison"],
+    "question": "Quelle fraction est la plus grande ?",
+    "reponses": ["\\(\\dfrac{10}{21}\\)", "\\(\\dfrac{10}{17}\\)", "\\(\\dfrac{10}{25}\\)", "\\(\\dfrac{10}{19}\\)"],
+    "bonne_reponse": "\\(\\dfrac{10}{17}\\)"
+  },
+  {
+    "id": 60114,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Comparaison"],
+    "question": "Quelle fraction est la plus petite ?",
+    "reponses": ["\\(\\dfrac{7}{8}\\)", "\\(\\dfrac{7}{12}\\)", "\\(\\dfrac{7}{10}\\)", "\\(\\dfrac{7}{9}\\)"],
+    "bonne_reponse": "\\(\\dfrac{7}{12}\\)"
+  },
+  {
+    "id": 60115,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Comparaison"],
+    "question": "Quelle fraction est la plus grande ?",
+    "reponses": ["\\(\\dfrac{2}{9}\\)", "\\(\\dfrac{2}{5}\\)", "\\(\\dfrac{2}{11}\\)", "\\(\\dfrac{2}{7}\\)"],
+    "bonne_reponse": "\\(\\dfrac{2}{5}\\)"
+  },
+  {
+    "id": 60116,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Comparaison"],
+    "question": "Quelle fraction est la plus petite ?",
+    "reponses": ["\\(\\dfrac{8}{9}\\)", "\\(\\dfrac{8}{11}\\)", "\\(\\dfrac{8}{7}\\)", "\\(\\dfrac{8}{10}\\)"],
+    "bonne_reponse": "\\(\\dfrac{8}{11}\\)"
+  },
+  {
+    "id": 60117,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Comparaison"],
+    "question": "Quelle fraction est la plus grande ?",
+    "reponses": ["\\(\\dfrac{9}{20}\\)", "\\(\\dfrac{9}{14}\\)", "\\(\\dfrac{9}{18}\\)", "\\(\\dfrac{9}{25}\\)"],
+    "bonne_reponse": "\\(\\dfrac{9}{14}\\)"
+  },
+  {
+    "id": 60118,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Comparaison"],
+    "question": "Quelle fraction est la plus petite ?",
+    "reponses": ["\\(\\dfrac{11}{12}\\)", "\\(\\dfrac{11}{15}\\)", "\\(\\dfrac{11}{9}\\)", "\\(\\dfrac{11}{14}\\)"],
+    "bonne_reponse": "\\(\\dfrac{11}{15}\\)"
+  },
+  {
+    "id": 60119,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Comparaison"],
+    "question": "Quelle fraction est la plus grande ?",
+    "reponses": ["\\(\\dfrac{6}{13}\\)", "\\(\\dfrac{6}{17}\\)", "\\(\\dfrac{6}{11}\\)", "\\(\\dfrac{6}{19}\\)"],
+    "bonne_reponse": "\\(\\dfrac{6}{11}\\)"
+  },
+  {
+    "id": 60120,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Comparaison"],
+    "question": "Quelle fraction est la plus petite ?",
+    "reponses": ["\\(\\dfrac{4}{5}\\)", "\\(\\dfrac{4}{9}\\)", "\\(\\dfrac{4}{7}\\)", "\\(\\dfrac{4}{6}\\)"],
+    "bonne_reponse": "\\(\\dfrac{4}{9}\\)"
+  },
+  {
+    "id": 60121,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Nombre quotient"],
+    "question": "\\(6 \\times \\ldots = 11\\)",
+    "reponses": ["\\(\\dfrac{6}{11}\\)", "\\(\\dfrac{11}{6}\\)", "\\(\\dfrac{5}{6}\\)", "\\(\\dfrac{11}{5}\\)"],
+    "bonne_reponse": "\\(\\dfrac{11}{6}\\)"
+  },
+  {
+    "id": 60122,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Nombre quotient"],
+    "question": "\\(\\ldots \\times 4 = 7\\)",
+    "reponses": ["\\(\\dfrac{7}{4}\\)", "\\(\\dfrac{4}{7}\\)", "\\(\\dfrac{3}{4}\\)", "\\(\\dfrac{7}{3}\\)"],
+    "bonne_reponse": "\\(\\dfrac{7}{4}\\)"
+  },
+  {
+    "id": 60123,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Nombre quotient"],
+    "question": "\\(5 \\times \\ldots = 3\\)",
+    "reponses": ["\\(\\dfrac{3}{5}\\)", "\\(\\dfrac{5}{3}\\)", "\\(\\dfrac{2}{5}\\)", "\\(\\dfrac{3}{2}\\)"],
+    "bonne_reponse": "\\(\\dfrac{3}{5}\\)"
+  },
+  {
+    "id": 60124,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Nombre quotient"],
+    "question": "\\(\\ldots \\times 8 = 5\\)",
+    "reponses": ["\\(\\dfrac{8}{5}\\)", "\\(\\dfrac{5}{8}\\)", "\\(\\dfrac{3}{8}\\)", "\\(\\dfrac{5}{3}\\)"],
+    "bonne_reponse": "\\(\\dfrac{5}{8}\\)"
+  },
+  {
+    "id": 60125,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Nombre quotient"],
+    "question": "\\(7 \\times \\ldots = 4\\)",
+    "reponses": ["\\(\\dfrac{4}{7}\\)", "\\(\\dfrac{7}{4}\\)", "\\(\\dfrac{3}{7}\\)", "\\(\\dfrac{4}{3}\\)"],
+    "bonne_reponse": "\\(\\dfrac{4}{7}\\)"
+  },
+  {
+    "id": 60126,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Nombre quotient"],
+    "question": "\\(\\ldots \\times 9 = 2\\)",
+    "reponses": ["\\(\\dfrac{2}{9}\\)", "\\(\\dfrac{9}{2}\\)", "\\(\\dfrac{1}{9}\\)", "\\(\\dfrac{2}{3}\\)"],
+    "bonne_reponse": "\\(\\dfrac{2}{9}\\)"
+  },
+  {
+    "id": 60127,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Nombre quotient"],
+    "question": "\\(4 \\times \\ldots = 9\\)",
+    "reponses": ["\\(\\dfrac{4}{9}\\)", "\\(\\dfrac{9}{4}\\)", "\\(\\dfrac{5}{4}\\)", "\\(\\dfrac{9}{5}\\)"],
+    "bonne_reponse": "\\(\\dfrac{9}{4}\\)"
+  },
+  {
+    "id": 60128,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Nombre quotient"],
+    "question": "\\(\\ldots \\times 3 = 5\\)",
+    "reponses": ["\\(\\dfrac{5}{3}\\)", "\\(\\dfrac{3}{5}\\)", "\\(\\dfrac{2}{3}\\)", "\\(\\dfrac{5}{2}\\)"],
+    "bonne_reponse": "\\(\\dfrac{5}{3}\\)"
+  },
+  {
+    "id": 60129,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Nombre quotient"],
+    "question": "\\(10 \\times \\ldots = 7\\)",
+    "reponses": ["\\(\\dfrac{7}{10}\\)", "\\(\\dfrac{10}{7}\\)", "\\(\\dfrac{3}{10}\\)", "\\(\\dfrac{7}{3}\\)"],
+    "bonne_reponse": "\\(\\dfrac{7}{10}\\)"
+  },
+  {
+    "id": 60130,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Nombre quotient"],
+    "question": "\\(\\ldots \\times 6 = 5\\)",
+    "reponses": ["\\(\\dfrac{6}{5}\\)", "\\(\\dfrac{5}{6}\\)", "\\(\\dfrac{1}{6}\\)", "\\(\\dfrac{5}{1}\\)"],
+    "bonne_reponse": "\\(\\dfrac{5}{6}\\)"
+  },
+  {
+    "id": 60131,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Nombre quotient"],
+    "question": "\\(8 \\times \\ldots = 3\\)",
+    "reponses": ["\\(\\dfrac{3}{8}\\)", "\\(\\dfrac{8}{3}\\)", "\\(\\dfrac{5}{8}\\)", "\\(\\dfrac{3}{5}\\)"],
+    "bonne_reponse": "\\(\\dfrac{3}{8}\\)"
+  },
+  {
+    "id": 60132,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Nombre quotient"],
+    "question": "\\(\\ldots \\times 5 = 9\\)",
+    "reponses": ["\\(\\dfrac{5}{9}\\)", "\\(\\dfrac{9}{5}\\)", "\\(\\dfrac{4}{5}\\)", "\\(\\dfrac{9}{4}\\)"],
+    "bonne_reponse": "\\(\\dfrac{9}{5}\\)"
+  },
+  {
+    "id": 60133,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Nombre quotient"],
+    "question": "\\(2 \\times \\ldots = 7\\)",
+    "reponses": ["\\(\\dfrac{7}{2}\\)", "\\(\\dfrac{2}{7}\\)", "\\(\\dfrac{5}{2}\\)", "\\(\\dfrac{7}{5}\\)"],
+    "bonne_reponse": "\\(\\dfrac{7}{2}\\)"
+  },
+  {
+    "id": 60134,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Nombre quotient"],
+    "question": "\\(\\ldots \\times 7 = 3\\)",
+    "reponses": ["\\(\\dfrac{7}{3}\\)", "\\(\\dfrac{3}{7}\\)", "\\(\\dfrac{2}{7}\\)", "\\(\\dfrac{3}{2}\\)"],
+    "bonne_reponse": "\\(\\dfrac{3}{7}\\)"
+  },
+  {
+    "id": 60135,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Nombre quotient"],
+    "question": "\\(9 \\times \\ldots = 4\\)",
+    "reponses": ["\\(\\dfrac{4}{9}\\)", "\\(\\dfrac{9}{4}\\)", "\\(\\dfrac{5}{9}\\)", "\\(\\dfrac{4}{5}\\)"],
+    "bonne_reponse": "\\(\\dfrac{4}{9}\\)"
+  },
+  {
+    "id": 60136,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Nombre quotient"],
+    "question": "\\(\\ldots \\times 10 = 3\\)",
+    "reponses": ["\\(\\dfrac{10}{3}\\)", "\\(\\dfrac{3}{10}\\)", "\\(\\dfrac{1}{10}\\)", "\\(\\dfrac{3}{1}\\)"],
+    "bonne_reponse": "\\(\\dfrac{3}{10}\\)"
+  },
+  {
+    "id": 60137,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Nombre quotient"],
+    "question": "\\(3 \\times \\ldots = 8\\)",
+    "reponses": ["\\(\\dfrac{3}{8}\\)", "\\(\\dfrac{8}{3}\\)", "\\(\\dfrac{5}{3}\\)", "\\(\\dfrac{8}{5}\\)"],
+    "bonne_reponse": "\\(\\dfrac{8}{3}\\)"
+  },
+  {
+    "id": 60138,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Nombre quotient"],
+    "question": "\\(\\ldots \\times 4 = 5\\)",
+    "reponses": ["\\(\\dfrac{4}{5}\\)", "\\(\\dfrac{5}{4}\\)", "\\(\\dfrac{3}{4}\\)", "\\(\\dfrac{5}{3}\\)"],
+    "bonne_reponse": "\\(\\dfrac{5}{4}\\)"
+  },
+  {
+    "id": 60139,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Nombre quotient"],
+    "question": "\\(11 = 7 \\times \\ldots\\)",
+    "reponses": ["\\(\\dfrac{7}{11}\\)", "\\(\\dfrac{11}{7}\\)", "\\(\\dfrac{4}{7}\\)", "\\(\\dfrac{11}{4}\\)"],
+    "bonne_reponse": "\\(\\dfrac{11}{7}\\)"
+  },
+  {
+    "id": 60140,
+    "classe": "6e",
+    "chapitres": ["Fractions", "Nombre quotient"],
+    "question": "\\(5 = \\ldots \\times 8\\)",
+    "reponses": ["\\(\\dfrac{8}{5}\\)", "\\(\\dfrac{5}{8}\\)", "\\(\\dfrac{3}{8}\\)", "\\(\\dfrac{5}{3}\\)"],
+    "bonne_reponse": "\\(\\dfrac{5}{8}\\)"
+  },
+  {
+    "id": 60141,
+    "classe": "6e",
+    "chapitres": ["Nombres décimaux", "Comparaison"],
+    "question": "Comparer \\(3,7\\) et \\(3,12\\).",
+    "reponses": ["\\(3,7 < 3,12\\)", "\\(3,7 > 3,12\\)", "\\(3,7 = 3,12\\)"],
+    "bonne_reponse": "\\(3,7 > 3,12\\)"
+  },
+  {
+    "id": 60142,
+    "classe": "6e",
+    "chapitres": ["Nombres décimaux", "Comparaison"],
+    "question": "Comparer \\(4,05\\) et \\(4,5\\).",
+    "reponses": ["\\(4,05 > 4,5\\)", "\\(4,05 = 4,5\\)", "\\(4,05 < 4,5\\)"],
+    "bonne_reponse": "\\(4,05 < 4,5\\)"
+  },
+  {
+    "id": 60143,
+    "classe": "6e",
+    "chapitres": ["Nombres décimaux", "Comparaison"],
+    "question": "Comparer \\(2,5\\) et \\(2,50\\).",
+    "reponses": ["\\(2,5 < 2,50\\)", "\\(2,5 > 2,50\\)", "\\(2,5 = 2,50\\)"],
+    "bonne_reponse": "\\(2,5 = 2,50\\)"
+  },
+  {
+    "id": 60144,
+    "classe": "6e",
+    "chapitres": ["Nombres décimaux", "Comparaison"],
+    "question": "Comparer \\(6,08\\) et \\(6,8\\).",
+    "reponses": ["\\(6,08 > 6,8\\)", "\\(6,08 = 6,8\\)", "\\(6,08 < 6,8\\)"],
+    "bonne_reponse": "\\(6,08 < 6,8\\)"
+  },
+  {
+    "id": 60145,
+    "classe": "6e",
+    "chapitres": ["Nombres décimaux", "Comparaison"],
+    "question": "Comparer \\(1,25\\) et \\(\\dfrac{125}{100}\\).",
+    "reponses": ["\\(1,25 < \\dfrac{125}{100}\\)", "\\(1,25 > \\dfrac{125}{100}\\)", "\\(1,25 = \\dfrac{125}{100}\\)"],
+    "bonne_reponse": "\\(1,25 = \\dfrac{125}{100}\\)"
+  },
+  {
+    "id": 60146,
+    "classe": "6e",
+    "chapitres": ["Nombres décimaux", "Comparaison"],
+    "question": "Comparer \\(7,004\\) et \\(7,04\\).",
+    "reponses": ["\\(7,004 > 7,04\\)", "\\(7,004 = 7,04\\)", "\\(7,004 < 7,04\\)"],
+    "bonne_reponse": "\\(7,004 < 7,04\\)"
+  },
+  {
+    "id": 60147,
+    "classe": "6e",
+    "chapitres": ["Nombres décimaux", "Comparaison"],
+    "question": "Comparer \\(9,06\\) et \\(9,060\\).",
+    "reponses": ["\\(9,06 < 9,060\\)", "\\(9,06 = 9,060\\)", "\\(9,06 > 9,060\\)"],
+    "bonne_reponse": "\\(9,06 = 9,060\\)"
+  },
+  {
+    "id": 60148,
+    "classe": "6e",
+    "chapitres": ["Nombres décimaux", "Comparaison"],
+    "question": "Comparer \\(0,75\\) et \\(0,705\\).",
+    "reponses": ["\\(0,75 < 0,705\\)", "\\(0,75 > 0,705\\)", "\\(0,75 = 0,705\\)"],
+    "bonne_reponse": "\\(0,75 > 0,705\\)"
+  },
+  {
+    "id": 60149,
+    "classe": "6e",
+    "chapitres": ["Nombres décimaux", "Comparaison"],
+    "question": "Comparer \\(5,2\\) et \\(\\dfrac{52}{10}\\).",
+    "reponses": ["\\(5,2 < \\dfrac{52}{10}\\)", "\\(5,2 = \\dfrac{52}{10}\\)", "\\(5,2 > \\dfrac{52}{10}\\)"],
+    "bonne_reponse": "\\(5,2 = \\dfrac{52}{10}\\)"
+  },
+  {
+    "id": 60150,
+    "classe": "6e",
+    "chapitres": ["Nombres décimaux", "Comparaison"],
+    "question": "Comparer \\(8,03\\) et \\(8,3\\).",
+    "reponses": ["\\(8,03 > 8,3\\)", "\\(8,03 = 8,3\\)", "\\(8,03 < 8,3\\)"],
+    "bonne_reponse": "\\(8,03 < 8,3\\)"
+  },
+  {
+    "id": 60151,
+    "classe": "6e",
+    "chapitres": ["Nombres décimaux", "Comparaison"],
+    "question": "Comparer \\(0,4\\) et \\(0,40\\).",
+    "reponses": ["\\(0,4 > 0,40\\)", "\\(0,4 = 0,40\\)", "\\(0,4 < 0,40\\)"],
+    "bonne_reponse": "\\(0,4 = 0,40\\)"
+  },
+  {
+    "id": 60152,
+    "classe": "6e",
+    "chapitres": ["Nombres décimaux", "Comparaison"],
+    "question": "Comparer \\(12,08\\) et \\(12,008\\).",
+    "reponses": ["\\(12,08 < 12,008\\)", "\\(12,08 > 12,008\\)", "\\(12,08 = 12,008\\)"],
+    "bonne_reponse": "\\(12,08 > 12,008\\)"
+  },
+  {
+    "id": 60153,
+    "classe": "6e",
+    "chapitres": ["Nombres décimaux", "Comparaison"],
+    "question": "Comparer \\(6,125\\) et \\(\\dfrac{6125}{1000}\\).",
+    "reponses": ["\\(6,125 < \\dfrac{6125}{1000}\\)", "\\(6,125 > \\dfrac{6125}{1000}\\)", "\\(6,125 = \\dfrac{6125}{1000}\\)"],
+    "bonne_reponse": "\\(6,125 = \\dfrac{6125}{1000}\\)"
+  },
+  {
+    "id": 60154,
+    "classe": "6e",
+    "chapitres": ["Nombres décimaux", "Comparaison"],
+    "question": "Comparer \\(10,5\\) et \\(10,05\\).",
+    "reponses": ["\\(10,5 < 10,05\\)", "\\(10,5 = 10,05\\)", "\\(10,5 > 10,05\\)"],
+    "bonne_reponse": "\\(10,5 > 10,05\\)"
+  },
+  {
+    "id": 60155,
+    "classe": "6e",
+    "chapitres": ["Nombres décimaux", "Comparaison"],
+    "question": "Comparer \\(1,002\\) et \\(1,02\\).",
+    "reponses": ["\\(1,002 < 1,02\\)", "\\(1,002 > 1,02\\)", "\\(1,002 = 1,02\\)"],
+    "bonne_reponse": "\\(1,002 < 1,02\\)"
+  },
+  {
+    "id": 60156,
+    "classe": "6e",
+    "chapitres": ["Nombres décimaux", "Comparaison"],
+    "question": "Comparer \\(3,40\\) et \\(3,4\\).",
+    "reponses": ["\\(3,40 < 3,4\\)", "\\(3,40 > 3,4\\)", "\\(3,40 = 3,4\\)"],
+    "bonne_reponse": "\\(3,40 = 3,4\\)"
+  },
+  {
+    "id": 60157,
+    "classe": "6e",
+    "chapitres": ["Nombres décimaux", "Comparaison"],
+    "question": "Comparer \\(0,809\\) et \\(0,89\\).",
+    "reponses": ["\\(0,809 > 0,89\\)", "\\(0,809 = 0,89\\)", "\\(0,809 < 0,89\\)"],
+    "bonne_reponse": "\\(0,809 < 0,89\\)"
+  },
+  {
+    "id": 60158,
+    "classe": "6e",
+    "chapitres": ["Nombres décimaux", "Comparaison"],
+    "question": "Comparer \\(2,375\\) et \\(\\dfrac{2375}{1000}\\).",
+    "reponses": ["\\(2,375 < \\dfrac{2375}{1000}\\)", "\\(2,375 = \\dfrac{2375}{1000}\\)", "\\(2,375 > \\dfrac{2375}{1000}\\)"],
+    "bonne_reponse": "\\(2,375 = \\dfrac{2375}{1000}\\)"
+  },
+  {
+    "id": 60159,
+    "classe": "6e",
+    "chapitres": ["Nombres décimaux", "Comparaison"],
+    "question": "Comparer \\(7,09\\) et \\(7,9\\).",
+    "reponses": ["\\(7,09 > 7,9\\)", "\\(7,09 = 7,9\\)", "\\(7,09 < 7,9\\)"],
+    "bonne_reponse": "\\(7,09 < 7,9\\)"
+  },
+  {
+    "id": 40181,
     "classe": "4e",
-    "chapitres": ["Proportionnalité"],
-    "question": "Une baisse de 20 % correspond à un coefficient multiplicateur de ...",
-    "reponses": ["0,8", "1,2", "0,2", "2"],
-    "bonne_reponse": "0,8"
+    "chapitres": ["Calcul littéral"],
+    "question": "Réduire l’expression : \\(2 \\times y \\times 5\\)",
+    "reponses": ["\\(7y\\)", "\\(10y\\)", "\\(10y^2\\)", "\\(y^2\\)"],
+    "bonne_reponse": "\\(10y\\)"
+  },
+  {
+    "id": 40182,
+    "classe": "4e",
+    "chapitres": ["Calcul littéral"],
+    "question": "Réduire l’expression : \\(t \\times 2 \\times 4\\)",
+    "reponses": ["\\(8t\\)", "\\(6t\\)", "\\(8t^2\\)", "\\(2t\\)"],
+    "bonne_reponse": "\\(8t\\)"
+  },
+  {
+    "id": 40183,
+    "classe": "4e",
+    "chapitres": ["Calcul littéral"],
+    "question": "Réduire l’expression : \\(a \\times a \\times 3\\)",
+    "reponses": ["\\(3a\\)", "\\(a^3\\)", "\\(3a^2\\)", "\\(6a\\)"],
+    "bonne_reponse": "\\(3a^2\\)"
+  },
+  {
+    "id": 40184,
+    "classe": "4e",
+    "chapitres": ["Calcul littéral"],
+    "question": "Réduire l’expression : \\(4 \\times b \\times b\\)",
+    "reponses": ["\\(4b\\)", "\\(b^2\\)", "\\(4b^2\\)", "\\(8b\\)"],
+    "bonne_reponse": "\\(4b^2\\)"
+  },
+  {
+    "id": 40185,
+    "classe": "4e",
+    "chapitres": ["Calcul littéral"],
+    "question": "Réduire l’expression : \\(5 \\times m \\times 2\\)",
+    "reponses": ["\\(7m\\)", "\\(10m\\)", "\\(5m^2\\)", "\\(2m\\)"],
+    "bonne_reponse": "\\(10m\\)"
+  },
+  {
+    "id": 40186,
+    "classe": "4e",
+    "chapitres": ["Calcul littéral"],
+    "question": "Réduire l’expression : \\(y \\times 3 \\times y\\)",
+    "reponses": ["\\(6y\\)", "\\(3y\\)", "\\(3y^2\\)", "\\(y^3\\)"],
+    "bonne_reponse": "\\(3y^2\\)"
+  },
+  {
+    "id": 40187,
+    "classe": "4e",
+    "chapitres": ["Calcul littéral"],
+    "question": "Réduire l’expression : \\(2 \\times t \\times 4 \\times t\\)",
+    "reponses": ["\\(8t\\)", "\\(8t^2\\)", "\\(16t\\)", "\\(4t^2\\)"],
+    "bonne_reponse": "\\(8t^2\\)"
+  },
+  {
+    "id": 40188,
+    "classe": "4e",
+    "chapitres": ["Calcul littéral"],
+    "question": "Réduire l’expression : \\(a \\times a \\times 1 - 1\\)",
+    "reponses": ["\\(a\\)", "\\(2a-1\\)", "\\(a^2-1\\)", "\\(0\\)"],
+    "bonne_reponse": "\\(a^2-1\\)"
+  },
+  {
+    "id": 40189,
+    "classe": "4e",
+    "chapitres": ["Calcul littéral"],
+    "question": "Réduire l’expression : \\(6 \\times b \\times 3\\)",
+    "reponses": ["\\(18b\\)", "\\(9b\\)", "\\(18b^2\\)", "\\(6b\\)"],
+    "bonne_reponse": "\\(18b\\)"
+  },
+  {
+    "id": 40190,
+    "classe": "4e",
+    "chapitres": ["Calcul littéral"],
+    "question": "Réduire l’expression : \\(m \\times 5 \\times m \\times 2\\)",
+    "reponses": ["\\(10m\\)", "\\(10m^2\\)", "\\(7m^2\\)", "\\(5m^2\\)"],
+    "bonne_reponse": "\\(10m^2\\)"
+  },
+  {
+    "id": 40191,
+    "classe": "4e",
+    "chapitres": ["Calcul littéral"],
+    "question": "Réduire l’expression : \\(3 \\times y \\times 3\\)",
+    "reponses": ["\\(6y\\)", "\\(9y\\)", "\\(9y^2\\)", "\\(3y^2\\)"],
+    "bonne_reponse": "\\(9y\\)"
+  },
+  {
+    "id": 40192,
+    "classe": "4e",
+    "chapitres": ["Calcul littéral"],
+    "question": "Réduire l’expression : \\(t \\times 4 \\times t \\times 2\\)",
+    "reponses": ["\\(8t\\)", "\\(8t^2\\)", "\\(6t^2\\)", "\\(4t^2\\)"],
+    "bonne_reponse": "\\(8t^2\\)"
+  },
+  {
+    "id": 40193,
+    "classe": "4e",
+    "chapitres": ["Calcul littéral"],
+    "question": "Réduire l’expression : \\(a \\times 7+2\\)",
+    "reponses": ["\\(7a+2\\)", "\\(14a\\)", "\\(7a^2\\)", "\\(9a\\)"],
+    "bonne_reponse": "\\(7a+2\\)"
+  },
+  {
+    "id": 40194,
+    "classe": "4e",
+    "chapitres": ["Calcul littéral"],
+    "question": "Réduire l’expression : \\(b \\times 2 \\times b \\times 5\\)",
+    "reponses": ["\\(10b\\)", "\\(7b^2\\)", "\\(10b^2\\)", "\\(5b^2\\)"],
+    "bonne_reponse": "\\(10b^2\\)"
+  },
+  {
+    "id": 40195,
+    "classe": "4e",
+    "chapitres": ["Calcul littéral"],
+    "question": "Réduire l’expression : \\(4 \\times m \\times 5\\)",
+    "reponses": ["\\(20m\\)", "\\(9m\\)", "\\(20m^2\\)", "\\(4m\\)"],
+    "bonne_reponse": "\\(20m\\)"
+  },
+  {
+    "id": 40196,
+    "classe": "4e",
+    "chapitres": ["Calcul littéral"],
+    "question": "Réduire l’expression : \\(8 + a \\times a \\times a\\)",
+    "reponses": ["\\(11a^3\\)", "\\(11a\\)", "\\(8a^3\\)", "\\(a^3+8\\)"],
+    "bonne_reponse": "\\(a^3+8\\)"
+  },
+  {
+    "id": 40197,
+    "classe": "4e",
+    "chapitres": ["Calcul littéral"],
+    "question": "Réduire l’expression : \\(y \\times 2 \\times 3 \\times y\\)",
+    "reponses": ["\\(6y\\)", "\\(6y^2\\)", "\\(5y^2\\)", "\\(12y\\)"],
+    "bonne_reponse": "\\(6y^2\\)"
+  },
+  {
+    "id": 40198,
+    "classe": "4e",
+    "chapitres": ["Calcul littéral"],
+    "question": "Réduire l’expression : \\(t \\times 8-1\\)",
+    "reponses": ["\\(t+7\\)", "\\(8t-1\\)", "\\(7t\\)", "\\(t7\\)"],
+    "bonne_reponse": "\\(8t-1\\)"
+  },
+  {
+    "id": 40199,
+    "classe": "4e",
+    "chapitres": ["Calcul littéral"],
+    "question": "Réduire l’expression : \\(b \\times b \\times 5-5\\)",
+    "reponses": ["\\(10b^2\\)", "\\(0\\)", "\\(b^2\\)", "\\(5b^2-5\\)"],
+    "bonne_reponse": "\\(5b^2-5\\)"
+  },
+  {
+    "id": 40200,
+    "classe": "4e",
+    "chapitres": ["Calcul littéral"],
+    "question": "Réduire l’expression : \\(m \\times 2 \\times m\\)",
+    "reponses": ["\\(2m\\)", "\\(m^2\\)", "\\(2m^2\\)", "\\(4m\\)"],
+    "bonne_reponse": "\\(2m^2\\)"
   }
 ]

@@ -1250,7 +1250,7 @@
     "classe": "6e",
     "chapitres": ["problèmes"],
     "question": "Quand je monte de \\(20\\) marches, je m’élève de \\(100\\) cm.<br>Quand je monte de \\(5\\) marches, je m’élève de \\(\\ldots\\) cm.",
-    "bonne_reponse": "\\(50\\) cm"
+    "bonne_reponse": "\\(25\\) cm"
   },
   {
     "id": 6202230,
@@ -1258,6 +1258,216 @@
     "chapitres": ["aire"],
     "question": "Quelle est l’aire de ce rectangle ?<br><img src='figures/6_2022_04.png' style='transform: scale(1); transform-origin: auto;' width='220' /><br><br>\\(\\ldots\\) unités d'aire",
     "bonne_reponse": "\\(48\\) unités d'aire"
+  },
+  {
+    "id": 62022201,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(5 \\times 7\\)",
+    "bonne_reponse": "\\(35\\)"
+  },
+  {
+    "id": 62022202,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "La moitié de \\(32\\)",
+    "bonne_reponse": "\\(16\\)"
+  },
+  {
+    "id": 62022203,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "Complète : \\(34 + \\ldots = 100\\)",
+    "bonne_reponse": "\\(66\\)"
+  },
+  {
+    "id": 62022204,
+    "classe": "6e",
+    "chapitres": ["problèmes"],
+    "question": "\\(6\\) cahiers identiques coûtent \\(5\\) €.<br>\\(18\\) cahiers coûtent \\(\\ldots\\) €",
+    "bonne_reponse": "\\(15\\) €"
+  },
+  {
+    "id": 62022205,
+    "classe": "6e",
+    "chapitres": ["durées"],
+    "question": "Complète : \\(1\\) h \\(10\\) min \\(= \\ldots\\) min",
+    "bonne_reponse": "\\(70\\) min"
+  },
+  {
+    "id": 62022206,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Complète :<br><br><img src='figures/6_2022_2_01.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(83\\)"
+  },
+  {
+    "id": 62022207,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(27+19\\)",
+    "bonne_reponse": "\\(46\\)"
+  },
+  {
+    "id": 62022208,
+    "classe": "6e",
+    "chapitres": ["problèmes"],
+    "question": "\\(24\\) élèves se mettent par groupe de \\(3\\).<br>Il y a \\(\\ldots\\) groupes ?",
+    "bonne_reponse": "\\(8\\) groupes"
+  },
+  {
+    "id": 62022209,
+    "classe": "6e",
+    "chapitres": ["fractions"],
+    "question": "Le quart de \\(100\\)",
+    "bonne_reponse": "\\(25\\)"
+  },
+  {
+    "id": 62022210,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "Complète : \\(6 + 3 = \\ldots + 2\\)",
+    "bonne_reponse": "\\(6 + 3 = 7 + 2\\)"
+  },
+  {
+    "id": 62022211,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(3,5 \\times 100\\)",
+    "bonne_reponse": "\\(350\\)"
+  },
+  {
+    "id": 62022212,
+    "classe": "6e",
+    "chapitres": ["durées"],
+    "question": "Un film commence à \\(17\\) h \\(45\\) et et se termine à \\(19\\) h \\(35\\). Le film dure \\(\\ldots\\) h \\(\\ldots\\) min",
+    "bonne_reponse": "\\(1\\) h \\(50\\) min"
+  },
+  {
+    "id": 62022213,
+    "classe": "6e",
+    "chapitres": ["fractions"],
+    "question": "Complète : \\(3 = \\ldots\\) quarts",
+    "bonne_reponse": "\\(3 = 12\\) quarts"
+  },
+  {
+    "id": 62022214,
+    "classe": "6e",
+    "chapitres": ["durées"],
+    "question": "Ajoute \\(25\\) min à \\(10\\) h \\(40\\) min.",
+    "bonne_reponse": "\\(11\\) h \\(05\\) min"
+  },
+  {
+    "id": 62022215,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Ajoute \\(1\\) dixième à \\(3,91\\).",
+    "bonne_reponse": "\\(4,01\\)"
+  },
+  {
+    "id": 62022216,
+    "classe": "6e",
+    "chapitres": ["problèmes"],
+    "question": "Yann a \\(40\\) billes. Il a \\(5\\) billes de plus que Lou.<br><br>Lou a \\(\\ldots\\) billes.",
+    "bonne_reponse": "Lou a \\(35\\) billes"
+  },
+  {
+    "id": 62022217,
+    "classe": "6e",
+    "chapitres": ["périmètre"],
+    "question": "Le périmètre de cette figure est \\(30\\) cm.<br><br><img src='figures/6_2022_2_02.png' style='transform: scale(1); transform-origin: auto;' width='220' /><br>? \\(= \\ldots\\) cm",
+    "bonne_reponse": "\\(4,5\\) cm"
+  },
+  {
+    "id": 62022218,
+    "classe": "6e",
+    "chapitres": ["unités"],
+    "question": "Complète : \\(1800\\) g \\(= \\ldots\\) kg",
+    "bonne_reponse": "\\(1800\\) g \\(= 1,8\\) kg"
+  },
+  {
+    "id": 62022219,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Ecris en chiffres « Deux-millions-trente-mille »",
+    "bonne_reponse": "\\(2~030~000\\)"
+  },
+  {
+    "id": 62022220,
+    "classe": "6e",
+    "chapitres": ["fractions"],
+    "question": "Quelle est la longueur du segment \\([AB]\\) ?<br><br><img src='figures/6_2022_2_03.png' style='transform: scale(1); transform-origin: auto;' width='220' /><br><br>\\(\\ldots\\) unité(s)",
+    "bonne_reponse": "\\(\\dfrac{5}{4}\\) unité(s)"
+  },
+  {
+    "id": 62022221,
+    "classe": "6e",
+    "chapitres": ["durées"],
+    "question": "Complète : \\(10\\) jours \\(= \\ldots\\) h",
+    "bonne_reponse": "\\(240\\) h"
+  },
+  {
+    "id": 62022222,
+    "classe": "6e",
+    "chapitres": ["durées"],
+    "question": "Complète : \\(5\\) jours \\(= \\ldots\\) h",
+    "bonne_reponse": "\\(120\\) h"
+  },
+  {
+    "id": 62022223,
+    "classe": "6e",
+    "chapitres": ["problèmes"],
+    "question": "Combien faut-il de pièces de \\(10\\) centimes pour avoir \\(2,90\\) € ?",
+    "bonne_reponse": "\\(29\\) pièces"
+  },
+  {
+    "id": 62022224,
+    "classe": "6e",
+    "chapitres": ["nombres"],
+    "question": "Place le nombre \\(2,4\\)<br><br><img src='figures/6_2022_2_04.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "<img src='figures/6_2022_2_05.png' style='transform: scale(1); transform-origin: auto;' width='220' />"
+  },
+  {
+    "id": 62022225,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "\\(0,12+0,5\\)",
+    "bonne_reponse": "\\(0,62\\)"
+  },
+  {
+    "id": 62022226,
+    "classe": "6e",
+    "chapitres": ["unités"],
+    "question": "Quelle est la réponse possible ?<br><br>La taille de la fourmi est :<br>\\(3\\) m ; \\(3\\) dm ; \\(3\\) mm",
+    "bonne_reponse": "\\(3\\) mm"
+  },
+  {
+    "id": 62022227,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "Le double de \\(1,7\\)",
+    "bonne_reponse": "\\(3,4\\)"
+  },
+  {
+    "id": 62022228,
+    "classe": "6e",
+    "chapitres": ["opérations"],
+    "question": "Complète : \\(\\ldots \\times \\ldots = 56\\)",
+    "bonne_reponse": "\\(8 \\times 7 = 56\\)"
+  },
+  {
+    "id": 62022229,
+    "classe": "6e",
+    "chapitres": ["problèmes","proportionnalité"],
+    "question": "\\(4\\) cubes identiques empilés ont une hauteur de \\(10\\) cm.<br><br>\\(6\\) cubes empilés ont une hauteur de \\(\\ldots\\) cm.",
+    "bonne_reponse": "\\(15\\) cm"
+  },
+  {
+    "id": 62022230,
+    "classe": "6e",
+    "chapitres": ["problèmes","proportionnalité"],
+    "question": "Un bus met \\(2\\) heures pour emmener 5 passagers.<br><br>Ce même bus mettra \\(\\ldots\\) heures pour emmener 10 passagers.",
+    "bonne_reponse": "Ce même bus mettra \\(2\\) heures pour emmener 10 passagers."
   },
   {
     "id": 6202301,
@@ -1977,7 +2187,7 @@
     "id": 62024213,
     "classe": "6e",
     "chapitres": ["problèmes"],
-    "question": "Tom achète \\(6\\) BD à \\(6,50\\) € l’unité et \\(4\\) romans à \\(6,50\\) € l’unité.",
+    "question": "Tom achète \\(6\\) BD à \\(6,50\\) € l’unité et \\(4\\) romans à \\(6,50\\) € l’unité.<br><br>Il paye \\(\\ldots\\) €",
     "bonne_reponse": "\\(65\\) €"
   },
   {
