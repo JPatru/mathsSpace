@@ -288,11 +288,11 @@ onUnmounted(() => stopTimer())
     <main class="main-area">
       <!-- AVANT DEMARRAGE -->
       <section v-if="!isRunning && !finalScreen" class="card intro-card">
-        <h2 class="card-title">Défi Maths ⚡</h2>
+        <h2 class="card-title">Défi Maths</h2>
 
         <!-- Sélecteur de classe -->
         <div class="setting">
-          <label for="classe">🎓 Niveau : </label>
+          <label for="classe">Niveau : </label>
           <select id="classe" v-model="selectedClasse">
             <option v-for="c in availableClasses" :key="c" :value="c">{{ c }}</option>
           </select>

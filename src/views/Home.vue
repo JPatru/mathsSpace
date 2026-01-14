@@ -100,7 +100,7 @@
   const { currentQuestions: questions } = storeToRefs(store)
   
   const selectedClasse = ref('')
-  const questionCount = ref(1)
+  const questionCount = ref(4)
   const availableChapitres = ref<string[]>([])
   const selectedChapitres = ref<string[]>([])
   const revealed = ref<{ [key: number]: boolean }>({})
