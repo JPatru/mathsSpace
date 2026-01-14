@@ -131,8 +131,6 @@
     }, 0)
   }
 
-
-  
   function switchSet() {
     let data: Question[] = base
     if (selectedSet.value === 'eleves') data = eleves

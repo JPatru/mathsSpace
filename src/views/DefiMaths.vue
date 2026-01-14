@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import AppHeader from '../components/AppHeader.vue'
 import { ref, computed, onUnmounted, watch, nextTick } from 'vue'
 import defiQuestions from '../data/defi.json'
 
@@ -27,9 +28,9 @@ const sessionLog = ref<SessionEntry[]>([])
 const showReport = ref(false)
 
 const PRESETS: Record<1 | 2 | 3, Preset> = {
-  1: { minutes: 3,   penalty: 0, delay: 2, tone: 'green', emoji: '🟩', name: 'Cool'    },
-  2: { minutes: 2,   penalty: 1, delay: 2, tone: 'blue',  emoji: '🟦', name: 'Tonique' },
-  3: { minutes: 1.5, penalty: 2, delay: 3, tone: 'red',   emoji: '🟥', name: 'Turbo'   }
+  1: { minutes: 3,   penalty: 0, delay: 2, tone: 'green', emoji: '🟩', name: 'Tranquille'    },
+  2: { minutes: 2,   penalty: 0.5, delay: 2, tone: 'blue',  emoji: '🟦', name: 'Tonique' },
+  3: { minutes: 0.25, penalty: 1, delay: 3, tone: 'red',   emoji: '🟥', name: 'Turbo'   }
 }
 const selectedLevel = ref<1 | 2 | 3>(2)
 const selectedPreset = computed(() => PRESETS[selectedLevel.value])
@@ -234,7 +235,11 @@ onUnmounted(() => stopTimer())
 </script>
 
 <template>
-  <div class="defi-wrapper">
+  <div class="defi-wrapper">  
+  
+    <div class="app-header-wrapper">
+      <AppHeader />
+    </div>
     <!-- HEADER -->
     <header class="header-bar">
       <!-- MODE NORMAL -->
@@ -374,8 +379,6 @@ onUnmounted(() => stopTimer())
             (score et chrono désactivés en mode debug)
           </div>
         </template>
-
-        <button class="btn-primary" @click="startGame">Rejouer</button>
         
         <button class="btn-secondary" @click="showReport = !showReport" v-if="sessionLog.length">
           {{ showReport ? 'Masquer le rapport' : 'Voir le rapport' }}
@@ -433,6 +436,26 @@ onUnmounted(() => stopTimer())
 </template>
 
 <style scoped>
+  
+/* Wrapper du AppHeader dans la page Défi */
+.app-header-wrapper {
+  width: 100%;
+  max-width: 500px;        /* mets la même valeur que ton layout défi */
+  margin: 0 auto;          /* centre parfaitement */
+}
+
+/* Si jamais l'AppHeader a un width:100% interne, on le laisse mais on centre le wrapper */
+.app-header-wrapper :deep(.header-bar) {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+
+/* Descendre uniquement le bouton burger du AppHeader, dans la page Défi */
+.app-header-wrapper :deep(.burger) {
+  transform: translateY(20px);
+}
+
 
 .defi-wrapper {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Inter", Roboto, "Helvetica Neue", sans-serif;
@@ -818,6 +841,10 @@ onUnmounted(() => stopTimer())
 @media print {
   body {
     background: white;
+  }  
+  
+  @page {
+    margin: 0.8cm;
   }
 
   /* Masquer tout sauf le rapport */
@@ -831,10 +858,33 @@ onUnmounted(() => stopTimer())
   .report {
     display: block;
     font-size: 11pt;
+    column-count: 2;
+    column-gap: 0.5cm;
   }
 
   .report-item {
+    break-inside: avoid;
     page-break-inside: avoid;
+  }
+
+  
+  /* Force le navigateur à conserver les couleurs */
+  * {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  /* Au cas où le background est ignoré : bordure + texte vert */
+  .report-answers li.correct {
+    border: 2px solid #10b981 !important;
+    color: #065f46 !important;
+    background: #ecfdf5 !important; /* si fond imprimé, tant mieux */
+  }
+
+  /* Pareil pour le choix de l'élève si tu veux */
+  .report-answers li.chosen {
+    outline: 2px solid #0ea5e9 !important;
+    outline-offset: 1px !important;
   }
 }
 

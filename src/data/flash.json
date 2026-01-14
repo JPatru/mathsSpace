@@ -983,7 +983,7 @@
     {
       "id": 40002,
       "classe": "4e",
-      "chapitres": ["Calcul littéral"],
+      "chapitres": ["QCM Calcul littéral"],
       "question": "Quelle est l'écriture simplifiée de<br><br>\\(7 \\times x + 3 \\times y \\times 2\\)",
       "reponses": ["\\(7x+6y\\)", "\\(13xy\\)", "\\(12+x+y\\)", "\\(7x+3y2\\)"],
       "bonne_reponse": "\\(7x+6y\\)"
@@ -991,7 +991,7 @@
     {
       "id": 40003,
       "classe": "4e",
-      "chapitres": ["Calcul littéral"],
+      "chapitres": ["QCM Calcul littéral"],
       "question": "Réduire l'expression :<br><br>\\(x^2-2x+7x-x^2+7\\)",
       "reponses": ["\\(5x^6+7\\)", "\\(2x^2+5x\\)", "\\(5x^2+5\\)", "\\(5x+7\\)"],
       "bonne_reponse": "\\(5x+7\\)"
@@ -999,7 +999,7 @@
     {
       "id": 40004,
       "classe": "4e",
-      "chapitres": ["Calcul littéral"],
+      "chapitres": ["QCM Calcul littéral"],
       "question": "Réduire l'expression :<br><br>\\(2x^2+3y^2+x^2-6y\\)",
       "reponses": ["\\(3x^2-3y^2\\)", "\\(3x^2+3y^2-6y\\)", "\\(3x^4-3y^3\\)", "\\(0x^2y^2\\)"],
       "bonne_reponse": "\\(3x^2+3y^2-6y\\)"
@@ -1007,7 +1007,7 @@
     {
       "id": 40005,
       "classe": "4e",
-      "chapitres": ["Calcul littéral"],
+      "chapitres": ["QCM Calcul littéral"],
       "question": "Que vaut l'expression<br><br>\\(2x^2-2x+1\\) quand \\(x=3\\)",
       "reponses": ["\\(1\\)", "\\(7\\)", "\\(13\\)", "\\(18\\)"],
       "bonne_reponse": "\\(13\\)"
@@ -1015,7 +1015,7 @@
     {
       "id": 40006,
       "classe": "4e",
-      "chapitres": ["Calcul littéral"],
+      "chapitres": ["QCM Calcul littéral"],
       "question": "Que vaut l'expression<br><br>\\(x^2-7x-3\\) quand \\(x=-1\\)",
       "reponses": ["\\(-12\\)", "\\(-9\\)", "\\(3\\)", "\\(5\\)"],
       "bonne_reponse": "\\(5\\)"
@@ -1023,114 +1023,254 @@
     {
       "id": 40007,
       "classe": "4e",
-      "chapitres": ["Calcul littéral"],
+      "chapitres": ["Calcul littéral","Réduire"],
       "question": "Réduire l'expression<br> \\(2x+3-x+2\\)",
       "bonne_reponse": "\\(x+5\\)"
     },
     {
       "id": 40008,
       "classe": "4e",
-      "chapitres": ["Calcul littéral"],
+      "chapitres": ["Calcul littéral","Réduire"],
       "question": "Réduire l'expression<br> \\(-2x+x^2-7\\)",
       "bonne_reponse": "Elle est irréductible"
     },
     {
       "id": 40009,
       "classe": "4e",
-      "chapitres": ["Calcul littéral"],
+      "chapitres": ["Calcul littéral","Réduire"],
       "question": "Réduire l'expression<br> \\(7t^2+t-4t^2+2\\)",
       "bonne_reponse": "\\(3t^2+t+2\\)"
     },
     {
       "id": 40010,
       "classe": "4e",
-      "chapitres": ["Calcul littéral"],
+      "chapitres": ["Calcul littéral","Réduire"],
       "question": "Réduire l'expression<br> \\(12y^2 \\times y -3 \\times 4 y^3\\)",
       "bonne_reponse": "\\(0\\)"
     },
     {
       "id": 40011,
       "classe": "4e",
-      "chapitres": ["Calcul littéral"],
+      "chapitres": ["Calcul littéral","Développer"],
       "question": "Développer et réduire <br> \\(x(2 + 2x) \\)",
       "bonne_reponse": "\\(2x^2 + 2x\\)"
     },
     {
       "id": 40012,
       "classe": "4e",
-      "chapitres": ["Calcul littéral"],
+      "chapitres": ["Calcul littéral","Développer"],
       "question": "Développer et réduire <br> \\(7(2y+1) \\)",
       "bonne_reponse": "\\(14y+7\\)"
     },
     {
       "id": 40013,
       "classe": "4e",
-      "chapitres": ["Calcul littéral"],
+      "chapitres": ["Calcul littéral","Développer"],
       "question": "Développer et réduire <br> \\(-4,6(a-b)\\)",
       "bonne_reponse": "\\(4,6b-4,6a\\)"
     },
     {
       "id": 40014,
       "classe": "4e",
-      "chapitres": ["Calcul littéral"],
+      "chapitres": ["Calcul littéral","Factoriser"],
       "question": "Factoriser <br> \\(5x-10\\)",
       "bonne_reponse": "\\(5(x-2)\\)"
+    },    
+    {
+      "id": 40015,
+      "classe": "4e",
+      "chapitres": ["Calcul littéral","Réduire"],
+      "question": "Réduire l'expression<br> \\(3x+5-2x-1\\)",
+      "bonne_reponse": "\\(x+4\\)"
     },
     {
       "id": 40016,
+      "classe": "4e",
+      "chapitres": ["Calcul littéral","Réduire"],
+      "question": "Réduire l'expression<br> \\(7a-4+a-6\\)",
+      "bonne_reponse": "\\(8a-10\\)"
+    },
+    {
+      "id": 40017,
+      "classe": "4e",
+      "chapitres": ["Calcul littéral","Réduire"],
+      "question": "Réduire l'expression<br> \\(5y^2-3y+2y^2+7\\)",
+      "bonne_reponse": "\\(7y^2-3y+7\\)"
+    },
+    {
+      "id": 40018,
+      "classe": "4e",
+      "chapitres": ["Calcul littéral","Réduire"],
+      "question": "Réduire l'expression<br> \\(4x^2-2x+5-4x^2\\)",
+      "bonne_reponse": "\\(-2x+5\\)"
+    },
+    {
+      "id": 40019,
+      "classe": "4e",
+      "chapitres": ["Calcul littéral","Réduire"],
+      "question": "Réduire l'expression<br> \\(6m-3m+2-8\\)",
+      "bonne_reponse": "\\(3m-6\\)"
+    },
+    {
+      "id": 40020,
+      "classe": "4e",
+      "chapitres": ["Calcul littéral"],
+      "question": "Réduire l'expression<br> \\(9x^2+4x-9x^2-4x\\)",
+      "bonne_reponse": "\\(0\\)"
+    },
+    {
+      "id": 40021,
+      "classe": "4e",
+      "chapitres": ["Calcul littéral","Développer"],
+      "question": "Développer et réduire <br> \\(x(3x-5)\\)",
+      "bonne_reponse": "\\(3x^2-5x\\)"
+    },
+    {
+      "id": 40022,
+      "classe": "4e",
+      "chapitres": ["Calcul littéral","Développer"],
+      "question": "Développer et réduire <br> \\(4(2y-3)\\)",
+      "bonne_reponse": "\\(8y-12\\)"
+    },
+    {
+      "id": 40023,
+      "classe": "4e",
+      "chapitres": ["Calcul littéral","Développer"],
+      "question": "Développer et réduire <br> \\(-5(a+2)\\)",
+      "bonne_reponse": "\\(-5a-10\\)"
+    },
+    {
+      "id": 40024,
+      "classe": "4e",
+      "chapitres": ["Calcul littéral","Développer"],
+      "question": "Développer et réduire <br> \\(2x(3-x)\\)",
+      "bonne_reponse": "\\(6x-2x^2\\)"
+    },
+    {
+      "id": 40025,
+      "classe": "4e",
+      "chapitres": ["Calcul littéral","Développer"],
+      "question": "Développer et réduire <br> \\(-3(4y-1)\\)",
+      "bonne_reponse": "\\(-12y+3\\)"
+    },
+    {
+      "id": 40026,
+      "classe": "4e",
+      "chapitres": ["Calcul littéral","Réduire"],
+      "question": "Réduire l'expression<br> \\(2x^2+3x-5+x^2-3x\\)",
+      "bonne_reponse": "\\(3x^2-5\\)"
+    },
+    {
+      "id": 40027,
+      "classe": "4e",
+      "chapitres": ["Calcul littéral","Réduire"],
+      "question": "Réduire l'expression<br> \\(7-4x+2x-3\\)",
+      "bonne_reponse": "\\(-2x+4\\)"
+    },
+    {
+      "id": 40028,
+      "classe": "4e",
+      "chapitres": ["Calcul littéral","Factoriser"],
+      "question": "Factoriser <br> \\(6x+12\\)",
+      "bonne_reponse": "\\(6(x+2)\\)"
+    },
+    {
+      "id": 40029,
+      "classe": "4e",
+      "chapitres": ["Calcul littéral","Factoriser"],
+      "question": "Factoriser <br> \\(9y-3\\)",
+      "bonne_reponse": "\\(3(3y-1)\\)"
+    },
+    {
+      "id": 40030,
+      "classe": "4e",
+      "chapitres": ["Calcul littéral","Factoriser"],
+      "question": "Factoriser <br> \\(-4x+8\\)",
+      "bonne_reponse": "\\(-4(x-2)\\)"
+    },
+    {
+      "id": 40031,
+      "classe": "4e",
+      "chapitres": ["Calcul littéral","Réduire"],
+      "question": "Réduire l'expression<br> \\(5a^2-2a+7\\)",
+      "bonne_reponse": "Elle est irréductible"
+    },
+    {
+      "id": 40032,
+      "classe": "4e",
+      "chapitres": ["Calcul littéral","Réduire"],
+      "question": "Réduire l'expression<br> \\(-3x^2+5x-1+3x^2\\)",
+      "bonne_reponse": "\\(5x-1\\)"
+    },
+    {
+      "id": 40033,
+      "classe": "4e",
+      "chapitres": ["Calcul littéral","Développer"],
+      "question": "Développer et réduire <br> \\(x(x-4)\\)",
+      "bonne_reponse": "\\(x^2-4x\\)"
+    },
+    {
+      "id": 40034,
+      "classe": "4e",
+      "chapitres": ["Calcul littéral","Factoriser"],
+      "question": "Factoriser <br> \\(10-5x\\)",
+      "bonne_reponse": "\\(5(2-x)\\)"
+    },
+    {
+      "id": 40035,
       "classe": "4e",
       "chapitres": ["Multiples et Diviseurs", "Division euclidienne"],
       "question": "Quel est le reste de la division de \\(16\\) par \\(5\\) ?",
       "bonne_reponse": "\\(1\\)"
     },
     {
-      "id": 40017,
+      "id": 40036,
       "classe": "4e",
       "chapitres": ["Multiples et Diviseurs", "Division euclidienne"],
       "question": "Quel est le reste de la division de \\(40\\) par \\(6\\) ?",
       "bonne_reponse": "\\(4\\)"
     },
     {
-      "id": 40018,
+      "id": 40037,
       "classe": "4e",
       "chapitres": ["Multiples et Diviseurs", "Division euclidienne"],
       "question": "Quel est le reste de la division de \\(52\\) par \\(7\\) ?",
       "bonne_reponse": "\\(3\\)"
     },
     {
-      "id": 40019,
+      "id": 40038,
       "classe": "4e",
       "chapitres": ["Multiples et Diviseurs", "Division euclidienne"],
       "question": "Quel est le reste de la division de \\(96\\) par \\(6\\) ?",
       "bonne_reponse": "\\(0\\)"
     },
     {
-      "id": 40020,
+      "id": 40039,
       "classe": "4e",
       "chapitres": ["Multiples et Diviseurs"],
       "question": "Quel est le reste de la division de \\(100\\) par \\(11\\) ?",
       "bonne_reponse": "\\(1\\)"
     },
     {
-      "id": 40021,
+      "id": 40040,
       "classe": "4e",
-      "chapitres": ["Multiples et Diviseurs"],
+      "chapitres": ["QCM Multiples et Diviseurs"],
       "question": "Quel nombre est un multiple de \\(3\\) ?",
       "reponses": ["\\(965\\)", "\\(468\\)", "\\(358\\)", "\\(445\\)"],
       "bonne_reponse": "\\(468\\)"
     },
     {
-      "id": 40022,
+      "id": 40041,
       "classe": "4e",
-      "chapitres": ["Multiples et Diviseurs", "test"],
+      "chapitres": ["QCM Multiples et Diviseurs"],
       "question": "Quel nombre est un multiple de \\(4\\) ?",
       "reponses": ["\\(16~365\\)", "\\(100~030\\)", "\\(105~692\\)", "\\(2~541\\)"],
       "bonne_reponse": "\\(105~692\\)"
     },
     {
-      "id": 40023,
+      "id": 40042,
       "classe": "4e",
-      "chapitres": ["Multiples et Diviseurs", "test"],
+      "chapitres": ["QCM Multiples et Diviseurs"],
       "question": "Quel nombre est un multiple de \\(6\\) ?",
       "reponses": ["\\(1~113\\)", "\\(6~569~019\\)", "\\(98\\)", "\\(7~002\\)"],
       "bonne_reponse": "\\(7~002\\)"
