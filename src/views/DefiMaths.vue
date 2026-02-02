@@ -30,7 +30,7 @@ const showReport = ref(false)
 const PRESETS: Record<1 | 2 | 3, Preset> = {
   1: { minutes: 3,   penalty: 0, delay: 2, tone: 'green', emoji: '🟩', name: 'Tranquille'    },
   2: { minutes: 2,   penalty: 0.5, delay: 2, tone: 'blue',  emoji: '🟦', name: 'Tonique' },
-  3: { minutes: 0.25, penalty: 1, delay: 3, tone: 'red',   emoji: '🟥', name: 'Turbo'   }
+  3: { minutes: 1.5, penalty: 1, delay: 3, tone: 'red',   emoji: '🟥', name: 'Turbo'   }
 }
 const selectedLevel = ref<1 | 2 | 3>(2)
 const selectedPreset = computed(() => PRESETS[selectedLevel.value])
@@ -326,9 +326,26 @@ onUnmounted(() => stopTimer())
       </section>
 
       <!-- EN COURS -->
-      <section v-else-if="isRunning && !finalScreen && currentQuestion"
-               class="card question-card-defi" :class="{ locked: isLocked, wrong: wrongFlash }">
+        <section
+          v-else-if="isRunning && !finalScreen && currentQuestion"
+          class="card question-card-defi"
+          :class="{
+            locked: isLocked,
+            wrong: wrongFlash,
+            'combo-3': !isDebugMode && streak >= 3 && streak < 5,
+            'combo-5': !isDebugMode && streak >= 5
+          }"
+        >
         <p v-if="isDebugMode && currentQuestion" class="debug-id">ID : {{ currentQuestion.id }}</p>
+
+        <div v-if="!isDebugMode && streak >= 3" class="combo-banner" :class="{ big: streak >= 5 }">
+          <span class="combo-banner-title">
+            🔥 Combo : {{ streak }} bonnes réponses
+          </span>
+          <span class="combo-banner-points">
+            +{{ awardedPerGood }} pt / bonne réponse
+          </span>
+        </div>
 
         <p class="question-text" v-html="currentQuestion.question"></p>
 
@@ -501,17 +518,60 @@ onUnmounted(() => stopTimer())
 }
 
 .combo-badge {
-  font-size: 0.75rem;
+  font-size: 0.85rem;            /* avant: 0.75 */
   font-weight: 700;
-  padding: 0.15rem 0.45rem;
+  padding: 0.25rem 0.55rem;      /* un peu plus gros */
   border-radius: 999px;
   background: #dcfce7;
   color: #166534;
   border: 1px solid #16a34a;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.10);
 }
 
 .combo-badge.big {
+  transform: scale(1.05);
   background: #bbf7d0;
+}
+
+/* ===== BANDEAU COMBO (dans la carte) ===== */
+.combo-banner {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  align-items: center;
+  justify-content: center;
+  padding: 0.6rem 0.9rem;
+  border-radius: 12px;
+  font-weight: 800;
+  text-align: center;
+  border: 2px solid transparent;
+  transform: translateZ(0);
+}
+
+.question-card-defi.combo-3 .combo-banner {
+  background: #06b6d4;
+  color: white;
+  border-color: #0891b2;
+}
+
+.question-card-defi.combo-5 .combo-banner {
+  background: #f97316;
+  color: white;
+  border-color: #ea580c;
+}
+
+.combo-banner-title {
+  font-size: 1rem;
+}
+
+.combo-banner-points {
+  font-size: 0.85rem;
+  opacity: 0.95;
+}
+
+.combo-banner.big {
+  padding: 0.7rem 1rem;
+  font-size: 1.05rem;
 }
 
 .score-detail {
@@ -699,6 +759,19 @@ onUnmounted(() => stopTimer())
   text-align: left;
   transition: border-color .15s ease, background-color .15s ease, opacity .15s ease;
 }
+
+/* ===== COMBO VISUEL SUR LA CARTE ===== */
+
+.question-card-defi.combo-3 {
+  background: linear-gradient(135deg, #ecfeff, #cffafe);
+  border-color: #22d3ee;
+}
+
+.question-card-defi.combo-5 {
+  background: linear-gradient(135deg, #fff7ed, #ffedd5);
+  border-color: #fb923c;
+}
+
 
 .locked {
   pointer-events: none;

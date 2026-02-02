@@ -4342,7 +4342,7 @@
   {
     "id": 4201621,
     "classe": "4e",
-    "chapitres": ["Pythagore"],
+    "chapitres": ["Pythagore","solides"],
     "question": "<img src='figures/4_2016_04.png' style='transform: scale(0.6); transform-origin: auto;' width='220' /><br><br>\\(BC = \\ldots\\) cm",
     "bonne_reponse": "\\(BC = \\sqrt{100} = 10\\) cm"
   },
@@ -4363,7 +4363,7 @@
   {
     "id": 4201624,
     "classe": "4e",
-    "chapitres": ["pourcentages"],
+    "chapitres": ["pourcentages","solides"],
     "question": "Dans une classe, il y a \\(15\\) filles et \\(5\\) garçons.<br>Quel est le pourcentage de garçons ?",
     "bonne_reponse": "\\(25 \\%\\)"
   },
@@ -4720,7 +4720,7 @@
   {
     "id": 4201815,
     "classe": "4e",
-    "chapitres": ["calcul littéral"],
+    "chapitres": ["calcul littéral","solides"],
     "question": "\\(A = 5 + 2x\\)<br>Calculer \\(A\\) pour \\(x=-3\\)",
     "bonne_reponse": "\\(A = -1\\)"
   },
@@ -4783,7 +4783,7 @@
   {
     "id": 4201824,
     "classe": "4e",
-    "chapitres": ["unités"],
+    "chapitres": ["unités","solides"],
     "question": "\\(3,2\\) m\\(^3 = \\ldots\\) L",
     "bonne_reponse": "\\(3~200\\) L"
   },

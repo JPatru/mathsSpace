@@ -1274,5 +1274,33 @@
       "question": "Quel nombre est un multiple de \\(6\\) ?",
       "reponses": ["\\(1~113\\)", "\\(6~569~019\\)", "\\(98\\)", "\\(7~002\\)"],
       "bonne_reponse": "\\(7~002\\)"
+    },
+    {
+      "id": 40043,
+      "classe": "4e",
+      "chapitres": ["Produit de fractions"],
+      "question": "\\(\\dfrac{1}{2} \\times \\dfrac{2}{3}\\)",
+      "bonne_reponse": "\\(\\dfrac{2}{6} = \\dfrac{1}{3}\\)"
+    },
+    {
+      "id": 40044,
+      "classe": "4e",
+      "chapitres": ["Produit de fractions"],
+      "question": "\\(\\dfrac{10}{3} \\times \\dfrac{1}{7}\\)",
+      "bonne_reponse": "\\(\\dfrac{10}{21}\\)"
+    },
+    {
+      "id": 40045,
+      "classe": "4e",
+      "chapitres": ["Produit de fractions"],
+      "question": "\\(-\\dfrac{6}{7} \\times \\dfrac{-3}{11}\\)",
+      "bonne_reponse": "\\(\\dfrac{18}{77}\\)"
+    },
+    {
+      "id": 40046,
+      "classe": "4e",
+      "chapitres": ["Produit de fractions"],
+      "question": "\\(\\dfrac{30}{6} \\times \\left(-\\dfrac{2}{15}\\right)\\)",
+      "bonne_reponse": "\\(-\\dfrac{2}{3}\\)"
     }
   ]

@@ -1736,14 +1736,6 @@
     "bonne_reponse": "4"
   },
   {
-    "id": 40126,
-    "classe": "4e",
-    "chapitres": ["Proportionnalité"],
-    "question": "Complète : 6 → 12 ; 9 → ?",
-    "reponses": ["15", "16", "18", "22"],
-    "bonne_reponse": "18"
-  },
-  {
     "id": 40127,
     "classe": "4e",
     "chapitres": ["Proportionnalité"],
