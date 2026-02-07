@@ -2278,5 +2278,245 @@
     "question": "Réduire l’expression : \\(m \\times 2 \\times m\\)",
     "reponses": ["\\(2m\\)", "\\(m^2\\)", "\\(2m^2\\)", "\\(4m\\)"],
     "bonne_reponse": "\\(2m^2\\)"
+  },
+  {
+    "id": 20001,
+    "classe": "2de",
+    "chapitres": ["Puissances"],
+    "question": "\\(5^7 \\times \\left(5^3\\right)^2\\)",
+    "reponses": ["\\(5^7 \\times 5^5\\)", "\\(5^{42}\\)", "\\(5^{12}\\)", "\\(5^{13}\\)"],
+    "bonne_reponse": "\\(5^{13}\\)"
+  },
+  {
+    "id": 20002,
+    "classe": "2de",
+    "chapitres": ["Puissances"],
+    "question": "\\(\\dfrac{\\left(-3\\right)^5}{3^7 \\times 3}\\)",
+    "reponses": ["\\(-3^{-3}\\)", "\\(3^{-3}\\)", "\\(-\\dfrac{1}{3^2}\\)", "\\(\\dfrac{1}{3^3}\\)"],
+    "bonne_reponse": "\\(-3^{-3}\\)"
+  },
+  {
+    "id": 20003,
+    "classe": "2de",
+    "chapitres": ["Puissances"],
+    "question": "\\(\\dfrac{ab^6}{\\left(ab\\right)^4}\\)",
+    "reponses": ["\\(\\dfrac{1}{a^2b^2}\\)", "\\(a^{-3}b^2\\)", "\\(\\left(ab\\right)^2\\)", "\\(a^{-4}b^2\\)"],
+    "bonne_reponse": "\\(a^{-3}b^2\\)"
+  },
+  {
+    "id": 20004,
+    "classe": "2de",
+    "chapitres": ["Puissances"],
+    "question": "Trouve l'intrus",
+    "reponses": ["\\(3,5 \\times 10^4\\)", "\\(35000\\)", "\\(\\dfrac{35}{10^{-3}}\\)", "\\(0,035 \\times 10^{-2}\\)"],
+    "bonne_reponse": "\\(0,035 \\times 10^{-2}\\)"
+  },
+  {
+    "id": 20005,
+    "classe": "2de",
+    "chapitres": ["Puissances"],
+    "question": "Trouve l'intrus",
+    "reponses": ["\\(\\left(-4\\right)^3\\)", "\\(4^3\\)", "\\(\\dfrac{-4^5 \\times 4^6}{\\left(4^2\\right)^4}\\)", "\\(\\dfrac{4^{-8}}{\\left(-4\\right)^{-11}}\\)"],
+    "bonne_reponse": "\\(4^3\\)"
+  },
+  {
+    "id": 20006,
+    "classe": "2de",
+    "chapitres": ["Puissances"],
+    "question": "Trouve l'intrus",
+    "reponses": ["\\(\\left(2 \\times 3\\right)^{-1}\\)", "\\(\\dfrac{6^{10}}{6^7 \\times 6^4}\\)", "\\(6\\)", "\\(6^5 \\times \\dfrac{6^{-4}}{6^2}\\)"],
+    "bonne_reponse": "\\(6\\)"
+  },
+  {
+    "id": 20007,
+    "classe": "2de",
+    "chapitres": ["Fractions irréductibles"],
+    "question": "Quelle est la fraction irreductible ?",
+    "reponses": ["\\(\\dfrac{315}{215}\\)", "\\(\\dfrac{4122}{99}\\)", "\\(\\dfrac{23}{49}\\)", "\\(\\dfrac{111}{342}\\)"],
+    "bonne_reponse": "\\(\\dfrac{23}{49}\\)"
+  },
+  {
+    "id": 20008,
+    "classe": "2de",
+    "chapitres": ["Fractions irréductibles"],
+    "question": "Quelle est la fraction irreductible ?",
+    "reponses": ["\\(\\dfrac{224}{1316}\\)", "\\(\\dfrac{69}{23}\\)", "\\(\\dfrac{121}{44}\\)", "\\(\\dfrac{87}{17}\\)"],
+    "bonne_reponse": "\\(\\dfrac{87}{17}\\)"
+  },
+  {
+    "id": 20009,
+    "classe": "2de",
+    "chapitres": ["Calcul littéral"],
+    "question": "Développe \\((5x-9)(5x-9)\\)",
+    "reponses": ["\\(10x -18\\)", "\\(25x^2+81\\)", "\\(10x +18\\)", "\\(25x^2-90x+81\\)"],
+    "bonne_reponse": "\\(25x^2-90x+81\\)"
+  },
+  {
+    "id": 20010,
+    "classe": "2de",
+    "chapitres": ["Calcul littéral"],
+    "question": "Développe \\((10x-6)(10x+6)\\)",
+    "reponses": ["\\(100X^2-12x+36\\)", "\\(100x^2-36\\)", "\\(100x^2+36\\)", "\\(100X^2+120x+36\\)"],
+    "bonne_reponse": "\\(100x^2-36\\)"
+  },
+  {
+    "id": 20011,
+    "classe": "2de",
+    "chapitres": ["Calcul littéral"],
+    "question": "Développe \\(\\left(7x+3\\right)^2\\)",
+    "reponses": ["\\(14x^2+6\\)", "\\(49x^2-9\\)", "\\(49x^2+42x+9\\)", "\\(14x+9x^2\\)"],
+    "bonne_reponse": "\\(49x^2+42x+9\\)"
+  },
+  {
+    "id": 20012,
+    "classe": "2de",
+    "chapitres": ["Calcul littéral"],
+    "question": "Factorise \\(25x^2+5x\\)",
+    "reponses": ["\\(x(25x+5)\\)", "\\(5(x+5)\\)", "\\(5x(5x+1)\\)", "\\(x^2\\left(25+\\dfrac{5}{x}\\right)\\)"],
+    "bonne_reponse": "\\(5x(5x+1)\\)"
+  },
+  {
+    "id": 20013,
+    "classe": "2de",
+    "chapitres": ["Calcul littéral"],
+    "question": "Factorise \\(4x^2-4x+1\\)",
+    "reponses": ["\\(\\left(2x-1\\right)^2\\)", "\\((2x+1)(2x-1)\\)", "\\(\\left(2x+1\\right)^2\\)", "\\(\\left(4x-2\\right)^2\\)"],
+    "bonne_reponse": "\\(\\left(2x-1\\right)^2\\)"
+  },
+  {
+    "id": 20014,
+    "classe": "2de",
+    "chapitres": ["Calcul littéral"],
+    "question": "Factorise \\(25x^2-64\\)",
+    "reponses": ["\\(\\left(5x+8\\right)^2\\)", "\\(5x^2-8^2\\)", "\\(\\left(5x-8\\right)^2\\)", "\\((5x+8)(5x-8)\\)"],
+    "bonne_reponse": "\\((5x+8)(5x-8)\\)"
+  },
+  {
+    "id": 20015,
+    "classe": "2de",
+    "chapitres": ["Equations"],
+    "question": "Résoudre \\(4x+1=2\\)",
+    "reponses": ["\\(S=\\left\\{\\dfrac{1}{4}\\right\\}\\)", "\\(S=\\left\\{\\dfrac{3}{4}\\right\\}\\)", "\\(S=\\left\\{-\\dfrac{1}{4}\\right\\}\\)", "\\(S=\\left\\{-\\dfrac{3}{4}\\right\\}\\)"],
+    "bonne_reponse": "\\(S=\\left\\{\\dfrac{1}{4}\\right\\}\\)"
+  },
+  {
+    "id": 20016,
+    "classe": "2de",
+    "chapitres": ["Equations"],
+    "question": "Résoudre \\(5x+7=2x+16\\)",
+    "reponses": ["\\(S=\\left\\{\\dfrac{23}{7}\\right\\}\\)", "\\(S=\\left\\{-\\dfrac{23}{7}\\right\\}\\)", "\\(S=\\left\\{3\\right\\}\\)", "\\(S=\\left\\{-3\\right\\}\\)"],
+    "bonne_reponse": "\\(S=\\left\\{3\\right\\}\\)"
+  },
+  {
+    "id": 20017,
+    "classe": "2de",
+    "chapitres": ["Equations"],
+    "question": "Résoudre \\(3-2x=0\\)",
+    "reponses": ["\\(S=\\left\\{\\dfrac{2}{3}\\right\\}\\)", "\\(S=\\left\\{-\\dfrac{2}{3}\\right\\}\\)", "\\(S=\\left\\{-\\dfrac{3}{2}\\right\\}\\)", "\\(S=\\left\\{\\dfrac{3}{2}\\right\\}\\)"],
+    "bonne_reponse": "\\(S=\\left\\{\\dfrac{3}{2}\\right\\}\\)"
+  },
+  {
+    "id": 20018,
+    "classe": "2de",
+    "chapitres": ["Equations"],
+    "question": "Résoudre \\(x^2-9=0\\)",
+    "reponses": ["\\(S=\\left\\{3\\right\\}\\)", "\\(S=\\left\\{9\\right\\}\\)", "\\(S=\\left\\{-3;3\\right\\}\\)", "\\(S=\\left\\{-9;9\\right\\}\\)"],
+    "bonne_reponse": "\\(S=\\left\\{-3;3\\right\\}\\)"
+  },
+  {
+    "id": 20019,
+    "classe": "2de",
+    "chapitres": ["Equations"],
+    "question": "Résoudre \\(x^2-7=0\\)",
+    "reponses": ["\\(S=\\left\\{3,5\\right\\}\\)", "\\(S=\\left\\{-\\dfrac{7}{2};\\dfrac{7}{2}\\right\\}\\)", "\\(S=\\left\\{-\\sqrt{7};\\sqrt{7}\\right\\}\\)", "\\(S=\\left\\{-49;49\\right\\}\\)"],
+    "bonne_reponse": "\\(S=\\left\\{-\\sqrt{7};\\sqrt{7}\\right\\}\\)"
+  },
+  {
+    "id": 20020,
+    "classe": "2de",
+    "chapitres": ["Coordonnées"],
+    "question": "Soit \\(A(4;2)\\) et \\(B(8;0)\\). Les coordonnées du milieu \\(I\\) de \\([AB]\\) sont :",
+    "reponses": ["\\(I(12;2)\\)", "\\(I(4;-2)\\)", "\\(I(6;1)\\)", "\\(I(-4;2)\\)"],
+    "bonne_reponse": "\\(I(6;1)\\)"
+  },
+  {
+    "id": 20021,
+    "classe": "2de",
+    "chapitres": ["Fonctions affines"],
+    "question": "Lequel de ces points appartient à la droite dont l'équation est \\(y=5x+3\\)",
+    "reponses": ["\\(A(1;2)\\)", "\\(B(3;18)\\)", "\\(C(0;-3)\\)", "\\(D(-1;1)\\)"],
+    "bonne_reponse": "\\(B(3;18)\\)"
+  },
+  {
+    "id": 20022,
+    "classe": "2de",
+    "chapitres": ["Fonctions affines"],
+    "question": "Soit \\(f\\) une fonction affine. Si \\(f(x)=3x\\), l'ordonnée à l'origine de \\(f\\) est :",
+    "reponses": ["\\(3\\)", "\\(-3\\)", "\\(0\\)", "\\(1\\)"],
+    "bonne_reponse": "\\(0\\)"
+  },
+  {
+    "id": 20023,
+    "classe": "2de",
+    "chapitres": ["Fonctions de référence"],
+    "question": "Si \\(\\dfrac{1}{x}=9\\) alors \\(x=\\dfrac{9}{1}\\)",
+    "reponses": ["Vrai", "Faux", "On ne peut pas savoir"],
+    "bonne_reponse": "Faux"
+  },
+  {
+    "id": 20024,
+    "classe": "2de",
+    "chapitres": ["Fonctions de référence"],
+    "question": "Si \\(x < 5\\) alors \\(\\dfrac{1}{x} > \\dfrac{1}{5}\\)",
+    "reponses": ["Vrai", "Faux", "On ne peut pas savoir"],
+    "bonne_reponse": "Faux"
+  },
+  {
+    "id": 20025,
+    "classe": "2de",
+    "chapitres": ["Fonctions de référence"],
+    "question": "Si \\(\\sqrt{x} \\le 9\\) alors ",
+    "reponses": ["\\(0 \\le x \\le 4,5\\)", "\\(0 \\le x \\le 3\\)", "\\(0 \\le x \\le 81\\)", "\\(-3 \\le x \\le 3\\)"],
+    "bonne_reponse": "\\(0 \\le x \\le 81\\)"
+  },
+  {
+    "id": 20026,
+    "classe": "2de",
+    "chapitres": ["Fonctions de référence"],
+    "question": "Un antécédent de 5 par la fonction racine carrée est ",
+    "reponses": ["\\(-25\\)", "\\(\\sqrt{5}\\)", "\\(2,5\\)", "\\(25\\)"],
+    "bonne_reponse": "\\(25\\)"
+  },
+  {
+    "id": 20027,
+    "classe": "2de",
+    "chapitres": ["Fonctions de référence"],
+    "question": "<img src='figures/defi/1_defi_001.png' style='transform: scale(1); transform-origin: auto;' width='300' /><br><br>\\(f(x) \\ge 0\\) sur :",
+    "reponses": ["\\([0;6]\\)", "\\([2;5]\\)", "\\([-4;-1]\\)", "\\([-2{,}8;1{,}75]\\)"],
+    "bonne_reponse": "\\([-4;-1]\\)"
+  },
+  {
+    "id": 20028,
+    "classe": "2de",
+    "chapitres": ["Fonctions de référence"],
+    "question": "<img src='figures/defi/1_defi_001.png' style='transform: scale(1); transform-origin: auto;' width='300' /><br><br>\\(f(x) < 0\\) sur :",
+    "reponses": ["\\(]-1;2,3[ \\cup ]5;6]\\)", "\\(]-1;2,3[ \\cup ]5;6[\\)", "\\([-1;2,3] \\cup [5;6]\\)", "\\([-1;2,3] \\cup [5;6[\\)"],
+    "bonne_reponse": "\\(]-1;2,3[ \\cup ]5;6]\\)"
+  },
+  {
+    "id": 20029,
+    "classe": "2de",
+    "chapitres": ["Fonctions de référence"],
+    "question": "<img src='figures/defi/1_defi_001.png' style='transform: scale(1); transform-origin: auto;' width='300' /><br><br>Résoudre graphiquement \\(f(x) < g(x)\\) :",
+    "reponses": ["\\(S=]-2;2[ \\cup ]5;6[\\)", "\\(S=]-2;2] \\cup [5;6[\\)", "\\(S=]-2;2[ \\cup ]5;6]\\)", "\\(S=[-2;2[ \\cup ]5;6]\\)"],
+    "bonne_reponse": "\\(S=]-2;2[ \\cup ]5;6]\\)"
+  },
+  {
+    "id": 20030,
+    "classe": "2de",
+    "chapitres": ["Fonctions de référence"],
+    "question": "<img src='figures/defi/1_defi_001.png' style='transform: scale(1); transform-origin: auto;' width='300' /><br><br>Résoudre graphiquement \\(g(x) > 3\\) :",
+    "reponses": ["\\(S=[-3;-2] \\cup [3,3;4,3]\\)", "\\(S=]-2;1[\\)", "\\(S=[-2;1]\\)", "\\(S=]-3;-2] \\cup ]3,3;4,3]\\)"],
+    "bonne_reponse": "\\(S=]-2;1[\\)"
   }
 ]

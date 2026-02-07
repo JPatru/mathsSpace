@@ -1302,5 +1302,26 @@
       "chapitres": ["Produit de fractions"],
       "question": "\\(\\dfrac{30}{6} \\times \\left(-\\dfrac{2}{15}\\right)\\)",
       "bonne_reponse": "\\(-\\dfrac{2}{3}\\)"
+    },
+    {
+      "id": 40047,
+      "classe": "4e",
+      "chapitres": ["Produit de fractions"],
+      "question": "\\(\\dfrac{8}{5} \\times \\dfrac{15}{4}\\)",
+      "bonne_reponse": "\\(6\\)"
+    },
+    {
+      "id": 40048,
+      "classe": "4e",
+      "chapitres": ["Produit de fractions"],
+      "question": "\\(\\dfrac{2}{21} \\times \\left(-\\dfrac{3}{2}\\right)\\)",
+      "bonne_reponse": "\\(-\\dfrac{1}{7}\\)"
+    },
+    {
+      "id": 40049,
+      "classe": "4e",
+      "chapitres": ["Produit de fractions"],
+      "question": "\\(\\dfrac{-100}{-3} \\times \\left(-\\dfrac{5}{80}\\right)\\)",
+      "bonne_reponse": "\\(-\\dfrac{25}{12}\\)"
     }
   ]
