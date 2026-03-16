@@ -1375,7 +1375,7 @@
     "id": 62022217,
     "classe": "6e",
     "chapitres": ["périmètre"],
-    "question": "Le périmètre de cette figure est \\(30\\) cm.<br><br><img src='figures/6_2022_2_02.png' style='transform: scale(1); transform-origin: auto;' width='220' /><br>? \\(= \\ldots\\) cm",
+    "question": "Le périmètre de cette figure est \\(30\\) cm.<br><br><img src='figures/6_2022_2_02.png' style='transform: scale(1); transform-origin: auto;' width='220' /><br>\\(?= \\ldots\\) cm",
     "bonne_reponse": "\\(4,5\\) cm"
   },
   {
@@ -1971,7 +1971,7 @@
     "classe": "6e",
     "chapitres": ["opérations"],
     "question": "\\(50 \\times 6,3 \\times 2\\)",
-    "bonne_reponse": "\\(6~300\\)"
+    "bonne_reponse": "\\(630\\)"
   },
   {
     "id": 6202413,
@@ -3230,7 +3230,7 @@
     "id": 5202012,
     "classe": "5e",
     "chapitres": ["proportionnalité"],
-    "question": "La figure ➁ est un agrandissement de ➀.<br><br><img src='figures/5_2020_02.png' style='transform: scale(1); transform-origin: auto; width='250';' /><br><br>? \\(= \\ldots\\) cm",
+    "question": "La figure ➁ est un agrandissement de ➀.<br><br><img src='figures/5_2020_02.png' style='transform: scale(1); transform-origin: auto; width='250';' /><br><br>\\(?= \\ldots\\) cm",
     "bonne_reponse": "\\(4,8\\) cm"
   },
   {
@@ -4078,7 +4078,7 @@
     "classe": "5e",
     "chapitres": ["proportionnalité"],
     "question": "On donne le tableau de proportionnalité suivant :<br><br><img src='figures/5_2024_01.png' style='transform: scale(0.8); transform-origin: auto;' width='220' />",
-    "bonne_reponse": "? \\(= 24\\)"
+    "bonne_reponse": "\\(?= 24\\)"
   },
   {
     "id": 5202414,
@@ -4099,7 +4099,7 @@
     "classe": "5e",
     "chapitres": ["triangles"],
     "question": "<img src='figures/5_2024_03.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
-    "bonne_reponse": "? \\(= 70^\\circ\\)"
+    "bonne_reponse": "\\(?= 70^\\circ\\)"
   },
   {
     "id": 5202417,
@@ -4330,7 +4330,7 @@
     "classe": "4e",
     "chapitres": ["proportionnalité"],
     "question": "La figure 2 est un agrandis-<br>sement de la figure 1 :<br><br><img src='figures/4_2016_03.png' style='transform: scale(0.8); transform-origin: auto;' width='220' />",
-    "bonne_reponse": "? \\(= 6\\) cm"
+    "bonne_reponse": "\\(?= 6\\) cm"
   },
   {
     "id": 4201620,
@@ -4357,8 +4357,8 @@
     "id": 4201623,
     "classe": "4e",
     "chapitres": ["angles"],
-    "question": "<img src='figures/4_2016_05.png' style='transform: scale(1); transform-origin: auto;' width='250' /><br><br>? \\(= \\ldots ^\\circ\\)",
-    "bonne_reponse": "? \\(= 20 ^\\circ\\)"
+    "question": "<img src='figures/4_2016_05.png' style='transform: scale(1); transform-origin: auto;' width='250' /><br><br>\\(?= \\ldots ^\\circ\\)",
+    "bonne_reponse": "\\(?= 20 ^\\circ\\)"
   },
   {
     "id": 4201624,
@@ -4763,15 +4763,15 @@
     "id": 4201821,
     "classe": "4e",
     "chapitres": ["Pythagore"],
-    "question": "<img src='figures/4_2018_03.png' style='transform: scale(0.8); transform-origin: auto;' width='220' /><br><br>? \\(= \\ldots\\) cm",
-    "bonne_reponse": "? \\(= \\sqrt{13}\\) cm"
+    "question": "<img src='figures/4_2018_03.png' style='transform: scale(0.8); transform-origin: auto;' width='220' /><br><br>\\(?= \\ldots\\) cm",
+    "bonne_reponse": "\\(?= \\sqrt{13}\\) cm"
   },
   {
     "id": 4201822,
     "classe": "4e",
     "chapitres": ["proportionnalité"],
     "question": "Le triangle ➁ est un agrandissement du triangle ➀<br><img src='figures/4_2018_04.png' style='transform: scale(1); transform-origin: auto;' width='250' /><br><br>\\(? = \\ldots\\) cm",
-    "bonne_reponse": "? \\(= 2,4\\) cm"
+    "bonne_reponse": "\\(?= 2,4\\) cm"
   },
   {
     "id": 4201823,
@@ -4791,8 +4791,8 @@
     "id": 4201825,
     "classe": "4e",
     "chapitres": ["triangles"],
-    "question": "<img src='figures/4_2018_06.png' style='transform: scale(0.8); transform-origin: auto;' width='220' /><br><br>? \\(=\\ldots ^\\circ\\)",
-    "bonne_reponse": "? \\(=84 ^\\circ\\)"
+    "question": "<img src='figures/4_2018_06.png' style='transform: scale(0.8); transform-origin: auto;' width='220' /><br><br>\\(?=\\ldots ^\\circ\\)",
+    "bonne_reponse": "\\(?=84 ^\\circ\\)"
   },
   {
     "id": 4201826,
@@ -4828,6 +4828,636 @@
     "chapitres": ["volumes"],
     "question": "Volume de ce prisme droit :<br><br><img src='figures/4_2018_07.png' style='transform: scale(0.8); transform-origin: auto;' width='220' />",
     "bonne_reponse": "\\(14\\) cm\\(^3\\)"
+  },
+  {
+    "id": 4201901,
+    "classe": "4e",
+    "chapitres": ["opérations"],
+    "question": "\\(9 \\times 7\\)",
+    "bonne_reponse": "\\(63\\)"
+  },
+  {
+    "id": 4201902,
+    "classe": "4e",
+    "chapitres": ["fractions"],
+    "question": "Le tiers de \\(12\\)",
+    "bonne_reponse": "\\(4\\)"
+  },
+  {
+    "id": 4201903,
+    "classe": "4e",
+    "chapitres": ["nombres"],
+    "question": "\\(7 \\times 10\\ 000 + 5 \\times 100\\)",
+    "bonne_reponse": "\\(70\\ 500\\)"
+  },
+  {
+    "id": 4201904,
+    "classe": "4e",
+    "chapitres": ["pourcentages"],
+    "question": "\\(10\\%\\) de \\(72\\)",
+    "bonne_reponse": "\\(7,2\\)"
+  },
+  {
+    "id": 4201905,
+    "classe": "4e",
+    "chapitres": ["opérations"],
+    "question": "Compléter : \\(5 \\times \\ldots = 60\\)",
+    "bonne_reponse": "\\(5 \\times 12 = 60\\)"
+  },
+  {
+    "id": 4201906,
+    "classe": "4e",
+    "chapitres": ["fractions"],
+    "question": "Ecriture décimale de \\(\\dfrac{145}{100}\\)",
+    "bonne_reponse": "\\(1,45\\)"
+  },
+  {
+    "id": 4201907,
+    "classe": "4e",
+    "chapitres": ["proportionnalité"],
+    "question": "\\(10\\) bonbons identiques coûtent \\(3\\) €.<br>Combien coûtent \\(15\\) bonbons ?",
+    "bonne_reponse": "\\(4,50\\) €"
+  },
+  {
+    "id": 4201908,
+    "classe": "4e",
+    "chapitres": ["opérations"],
+    "question": "Quel est le reste de la division de \\(28\\) par \\(3\\)",
+    "bonne_reponse": "\\(28=3\\times9+1\\)"
+  },
+  {
+    "id": 4201909,
+    "classe": "4e",
+    "chapitres": ["opérations"],
+    "question": "\\(4,16 \\div 2\\)",
+    "bonne_reponse": "\\(2,08\\)"
+  },
+  {
+    "id": 4201910,
+    "classe": "4e",
+    "chapitres": ["durées"],
+    "question": "Un train part à \\(12\\)h\\(45\\) et arrive à \\(14\\)h\\(17\\). Quelle est la durée du trajet ?<br><br>\\(\\ldots\\) h \\(\\ldots\\) min",
+    "bonne_reponse": "\\(1\\) h \\(32\\) min"
+  },
+  {
+    "id": 4201911,
+    "classe": "4e",
+    "chapitres": ["périmètre"],
+    "question": "Quel est le périmètre d'un carré de \\(6,5\\) cm de côté.",
+    "bonne_reponse": "\\(\\mathscr{P} = 26 \\) cm"
+  },
+  {
+    "id": 4201912,
+    "classe": "4e",
+    "chapitres": ["calcul littéral"],
+    "question": "Calculer \\(3x^2 +5\\) pour \\(x = -2\\)",
+    "bonne_reponse": "\\(3 \\times (-2)^2+5=17\\)"
+  },
+  {
+    "id": 4201913,
+    "classe": "4e",
+    "chapitres": ["calcul littéral"],
+    "question": "Compléter par une expression littérale<br><img src='figures/4_2019_01.png' style='transform: scale(0.8); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(2(x+1)\\)"
+  },
+  {
+    "id": 4201914,
+    "classe": "4e",
+    "chapitres": ["fractions"],
+    "question": "\\(\\dfrac{3}{5}\\) de \\(400\\)",
+    "bonne_reponse": "\\(240\\)"
+  },
+  {
+    "id": 4201915,
+    "classe": "4e",
+    "chapitres": ["fractions"],
+    "question": "Ecriture décimale de \\(\\dfrac{8}{5}\\)",
+    "bonne_reponse": "\\(1,6\\)"
+  },
+  {
+    "id": 4201916,
+    "classe": "4e",
+    "chapitres": ["durées"],
+    "question": "\\(2,25\\) h = \\(\\ldots\\) h \\(\\ldots\\) min",
+    "bonne_reponse": "\\(2\\) h \\(15\\) min"
+  },
+  {
+    "id": 4201917,
+    "classe": "4e",
+    "chapitres": ["nombres"],
+    "question": "Combien de diviseurs possède le nombre \\(12\\)",
+    "bonne_reponse": "\\(1\\ ;\\ 2\\ ;\\ 3\\ ;\\ 4\\ ;\\ 6\\ ;\\ 12\\) <br> \\(6\\) diviseurs"
+  },
+  {
+    "id": 4201918,
+    "classe": "4e",
+    "chapitres": ["calcul littéral"],
+    "question": "Que vaut \\(33~a\\), si \\(a\\) vaut \\(3\\) ?",
+    "bonne_reponse": "\\(99\\)"
+  },
+  {
+    "id": 4201919,
+    "classe": "4e",
+    "chapitres": ["nombres"],
+    "question": "Quelle est l’abscisse de \\(A\\) ?<br><br><img src='figures/4_2019_02.png' style='transform: scale(1); transform-origin: auto; width='250';' />",
+    "bonne_reponse": "\\(A(-0,8;0,4)\\)"
+  },
+  {
+    "id": 4201920,
+    "classe": "4e",
+    "chapitres": ["calcul littéral"],
+    "question": "Développer et réduire \\(5(x+3)-5x\\)",
+    "bonne_reponse": "\\(15\\)"
+  },
+  {
+    "id": 4201921,
+    "classe": "4e",
+    "chapitres": ["proportionnalité"],
+    "question": "Le rectangle ➁ est un agrandissement du rectangle ➀<br><br><img src='figures/4_2019_03.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(\\? = 7,5\\) cm"
+  },
+  {
+    "id": 4201922,
+    "classe": "4e",
+    "chapitres": ["unités"],
+    "question": "\\(0,04\\) m\\(^3= \\ldots\\) L",
+    "bonne_reponse": "\\(40\\) L"
+  },
+  {
+    "id": 4201923,
+    "classe": "4e",
+    "chapitres": ["opérations"],
+    "question": "\\(25,54+8,6\\)",
+    "bonne_reponse": "\\(34,14\\)"
+  },
+  {
+    "id": 4201924,
+    "classe": "4e",
+    "chapitres": ["opérations"],
+    "question": "\\(8 \\times \\ldots = 5,6\\)",
+    "bonne_reponse": "\\(0,7\\)"
+  },
+  {
+    "id": 4201925,
+    "classe": "4e",
+    "chapitres": ["vitesse"],
+    "question": "Arthur court à une vitesse de \\(12\\) km/h.<br>Quelle est la distance parcourue en \\(20\\) min",
+    "bonne_reponse": "\\(4\\) km"
+  },
+  {
+    "id": 4201926,
+    "classe": "4e",
+    "chapitres": ["aire"],
+    "question": "Quelle est l'aire de la surface grisée ?<br><br><img src='figures/4_2019_04.png' style='transform: scale(1); transform-origin: auto;' width='220' />",
+    "bonne_reponse": "\\(\\mathscr{A} =  15\\) cm\\(^2\\)"
+  },
+  {
+    "id": 4201927,
+    "classe": "4e",
+    "chapitres": ["fractions"],
+    "question": "\\(\\dfrac{13}{21}-\\dfrac{4}{7}\\)",
+    "bonne_reponse": "\\(\\dfrac{1}{21}\\)"
+  },
+  {
+    "id": 4201928,
+    "classe": "4e",
+    "chapitres": ["fractions"],
+    "question": "Dans \\(2\\), combien de fois \\(\\dfrac{1}{3}\\) ?",
+    "bonne_reponse": "\\(6\\) fois"
+  },
+  {
+    "id": 4201929,
+    "classe": "4e",
+    "chapitres": ["pourcentages"],
+    "question": "Un manteau coûte \\(70\\) €. Quel sera le prix après une réduction de \\(20\\%\\) ?",
+    "bonne_reponse": "\\(70-14=56\\) €"
+  },
+  {
+    "id": 4201930,
+    "classe": "4e",
+    "chapitres": ["fractions"],
+    "question": "\\( {\\scriptsize \\left(1-\\dfrac{1}{4}\\right)\\left(1-\\dfrac{2}{4}\\right)\\left(1-\\dfrac{3}{4}\\right)\\left(1-\\dfrac{4}{4}\\right)}\\)",
+    "bonne_reponse": "0"
+  },
+  {
+    "id": 4202001,
+    "classe": "4e",
+    "chapitres": ["opérations"],
+    "question": "\\(7 \\times \\ldots = 42\\)",
+    "bonne_reponse": "\\(7 \\times 6 = 42\\)"
+  },
+  {
+    "id": 4202002,
+    "classe": "4e",
+    "chapitres": ["fractions","nombres"],
+    "question": "Ecriture décimale de \\(5+\\dfrac{3}{10}+\\dfrac{7}{1000}\\)",
+    "bonne_reponse": "\\(5,307\\)"
+  },
+  {
+    "id": 4202003,
+    "classe": "4e",
+    "chapitres": ["opérations"],
+    "question": "\\(5,4+0,12\\)",
+    "bonne_reponse": "\\(5,52\\)"
+  },
+  {
+    "id": 4202004,
+    "classe": "4e",
+    "chapitres": ["opérations"],
+    "question": "\\(10-5,2\\)",
+    "bonne_reponse": "\\(4,8\\)"
+  },
+  {
+    "id": 4202005,
+    "classe": "4e",
+    "chapitres": ["pourcentages"],
+    "question": "\\(10\\%\\) de \\(64\\)",
+    "bonne_reponse": "\\(6,4\\)"
+  },
+  {
+    "id": 4202006,
+    "classe": "4e",
+    "chapitres": ["opérations"],
+    "question": "\\(72 \\div 8\\)",
+    "bonne_reponse": "9"
+  },
+  {
+    "id": 4202007,
+    "classe": "4e",
+    "chapitres": ["durées"],
+    "question": "Toto part à \\(14\\) h \\(30\\) min et son trajet dure \\(2\\) h \\(50\\) min.<br>À quelle heure arrive-t-il ?",
+    "bonne_reponse": "\\(17\\) h \\(20\\) min"
+  },
+  {
+    "id": 4202008,
+    "classe": "4e",
+    "chapitres": ["fractions"],
+    "question": "La moitié de \\(34\\)",
+    "bonne_reponse": "\\(17\\)"
+  },
+  {
+    "id": 4202009,
+    "classe": "4e",
+    "chapitres": ["proportionnalité"],
+    "question": "\\(4\\) bâtons de réglisse coûtent \\(3\\) €.<br>Combien coûtent \\(6\\) bâtons de réglisse ?",
+    "bonne_reponse": "\\(4,50\\) €"
+  },
+  {
+    "id": 4202010,
+    "classe": "4e",
+    "chapitres": ["opérations"],
+    "question": "Le reste de la division euclidienne de \\(43\\) par \\(5\\) est :",
+    "bonne_reponse": "\\(3\\)"
+  },
+  {
+    "id": 4202011,
+    "classe": "4e",
+    "chapitres": ["opérations"],
+    "question": "\\(-11+7\\)",
+    "bonne_reponse": "\\(-4\\)"
+  },
+  {
+    "id": 4202012,
+    "classe": "4e",
+    "chapitres": ["proportionnalité"],
+    "question": "La figure ➁ est un agrandissement de ➀.<br><br><img src='figures/4_2020_01.png' style='transform: scale(1); transform-origin: auto; width='200';' /><br><br>\\(?= \\ldots\\) cm",
+    "bonne_reponse": "\\(1,4\\) cm"
+  },
+  {
+    "id": 4202013,
+    "classe": "4e",
+    "chapitres": ["aire"],
+    "question": "L'aire d'un rectangle de \\(4\\) cm de large et \\(8\\) cm de long est :<br> \\(\\ldots\\) cm\\(^2\\)",
+    "bonne_reponse": "\\(32\\) cm\\(^2\\)"
+  },
+  {
+    "id": 4202014,
+    "classe": "4e",
+    "chapitres": ["puissances"],
+    "question": "\\(7^2 = \\ldots\\)",
+    "bonne_reponse": "\\(49\\)"
+  },
+  {
+    "id": 4202015,
+    "classe": "4e",
+    "chapitres": ["fractions"],
+    "question": "\\(\\dfrac{5}{7}-\\dfrac{12}{21}\\)",
+    "bonne_reponse": "\\(\\dfrac{1}{7}\\)"
+  },
+  {
+    "id": 4202016,
+    "classe": "4e",
+    "chapitres": ["nombres","fractions"],
+    "question": "Ecriture décimale de \\(\\dfrac{7}{4}\\)",
+    "bonne_reponse": "\\(1,75\\)"
+  },
+  {
+    "id": 4202017,
+    "classe": "4e",
+    "chapitres": ["angles"],
+    "question": "\\(B\\), \\(C\\) et \\(D\\) sont alignés<br><br><img src='figures/4_2020_02.png' style='transform: scale(1); transform-origin: auto; width='250';' /><br><br>\\(?=\\ldots^\\circ\\)",
+    "bonne_reponse": "\\(80^\\circ\\)"
+  },
+  {
+    "id": 4202018,
+    "classe": "4e",
+    "chapitres": ["durées"],
+    "question": "\\(1,5\\) h = \\(\\ldots\\) h \\(\\ldots\\) min",
+    "bonne_reponse": "\\(1,5\\) h = \\(1\\) h \\(30\\) min"
+  },
+  {
+    "id": 4202019,
+    "classe": "4e",
+    "chapitres": ["opérations"],
+    "question": "\\(20 \\times 101\\)",
+    "bonne_reponse": "\\(2020\\)"
+  },
+  {
+    "id": 4202020,
+    "classe": "4e",
+    "chapitres": ["fractions"],
+    "question": "\\(\\dfrac{2}{3}=\\dfrac{8}{x}\\)<br><br>\\(x=\\ldots\\)",
+    "bonne_reponse": "\\(x=12\\)"
+  },
+  {
+    "id": 4202021,
+    "classe": "4e",
+    "chapitres": ["puissances"],
+    "question": "\\(10^3-100\\)",
+    "bonne_reponse": "\\(900\\)"
+  },
+  {
+    "id": 4202022,
+    "classe": "4e",
+    "chapitres": ["unités"],
+    "question": "\\(1,52\\) m\\(^3\\) = \\(\\ldots\\) L",
+    "bonne_reponse": "\\(1,52\\) m\\(^3\\) = \\(1520\\) L"
+  },
+  {
+    "id": 4202023,
+    "classe": "4e",
+    "chapitres": ["algo"],
+    "question": "Pour dessiner un carré, quel nombre doit-on écrire à la plac des pointillés ?<img src='figures/4_2020_03.png' style='transform: scale(0.8); transform-origin: auto; width='250';' />",
+    "bonne_reponse": "\\(90\\)"
+  },
+  {
+    "id": 4202024,
+    "classe": "4e",
+    "chapitres": ["opérations"],
+    "question": "\\(7-5 \\times 3\\)",
+    "bonne_reponse": "\\(-8\\)"
+  },
+  {
+    "id": 4202025,
+    "classe": "4e",
+    "chapitres": ["périmètre","calcul littéral"],
+    "question": "Exprime le périmètre de ce triangle en fonction de \\(x\\)<br><br><img src='figures/4_2020_04.png' style='transform: scale(1); transform-origin: auto; width='250';' />",
+    "bonne_reponse": "\\(\\mathcal{P} = x + 20\\) cm"
+  },
+  {
+    "id": 4202026,
+    "classe": "4e",
+    "chapitres": ["calcul littéral"],
+    "question": "calcule \\(5x+4\\) pour \\(x=-2\\)",
+    "bonne_reponse": "\\(-6\\)"
+  },
+  {
+    "id": 4202027,
+    "classe": "4e",
+    "chapitres": ["pourcentages"],
+    "question": "\\(15\\%\\) de \\(30\\)",
+    "bonne_reponse": "\\(4,5\\)"
+  },
+  {
+    "id": 4202028,
+    "classe": "4e",
+    "chapitres": ["vitesse"],
+    "question": "Romane court à une vitesse de \\(12\\) km/h.<br>Quelle est la distance parcourue en \\(15\\) min",
+    "bonne_reponse": "\\(3\\) km"
+  },
+  {
+    "id": 4202029,
+    "classe": "4e",
+    "chapitres": ["pourcentages"],
+    "question": "Le prix d'un article est passé de \\(200\\) € à \\(160\\) €.<br>Détermine le pourcentage de réduction.",
+    "bonne_reponse": "\\(20\\%\\)"
+  },
+  {
+    "id": 4202030,
+    "classe": "4e",
+    "chapitres": ["fractions"],
+    "question": "\\(\\dfrac{3}{5} \\times \\dfrac{7}{4} \\times \\dfrac{5}{3} \\times \\dfrac{8}{7}\\)",
+    "bonne_reponse": "\\(2\\)"
+  },
+  {
+    "id": 4202101,
+    "classe": "4e",
+    "chapitres": ["opérations"],
+    "question": "\\(9 \\times 6\\)",
+    "bonne_reponse": "\\(54\\)"
+  },
+  {
+    "id": 4202102,
+    "classe": "4e",
+    "chapitres": ["pourcentages"],
+    "question": "\\(50\\%\\) de \\(124\\)",
+    "bonne_reponse": "\\(62\\)"
+  },
+  {
+    "id": 4202103,
+    "classe": "4e",
+    "chapitres": ["opérations"],
+    "question": "\\(7,2+1,38\\)",
+    "bonne_reponse": "\\(8,58\\)"
+  },
+  {
+    "id": 4202104,
+    "classe": "4e",
+    "chapitres": ["opérations"],
+    "question": "\\(20-3,8\\)",
+    "bonne_reponse": "\\(16,2\\)"
+  },
+  {
+    "id": 4202105,
+    "classe": "4e",
+    "chapitres": ["nombres"],
+    "question": "Le chiffre des centièmes de \\(125,93\\)",
+    "bonne_reponse": "\\(3\\)"
+  },
+  {
+    "id": 4202106,
+    "classe": "4e",
+    "chapitres": ["opérations"],
+    "question": "\\(42 \\div 7\\)",
+    "bonne_reponse": "\\(6\\)"
+  },
+  {
+    "id": 4202107,
+    "classe": "4e",
+    "chapitres": ["durées"],
+    "question": "Un film commence à \\(20\\) h \\(55\\) min et dure \\(1\\) h \\(35\\) min.<br>À quelle heure se termine-t-il ?",
+    "bonne_reponse": "\\(22\\) h \\(30\\)"
+  },
+  {
+    "id": 4202108,
+    "classe": "4e",
+    "chapitres": ["opérations"],
+    "question": "Le triple de \\(16\\)",
+    "bonne_reponse": "\\(48\\)"
+  },
+  {
+    "id": 4202109,
+    "classe": "4e",
+    "chapitres": ["proportionnalité"],
+    "question": "\\(8\\) cahiers coûtent \\(4\\) €.<br>Combien coûtent \\(12\\) de ces mêmes cahiers ?",
+    "bonne_reponse": "\\(6\\) €"
+  },
+  {
+    "id": 4202110,
+    "classe": "4e",
+    "chapitres": ["opérations"],
+    "question": "Le reste de la division euclidienne de \\(28\\) par \\(3\\) est :",
+    "bonne_reponse": "\\(1\\)"
+  },
+  {
+    "id": 4202111,
+    "classe": "4e",
+    "chapitres": ["opérations"],
+    "question": "\\(7-13\\)",
+    "bonne_reponse": "\\(-6\\)"
+  },
+  {
+    "id": 4202112,
+    "classe": "4e",
+    "chapitres": ["racines"],
+    "question": "\\(\\sqrt{81}\\)",
+    "bonne_reponse": "\\(9\\)"
+  },
+  {
+    "id": 4202113,
+    "classe": "4e",
+    "chapitres": ["aire"],
+    "question": "Quelle est l'aire d'un carré de \\(7\\) cm de coté ?",
+    "bonne_reponse": "\\(\\mathscr{A} =  49\\) cm\\(^2\\)"
+  },
+  {
+    "id": 4202114,
+    "classe": "4e",
+    "chapitres": ["puissances"],
+    "question": "\\(2^4\\)",
+    "bonne_reponse": "\\(16\\)"
+  },
+  {
+    "id": 4202115,
+    "classe": "4e",
+    "chapitres": ["fractions"],
+    "question": "\\(\\dfrac{2}{3} \\times \\dfrac{5}{7}\\)",
+    "bonne_reponse": "\\(\\dfrac{10}{21}\\)"
+  },
+  {
+    "id": 4202116,
+    "classe": "4e",
+    "chapitres": ["fractions"],
+    "question": "Quel est le plus grand nombre ?<br><br>\\(\\dfrac{4}{3}\\qquad \\dfrac{11}{13}\\)",
+    "bonne_reponse": "\\(\\dfrac{4}{3}\\)"
+  },
+  {
+    "id": 4202117,
+    "classe": "4e",
+    "chapitres": ["opérations"],
+    "question": "\\(-9-(-13)\\)",
+    "bonne_reponse": "\\(4\\)"
+  },
+  {
+    "id": 4202118,
+    "classe": "4e",
+    "chapitres": ["durées"],
+    "question": "\\(2\\) h \\(45\\) = \\(\\ldots\\) min",
+    "bonne_reponse": "\\(165\\) min"
+  },
+  {
+    "id": 4202119,
+    "classe": "4e",
+    "chapitres": ["opérations"],
+    "question": "\\(8 \\times 4,6+2 \\times 4,6\\)",
+    "bonne_reponse": "\\(46\\)"
+  },
+  {
+    "id": 4202120,
+    "classe": "4e",
+    "chapitres": ["fractions"],
+    "question": "\\(\\dfrac{4}{5}=\\dfrac{x}{15}\\) ; \\(x=\\ldots\\)",
+    "bonne_reponse": "\\(x=12\\)"
+  },
+  {
+    "id": 4202121,
+    "classe": "4e",
+    "chapitres": ["calcul littéral"],
+    "question": "Développer et réduire :<br><br>\\(3 \\times (x+4)-3x\\)",
+    "bonne_reponse": "\\(12\\)"
+  },
+  {
+    "id": 4202122,
+    "classe": "4e",
+    "chapitres": ["unités"],
+    "question": "\\(1,5\\) m\\(^3=\\ldots\\) L",
+    "bonne_reponse": "\\(1500\\) L"
+  },
+  {
+    "id": 4202123,
+    "classe": "4e",
+    "chapitres": ["Pythagore"],
+    "question": "Calcule la longueur du segment \\([AC]\\)<br><br><img src='figures/4_2021_01.png' style='transform: scale(1); transform-origin: auto; width='250';' /><br><br>\\(?=\\ldots^\\circ\\)",
+    "bonne_reponse": "\\(AC=8\\) cm"
+  },
+  {
+    "id": 4202124,
+    "classe": "4e",
+    "chapitres": ["probabilités"],
+    "question": "Un sachet de bonbons contient \\(5\\) bonbons à la fraise et \\(15\\) bonbons à la menthe.<br>On choisit un bonbon au hasard.<br>Quelle est la probabilité de prendre un bonbon à la menthe ?",
+    "bonne_reponse": "\\(P(menthe)=\\dfrac{3}{4}\\)"
+  },
+  {
+    "id": 4202125,
+    "classe": "4e",
+    "chapitres": ["vitesse"],
+    "question": "\\(100\\) m/min\\(= \\ldots\\) km/h",
+    "bonne_reponse": "\\(6\\) km/h"
+  },
+  {
+    "id": 4202126,
+    "classe": "4e",
+    "chapitres": ["algo"],
+    "question": "<img src='figures/4_2021_02.png' style='transform: scale(0.8); transform-origin: auto;' width='220' /><br><br>Pour dessiner un triangle équilatéral, quel nombre faut-il mettre à la place de « \\(\\ldots\\) » ?",
+    "bonne_reponse": "\\(60\\)"
+  },
+  {
+    "id": 4202127,
+    "classe": "4e",
+    "chapitres": ["calcul littéral","équations"],
+    "question": "Quelle valeur faut-il donner à \\(x\\) pour que \\(2x - 3 = 19\\) ?",
+    "bonne_reponse": "\\(x=11\\)"
+  },
+  {
+    "id": 4202128,
+    "classe": "4e",
+    "chapitres": ["vitesse"],
+    "question": "Lucie court à une vitesse constante de \\(12\\) km/h.<br>Quelle distance parcourt-elle en \\(20\\) min ?",
+    "bonne_reponse": "\\(4\\) km"
+  },
+  {
+    "id": 4202129,
+    "classe": "4e",
+    "chapitres": ["pourcentages","test8"],
+    "question": "Un article coûte \\(50\\) €.<br>Son prix baisse de \\(10\\%\\).<br>Calculer le nouveau prix.",
+    "bonne_reponse": "\\(45\\) €"
+  },
+  {
+    "id": 4202130,
+    "classe": "4e",
+    "chapitres": ["angles","test8"],
+    "question": "<img src='figures/4_2021_03.png' style='transform: scale(1); transform-origin: auto;' width='220' /><br><br>\\(?= \\ldots^\\circ\\)",
+    "bonne_reponse": "\\(20^\\circ\\)"
   },
   {
     "id": 3201601,
@@ -5338,7 +5968,7 @@
     "id": 3201813,
     "classe": "3e",
     "chapitres": ["Thalès"],
-    "question": "<img src='figures/3_2018_02.png' style='transform: scale(1); transform-origin: auto;' width='220' /><br><br>? \\(=\\ldots\\) cm",
+    "question": "<img src='figures/3_2018_02.png' style='transform: scale(1); transform-origin: auto;' width='220' /><br><br> \\(?=\\ldots\\) cm",
     "bonne_reponse": "\\(6\\) cm"
   },
   {
@@ -5387,7 +6017,7 @@
     "id": 3201820,
     "classe": "3e",
     "chapitres": ["Pythagore"],
-    "question": "<img src='figures/3_2018_03.png' style='transform: scale(0.8); transform-origin: auto;' width='220' /><br><br>? \\(=\\ldots\\) cm",
+    "question": "<img src='figures/3_2018_03.png' style='transform: scale(0.8); transform-origin: auto;' width='220' /><br><br>\\(?=\\ldots\\) cm",
     "bonne_reponse": "\\(\\sqrt{21}\\) cm"
   },
   {

@@ -1323,5 +1323,47 @@
       "chapitres": ["Produit de fractions"],
       "question": "\\(\\dfrac{-100}{-3} \\times \\left(-\\dfrac{5}{80}\\right)\\)",
       "bonne_reponse": "\\(-\\dfrac{25}{12}\\)"
+    },
+    {
+      "id": 40050,
+      "classe": "4e",
+      "chapitres": ["Produit de fractions"],
+      "question": "\\(\\dfrac{27}{7} \\times \\dfrac{14}{15}\\)",
+      "bonne_reponse": "\\(\\dfrac{18}{5}\\)"
+    },
+    {
+      "id": 40051,
+      "classe": "4e",
+      "chapitres": ["Produit de fractions"],
+      "question": "\\(-\\dfrac{3}{2} \\times \\dfrac{2}{3}\\)",
+      "bonne_reponse": "\\(-1\\)"
+    },
+    {
+      "id": 40052,
+      "classe": "4e",
+      "chapitres": ["Produit de fractions"],
+      "question": "\\(\\dfrac{-2}{-7} \\times \\dfrac{-7}{4}\\)",
+      "bonne_reponse": "\\(-\\dfrac{1}{2}\\)"
+    },
+    {
+      "id": 40053,
+      "classe": "4e",
+      "chapitres": ["Produit de fractions2"],
+      "question": "\\(-\\dfrac{16}{7} \\times \\ldots \\ldots = 1\\)",
+      "bonne_reponse": "\\(-\\dfrac{16}{7} \\times \\left(-\\dfrac{7}{16} \\right) = 1\\)"
+    },
+    {
+      "id": 40054,
+      "classe": "4e",
+      "chapitres": ["Produit de fractions2"],
+      "question": "\\(\\dfrac{1}{11} \\times \\ldots \\ldots = 1\\)",
+      "bonne_reponse": "\\(\\dfrac{1}{11} \\times 11= 1\\)"
+    },
+    {
+      "id": 40055,
+      "classe": "4e",
+      "chapitres": ["Produit de fractions2"],
+      "question": "\\(1,3 \\times \\ldots \\ldots = 1\\)",
+      "bonne_reponse": "\\(1,3 \\times \\dfrac{10}{13} = 1\\)"
     }
   ]
